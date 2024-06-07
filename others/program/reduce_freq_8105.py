@@ -18,9 +18,9 @@ def read_file(file_path):
             encoding = params[1]
             freq = params[2]
 
-            freq = math.ceil(math.sqrt(int(freq)))
+            freq = math.ceil((int(freq)/100.0))
             # list.append(f"{character}\t{encoding}")
-            list.append(f"{encoding}\t{character}\t{freq}")
+            list.append(f"{character}\t{encoding}\t{freq}")
                 
     return list
 
