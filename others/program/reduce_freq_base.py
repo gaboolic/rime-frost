@@ -2,8 +2,24 @@ import os
 import re
 import math
 
+import jieba
+
+# 精确模式分词
+seg_list = jieba.cut("玉生", cut_all=False)
+print("精确模式: " + "/ ".join(seg_list))
+
+exit()
+# 全模式分词
+seg_list = jieba.cut("我来到北京清华大学", cut_all=True)
+print("全模式: " + "/ ".join(seg_list))
+
+# 搜索引擎模式分词
+seg_list = jieba.cut_for_search("小明硕士毕业于中国科学院计算所，后在日本京都大学深造")
+print("搜索引擎模式: " + "/ ".join(seg_list))
+
+
 def read_file(file_path):
-    list = []
+    line_list = []
     with open(file_path, 'r', encoding='utf-8') as dict_file:
         for line in dict_file:
             line = line.strip()
@@ -18,13 +34,21 @@ def read_file(file_path):
             freq = params[2]
 
             if int(freq) <= 1 and len(character) == 2:
-                print(line)
-                list.append(line)
+                # print(line)
+                seg_list = list(jieba.cut(character, cut_all=False))
+                if len(seg_list) > 1:
+                    line_list.append(line)
+                    # print("精确模式: " + "/ ".join(seg_list))
+                    pass
+                else:
+                    # print("精确模式: " + "/ ".join(seg_list))
+                    pass
+
  
             # list.append(f"{character}\t{encoding}")
             #list.append(f"{character}\t{encoding}\t{freq}")
                 
-    return list
+    return line_list
 
 
 final_list = []
