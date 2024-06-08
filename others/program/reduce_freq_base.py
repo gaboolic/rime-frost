@@ -8,7 +8,6 @@ import jieba
 seg_list = jieba.cut("玉生", cut_all=False)
 print("精确模式: " + "/ ".join(seg_list))
 
-exit()
 # 全模式分词
 seg_list = jieba.cut("我来到北京清华大学", cut_all=True)
 print("全模式: " + "/ ".join(seg_list))
@@ -50,6 +49,27 @@ def read_file(file_path):
                 
     return line_list
 
+def read_file_and_remove(file_path, remove_list):
+    line_list = []
+    with open(file_path, 'r', encoding='utf-8') as dict_file:
+        for line in dict_file:
+            line = line.strip()
+            if not '\t' in line or line.startswith("#"):
+                line_list.append(line)
+                continue
+            line = line.strip()
+            params = line.split('\t');
+            
+            if line in remove_list:
+                pass
+            else:
+                line_list.append(line)
+ 
+            # list.append(f"{character}\t{encoding}")
+            #list.append(f"{character}\t{encoding}\t{freq}")
+                
+    return line_list
+
 
 final_list = []
 
@@ -64,8 +84,8 @@ for file_name in cn_dicts_common_list:
         final_list.append(line)
 
 
-
+to_add_list = read_file_and_remove(os.path.join('cn_dicts', file_name),final_list)
 
 # 写入多行数据到文件
-with open('cn_dicts_dazhu/base.dict.yaml', 'w') as file:
-    file.writelines('\n'.join(final_list))
+with open('cn_dicts_dazhu/to_add.dict.yaml', 'w') as file:
+    file.writelines('\n'.join(to_add_list))
