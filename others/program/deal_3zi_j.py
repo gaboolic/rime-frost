@@ -41,6 +41,6 @@ for file in file_list:
 
             if int(freq) < 50000:
                 need_up_freq_word.append(word)
-                write_file.write(word+"\t"+pinyin+"\t50000\n")
+                write_file.write(word+"\t"+pinyin+"\t49999\n")
             else:
                 write_file.write(line+"\n")
