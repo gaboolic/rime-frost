@@ -357,7 +357,6 @@ sort: by_weight
 闭	bi	2416
 鼻	bi	1980
 逼	bi	1929
-屄	bi	1914
 臂	bi	1906
 壁	bi	1828
 彼	bi	1414
@@ -381,6 +380,7 @@ sort: by_weight
 裨	bi	24
 薜	bi	22
 哔	bi	20
+屄	bi	18
 愎	bi	14
 吡	bi	7
 跸	bi	7
@@ -3126,8 +3126,8 @@ sort: by_weight
 㠇	jiu	0
 巨	ju	7538
 举	ju	6936
-居	ju	5271
-局	ju	4611
+局	ju	5271
+居	ju	4611
 具	ju	4340
 据	ju	4053
 句	ju	2543
