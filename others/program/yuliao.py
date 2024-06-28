@@ -38,9 +38,11 @@ def match_chinese(text):
     return re.findall(pattern, text)
 
 
-read_file = open("others/zhihu_sort.txt", 'r', encoding='utf-8')
-write_file = open("others/zhihu_sort_deal3.txt", 'w', encoding='utf-8')
+read_file = open("cn_dicts_dazhu/zhihu_sort.txt", 'r', encoding='utf-8')
+write_file = open("cn_dicts_dazhu/zhihu_sort_deal.txt", 'w', encoding='utf-8')
 for line in read_file:
     line = line.strip()
-    if match_chinese(line) and len(line.split("\t")[0]) == 3:
-        write_file.write(line+"\n")
+    if match_chinese(line):
+        params = line.split("\t")
+        # write_file.write(line+"\n")
+        write_file.write(params[1]+"\t"+params[0]+"\n")
