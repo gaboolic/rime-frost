@@ -22,7 +22,7 @@ print("全模式: " + "/ ".join(seg_list))
 seg_list = jieba.cut_for_search("耙耙柑")
 print("搜索引擎模式: " + "/ ".join(seg_list))
 
-for i in range(1,5):
+for i in range(0,5):
     print(i)
     read_file = open(f"cn_dicts_dazhu/zhihu_deal{i}.txt", 'r', encoding='utf-8')
     word_map = {}
