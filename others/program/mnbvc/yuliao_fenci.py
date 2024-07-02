@@ -14,13 +14,6 @@ def match_chinese(text):
 seg_list = jieba.cut("耙耙柑", cut_all=False)
 print("精确模式: " + "/ ".join(seg_list))
 
-# 全模式分词
-seg_list = jieba.cut("耙耙柑", cut_all=True)
-print("全模式: " + "/ ".join(seg_list))
-
-# 搜索引擎模式分词
-seg_list = jieba.cut_for_search("耙耙柑")
-print("搜索引擎模式: " + "/ ".join(seg_list))
 
 for i in range(0,5):
     print(i)
