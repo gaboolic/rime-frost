@@ -2,6 +2,26 @@ import os
 import re
 import math
 
+char_yin_freq_map = {}
+
+with open(os.path.join('', 'luna_pinyin.dict.yaml'), 'r', encoding='utf-8') as dict_file:
+    for line in dict_file:
+        line = line.strip()
+        if not '\t' in line or line.startswith("#"):
+            continue
+        params = line.split('\t')
+        if len(params) != 3:
+            continue
+        character = params[0]
+        encode = params[1]
+        freq = params[2]
+
+        # todo 计算方法修改
+        freq = round(float(freq.strip('%')) / 100, 3)
+        print(line)
+        print(freq)
+        char_yin_freq_map[character+encode] = freq
+
 word_freq_map = {}
 with open(os.path.join('others', '知频.txt'), 'r', encoding='utf-8') as dict_file:
     for line in dict_file:
@@ -32,6 +52,8 @@ for file_name in cn_dicts_common_list:
             freq = 0
             if character in word_freq_map:
                 freq = int(word_freq_map[character])
+            if character+encoding in char_yin_freq_map:
+                freq = freq * char_yin_freq_map[character+encode]
             
             if freq > 0:
                 write_file.write(f"{character}\t{encoding}\t{freq}\n")
