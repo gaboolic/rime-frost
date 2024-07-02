@@ -16,13 +16,8 @@
 # 注音：
 # 「nüe 虐」「lüe 略」使用「nve」「lve」的注音。
 # 「句、去、需、与」使用「ju qu xu yu」的注音。
-# 删除原数据的「桲bo」音，没有这个音。
 # 删除「呷ga」（呷呷），《现汉》推荐「嘎嘎」。
-# 删除「芥gai」，《现汉》未收录。
-# 删除「著zhuo」（执著zhuo），《现汉》推荐「执着zhuo」。
 # 删除「虾ha」（虾蟆ha ma），《现汉》推荐「蛤蟆」，保留地名「虾蟆陵ha ma ling」。
-# 「嬛」xuan → huan
-# 删除「夹ga」，使用「胳肢窝ga zhi wo」。
 #
 #
 # 多音字的注音问题：
@@ -7125,6 +7120,7 @@ sort: by_weight
 咺	xuan	1
 券	xuan	1
 暶	xuan	1
+嬛	xuan	1
 愃	xuan	0
 琄	xuan	0
 𫍽	xuan	0
