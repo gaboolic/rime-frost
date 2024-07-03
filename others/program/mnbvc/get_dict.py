@@ -30,8 +30,8 @@ for i in range(0,5):
                 print(line)
                 continue
             
-            q_content = data['问']
-            a_content = data['答']
+            q_content = data['问'].strip()
+            a_content = data['答'].strip()
             write_file.write(q_content)
             write_file.write("\n")
             write_file.write(a_content)

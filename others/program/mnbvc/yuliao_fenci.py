@@ -10,8 +10,13 @@ def match_chinese(text):
     pattern = re.compile("[\u4e00-\u9fa5]{1}")  # 匹配连续两个中文字符
     return re.findall(pattern, text)
 
+jieba.load_userdict('cn_dicts_dazhu/custom_fenci_dict.txt')
 # 精确模式分词
 seg_list = jieba.cut("耙耙柑", cut_all=False)
+print("精确模式: " + "/ ".join(seg_list))
+
+
+seg_list = jieba.cut("廉而不刿，汉语成语，拼音是：lián ér bù guì，意思是有棱边而不至于割伤别人。比喻为人廉正宽厚。出自《道德经·第五十八章》。", cut_all=False)
 print("精确模式: " + "/ ".join(seg_list))
 
 
