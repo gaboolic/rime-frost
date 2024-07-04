@@ -34,7 +34,31 @@ print(len(word_map))
 write_file_name  = os.path.join('cn_dicts_dazhu', "多音字.txt")
 write_file = open(write_file_name, "w")
 for word, pronunciations in word_map.items():
-    # print(pronunciations)
-    if len(pronunciations) >= 2:
-        write_file.write(f"{word}	{pronunciations}\n")
+    if len(pronunciations) < 2:
+        continue
+    print(word)
+    print(pronunciations)
+    total_freq = 0
+    for pronunciation in pronunciations:
+        print(pronunciation)
+        params = pronunciation.split("-")
+        freq = int(params[1])
+        if freq == 0:
+            freq = 1
+        total_freq += freq
+        print(total_freq)
+    
+    pinyin_ratio = ""
+    for pronunciation in pronunciations:
+        params = pronunciation.split("-")
+        freq = int(params[1])
+        if freq == 0:
+            freq = 1
+        ratio = (freq / total_freq)
+        pinyin_ratio += params[0]
+        pinyin_ratio += str(ratio)
+        pinyin_ratio += ";"
+
+
+    write_file.write(f"{word}	{pinyin_ratio}\n")
 
