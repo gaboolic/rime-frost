@@ -12,7 +12,7 @@ import json
 total_count = 0
 for i in range(0,5):
     file_name = os.path.join(os.path.expanduser("~/mnbvc"),f'{i}.jsonl') # 知乎 https://huggingface.co/datasets/liwu/MNBVC/tree/main/qa/20230196/zhihu
-    write_file_name = os.path.join('cn_dicts_dazhu', "zhihu_deal{i}.txt")
+    write_file_name = os.path.join('cn_dicts_dazhu', f"zhihu_deal{i}.txt")
     write_file = open(write_file_name, 'w')
     line_count = 0
     with open(file_name, 'r') as file:
