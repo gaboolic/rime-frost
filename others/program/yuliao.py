@@ -1,48 +1,26 @@
 import os
 import re
-
-
-# read_file = open("others/zhihu.json", 'r', encoding='utf-8')
-# write_file = open("others/zhihu.txt", 'w', encoding='utf-8')
-# file_content = read_file.read()
-# print(len(file_content))
-
-# # 使用正则表达式提取所有 "q_title" 字段的内容
-# q_titles = re.findall(r'"q_title" : "(.*?)",', file_content)
-# q_contents = re.findall(r'"q_content" : "(.*?)",', file_content)
-# a_content = re.findall(r'"a_content" : "(.*?)",', file_content)
-
-# for title in q_titles:
-#     title = title.strip()
-#     write_file.write(title+"\n")
-
-# for title in q_contents:
-#     title = title.strip()
-#     write_file.write(title+"\n")
-
-# for title in a_content:
-#     title = title.strip()
-#     write_file.write(title+"\n")
-
 import string
+import json
 
-def has_punctuation(text):
-    for char in text:
-        if char in string.punctuation:
-            return True
-    return False
+# mnbvc liwu_253874_com.jsonl
+# file_name = os.path.join(os.path.expanduser("~/Downloads"),'undl_01.jsonl') # 通用平行
+# file_name = os.path.join(os.path.expanduser("~/Downloads"),'liwu_253874_com.jsonl') # 里屋论坛
+file_name = os.path.join(os.path.expanduser("~/Downloads"),'46.jsonl') #维基
+# file_name = os.path.join(os.path.expanduser("~/Downloads"),'oscar_202201.part_0075.jsonl') # 通用文本
+# file_name = os.path.join(os.path.expanduser("~/mnbvc"),'pkuholefromarchive_0.jsonl') # chatgpt zhidao
 
-def match_chinese(text):
-    # 定义正则表达式模式匹配中文字符
-    pattern = re.compile("[\u4e00-\u9fa5]{1}")  # 匹配连续两个中文字符
-    return re.findall(pattern, text)
+count = 0
+with open(file_name, 'r') as file:
 
 
-read_file = open("cn_dicts_dazhu/zhihu_sort.txt", 'r', encoding='utf-8')
-write_file = open("cn_dicts_dazhu/zhihu_sort_deal.txt", 'w', encoding='utf-8')
-for line in read_file:
-    line = line.strip()
-    if match_chinese(line):
-        params = line.split("\t")
-        # write_file.write(line+"\n")
-        write_file.write(params[1]+"\t"+params[0]+"\n")
+    # 逐行读取文件内容
+    for line in file:
+        line = line.strip()
+        if len(line) == 0:
+            continue
+
+        print(line)
+        count+=1
+
+        
