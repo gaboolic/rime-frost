@@ -68,6 +68,9 @@ for file_name in cn_dicts_common_list:
                 print(f"{character}\t{encoding}\t{freq}\n")
             if freq > 0:
                 write_file.write(f"{character}\t{encoding}\t{freq}\n")
+            elif '8105' in file_name or '41448' in file_name:
+                write_file.write(f"{character}\t{encoding}\t0\n")
+
            
 
 cn_dicts_common_list = [ 'tencent.dict.yaml','tencent_core.dict.yaml']
