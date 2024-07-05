@@ -9,8 +9,8 @@ name: tencent_core
 version: "2024-06-11"
 sort: by_weight
 columns:
-- text
-- weight
+  - text
+  - weight
 ...
 # +_+
 一一二	1
