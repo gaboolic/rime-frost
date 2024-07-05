@@ -97,5 +97,7 @@ for file_name in cn_dicts_common_list:
                 print(f"{character}\t{freq}\n")
             if freq > 0:
                 write_file.write(f"{character}\t{freq}\n")
+            elif 'tencent.dict' in file_name :
+                write_file.write(f"{character}\t{encoding}\t0\n")
             
 
