@@ -29,12 +29,14 @@ for i in range(0,5):
         line = line.strip()
         seg_list = jieba.cut(line, cut_all=False)
         for seg in seg_list:
+            if seg == '的了':
+                print(line)
             if seg in word_map:
                 word_map[seg] += 1
             else:
                 word_map[seg] = 1
         deal_count += 1
-        if deal_count % 1000 == 0:
+        if deal_count % 10000 == 0:
             print(f"当前处理数量{deal_count}")
             #break
 
