@@ -2,11 +2,27 @@ import os
 import re
 import math
 
-# todo 按音节、按频率排序
+tgz_8105_map = {}
+with open(os.path.join('cn_dicts', '8105.dict.yaml'), 'r', encoding='utf-8') as dict_file:
+    for line in dict_file:
+        line = line.strip()
+        if not '\t' in line or line.startswith("#"):
+            continue
+        params = line.split('\t');
+        character = params[0]
+        encode = params[1]
+        freq = int(params[2])
 
+        key = character+encode
+        tgz_8105_map[key] = 1
+
+
+
+
+# 按音节、按频率排序
 # 解析每一行并存储在一个字典中
-data = {}
-cn_dicts_common_list = [ '8105.dict.yaml']
+yinjie_map = {}
+cn_dicts_common_list = [ '41448.dict.yaml']
 for file_name in cn_dicts_common_list:
     # File paths
     yaml_file_path = os.path.join('cn_dicts', file_name)
@@ -23,19 +39,38 @@ for file_name in cn_dicts_common_list:
             character = params[0]
             encode = params[1]
             freq = int(params[2])
+            key = character+encode
+            if key in tgz_8105_map:
+                continue
 
-            key = character +"\t"+ encode
-            data[key] = freq
+            obj = {}
+            obj['character'] = character
+            obj['freq'] = freq
 
-    # 对频率进行排序
-    # 按照频率从高到低排序
-    # sorted_data = {k: sorted(v, reverse=True) for k, v in data.items()}
-    sorted_word_map = sorted(data.items(), key=lambda x: x[1], reverse=True)
-    print(sorted_word_map)
-    # 将排序后的结果输出到新文件中
-    with open('output.txt', 'w', encoding='utf-8') as file:
-        for item in sorted_word_map:
-            key = item[0]
-            value = item[1]
-            
-            file.write(f'{key}\t{value}\n')
+            if encode in yinjie_map:
+                yinjie_map[encode].append(obj)
+            else:
+                yinjie_map[encode] = []
+                yinjie_map[encode].append(obj)
+
+    print(yinjie_map['a'])
+    
+    # Step 1: Sort keys alphabetically
+    sorted_keys = sorted(yinjie_map.keys())
+
+    # Step 2: Sort values (lists of dictionaries) for each key based on 'freq'
+    for key in sorted_keys:
+        yinjie_map[key] = sorted(yinjie_map[key], key=lambda x: x['freq'], reverse=True)
+
+    write_file = open('output.txt', 'w', encoding='utf-8')
+    # Display the sorted yinjie_map
+    for key in sorted_keys:
+        # print(f"Key: {key}")
+        for item in yinjie_map[key]:
+            character = item['character']
+            freq = item['freq']
+            # print(f"  Character: {item['character']}, Frequency: {item['freq']}")
+            line = f'{character}\t{key}\t{freq}\n'
+            # print(line)
+            write_file.write(line)
+    
