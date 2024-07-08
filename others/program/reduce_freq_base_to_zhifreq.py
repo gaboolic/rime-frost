@@ -61,11 +61,14 @@ for file_name in cn_dicts_common_list:
                 freq = int(word_freq_map[character])
             if character+encoding in char_yin_freq_map:
                 freq = freq * char_yin_freq_map[character+encoding]
+                if '41448' in file_name:
+                    freq = math.sqrt(freq)
                 freq = math.ceil(freq)
             if character == '合':
                 print(word_freq_map[character])
                 print(line)
                 print(f"{character}\t{encoding}\t{freq}\n")
+            
             if freq > 0:
                 write_file.write(f"{character}\t{encoding}\t{freq}\n")
             elif '8105' in file_name or '41448' in file_name:
