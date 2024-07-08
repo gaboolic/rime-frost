@@ -22,7 +22,7 @@ with open(os.path.join('cn_dicts', '8105.dict.yaml'), 'r', encoding='utf-8') as 
 # 按音节、按频率排序
 # 解析每一行并存储在一个字典中
 yinjie_map = {}
-cn_dicts_common_list = [ '41448.dict.yaml']
+cn_dicts_common_list = [ '8105.dict.yaml']
 for file_name in cn_dicts_common_list:
     # File paths
     yaml_file_path = os.path.join('cn_dicts', file_name)
@@ -40,8 +40,8 @@ for file_name in cn_dicts_common_list:
             encode = params[1]
             freq = int(params[2])
             key = character+encode
-            if key in tgz_8105_map:
-                continue
+            # if key in tgz_8105_map:
+            #     continue
 
             obj = {}
             obj['character'] = character
