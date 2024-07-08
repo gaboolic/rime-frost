@@ -20,6 +20,9 @@
 ![alt text](others/img/tushuguancangshu.png)
 
 ![alt text](others/img/znjldkd.png)
+
+![alt text](others/img/kudsvqw.png)
+
 后续todo：
 
 拆分细胞词库，加上长尾词，重新分词
