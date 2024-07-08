@@ -5,18 +5,16 @@ import math
 import jieba
 
 # 精确模式分词
-seg_list = jieba.cut("耙耙柑", cut_all=False)
+seg_list = jieba.cut("尺八，中国传统乐器，唐宋时期传入日本。竹制，内涂朱砂拌大漆填充（地）外切口，今为五孔（前四后一），属边棱振动气鸣吹管乐器，以管长一尺八寸而得名，其音色苍凉辽阔，又能表现出空灵、恬静的意境。", cut_all=False)
 print("精确模式: " + "/ ".join(seg_list))
 
-# 全模式分词
-seg_list = jieba.cut("耙耙柑", cut_all=True)
-print("全模式: " + "/ ".join(seg_list))
+seg_list = jieba.cut("吹管乐器", cut_all=False)
+print("精确模式: " + "/ ".join(seg_list))
 
-# 搜索引擎模式分词
-seg_list = jieba.cut_for_search("耙耙柑")
-print("搜索引擎模式: " + "/ ".join(seg_list))
+seg_list = jieba.cut("廉而不刿，汉语成语，拼音是：lián ér bù guì，意思是有棱边而不至于割伤别人。比喻为人廉正宽厚。出自《道德经·第五十八章》。", cut_all=False)
+print("精确模式: " + "/ ".join(seg_list))
 
-
+exit()
 def read_file(file_path):
     line_list = []
     with open(file_path, 'r', encoding='utf-8') as dict_file:

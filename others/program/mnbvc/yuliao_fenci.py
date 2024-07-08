@@ -10,17 +10,15 @@ def match_chinese(text):
     pattern = re.compile("[\u4e00-\u9fa5]{1}")  # 匹配连续两个中文字符
     return re.findall(pattern, text)
 
+jieba.load_userdict('cn_dicts_dazhu/custom_fenci_dict.txt')
 # 精确模式分词
 seg_list = jieba.cut("耙耙柑", cut_all=False)
 print("精确模式: " + "/ ".join(seg_list))
 
-# 全模式分词
-seg_list = jieba.cut("耙耙柑", cut_all=True)
-print("全模式: " + "/ ".join(seg_list))
 
-# 搜索引擎模式分词
-seg_list = jieba.cut_for_search("耙耙柑")
-print("搜索引擎模式: " + "/ ".join(seg_list))
+seg_list = jieba.cut("廉而不刿，汉语成语，拼音是：lián ér bù guì，意思是有棱边而不至于割伤别人。比喻为人廉正宽厚。出自《道德经·第五十八章》。", cut_all=False)
+print("精确模式: " + "/ ".join(seg_list))
+
 
 for i in range(0,5):
     print(i)
@@ -31,12 +29,14 @@ for i in range(0,5):
         line = line.strip()
         seg_list = jieba.cut(line, cut_all=False)
         for seg in seg_list:
+            if seg == '的了':
+                print(line)
             if seg in word_map:
                 word_map[seg] += 1
             else:
                 word_map[seg] = 1
         deal_count += 1
-        if deal_count % 1000 == 0:
+        if deal_count % 10000 == 0:
             print(f"当前处理数量{deal_count}")
             #break
 
