@@ -19,6 +19,20 @@
 
 ![alt text](others/img/tushuguancangshu.png)
 
+![alt text](others/img/znjldkd.png)
+
+![alt text](others/img/kudsvqw.png)
+
+![alt text](others/img/cqlbtdmdfu.png)
+
+![alt text](others/img/djbwv.png)
+
+![alt text](others/img/刚交的朋友.png)
+
+![alt text](others/img/刚交的好朋友.png)
+
+![alt text](others/img/刚交的好朋友2.png)
+
 后续todo：
 
 拆分细胞词库，加上长尾词，重新分词
