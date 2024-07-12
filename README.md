@@ -33,8 +33,37 @@
 
 ![alt text](others/img/刚交的好朋友2.png)
 
+![alt text](others/img/衍射.png)
+
 后续todo：
 
 拆分细胞词库，加上长尾词，重新分词
 
 训练一个智能语言模型
+
+### 鸣谢
+
+雾凇词库 <https://github.com/iDvel/rime-ice> 白霜词库的初始词库、绝大部分配置来自雾凇词库
+
+结巴中文分词 <https://github.com/fxsjy/jieba>
+
+MNBVC超大规模中文语料集 <https://github.com/esbatmop/MNBVC> 目前已有33TB数据量
+
+kenlm <https://github.com/kpu/kenlm> 官网<https://kheafield.com/code/kenlm/>
+
+kenlm教程、python调用 <https://github.com/mattzheng/py-kenlm-model>
+
+墨奇本猫：
+
+<img src="readmeimg/moqi1.jpg" width=30%>
+
+<img src="readmeimg/moqi2.jpg" width=30%>
+
+### 友情链接
+
+墨奇音形 <https://github.com/gaboolic/rime-shuangpin-fuzhuma>
+墨奇五笔整句 <https://github.com/gaboolic/rime-wubi-sentence>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gaboolic/rime-frost&type=Date)](https://star-history.com/#gaboolic/rime-frost&Date)

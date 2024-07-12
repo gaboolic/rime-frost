@@ -34,7 +34,7 @@ print("精确模式: " + "/ ".join(seg_list))
 seg_list = jieba.cut("廉而不刿，汉语成语，拼音是：lián ér bù guì，意思是有棱边而不至于割伤别人。比喻为人廉正宽厚。出自《道德经·第五十八章》。", cut_all=False)
 print("精确模式: " + "/ ".join(seg_list))
 
-for i in range(0,1):
+for i in range(0,5):
     print(i)
     read_file = open(f"cn_dicts_dazhu/zhihu_deal{i}.txt", 'r', encoding='utf-8')
 

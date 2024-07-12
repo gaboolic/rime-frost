@@ -59,10 +59,12 @@ def write_frequencies_to_file(ngrams_generator, ngrams_counts, filename_pattern)
 
 # Update the path to your ARPA file
 arpa_file_path = os.path.join('cn_dicts_dazhu', "zhi0709.arpa")
+# arpa_file_path = os.path.join('cn_dicts_dazhu', "lm_sc.arpa")
 
 # Extract n-grams counts
 ngrams_counts = extract_ngram_counts(arpa_file_path)
-
+print("extract_ngram_counts done")
 # Extract n-grams and write frequencies to files
 ngrams_generator = extract_ngrams(arpa_file_path)
 write_frequencies_to_file(ngrams_generator, ngrams_counts, "ngram_{}_frequencies.txt")
+print("write_frequencies_to_file done")
