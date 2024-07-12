@@ -4,14 +4,15 @@
 
 # 方案说明
 schema:
-  schema_id: rime_ice
-  name: 雾凇拼音
+  schema_id: rime_frost
+  name: 白霜拼音
   version: "2024-02-25"
   author:
     - Dvel
+    - gaboolic
   description: |
-    雾凇拼音
-    https://github.com/iDvel/rime-ice
+    白霜拼音
+    https://github.com/gaboolic/rime-frost
   dependencies:
     - melt_eng        # 英文输入，作为次翻译器挂载到拼音方案
     - radical_pinyin  # 部件拆字，反查及辅码
