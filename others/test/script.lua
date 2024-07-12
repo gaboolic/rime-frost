@@ -21,7 +21,7 @@ rimeac.add_session()
 
 --- select schema by schema_id
 --- rimeac.select_schema(schema_id)
-rimeac.select_schema("rime_ice")
+rimeac.select_schema("rime_frost")
 rimeac.print_sessions()
 
 --- kill a session by index, which is the map index of sessions, always >= 1
@@ -39,7 +39,7 @@ local id = rimeac.get_session(10)
 print(string.format("get_session id: 0x%x", id))
 rimeac.print_sessions()
 
-rimeac.select_schema("rime_ice")
+rimeac.select_schema("rime_frost")
 rimeac.print_sessions()
 
 --- set option to current session

@@ -10,7 +10,7 @@
 # 2. 将 `others/Hamster/melt_eng.custom.yaml` 里的文件拷贝至配置目录，该补丁转写了英文的拼写规则到九宫格；
 
 
-__include: rime_ice.schema.yaml:/
+__include: rime_frost.schema.yaml:/
 
 
 schema:
@@ -87,7 +87,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA987654321
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA987654321
   algebra:
-    # 如果需要模糊音，可参考 rime_ice.schema.yaml 下的示例，放到最前面来就行，但不会正常显示模糊后的拼音。
+    # 如果需要模糊音，可参考 rime_frost.schema.yaml 下的示例，放到最前面来就行，但不会正常显示模糊后的拼音。
     # - derive/^([zcs])h/$1/
     # - derive/^([zcs])([^h])/$1h$2/
     # - derive/^l/n/
