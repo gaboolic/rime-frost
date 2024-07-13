@@ -15,8 +15,8 @@ install_files: >-
   default.yaml
   squirrel.yaml
   weasel.yaml
-  rime_ice.schema.yaml
-  rime_ice.dict.yaml
+  rime_frost.schema.yaml
+  rime_frost.dict.yaml
   t9.schema.yaml
   double_pinyin.schema.yaml
   double_pinyin_abc.schema.yaml

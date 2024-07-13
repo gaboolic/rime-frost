@@ -9,7 +9,7 @@ config_version: '2024-07-12'
 # 方案列表
 schema_list:
   # 可以直接删除或注释不需要的方案，对应的 *.schema.yaml 方案文件也可以直接删除
-  # 除了 t9，它依赖于 rime_ice，用九宫格别删 rime_ice.schema.yaml
+  # 除了 t9，它依赖于 rime_frost，用九宫格别删 rime_ice.schema.yaml
   - schema: rime_frost             # 白霜拼音（全拼）
   - schema: double_pinyin          # 自然码双拼
   # - schema: double_pinyin_abc      # 智能 ABC 双拼
