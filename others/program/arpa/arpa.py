@@ -58,7 +58,7 @@ def write_frequencies_to_file(ngrams_generator, ngrams_counts, filename_pattern)
         file.close()
 
 # Update the path to your ARPA file
-arpa_file_path = os.path.join('cn_dicts_dazhu', "zhi0709.arpa")
+arpa_file_path = os.path.join('cn_dicts_dazhu', "zhi0713.arpa")
 # arpa_file_path = os.path.join('cn_dicts_dazhu', "lm_sc.arpa")
 
 # Extract n-grams counts

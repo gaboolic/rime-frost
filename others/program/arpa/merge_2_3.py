@@ -8,7 +8,9 @@ def is_all_chinese(text):
     return True
 
 word_map = {}
-file_list = ['ngram_1_frequencies.txt','ngram_2_frequencies.txt','ngram_3_frequencies.txt']
+# file_list = ['ngram_1_frequencies.txt','ngram_2_frequencies.txt','ngram_3_frequencies.txt']
+file_list = ['ngram_2_frequencies.txt','ngram_3_frequencies.txt']
+
 for file in file_list:
     file_name = os.path.join('cn_dicts_dazhu', file)
     with open(file_name, 'r') as file:
