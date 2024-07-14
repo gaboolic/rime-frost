@@ -1,0 +1,3137 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 地理 地质
+#
+
+---
+name: geography
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+    
+岸礁	an jiao
+奥陶纪	ao tao ji
+奥陶系	ao tao xi
+澳洲界	ao zhou jie
+巴东组	ba dong zu
+白垩	bai e
+白垩纪	bai e ji
+白垩系	bai e xi
+白云母	bai yun mu
+白云石	bai yun shi
+白云岩	bai yun yan
+白云质灰岩	bai yun zhi hui yan
+半常绿森林	ban chang lv sen lin
+半承压水层	ban cheng ya shui ceng
+半干旱地区	ban gan han di qu
+板根	ban gen
+半固定沙丘	ban gu ding sha qiu
+斑晶	ban jing
+板块	ban kuai
+板块边界	ban kuai bian jie
+板块构造	ban kuai gou zao
+板块构造说	ban kuai gou zao shuo
+板块构造学	ban kuai gou zao xue
+板块会聚	ban kuai hui ju
+板块假说	ban kuai jia shuo
+板块间地震	ban kuai jian di zhen
+板块接合带	ban kuai jie he dai
+板块绝对运动	ban kuai jue dui yun dong
+板块拉力	ban kuai la li
+板块碰撞	ban kuai peng zhuang
+板块驱动力	ban kuai qu dong li
+板块消减	ban kuai xiao jian
+板块学说	ban kuai xue shuo
+板块运动	ban kuai yun dong
+斑粝岩	ban li yan
+板内地震	ban nei di zhen
+阪泉	ban quan
+半日潮汐	ban ri chao xi
+斑铜矿	ban tong kuang
+斑纹带	ban wen dai
+斑岩	ban yan
+板岩	ban yan
+搬运作用	ban yun zuo yong
+斑状结构	ban zhuang jie gou
+邦贾加拉陡崖	bang jia jia la dou ya
+暴发洪水	bao fa hong shui
+孢粉分析	bao fen fen xi
+饱和度	bao he du
+保护地质环境	bao hu di zhi huan jing
+堡礁	bao jiao
+爆破地震	bao po di zhen
+包气带水	bao qi dai shui
+宝石矿物学	bao shi kuang wu xue
+宝石学	bao shi xue
+宝塔组	bao ta zu
+包体理论	bao ti li lun
+雹灾	bao zai
+钡长石	bei chang shi
+北回归线	bei hui gui xian
+背斜	bei xie
+本初子午线	ben chu zi wu xian
+崩堤	beng di
+崩积层	beng ji ceng
+崩积楔	beng ji xie
+崩坡积	beng po ji
+毕钵罗窟	bi bo luo ku
+毕达哥利翁	bi da ge li weng
+闭合盆地	bi he pen di
+比较行星学	bi jiao xing xing xue
+鼻尾丘	bi wei qiu
+变磁阻地震仪	bian ci zu di zhen yi
+边国	bian guo
+边界代数算法	bian jie dai shu suan fa
+变量聚类分析	bian liang ju lei fen xi
+变量筛选分析	bian liang shai xuan fen xi
+边缘地	bian yuan di
+边缘地震	bian yuan di zhen
+边缘断层	bian yuan duan ceng
+边缘弧	bian yuan hu
+边缘化	bian yuan hua
+边缘深断裂	bian yuan shen duan lie
+变质岩	bian zhi yan
+变质作用	bian zhi zuo yong
+辫状河	bian zhuang he
+标贯	biao guan
+表面重力波	biao mian zhong li bo
+标型化合物	biao xing hua he wu
+标型离子	biao xing li zi
+标型元素	biao xing yuan su
+标志层	biao zhi ceng
+标准贯入	biao zhun guan ru
+滨河床沙坝	bin he chuang sha ba
+滨外坝	bin wai ba
+冰擦痕	bing ca hen
+冰川	bing chuan
+冰川变化	bing chuan bian hua
+冰川补给	bing chuan bu gei
+冰川地质学	bing chuan di zhi xue
+冰川河流	bing chuan he liu
+冰川化	bing chuan hua
+冰川退缩	bing chuan tui suo
+冰川物质平衡	bing chuan wu zhi ping heng
+冰川隙	bing chuan xi
+冰川学	bing chuan xue
+冰川作用	bing chuan zuo yong
+冰底碛	bing di qi
+冰斗冰川	bing dou bing chuan
+冰分凝	bing fen ning
+冰冠气候	bing guan qi hou
+冰核丘	bing he qiu
+冰后隙	bing hou xi
+冰胶结	bing jiao jie
+冰砾阶地	bing li jie di
+冰砾泥	bing li ni
+冰碛	bing qi
+冰期后	bing qi hou
+冰碛平原	bing qi ping yuan
+冰碛平原水系	bing qi ping yuan shui xi
+冰碛物	bing qi wu
+冰山	bing shan
+冰蚀槽	bing shi cao
+冰水沉积物	bing shui chen ji wu
+冰透镜体	bing tou jing ti
+冰湾	bing wan
+冰下河道	bing xia he dao
+冰楔	bing xie
+冰楔作用	bing xie zuo yong
+冰堰湖	bing yan hu
+冰沼土	bing zhao tu
+波浪侵蚀	bo lang qin shi
+玻利瓦尔学院	bo li wa er xue yuan
+薄煤层	bo mei ceng
+波频率	bo pin lv
+波谱分辨率	bo pu fen bian lv
+波散效应	bo san xiao ying
+剥蚀	bo shi
+剥蚀面	bo shi mian
+剥蚀平原	bo shi ping yuan
+波速比	bo su bi
+波速比变化	bo su bi bian hua
+波速异常	bo su yi chang
+波所黎各	bo suo li ge
+波托西城	bo tuo xi cheng
+波压	bo ya
+波运动	bo yun dong
+波至	bo zhi
+波周期	bo zhou qi
+波兹坦	bo zi tan
+不称河	bu cheng he
+不等厚	bu deng hou
+不对称水系	bu dui chen shui xi
+不对称褶曲	bu dui chen zhe qu
+补给区	bu gei qu
+不连续震动源	bu lian xu zhen dong yuan
+捕虏体	bu lu ti
+捕虏岩	bu lu yan
+不能生物降解	bu neng sheng wu jiang jie
+不透水岩	bu tou shui yan
+不整合	bu zheng he
+采取率	cai qu lv
+残积层	can ji ceng
+残积景观	can ji jing guan
+残积土	can ji tu
+残积物	can ji wu
+参考基准面	can kao ji zhun mian
+残留因素	can liu yin su
+残坡积	can po ji
+残丘	can qiu
+残遗种区	can yi zhong qu
+残余风化层	can yu feng hua ceng
+残余应变	can yu ying bian
+槽波	cao bo
+草甸	cao dian
+草甸沼泽	cao dian zhao ze
+草绘等高线	cao hui deng gao xian
+漕矩咤国	cao ju zha guo
+草原土壤	cao yuan tu rang
+测地参考系	ce di can kao xi
+测氡计仪	ce dong ji yi
+测井	ce jing
+侧向侵蚀	ce xiang qin shi
+测震学	ce zhen xue
+层底高程	ceng di gao cheng
+层间滑动断裂	ceng jian hua dong duan lie
+层间流	ceng jian liu
+层间水	ceng jian shui
+层结湖	ceng jie hu
+层理	ceng li
+层位	ceng wei
+层序	ceng xu
+层序地层	ceng xu di ceng
+查科文化	cha ke wen hua
+查文考古区	cha wen kao gu qu
+差异风化作用	cha yi feng hua zuo yong
+差异应力	cha yi ying li
+差异运动	cha yi yun dong
+产沙率	chan sha lv
+铲式断层	chan shi duan ceng
+颤沼	chan zhao
+产状	chan zhuang
+昌昌考古区	chang chang kao gu qu
+场地地震反应	chang di di zhen fan ying
+场地地质单元	chang di di zhi dan yuan
+场地地质效应	chang di di zhi xiao ying
+场地反应	chang di fan ying
+场地放大作用	chang di fang da zuo yong
+场地烈度	chang di lie du
+场地烈度调整	chang di lie du tiao zheng
+场地脉动	chang di mai dong
+场函数	chang han shu
+常绿阔叶林	chang lv kuo ye lin
+常年洪水位	chang nian hong shui wei
+常温层	chang wen ceng
+长狭潮道	chang xia chao dao
+长兴组	chang xing zu
+长周期摆	chang zhou qi bai
+长周期波	chang zhou qi bo
+长周期潮	chang zhou qi chao
+长周期地磁场	chang zhou qi di ci chang
+长周期地震计	chang zhou qi di zhen ji
+长周期地震仪	chang zhou qi di zhen yi
+超覆	chao fu
+潮沟	chao gou
+朝圣教堂	chao sheng jiao tang
+潮滩	chao tan
+超微震	chao wei zhen
+潮汐带	chao xi dai
+潮汐通道	chao xi tong dao
+沉积盖层	chen ji gai ceng
+沉积建造	chen ji jian zao
+沉积水	chen ji shui
+沉积物	chen ji wu
+沉积相	chen ji xiang
+沉积岩	chen ji yan
+沉积作用	chen ji zuo yong
+沉降中心	chen jiang zhong xin
+城堡和城墙	cheng bao he cheng qiang
+城堡和文化	cheng bao he wen hua
+城堡及庄园	cheng bao ji zhuang yuan
+城堡式要塞	cheng bao shi yao sai
+成冰作用	cheng bing zuo yong
+成层火山	cheng ceng huo shan
+成壤	cheng rang
+成生联系	cheng sheng lian xi
+城市蚕食	cheng shi can shi
+城市等级序列	cheng shi deng ji xu lie
+城市辐集	cheng shi fu ji
+城市化村	cheng shi hua cun
+城市化区域	cheng shi hua qu yu
+城市集群	cheng shi ji qun
+城市历史地理	cheng shi li shi di li
+城市连绵区	cheng shi lian mian qu
+城市蔓延	cheng shi man yan
+城市生长极	cheng shi sheng zhang ji
+城市衰落区	cheng shi shuai luo qu
+城市蔓生	cheng shi wan sheng
+城市引力	cheng shi yin li
+城市再开发	cheng shi zai kai fa
+成熟土壤	cheng shu tu rang
+成土作用	cheng tu zuo yong
+城乡交错带	cheng xiang jiao cuo dai
+承压地下水	cheng ya di xia shui
+承压含水层	cheng ya han shui ceng
+承压水	cheng ya shui
+承压应变	cheng ya ying bian
+成岩作用	cheng yan zuo yong
+赤道雨林	chi dao yu lin
+赤金堡	chi jin bao
+持水度	chi shui du
+赤铁矿	chi tie kuang
+冲断层	chong duan ceng
+冲沟	chong gou
+冲洪积	chong hong ji
+冲洪积扇	chong hong ji shan
+冲击变形组构	chong ji bian xing zu gou
+冲击变质作用	chong ji bian zhi zuo yong
+冲积层	chong ji ceng
+冲击地震	chong ji di zhen
+冲积扇	chong ji shan
+冲积物	chong ji wu
+冲积锥	chong ji zhui
+冲刷	chong shua
+冲刷面	chong shua mian
+抽水试验	chou shui shi yan
+抽样技巧	chou yang ji qiao
+储层	chu ceng
+初动方向	chu dong fang xiang
+初动时间	chu dong shi jian
+触发地震	chu fa di zhen
+出口基地理论	chu kou ji di li lun
+初始地应力	chu shi de ying li
+初振幅	chu zhen fu
+初至波	chu zhi bo
+传播比	chuan bo bi
+吹蚀	chui shi
+垂向地震仪	chui xiang di zhen yi
+垂直成层结构	chui zhi cheng ceng jie gou
+垂直磁场强度	chui zhi ci chang qiang du
+垂直地带性	chui zhi di dai xing
+纯应变	chun ying bian
+磁暴度	ci bao du
+磁暴相	ci bao xiang
+磁暴效应	ci bao xiao ying
+磁变仪	ci bian yi
+磁测基点	ci ce ji dian
+磁测剖面图	ci ce pou mian tu
+磁层电场	ci ceng dian chang
+磁赤铁矿	ci chi tie kuang
+磁带地震仪	ci dai di zhen yi
+磁分路	ci fen lu
+磁化	ci hua
+磁黄铁矿	ci huang tie kuang
+磁记录地震仪	ci ji lu di zhen yi
+磁静日	ci jing ri
+磁经纬仪	ci jing wei yi
+磁扭秤	ci niu cheng
+磁情指数	ci qing zhi shu
+磁扰日	ci rao ri
+次生地震效应	ci sheng di zhen xiao ying
+磁性弛豫	ci xing chi yu
+磁性地层划分	ci xing di ceng hua fen
+磁性地层学	ci xing di ceng xue
+从属景观	cong shu jing guan
+粗腐殖质	cu fu zhi zhi
+粗粒凝灰岩	cu li ning hui yan
+粗粒砂岩	cu li sha yan
+粗粒砂状	cu li sha zhuang
+粗砾滩	cu li tan
+粗砂岩	cu sha yan
+粗玄岩	cu xuan yan
+粗质地土壤	cu zhi di tu rang
+脆性断层	cui xing duan ceng
+脆性形变	cui xing xing bian
+措迪洛山	cuo di luo shan
+大爆炸假说	da bao zha jia shuo
+大成历史名城	da cheng li shi ming cheng
+大地测量基线	da di ce liang ji xian
+大地测量网	da di ce liang wang
+大地点	da di dian
+大地电磁测深	da di dian ci ce shen
+大地电流暴	da di dian liu bao
+大地电阻法	da di dian zu fa
+大地构造单元	da di gou zao dan yuan
+大地构造体系	da di gou zao ti xi
+大地构造学	da di gou zao xue
+大地基准面	da di ji zhun mian
+大地控制网	da di kong zhi wang
+大地三角测量	da di san jiao ce liang
+大地水准测量	da di shui zhun ce liang
+大地天顶	da di tian ding
+大都市市区	da du shi shi qu
+大峰山	da feng shan
+大卡萨斯	da ka sa si
+大雷普提斯	da lei pu ti si
+大理岩	da li yan
+大羚羊保护区	da ling yang bao hu qu
+大隆组	da long zu
+大陆	da lu
+大陆板块	da lu ban kuai
+大陆被动边缘	da lu bei dong bian yuan
+大陆冰川	da lu bing chuan
+大陆车阀说	da lu che fa shuo
+大陆地壳	da lu di qiao
+大陆地震	da lu di zhen
+大陆度	da lu du
+大陆复原	da lu fu yuan
+大陆固定论	da lu gu ding lun
+大陆架	da lu jia
+大陆块	da lu kuai
+大陆裂谷	da lu lie gu
+大陆碰撞	da lu peng zhuang
+大陆漂移	da lu piao yi
+大陆漂移说	da lu piao yi shuo
+大陆坡	da lu po
+大陆破裂	da lu po lie
+大陆气团	da lu qi tuan
+大陆消减	da lu xiao jian
+大陆性冰川	da lu xing bing chuan
+大陆型地壳	da lu xing di qiao
+大陆性气候	da lu xing qi hou
+大陆增长	da lu zeng zhang
+大陆主动边缘	da lu zhu dong bian yuan
+大气迁移	da qi qian yi
+大气圈	da qi quan
+大容重试验	da rong zhong shi yan
+大田制度	da tian zhi du
+大同火山群	da tong huo shan qun
+大铜山采矿区	da tong shan cai kuang qu
+达西定律	da xi ding lv
+大冶组	da ye zu
+歹字型构造	dai zi xing gou zao
+单面山	dan mian shan
+淡水湖	dan shui hu
+氮循环	dan xun huan
+单元景观	dan yuan jing guan
+岛弧	dao hu
+倒置地貌	dao zhi di mao
+等高线	deng gao xian
+等级扩散	deng ji kuo san
+等积投影	deng ji tou ying
+等角投影	deng jiao tou ying
+等距投影	deng ju tou ying
+等距原则	deng ju yuan ze
+等时线	deng shi xian
+等值线	deng zhi xian
+迪奥西亚	di ao xi ya
+地表径流	di biao jing liu
+地表水	di biao shui
+地表水污染	di biao shui wu ran
+地表震源	di biao zhen yuan
+地槽	di cao
+地槽地台说	di cao di tai shuo
+地层	di ceng
+地层表	di ceng biao
+地层不整合	di ceng bu zheng he
+地层超覆	di ceng chao fu
+地层代号	di ceng dai hao
+地层分区	di ceng fen qu
+地层间断	di ceng jian duan
+地层缺失	di ceng que shi
+地层小区	di ceng xiao qu
+地层学	di ceng xue
+地层走向	di ceng zou xiang
+地磁暴	di ci bao
+地磁北极	di ci bei ji
+地磁参考场	di ci can kao chang
+地磁场	di ci chang
+地磁场矢量	di ci chang shi liang
+地磁场要素	di ci chang yao su
+地磁赤道	di ci chi dao
+地磁倒转	di ci dao zhuan
+地磁分量	di ci fen liang
+地磁感应	di ci gan ying
+地磁活动性	di ci huo dong xing
+地磁极	di ci ji
+地磁极性倒转	di ci ji xing dao zhuan
+地磁极性反转	di ci ji xing fan zhuan
+地磁极性期	di ci ji xing qi
+地磁极性事件	di ci ji xing shi jian
+地磁经度	di ci jing du
+地磁静日变化	di ci jing ri bian hua
+地磁力	di ci li
+地磁南极	di ci nan ji
+地磁漂移	di ci piao yi
+地磁三要素	di ci san yao su
+地磁时表	di ci shi biao
+地磁事件	di ci shi jian
+地磁余纬度	di ci yu wei du
+地磁轴	di ci zhou
+地磁子午圈	di ci zi wu quan
+地磁总强度	di ci zong qiang du
+地电测量	di dian ce liang
+地电场	di dian chang
+地电法	di dian fa
+地电仪	di dian yi
+地动仪	di dong yi
+递发地震	di fa di zhen
+地方气候	di fang qi hou
+地方震	di fang zhen
+地缝合线	di feng he xian
+迪夫里伊	di fu li yi
+地滚波	di gun bo
+地核	di he
+地基	di ji
+地基刚性	di ji gang xing
+地基回弹	di ji hui tan
+地基失效	di ji shi xiao
+地基稳定性	di ji wen ding xing
+地极移动	di ji yi dong
+底界	di jie
+递进变形	di jin bian xing
+地静压力	di jing ya li
+笛卡尔张量	di ka er zhang liang
+笛卡尔坐标	di ka er zuo biao
+地块	di kuai
+地垒	di lei
+地理大发现	di li da fa xian
+地理底图	di li di tu
+地理泛系分析	di li fan xi fen xi
+地理分布	di li fen bu
+地理惯性	di li guan xing
+地理环境	di li huan jing
+地理计量学	di li ji liang xue
+地理精度	di li jing du
+地理考察	di li kao cha
+地理剖面	di li pou mian
+地理圈	di li quan
+地理数据采编	di li shu ju cai bian
+地理数据库	di li shu ju ku
+地理通名	di li tong ming
+地理纬度	di li wei du
+地理位置	di li wei zhi
+地理相关法	di li xiang guan fa
+地理信息	di li xin xi
+地理信息流	di li xin xi liu
+地理学史	di li xue shi
+地理学思想史	di li xue si xiang shi
+地理学体系	di li xue ti xi
+地理遥感	di li yao gan
+地理因子	di li yin zi
+地理制图	di li zhi tu
+地理专名	di li zhuan ming
+地理专业词汇	di li zhuan ye ci hui
+地理综合	di li zong he
+地理阻障	di li zu zhang
+地理坐标网	di li zuo biao wang
+地裂缝	di lie feng
+狄罗尼三角网	di luo ni san jiao wang
+地幔	di man
+地幔波	di man bo
+地幔地核界面	di man di he jie mian
+地幔底辟	di man di pi
+地幔地震	di man di zhen
+地幔地柱	di man di zhu
+地幔挤入作用	di man ji ru zuo yong
+地幔勒夫波	di man le fu bo
+地幔流	di man liu
+地幔流变学	di man liu bian xue
+地幔面波	di man mian bo
+地幔热柱	di man re zhu
+地幔岩	di man yan
+地幔涌流	di man yong liu
+地幔柱	di man zhu
+地貌	di mao
+地貌成因	di mao cheng yin
+地貌单元	di mao dan yuan
+地貌倒置	di mao dao zhi
+地貌过程	di mao guo cheng
+地貌量计学	di mao liang ji xue
+地貌年代学	di mao nian dai xue
+地貌区	di mao qu
+地貌世代	di mao shi dai
+地貌形成作用	di mao xing cheng zuo yong
+地貌序列	di mao xu lie
+地貌旋回	di mao xuan hui
+地貌学	di mao xue
+地貌组合	di mao zu he
+地面沉降	di mian chen jiang
+地面混波	di mian hun bo
+地面加速度	di mian jia su du
+地面脉动	di mian mai dong
+地面振幅	di mian zhen fu
+地名罗马化	di ming luo ma hua
+地名正名	di ming zheng ming
+地炮	di pao
+底辟构造	di pi gou zao
+地平经圈	di ping jing quan
+底碛	di qi
+地堑	di qian
+地堑盆地	di qian pen di
+地壳	di qiao
+地壳波速结构	di qiao bo su jie gou
+地壳地震	di qiao di zhen
+地壳均衡	di qiao jun heng
+地壳运动	di qiao yun dong
+地壳增厚	di qiao zeng hou
+地倾斜	di qing xie
+地球	di qiu
+地球变化磁场	di qiu bian hua ci chang
+地球变形	di qiu bian xing
+地球表面	di qiu biao mian
+地球潮汐	di qiu chao xi
+地球潮汐因子	di qiu chao xi yin zi
+地球成因说	di qiu cheng yin shuo
+地球磁性	di qiu ci xing
+地球村	di qiu cun
+地球动力模型	di qiu dong li mo xing
+地球动力学	di qiu dong li xue
+地球放射性	di qiu fang she xing
+地球辐射	di qiu fu she
+地球辐射带	di qiu fu she dai
+地球公转	di qiu gong zhuan
+地球固体潮	di qiu gu ti chao
+地球化学	di qiu hua xue
+地球化学场	di qiu hua xue chang
+地球化学景观	di qiu hua xue jing guan
+地球化学区	di qiu hua xue qu
+地球化学图	di qiu hua xue tu
+地球化学异常	di qiu hua xue yi chang
+地球基本磁场	di qiu ji ben ci chang
+地球进动	di qiu jin dong
+地球静力学	di qiu jing li xue
+地球科学	di qiu ke xue
+地球空间	di qiu kong jian
+地球力学	di qiu li xue
+地球模型	di qiu mo xing
+地球内部化学	di qiu nei bu hua xue
+地球膨胀	di qiu peng zhang
+地球膨胀说	di qiu peng zhang shuo
+地球史	di qiu shi
+地球收缩	di qiu shou suo
+地球外重力位	di qiu wai zhong li wei
+地球物理场	di qiu wu li chang
+地球物理异常	di qiu wu li yi chang
+地球运动	di qiu yun dong
+地球运动学	di qiu yun dong xue
+地球重力	di qiu zhong li
+地球中心核	di qiu zhong xin he
+地球中心角	di qiu zhong xin jiao
+地球自由章动	di qiu zi you zhang dong
+地球自由振动	di qiu zi you zhen dong
+地球资源卫星	di qiu zi yuan wei xing
+地区	di qu
+地热	di re
+地热对流系统	di re dui liu xi tong
+地热工业	di re gong ye
+地热活动	di re huo dong
+地热井	di re jing
+地热能	di re neng
+地热异常区	di re yi chang qu
+第三纪	di san ji
+地生态学	di sheng tai xue
+地势曲线	di shi qu xian
+地史学	di shi xue
+第四纪	di si ji
+第四纪冰期	di si ji bing qi
+第四系	di si xi
+低速层	di su ceng
+低速带	di su dai
+地图编缉	di tu bian ji
+地图编辑系统	di tu bian ji xi tong
+地图表示方法	di tu biao shi fang fa
+地图传输论	di tu chuan shu lun
+地图分幅	di tu fen fu
+地图分类	di tu fen lei
+地图符号	di tu fu hao
+地图符号学	di tu fu hao xue
+地图概括	di tu gai kuo
+地图感受论	di tu gan shou lun
+地图规范	di tu gui fan
+地图归纳法	di tu gui na fa
+地图量算	di tu liang suan
+地图模式论	di tu mo shi lun
+地图判读	di tu pan du
+地图评价	di tu ping jia
+地图谱用	di tu pu yong
+地图设计	di tu she ji
+地图数据结构	di tu shu ju jie gou
+地图数学模型	di tu shu xue mo xing
+地图数字化	di tu shu zi hua
+地图特征码	di tu te zheng ma
+地图图型	di tu tu xing
+地图信息	di tu xin xi
+地图信息论	di tu xin xi lun
+地图演绎法	di tu yan yi fa
+地图坐标网	di tu zuo biao wang
+地洼学说	di wa xue shuo
+低位沼泽	di wei zhao ze
+低温气候	di wen qi hou
+地文因素	di wen yin su
+地下工程	di xia gong cheng
+地下河	di xia he
+地下河流	di xia he liu
+地下水	di xia shui
+地下水动力学	di xia shui dong li xue
+地下水动态	di xia shui dong tai
+地下水观测	di xia shui guan ce
+地下水径流	di xia shui jing liu
+地下水均衡	di xia shui jun heng
+地下水开采	di xia shui kai cai
+地下水库	di xia shui ku
+地下水网络	di xia shui wang luo
+地下水位	di xia shui wei
+地陷	di xian
+地心轨道	di xin gui dao
+地心角	di xin jiao
+地心距离	di xin ju li
+地心体系	di xin ti xi
+地心天顶	di xin tian ding
+地心位置	di xin wei zhi
+地心引力	di xin yin li
+地形变	di xing bian
+地形变测量	di xing bian ce liang
+地形测绘	di xing ce hui
+地形等级	di xing deng ji
+地形地貌	di xing di mao
+地形地物	di xing di wu
+地形分析程序	di xing fen xi cheng xu
+地形基面	di xing ji mian
+地形匹配	di xing pi pei
+地形气候学	di xing qi hou xue
+地形抬升	di xing tai sheng
+地形同位素分馏效应	di xing tong wei su fen liu xiao ying
+地形图	di xing tu
+地形图购置	di xing tu gou zhi
+地形图数字化	di xing tu shu zi hua
+地形要素划分标准及分值表	di xing yao su hua fen biao zhun ji fen zhi biao
+地学	di xue
+地学断面	di xue duan mian
+地学知识介绍牌	di xue zhi shi jie shao pai
+地压型地热资源	di ya xing di re zi yuan
+地压应力	di ya ying li
+低液限粘土	di ye xian nian tu
+地衣测年法	di yi ce nian fa
+地应力	di ying li
+地域专业化	di yu zhuan ye hua
+地月重心	di yue zhong xin
+地噪声	di zao sheng
+地震	di zhen
+地震保险	di zhen bao xian
+地震避难场所	di zhen bi nan chang suo
+地震波	di zhen bo
+地震波传播	di zhen bo chuan bo
+地震波衰减	di zhen bo shuai jian
+地震波速比	di zhen bo su bi
+地震波速度	di zhen bo su du
+地震波走时	di zhen bo zou shi
+地震不连续面	di zhen bu lian xu mian
+地震参数	di zhen can shu
+地震测震学	di zhen ce zhen xue
+地震层序	di zhen ceng xu
+地震场	di zhen chang
+地震长期预报	di zhen chang qi yu bao
+地震成像	di zhen cheng xiang
+地震成因	di zhen cheng yin
+地震重复间隔	di zhen chong fu jian ge
+地震初波	di zhen chu bo
+地震错距	di zhen cuo ju
+地震道	di zhen dao
+地震地层学	di zhen di ceng xue
+地震地貌	di zhen di mao
+地震地质效应	di zhen di zhi xiao ying
+地震地质学	di zhen di zhi xue
+地震地质灾害	di zhen di zhi zai hai
+地震电效应	di zhen dian xiao ying
+地震调查	di zhen diao cha
+地震定量	di zhen ding liang
+地震定位	di zhen ding wei
+地震动参数	di zhen dong can shu
+地震陡坎	di zhen dou kan
+地震断层	di zhen duan ceng
+地震短期预报	di zhen duan qi yu bao
+地震对策	di zhen dui ce
+地震反射	di zhen fan she
+地震反演	di zhen fan yan
+地震反应谱	di zhen fan ying pu
+地震放大器	di zhen fang da qi
+地震分布图	di zhen fen bu tu
+地震复发	di zhen fu fa
+地震各向异性	di zhen ge xiang yi xing
+地震构造	di zhen gou zao
+地震构造带	di zhen gou zao dai
+地震构造区	di zhen gou zao qu
+地震构造区划	di zhen gou zao qu hua
+地震构造图	di zhen gou zao tu
+地震构造学	di zhen gou zao xue
+地震观测	di zhen guan ce
+地震观测环境	di zhen guan ce huan jing
+地震光缆	di zhen guang lan
+地震过程	di zhen guo cheng
+地震横波	di zhen heng bo
+地震宏观调查	di zhen hong guan diao cha
+地震回放仪	di zhen hui fang yi
+地震会商	di zhen hui shang
+地震活动带	di zhen huo dong dai
+地震活动度	di zhen huo dong du
+地震活动断层	di zhen huo dong duan ceng
+地震活动图	di zhen huo dong tu
+地震活动性	di zhen huo dong xing
+地震活动异常	di zhen huo dong yi chang
+地震基本烈度	di zhen ji ben lie du
+地震记录	di zhen ji lu
+地震级数	di zhen ji shu
+地震机制	di zhen ji zhi
+地震加速度图	di zhen jia su du tu
+地震监测	di zhen jian ce
+地震监测设施	di zhen jian ce she shi
+地震监测台网	di zhen jian ce tai wang
+地震监视系统	di zhen jian shi xi tong
+地震界面	di zhen jie mian
+地震解耦	di zhen jie ou
+地震静力学	di zhen jing li xue
+地震救助技术	di zhen jiu zhu ji shu
+地震矩张量	di zhen ju zhang liang
+地震勘探	di zhen kan tan
+地震科学	di zhen ke xue
+地震空区	di zhen kong qu
+地震控制	di zhen kong zhi
+地震力	di zhen li
+地震历时	di zhen li shi
+地震烈度表	di zhen lie du biao
+地震烈度评定	di zhen lie du ping ding
+地震烈度区划	di zhen lie du qu hua
+地震烈度异常	di zhen lie du yi chang
+地震滤波	di zhen lv bo
+地震盲区	di zhen mang qu
+地震面波	di zhen mian bo
+地震模拟	di zhen mo ni
+地震能	di zhen neng
+地震能级	di zhen neng ji
+地震耦合	di zhen ou he
+地震频度	di zhen pin du
+地震平静期	di zhen ping jing qi
+地震平静区	di zhen ping jing qu
+地震剖面	di zhen pou mian
+地震谱	di zhen pu
+地震迁移	di zhen qian yi
+地震前兆	di zhen qian zhao
+地震前兆效应	di zhen qian zhao xiao ying
+地震区划	di zhen qu hua
+地震区划图	di zhen qu hua tu
+地震趋势分析	di zhen qu shi fen xi
+地震全息照相	di zhen quan xi zhao xiang
+地震群	di zhen qun
+地震散射	di zhen san she
+地震三要素	di zhen san yao su
+地震社会学	di zhen she hui xue
+地震设计烈度	di zhen she ji lie du
+地震射线	di zhen she xian
+地震射线理论	di zhen she xian li lun
+地震深度	di zhen shen du
+地震声学	di zhen sheng xue
+地震事件	di zhen shi jian
+地震时空分布	di zhen shi kong fen bu
+地震首波	di zhen shou bo
+地震衰减	di zhen shuai jian
+地震台网	di zhen tai wang
+地震台阵	di zhen tai zhen
+地震体波	di zhen ti bo
+地震天气	di zhen tian qi
+地震天文学	di zhen tian wen xue
+地震条件	di zhen tiao jian
+地震统计学	di zhen tong ji xue
+地震图	di zhen tu
+地震图像	di zhen tu xiang
+地震图像识别	di zhen tu xiang shi bie
+地震尾波	di zhen wei bo
+地震位错	di zhen wei cuo
+地震位能	di zhen wei neng
+地震危险估计	di zhen wei xian gu ji
+地震危险评价	di zhen wei xian ping jia
+地震危险区划	di zhen wei xian qu hua
+地震危险图	di zhen wei xian tu
+地震危险性	di zhen wei xian xing
+地震位置	di zhen wei zhi
+地震系列	di zhen xi lie
+地震线	di zhen xian
+地震效率	di zhen xiao lv
+地震小区划	di zhen xiao qu hua
+地震效应	di zhen xiao ying
+地震信号	di zhen xin hao
+地震行波	di zhen xing bo
+地震序列	di zhen xu lie
+地震序列类型	di zhen xu lie lei xing
+地震遥测	di zhen yao ce
+地震遥测台网	di zhen yao ce tai wang
+地震谣言	di zhen yao yan
+地震仪	di zhen yi
+地震仪标定	di zhen yi biao ding
+地震仪参数	di zhen yi can shu
+地震异常	di zhen yi chang
+地震遗迹	di zhen yi ji
+地震易损性	di zhen yi sun xing
+地震遗址	di zhen yi zhi
+地震应急	di zhen ying ji
+地震应急预案	di zhen ying ji yu an
+地震影区	di zhen ying qu
+地震有感范围	di zhen you gan fan wei
+地震预报	di zhen yu bao
+地震预报对策	di zhen yu bao dui ce
+地震预测	di zhen yu ce
+地震原生灾害	di zhen yuan sheng zai hai
+地震灾害	di zhen zai hai
+地震灾害评估	di zhen zai hai ping gu
+地震灾害预测	di zhen zai hai yu ce
+地震灾害预防	di zhen zai hai yu fang
+地震灾情	di zhen zai qing
+地震噪声	di zhen zao sheng
+地震震动	di zhen zhen dong
+地震震级	di zhen zhen ji
+地震震相	di zhen zhen xiang
+地震震源	di zhen zhen yuan
+地震中期预报	di zhen zhong qi yu bao
+地震周期	di zhen zhou qi
+地震周期性	di zhen zhou qi xing
+地震纵波	di zhen zong bo
+地震走时表	di zhen zou shi biao
+地震走时曲线	di zhen zou shi qu xian
+地震作用	di zhen zuo yong
+地质背景	di zhi bei jing
+地质背景条件	di zhi bei jing tiao jian
+地质编录	di zhi bian lu
+地质测绘	di zhi ce hui
+地质测量	di zhi ce liang
+地质地貌	di zhi di mao
+地质点	di zhi dian
+地质调查	di zhi diao cha
+地质调查局	di zhi diao cha ju
+地质调查院	di zhi diao cha yuan
+地质公园	di zhi gong yuan
+地质构造	di zhi gou zao
+地质规律	di zhi gui lv
+地质环境	di zhi huan jing
+地质基础	di zhi ji chu
+地质简况	di zhi jian kuang
+地质结构	di zhi jie gou
+地质景观	di zhi jing guan
+地质勘察	di zhi kan cha
+地质勘查报告	di zhi kan cha bao gao
+地质勘查剖面测量	di zhi kan cha pou mian ce liang
+地质科学研究所	di zhi ke xue yan jiu suo
+地质雷达	di zhi lei da
+地质雷达探测	di zhi lei da tan ce
+地质雷达仪器	di zhi lei da yi qi
+地质力学	di zhi li xue
+地质年表	di zhi nian biao
+地质年代	di zhi nian dai
+地质年代测量	di zhi nian dai ce liang
+地质年代学	di zhi nian dai xue
+地质事件	di zhi shi jian
+地质时期	di zhi shi qi
+地质体	di zhi ti
+地质填图	di zhi tian tu
+地质条件	di zhi tiao jian
+地质图	di zhi tu
+地质温度计	di zhi wen du ji
+地质问题	di zhi wen ti
+地质现象	di zhi xian xiang
+地质旋回	di zhi xuan hui
+地质学	di zhi xue
+地质压力计	di zhi ya li ji
+地质遗迹	di zhi yi ji
+地质营力	di zhi ying li
+地质应力	di zhi ying li
+地质灾害	di zhi zai hai
+地质资料	di zhi zi liao
+地质作用	di zhi zuo yong
+地中海	di zhong hai
+地轴	di zhou
+地轴倾角	di zhou qing jiao
+地主	di zhu
+地柱说	di zhu shuo
+地转平衡	di zhuan ping heng
+地转效应	di zhuan xiao ying
+地转运动	di zhuan yun dong
+电测井	dian ce jing
+电测深法	dian ce shen fa
+电磁冲击波	dian ci chong ji bo
+电动式地震仪	dian dong shi di zhen yi
+淀积层	dian ji ceng
+点密度法	dian mi du fa
+电容地震仪	dian rong di zhen yi
+点源分布	dian yuan fen bu
+点值图	dian zhi tu
+电子地图	dian zi di tu
+电子地震仪	dian zi di zhen yi
+电阻率法	dian zu lv fa
+电阻率剖面	dian zu lv pou mian
+叠合分析	die he fen xi
+叠加地震记录	die jia di zhen ji lu
+叠加定律	die jia ding lv
+跌水潭	die shui tan
+顶点	ding dian
+定点形变测量	ding dian xing bian ce liang
+顶极土壤	ding ji tu rang
+定量地震学	ding liang di zhen xue
+丁威勒	ding wei le
+冻害	dong hai
+东海郡	dong hai jun
+冻结层中水	dong jie ceng zhong shui
+冻结指数	dong jie zhi shu
+动力变质作用	dong li bian zhi zuo yong
+动力地貌学	dong li di mao xue
+动力地质学	dong li di zhi xue
+动圈式地震仪	dong quan shi di zhen yi
+动态震害预测	dong tai zhen hai yu ce
+冻土	dong tu
+冻土动力学	dong tu dong li xue
+冻土进化	dong tu jin hua
+冻土退化	dong tu tui hua
+冻土相分析	dong tu xiang fen xi
+冻土学	dong tu xue
+动物传布	dong wu chuan bu
+动物地理学	dong wu di li xue
+洞穴堆积	dong xue dui ji
+洞穴学	dong xue xue
+杜能模式	du neng mo shi
+都市集聚	du shi ji ju
+都市水文学	du shi shui wen xue
+断层	duan ceng
+断层擦痕	duan ceng ca hen
+断层传播	duan ceng chuan bo
+断层带	duan ceng dai
+断层地震	duan ceng di zhen
+断层谷	duan ceng gu
+断层滑距	duan ceng hua ju
+断层活动段	duan ceng huo dong duan
+断层活动性	duan ceng huo dong xing
+断层几何学	duan ceng ji he xue
+断层角砾岩	duan ceng jiao li yan
+断层接触	duan ceng jie chu
+断层阶地	duan ceng jie di
+断层面	duan ceng mian
+断层泥	duan ceng ni
+断层气	duan ceng qi
+断层蠕动	duan ceng ru dong
+断层三角面	duan ceng san jiao mian
+断层线崖	duan ceng xian ya
+断层小陡坎	duan ceng xiao dou kan
+断层崖	duan ceng ya
+断层垭口	duan ceng ya kou
+断块	duan kuai
+断块构造说	duan kuai gou zao shuo
+断块山	duan kuai shan
+断裂	duan lie
+断裂深度分类	duan lie shen du fen lei
+断裂系	duan lie xi
+短期地震前兆	duan qi di zhen qian zhao
+短期聚落	duan qi ju luo
+短水准	duan shui zhun
+断头河	duan tou he
+断陷	duan xian
+断陷盆地	duan xian pen di
+短周期地震仪	duan zhou qi di zhen yi
+堆积阶地	dui ji jie di
+堆积物	dui ji wu
+堆积作用	dui ji zuo yong
+对流力	dui liu li
+对流说	dui liu shuo
+顿丘	dun qiu
+盾形火山	dun xing huo shan
+盾状火山	dun zhuang huo shan
+多波段扫描器	duo bo duan sao miao qi
+多波段遥感	duo bo duan yao gan
+多道地震仪	duo dao di zhen yi
+多道抗震防线	duo dao kang zhen fang xian
+多硅白云母	duo gui bai yun mu
+多核心论	duo he xin lun
+多明各会	duo ming ge hui
+多瑙河两岸	duo nao he liang an
+多瑙河三角洲	duo nao he san jiao zhou
+多年冻土	duo nian dong tu
+多年生植物	duo nian sheng zhi wu
+二次余震	er ci yu zhen
+二叠	er die
+二叠纪	er die ji
+二叠系	er die xi
+二轴晶	er zhou jing
+二祖山	er zu shan
+发电机学说	fa dian ji xue shuo
+伐腊毗国	fa la pi guo
+发展地理学	fa zhan de li xue
+发震断层	fa zhen duan ceng
+发震概率	fa zhen gai lv
+发震构造	fa zhen gou zao
+发震构造体系	fa zhen gou zao ti xi
+发震区	fa zhen qu
+发震时刻	fa zhen shi ke
+泛北极	fan bei ji
+钒钡铜矿	fan bei tong kuang
+反差调整	fan cha tiao zheng
+泛大洋	fan da yang
+钒钙铀矿	fan gai you kuang
+反聚集力	fan ju ji li
+钒矿	fan kuang
+反馈环	fan kui huan
+凡兰吟	fan lan yin
+反扭	fan niu
+反气旋式环流	fan qi xuan shi huan liu
+反射地震波法	fan she de zhen bo fa
+反射地震勘探	fan she di zhen kan tan
+反射地震学	fan she di zhen xue
+反射地震仪	fan she di zhen yi
+反射界面	fan she jie mian
+钒酸盐	fan suan yan
+钒铜矿	fan tong kuang
+反象	fan xiang
+梵衍那国	fan yan na guo
+钒云母	fan yun mu
+犯罪地理	fan zui di li
+方辉橄榄岩	fang hui gan lan yan
+方济各会	fang ji ge hui
+方解石	fang jie shi
+方解石化	fang jie shi hua
+仿射变换	fang she bian huan
+放射带	fang she dai
+放射性测量	fang she xing ce liang
+放射性示踪法	fang she xing shi zong fa
+方位地震仪	fang wei di zhen yi
+方柱石	fang zhu shi
+飞白岩	fei bai yan
+非地带性	fei di dai xing
+非地带性土壤	fei di dai xing tu rang
+非发震断裂	fei fa zhen duan lie
+非构造性裂缝	fei gou zao xing lie feng
+非基础行业	fei ji chu hang ye
+非金属矿床	fei jin shu kuang chuang
+非可再生资源	fei ke zai sheng zi yuan
+非连续性变形	fei lian xu xing bian xing
+非生源景观	fei sheng yuan jing guan
+非斯老城	fei si lao cheng
+非弹性形变	fei tan xing xing bian
+分布区	fen bu qu
+分布区间断	fen bu qu jian duan
+分布区型	fen bu qu xing
+分布区中心	fen bu qu zhong xin
+分层设色表	fen ceng she se biao
+分层设色法	fen ceng she se fa
+分汊率	fen cha lv
+分岔系数	fen cha xi shu
+分解生物	fen jie sheng wu
+芬兰堡	fen lan bao
+分裂说	fen lie shuo
+分配结构模型	fen pei jie gou mo xing
+分散城市	fen san cheng shi
+粉砂土	fen sha tu
+粉砂岩	fen sha yan
+粉砂质	fen sha zhi
+分数比例尺	fen shu bi li chi
+分水岭	fen shui ling
+汾渭地震带	fen wei di zhen dai
+分乡组	fen xiang zu
+风暴大浪	feng bao da lang
+风暴微震	feng bao wei zhen
+风成沉积	feng cheng chen ji
+峰峰振幅	feng feng zhen fu
+风格主义建筑	feng ge zhu yi jian zhu
+峰谷振幅	feng gu zhen fu
+缝合带	feng he dai
+风化层	feng hua ceng
+风化壳	feng hua qiao
+风化作用	feng hua zuo yong
+风积物	feng ji wu
+风棱石	feng leng shi
+风蚀脊	feng shi ji
+风蚀坑	feng shi keng
+风蚀土脊	feng shi tu ji
+风蚀洼地	feng shi wa di
+风蚀柱	feng shi zhu
+丰特努瓦	feng te nu wa
+蜂窝状风化	feng wo zhuang feng hua
+蜂窝状沙丘	feng wo zhuang sha qiu
+风向频度图	feng xiang pin du tu
+丰芽	feng ya
+风灾	feng zai
+峰值小区划	feng zhi xiao qu hua
+富冰冻土	fu bing dong tu
+俯冲板块	fu chong ban kuai
+俯冲带	fu chong dai
+俯冲断层	fu chong duan ceng
+腹地	fu di
+负地貌	fu di mao
+浮雕影象地图	fu diao ying xiang di tu
+复合土地利用	fu he tu di li yong
+福利地理	fu li di li
+扶南国	fu nan guo
+氟年代测定法	fu nian dai ce ding fa
+负偏态	fu pian tai
+腐生动物	fu sheng dong wu
+福生天	fu sheng tian
+腐生植物	fu sheng zhi wu
+浮坞	fu wu
+涪县	fu xian
+富营养沼泽	fu ying yang zhao ze
+负震级	fu zhen ji
+盖层	gai ceng
+概率抗震设计	gai lv kang zhen she ji
+干谷	gan gu
+感观环境	gan guan huan jing
+干涸湖	gan he hu
+干盐湖	gan yan hu
+感应地理学	gan ying di li xue
+感应地震	gan ying di zhen
+干燥气候	gan zao qi hou
+干燥作用	gan zao zuo yong
+刚性板块	gang xing ban kuai
+高草草原	gao cao cao yuan
+高岭土	gao ling tu
+高山矮曲林	gao shan ai qu lin
+高山草场轮牧	gao shan cao chang lun mu
+高山冻土	gao shan dong tu
+高山湖	gao shan hu
+高山季节移牧	gao shan ji jie yi mu
+高山土壤	gao shan tu rang
+高位沼泽	gao wei zhao ze
+高原	gao yuan
+高原冰川	gao yuan bing chuan
+高原气候	gao yuan qi hou
+高原沼泽	gao yuan zhao ze
+戈壁	ge bi
+隔火路	ge huo lu
+隔水层	ge shui ceng
+隔坨区	ge tuo qu
+格网数据库	ge wang shu ju ku
+格网座标	ge wang zuo biao
+格状水系	ge zhuang shui xi
+给水度	gei shui du
+更新世	geng xin shi
+更新统	geng xin tong
+工厂化农业	gong chang hua nong ye
+工程地震	gong cheng di zhen
+工程地震学	gong cheng di zhen xue
+工程地质	gong cheng di zhi
+工程地质单元	gong cheng di zhi dan yuan
+工程地质环境	gong cheng di zhi huan jing
+工程地质勘察	gong cheng di zhi kan cha
+工程地质力学	gong cheng di zhi li xue
+工程地质评价	gong cheng di zhi ping jia
+工程地质试验	gong cheng di zhi shi yan
+工程地质条件	gong cheng di zhi tiao jian
+工程地质图	gong cheng di zhi tu
+工程地质问题	gong cheng di zhi wen ti
+工程地质学	gong cheng di zhi xue
+工程地质钻探	gong cheng di zhi zuan tan
+工程点	gong cheng dian
+工程动力地质学	gong cheng dong li di zhi xue
+工程范围	gong cheng fan wei
+工程活动	gong cheng huo dong
+工程勘察设计	gong cheng kan cha she ji
+工程手段	gong cheng shou duan
+工程岩土学	gong cheng yan tu xue
+工程震害预测	gong cheng zhen hai yu ce
+共轭断层	gong e duan ceng
+共轭节理	gong e jie li
+工矿区	gong kuang qu
+汞铅矿	gong qian kuang
+弓形山组	gong xing shan zu
+工业地理学	gong ye di li xue
+工业地域类型	gong ye di yu lei xing
+工业分散	gong ye fen san
+工业扩散	gong ye kuo san
+工业区景观	gong ye qu jing guan
+工业区位政策	gong ye qu wei zheng ce
+工业综合体	gong ye zong he ti
+构造	gou zao
+构造背景	gou zao bei jing
+构造层	gou zao ceng
+构造层位	gou zao ceng wei
+构造差异运动	gou zao cha yi yun dong
+构造沉降	gou zao chen jiang
+构造沉陷	gou zao chen xian
+构造尺度	gou zao chi du
+构造窗	gou zao chuang
+构造带	gou zao dai
+构造单元	gou zao dan yuan
+构造地磁	gou zao di ci
+构造地磁效应	gou zao di ci xiao ying
+构造地磁学	gou zao di ci xue
+构造地貌	gou zao di mao
+构造地貌学	gou zao di mao xue
+构造地形	gou zao di xing
+构造地震	gou zao di zhen
+构造地质学	gou zao di zhi xue
+构造反对称	gou zao fan dui chen
+构造复合	gou zao fu he
+构造高原	gou zao gao yuan
+构造格架	gou zao ge jia
+构造湖	gou zao hu
+构造活动性	gou zao huo dong xing
+构造阶地	gou zao jie di
+构造节理	gou zao jie li
+构造类比	gou zao lei bi
+构造幕	gou zao mu
+构造盆地	gou zao pen di
+构造平原	gou zao ping yuan
+构造圈	gou zao quan
+构造体系	gou zao ti xi
+构造透镜体	gou zao tou jing ti
+构造洼地	gou zao wa di
+构造网络	gou zao wang luo
+构造物理学	gou zao wu li xue
+构造性断裂	gou zao xing duan lie
+构造形迹	gou zao xing ji
+构造旋回	gou zao xuan hui
+构造应力	gou zao ying li
+构造应力场	gou zao ying li chang
+构造运动	gou zao yun dong
+古地磁	gu di ci
+古地磁极	gu di ci ji
+古地磁学	gu di ci xue
+古地理	gu di li
+古地理学	gu di li xue
+古地图	gu di tu
+古地震	gu di zhen
+固定论	gu ding lun
+固定沙丘	gu ding sha qiu
+孤峰组	gu feng zu
+古近纪	gu jin ji
+古气候	gu qi hou
+鼓丘	gu qiu
+古生代	gu sheng dai
+古生代花岗岩	gu sheng dai hua gang yan
+古生界	gu sheng jie
+古水文学	gu shui wen xue
+顾特卜塔	gu te bu ta
+固体潮振荡	gu ti chao zhen dang
+固体地球	gu ti di qiu
+固体地球潮汐	gu ti di qiu chao xi
+固体地球化学	gu ti di qiu hua xue
+固体热力学	gu ti re li xue
+古土壤	gu tu rang
+古纬度	gu wei du
+古新世	gu xin shi
+古应力场	gu ying li chang
+观测地震学	guan ce di zhen xue
+灌丛休耕法	guan cong xiu geng fa
+灌溉体系	guan gai ti xi
+惯性地震仪	guan xing di zhen yi
+惯性应变仪	guan xing ying bian yi
+光电地震计	guang dian di zhen ji
+光化学氧化剂	guang hua xue yang hua ji
+光弹性实验	guang tan xing shi yan
+光学图象处理	guang xue tu xiang chu li
+硅化	gui hua
+硅孔雀石	gui kong que shi
+硅铝层	gui lv ceng
+硅铝矿物	gui lv kuang wu
+硅铝镁层	gui lv mei ceng
+硅镁层	gui mei ceng
+硅镁石	gui mei shi
+硅硼钙石	gui peng gai shi
+硅铍石化	gui pi shi hua
+硅酸盐	gui suan yan
+硅锌矿	gui xin kuang
+硅藻土	gui zao tu
+硅质灰岩	gui zhi hui yan
+硅质岩	gui zhi yan
+贵族墓葬	gui zu mu zang
+滚动背斜构造	gun dong bei xie gou zao
+过渡型地壳	guo du xing di qiao
+国际和平公园	guo ji he ping gong yuan
+国际重力公式	guo ji zhong li gong shi
+国家地图集	guo jia di tu ji
+国土规划	guo tu gui hua
+国土开发	guo tu kai fa
+国土整治	guo tu zheng zhi
+国土资源卫星	guo tu zi yuan wei xing
+过氧化物	guo yang hua wu
+海岸地貌	hai an di mao
+海岸地貌学	hai an di mao xue
+海岸阶地	hai an jie di
+海拔	hai ba
+海滨沼泽	hai bin zhao ze
+海底地震	hai di di zhen
+海底地震计	hai di di zhen ji
+海底地震勘探	hai di di zhen kan tan
+海底地震仪	hai di di zhen yi
+海底扩张假说	hai di kuo zhang jia shuo
+海沟	hai gou
+海岭	hai ling
+海门口	hai men kou
+海面升降运动	hai mian sheng jiang yun dong
+氦年代测定法	hai nian dai ce ding fa
+海上油气田	hai shang you qi tian
+海蚀龛	hai shi kan
+海蚀平台	hai shi ping tai
+海蚀台	hai shi tai
+海蚀隙	hai shi xi
+海蚀崖	hai shi ya
+海蚀柱	hai shi zhu
+海蚀作用	hai shi zuo yong
+海相	hai xiang
+海啸地震	hai xiao di zhen
+海洋板块	hai yang ban kuai
+海洋测深	hai yang ce shen
+海洋磁力仪	hai yang ci li yi
+海洋地壳	hai yang di qiao
+海洋地球化学	hai yang di qiu hua xue
+海洋地震仪	hai yang di zhen yi
+海洋地质	hai yang di zhi
+海洋环境	hai yang huan jing
+海洋环流	hai yang huan liu
+海洋气候	hai yang qi hou
+海洋污染	hai yang wu ran
+海洋性冰川	hai yang xing bing chuan
+海洋性气候	hai yang xing qi hou
+海洋震源	hai yang zhen yuan
+海洋震中	hai yang zhen zhong
+海洋重力勘探	hai yang zhong li kan tan
+含冰量	han bing liang
+旱成土	han cheng tu
+寒带	han dai
+寒冻风化	han dong feng hua
+含砾砂岩	han li sha yan
+含硫量	han liu liang
+含煤岩系	han mei yan xi
+汉撒同盟城	han sa tong meng cheng
+汉萨同盟城市	han sa tong meng cheng shi
+含砂	han sha
+含水层	han shui ceng
+寒温带气候	han wen dai qi hou
+寒武纪	han wu ji
+寒武系	han wu xi
+旱峡	han xia
+含油地层	han you di ceng
+含油面积	han you mian ji
+航磁测量	hang ci ce liang
+航空磁力仪	hang kong ci li yi
+航空地球化学	hang kong di qiu hua xue
+航空照片判读	hang kong zhao pian pan du
+航空重力学	hang kong zhong li xue
+航空重力仪	hang kong zhong li yi
+耗散波	hao san bo
+耗碳量	hao tan liang
+合成波	he cheng bo
+合成地面位移	he cheng di mian wei yi
+合成地图	he cheng di tu
+合成地震记录	he cheng di zhen ji lu
+合成地震剖面	he cheng di zhen pou mian
+河床	he chuang
+河床变形	he chuang bian xing
+河道等级	he dao deng ji
+河道坡降	he dao po jiang
+河口湾	he kou wan
+河流错位	he liu cuo wei
+河流阶地	he liu jie di
+河流偏移	he liu pian yi
+河流数目定律	he liu shu mu ding lv
+河流袭夺	he liu xi duo
+河流学	he liu xue
+河漫滩	he man tan
+褐煤	he mei
+河网密度	he wang mi du
+核心边缘论	he xin bian yuan lun
+核震相	he zhen xiang
+核子磁力仪	he zi ci li yi
+黑碱土	hei jian tu
+黑子数	hei zi shu
+黑子周	hei zi zhou
+亨比	heng bi
+亨伯斯通	heng bo si tong
+亨德森岛	heng de sen dao
+横坑开采法	heng keng kai cai fa
+横式海岸	heng shi hai an
+横向倾斜仪	heng xiang qing xie yi
+横向沙丘	heng xiang sha qiu
+红堡	hong bao
+宏观地震观测	hong guan di zhen guan ce
+宏观地震考察	hong guan di zhen kao cha
+宏观地震现象	hong guan di zhen xian xiang
+宏观地震效应	hong guan di zhen xiao ying
+宏观地震学	hong guan di zhen xue
+宏观地震震中	hong guan di zhen zhen zhong
+宏观地震资料	hong guan di zhen zi liao
+宏观前兆	hong guan qian zhao
+宏观现场	hong guan xian chang
+宏观液化	hong guan ye hua
+宏观异常	hong guan yi chang
+宏观震害	hong guan zhen hai
+宏观震中	hong guan zhen zhong
+宏观震中烈度	hong guan zhen zhong lie du
+红花园组	hong hua yuan zu
+洪患	hong huan
+洪积层	hong ji ceng
+洪积扇	hong ji shan
+洪积物	hong ji wu
+红色石灰土	hong se shi hui tu
+红树林沼泽	hong shu lin zhao ze
+后坝组	hou ba zu
+厚层状	hou ceng zhuang
+互层	hu ceng
+护根	hu gen
+胡家崾峡	hu jia yao xia
+护林区	hu lin qu
+湖流	hu liu
+胡马纳草原	hu ma na cao yuan
+湖盆	hu pen
+湖泊沉积	hu po chen ji
+湖泊水文学	hu po shui wen xue
+湖泊蓄水量	hu po xu shui liang
+湖水环流	hu shui huan liu
+护土墙	hu tu qiang
+湖相	hu xiang
+湖沼学	hu zhao xue
+湖震	hu zhen
+华北地块	hua bei di kuai
+花岗岩	hua gang yan
+花岗岩年代学	hua gang yan nian dai xue
+花卉山谷	hua hui shan gu
+华莱士线	hua lai shi xian
+滑坡	hua po
+华沙历史中心	hua sha li shi zhong xin
+华氏城	hua shi cheng
+华氏温度表	hua shi wen du biao
+化石遗址	hua shi yi zhi
+滑塌	hua ta
+化探	hua tan
+化学剥蚀	hua xue bo shi
+化学地理学	hua xue di li xue
+化学风化	hua xue feng hua
+化学风化作用	hua xue feng hua zuo yong
+化学迁移	hua xue qian yi
+花园和城堡	hua yuan he cheng bao
+缓波状层理	huan bo zhuang ceng li
+缓洪	huan hong
+环极西风	huan ji xi feng
+环境保护	huan jing bao hu
+环境地球化学	huan jing di qiu hua xue
+环境地质学	huan jing di zhi xue
+环境规划	huan jing gui hua
+环境区划	huan jing qu hua
+环境容量	huan jing rong liang
+环境退化	huan jing tui hua
+环境卫星系列	huan jing wei xing xi lie
+环境污染	huan jing wu ran
+环境限制	huan jing xian zhi
+环境效应	huan jing xiao ying
+环境演化	huan jing yan hua
+环境要素	huan jing yao su
+环境异常	huan jing yi chang
+环境影响评价	huan jing ying xiang ping jia
+环境灾害	huan jing zai hai
+环境质量	huan jing zhi liang
+环境质量参数	huan jing zhi liang can shu
+环境质量评价	huan jing zhi liang ping jia
+环境质量指数	huan jing zhi liang zhi shu
+环境自净	huan jing zi jing
+环太平洋带	huan tai ping yang dai
+环型环流	huan xing huan liu
+缓震	huan zhen
+环状珊瑚岛	huan zhuang shan hu dao
+荒地区	huang di qu
+荒漠化	huang mo hua
+荒漠气候	huang mo qi hou
+荒漠土壤	huang mo tu rang
+黄铁矿	huang tie kuang
+黄铜矿	huang tong kuang
+黄土	huang tu
+黄土地貌	huang tu di mao
+黄土峁	huang tu mao
+会安古镇	hui an gu zhen
+辉长岩	hui chang yan
+回春作用	hui chun zuo yong
+汇点区	hui dian qu
+灰化红黄壤	hui hua hong huang rang
+灰化棕色土	hui hua zong se tu
+灰漠土	hui mo tu
+灰壤	hui rang
+汇水区	hui shui qu
+绘图程序库	hui tu cheng xu ku
+灰岩	hui yan
+灰岩深沟	hui yan shen gou
+灰质云岩	hui zhi yun yan
+混成物	hun cheng wu
+活动地震带	huo dong di zhen dai
+活动断层	huo dong duan ceng
+活动断裂填图	huo dong duan lie tian tu
+活动构造	huo dong gou zao
+活动构造带	huo dong gou zao dai
+活动论	huo dong lun
+霍尔托巴吉	huo er tuo ba ji
+活火山	huo huo shan
+霍贾	huo jia
+霍拉圣巴拉巴	huo la sheng ba la ba
+霍拉肖维采	huo la xiao wei cai
+霍雷祖修道院	huo lei zu xiu dao yuan
+货流地理	huo liu di li
+霍洛克	huo luo ke
+火山	huo shan
+火山崩流	huo shan beng liu
+火山带	huo shan dai
+火山弹	huo shan dan
+火山地震	huo shan di zhen
+火山地质学	huo shan di zhi xue
+火山海震	huo shan hai zhen
+火山湖	huo shan hu
+火山活动	huo shan huo dong
+火山机构	huo shan ji gou
+火山口	huo shan kou
+火山雷雨	huo shan lei yu
+火山砾	huo shan li
+火山烈度	huo shan lie du
+火山脉动	huo shan mai dong
+火山泥石流	huo shan ni shi liu
+火山喷发类型	huo shan pen fa lei xing
+火山喷发前兆	huo shan pen fa qian zhao
+火山穹丘	huo shan qiong qiu
+火山碎屑岩	huo shan sui xie yan
+火山筒	huo shan tong
+火山陷落区	huo shan xian luo qu
+火山学	huo shan xue
+火山预报	huo shan yu bao
+火山锥	huo shan zhui
+火山作用	huo shan zuo yong
+基本烈度	ji ben lie du
+罽宾	ji bin
+基部掏蚀	ji bu tao shi
+基础地震学	ji chu di zhen xue
+基础隔震	ji chu ge zhen
+基底	ji di
+极地冰川	ji di bing chuan
+基底断裂	ji di duan lie
+极地气候	ji di qi hou
+极地气团	ji di qi tuan
+基多古城	ji duo gu cheng
+激发地震	ji fa di zhen
+季风	ji feng
+季风雨林	ji feng yu lin
+激光遥感	ji guang yao gan
+几何等级	ji he deng ji
+几何地震学	ji he di zhen xue
+极化过程	ji hua guo cheng
+季节冻土	ji jie dong tu
+季节性河流	ji jie xing he liu
+季节性湖泊	ji jie xing hu po
+激进地理学	ji jin di li xue
+寂静地震	ji jing di zhen
+集块岩	ji kuai yan
+积累区	ji lei qu
+姬路城	ji lu cheng
+基罗拉塔湾	ji luo la ta wan
+吉诺卡斯特城	ji nuo ka si te cheng
+基色圣地	ji se sheng di
+寄生火山锥	ji sheng huo shan zhui
+技术地理学	ji shu de li xue
+技术密集工业	ji shu mi ji gong ye
+集水盆地	ji shui pen di
+计算地震学	ji suan di zhen xue
+极微震	ji wei zhen
+极限地震	ji xian di zhen
+基线水准	ji xian shui zhun
+机械地震源	ji xie de zhen yuan
+机械地震仪	ji xie di zhen yi
+机械风化作用	ji xie feng hua zuo yong
+机械迁移	ji xie qian yi
+基性熔岩	ji xing rong yan
+积雪水文学	ji xue shui wen xue
+挤压构造带	ji ya gou zao dai
+基岩	ji yan
+基岩层	ji yan ceng
+基岩反应谱	ji yan fan ying pu
+基岩扇	ji yan shan
+极夜	ji ye
+纪伊山脉	ji yi shan mai
+济阴	ji yin
+集约农业	ji yue nong ye
+基质	ji zhi
+基准标志	ji zhun biao zhi
+基准海平面	ji zhun hai ping mian
+基准面速度	ji zhun mian su du
+基准水准测量	ji zhun shui zhun ce liang
+基座阶地	ji zuo jie di
+加积	jia ji
+加积作用	jia ji zuo yong
+假喀斯特	jia ka si te
+嘉陵江组	jia ling jiang zu
+假整合	jia zheng he
+间冰期	jian bing qi
+建设地理学	jian she di li xue
+碱土	jian tu
+间歇泉	jian xie quan
+渐新世	jian xin shi
+尖形坝	jian xing ba
+尖形滩	jian xing tan
+兼营农业	jian ying nong ye
+降水	jiang shui
+交错层理	jiao cuo ceng li
+角峰	jiao feng
+胶结	jiao jie
+角砾岩	jiao li yan
+郊区农业	jiao qu nong ye
+阶地	jie di
+阶地沼泽	jie di zhao ze
+结构	jie gou
+结构面	jie gou mian
+结壳作用	jie ke zuo yong
+节理	jie li
+近场地面运动	jin chang di mian yun dong
+近场地震运动	jin chang di zhen yun dong
+近代地壳运动	jin dai di qiao yun dong
+金德代克	jin de dai ke
+近期火山	jin qi huo shan
+近源地震学	jin yuan di zhen xue
+进展因素	jin zhan yin su
+近震震级	jin zhen zhen ji
+近震走时表	jin zhen zou shi biao
+晶胞	jing bao
+静不定问题	jing bu ding wen ti
+井段	jing duan
+景观地球化学	jing guan di qiu hua xue
+景观圈	jing guan quan
+景观损害	jing guan sun hai
+经济地理条件	jing ji di li tiao jian
+经济发展战略	jing ji fa zhan zhan lue
+经济协作区	jing ji xie zuo qu
+警戒水位	jing jie shui wei
+静力触探	jing li chu tan
+径流变率	jing liu bian lv
+径流模数	jing liu mo shu
+净太阳辐射	jing tai yang fu she
+静态震害预测	jing tai zhen hai yu ce
+经纬网格	jing wei wang ge
+井下测震	jing xia ce zhen
+井下地震仪	jing xia di zhen yi
+经线跨度	jing xian kua du
+经向构造体系	jing xiang gou zao ti xi
+鲸鱼保护区	jing yu bao hu qu
+鲸鱼峡谷	jing yu xia gu
+酒东	jiu dong
+久能山	jiu neng shan
+旧热带界	jiu re dai jie
+酒西	jiu xi
+酒庄文化景观	jiu zhuang wen hua jing guan
+居昌	ju chang
+锯齿状断裂	ju chi zhuang duan lie
+巨大都会带	ju da dou hui dai
+聚合板块	ju he ban kuai
+巨厚层	ju hou ceng
+巨厚层状	ju hou ceng zhuang
+具滑面	ju hua mian
+聚类抽样	ju lei chou yang
+距离衰减原则	ju li shuai jian yuan ze
+具裂隙	ju lie xi
+聚落地理学	ju luo di li xue
+聚落类型	ju luo lei xing
+拘尸那揭罗	ju shi na jie luo
+剧县	ju xian
+句章	ju zhang
+剧震	ju zhen
+矩震级	ju zhen ji
+眷属地狱	juan shu di yu
+绝对烈度	jue dui lie du
+绝对年龄测定	jue dui nian ling ce ding
+绝对重力异常	jue dui zhong li yi chang
+绝对重力值	jue dui zhong li zhi
+均变说	jun bian shuo
+均衡说	jun heng shuo
+军事地理	jun shi di li
+均匀磁化轴	jun yun ci hua zhou
+均匀应力场	jun yun ying li chang
+喀斯特	ka si te
+喀斯特地貌	ka si te di mao
+喀斯特地貌学	ka si te di mao xue
+喀斯特化	ka si te hua
+喀斯特平原	ka si te ping yuan
+开拉沙山	kai la sha shan
+凯鲁万	kai lu wan
+勘察加火	kan cha jia huo
+勘察期水位	kan cha qi shui wei
+坎潘	kan pan
+勘探地球化学	kan tan di qiu hua xue
+勘探地震学	kan tan di zhen xue
+勘探地震仪	kan tan di zhen yi
+抗剪断强度	kang jian duan qiang du
+抗蚀岩石	kang shi yan shi
+抗弯曲强度	kang wan qu qiang du
+抗震加固措施	kang zhen jia gu cuo shi
+抗震能力	kang zhen neng li
+抗震设防区划	kang zhen she fang qu hua
+抗震性能鉴定	kang zhen xing neng jian ding
+克拉通	ke la tong
+颗粒灰岩	ke li hui yan
+客流地理	ke liu di li
+刻面联合体	ke mian lian he ti
+刻蚀地貌	ke shi di mao
+可视性分析	ke shi xing fen xi
+刻图	ke tu
+可再生资源	ke zai sheng zi yuan
+垦殖指数	ken zhi zhi shu
+孔多阿岩画	kong duo a yan hua
+孔戈尼亚斯	kong ge ni ya si
+空间差距	kong jian cha ju
+空间分析函数	kong jian fen xi han shu
+空间数据编码	kong jian shu ju bian ma
+空间数据仓库	kong jian shu ju cang ku
+空间数据模型	kong jian shu ju mo xing
+空间数据内插	kong jian shu ju nei cha
+空间数据融合	kong jian shu ju rong he
+空间数据压缩	kong jian shu ju ya suo
+空间索引	kong jian suo yin
+空间信息格网	kong jian xin xi ge wang
+空间制图	kong jian zhi tu
+空间主权	kong jian zhu quan
+空无边处天	kong wu bian chu tian
+孔隙水	kong xi shui
+孔隙水压力	kong xi shui ya li
+孔隙压力	kong xi ya li
+孔下地震计	kong xia di zhen ji
+控震构造体系	kong zhen gou zao ti xi
+空中重力测量	kong zhong zhong li ce liang
+块状崩落	kuai zhuang beng luo
+矿泉	kuang quan
+矿业聚落	kuang ye ju luo
+扩散中心	kuo san zhong xin
+扩展扩散	kuo zhan kuo san
+劳动地域分工	lao dong di yu fen gong
+勒罗斯	le luo si
+雷达遥感	lei da yao gan
+雷根斯堡旧城	lei gen si bao jiu cheng
+累积变形	lei ji bian xing
+累积频数曲线	lei ji pin shuo qu xian
+累积应变	lei ji ying bian
+累积应力	lei ji ying li
+类喀斯特	lei ka si te
+雷口坡组	lei kou po zu
+冷圈	leng quan
+冷圈学	leng quan xue
+里昂历史遗址	li ang li shi yi zhi
+里奥阿比塞奥	li ao a bi sai ao
+离堆山	li dui shan
+粒级	li ji
+里加历史中心	li jia li shi zhong xin
+里克特公式	li ke te gong shi
+里拉修道院	li la xiu dao yuan
+理论地球化学	li lun di qiu hua xue
+理论地震图	li lun di zhen tu
+理论地震学	li lun di zhen xue
+理论振幅	li lun zhen fu
+砾漠	li mo
+离散板块边界	li san ban kuai bian jie
+历史地图集	li shi de tu ji
+离石黄土	li shi huang tu
+历史气候	li shi qi hou
+历史人文地理	li shi ren wen di li
+里氏震级	li shi zhen ji
+历史自然地理	li shi zi ran di li
+里特维尔德	li te wei er de
+离心水系	li xin shui xi
+粒雪	li xue
+粒雪化作用	li xue hua zuo yong
+粒雪盆	li xue pen
+砾岩	li yan
+粒状崩解	li zhuang beng jie
+离子色谱分析	li zi se pu fen xi
+连岛坝	lian dao ba
+连岛沙洲	lian dao sha zhou
+联合震源测定	lian he zhen yuan ce ding
+连续倾角仪	lian xu qing jiao yi
+亮晶	liang jing
+良里塔格组	liang li ta ge zu
+梁山组	liang shan zu
+凉温带气候	liang wen dai qi hou
+两座老城	liang zuo lao cheng
+寮屋聚落	liao wu ju luo
+裂点	lie dian
+烈度分布	lie du fen bu
+烈度评价	lie du ping jia
+烈度区划	lie du qu hua
+烈度调整	lie du tiao zheng
+烈度异常	lie du yi chang
+捩断层	lie duan ceng
+裂缝喷发	lie feng pen fa
+裂谷	lie gu
+裂谷系	lie gu xi
+裂隙式喷发	lie xi shi pen fa
+裂隙水	lie xi shui
+裂隙系	lie xi xi
+裂陷盆地	lie xian pen di
+裂陷作用	lie xian zuo yong
+林地沼泽	lin di zhao ze
+磷灰石	lin hui shi
+临界震级	lin jie zhen ji
+临泾	lin jing
+林区	lin qu
+淋溶层	lin rong ceng
+临时地震台站	lin shi di zhen tai zhan
+临湘组	lin xiang zu
+临震预测	lin zhen yu ce
+零点幕	ling dian mu
+领海	ling hai
+零级地震	ling ji di zhen
+令居	ling ju
+领空	ling kong
+零频地震学	ling pin di zhen xue
+菱铁质	ling tie zhi
+零阳	ling yang
+令支	ling zhi
+流动地震台	liu dong di zhen tai
+流动观测	liu dong guan ce
+流动沙丘	liu dong sha qiu
+流动形变测量	liu dong xing bian ce liang
+流动重力测量	liu dong zhong li ce liang
+流水地貌	liu shui di mao
+流水地貌学	liu shui di mao xue
+流水过程	liu shui guo cheng
+流纹岩	liu wen yan
+流域分水线	liu yu fen shui xian
+流域形态	liu yu xing tai
+龙马溪组	long ma xi zu
+陆背斜	lu bei xie
+陆槽	lu cao
+陆地地貌	lu di di mao
+陆地震源	lu di zhen yuan
+陆间裂谷系	lu jian lie gu xi
+陆界	lu jie
+陆面蒸发	lu mian zheng fa
+陆棚边缘地震	lu peng bian yuan di zhen
+陆相	lu xiang
+陆向斜	lu xiang xie
+落水洞	luo shui dong
+落叶林	luo ye lin
+绿带城市	lv dai cheng shi
+旅游客量	lv you ke liang
+绿洲耕作	lv zhou geng zuo
+脉冲地震法	mai chong di zhen fa
+脉动	mai dong
+脉动仪	mai dong yi
+迈赫迈德	mai he mai de
+茅口组	mao kou zu
+煤层	mei ceng
+面波	mian bo
+面波法	mian bo fa
+面波频散	mian bo pin san
+面波震级	mian bo zhen ji
+面切波	mian qie bo
+民族地理学	min zu de li xue
+末次冰盛期	mo ci bing sheng qi
+漠盖层	mo gai ceng
+墨卡托投影	mo ka tuo tou ying
+模拟地震动	mo ni de zhen dong
+模拟地震	mo ni di zhen
+模拟地震学	mo ni di zhen xue
+漠漆	mo qi
+磨蚀	mo shi
+木材生产基地	mu cai sheng chan ji di
+穆鲁山	mu lu shan
+母质层	mu zhi ceng
+拿贡巴东	na gong ba dong
+奈斯维市	nai si wei shi
+南北地震带	nan bei di zhen dai
+南磁极	nan ci ji
+南回归线	nan hui gui xian
+南极	nan ji
+南津关组	nan jin guan zu
+内部发展理论	nei bu fa zhan li lun
+内地核	nei di he
+内地幔	nei di man
+内盖夫	nei gai fu
+内陆	nei lu
+内陆地震	nei lu di zhen
+内营力	nei ying li
+能动断层	neng dong duan ceng
+能源地理学	neng yuan di li xue
+逆冲断层	ni chong duan ceng
+逆断层	ni duan ceng
+溺谷	ni gu
+泥灰岩	ni hui yan
+泥灰岩段	ni hui yan duan
+拟建物	ni jian wu
+泥晶	ni jing
+泥晶灰岩	ni jing hui yan
+泥流	ni liu
+泥漠	ni mo
+泥盆纪	ni pen ji
+泥盆系	ni pen xi
+泥石流	ni shi liu
+逆向河	ni xiang he
+泥岩	ni yan
+逆掩断层	ni yan duan ceng
+泥质	ni zhi
+泥质粉砂岩	ni zhi fen sha yan
+泥质砂岩	ni zhi sha yan
+粘滑地震	nian hua di zhen
+年轮气候学	nian lun qi hou xue
+年平均温度	nian ping jun wen du
+粘土	nian tu
+年温差	nian wen cha
+年正常径流量	nian zheng chang jing liu liang
+黏质壤土	nian zhi rang tu
+粘质砂土	nian zhi sha tu
+黏重土	nian zhong tu
+鸟瞰图	niao kan tu
+凝灰火山渣锥	ning hui huo shan zha zhui
+凝灰岩	ning hui yan
+凝结高度	ning jie gao du
+扭摆地震计	niu bai di zhen ji
+扭称	niu cheng
+牛轭湖	niu e hu
+扭性结构面	niu xing jie gou mian
+扭转地震仪	niu zhuan di zhen yi
+扭转振动仪	niu zhuan zhen dong yi
+农业村镇	nong ye cun zhen
+农业地理学	nong ye di li xue
+农业风景区	nong ye feng jing qu
+农业区位论	nong ye qu wei lun
+努比亚遗址	nu bi ya yi zhi
+欧亚地震带	ou ya di zhen dai
+派生地图	pai sheng di tu
+抛物线形沙丘	pao wu xian xing sha qiu
+佩乔尔斯克院	pei qiao er si ke yuan
+盆地	pen di
+喷水冒砂	pen shui mao sha
+蓬莱坝组	peng lai ba zu
+蓬莱镇组	peng lai zhen zu
+彭纳没影	peng na mei ying
+碰撞带	peng zhuang dai
+劈理	pi li
+劈裂试验	pi lie shi yan
+片理	pian li
+片麻岩	pian ma yan
+片蚀	pian shi
+片岩	pian yan
+片状构造	pian zhuang gou zao
+漂砾	piao li
+贫营养沼泽	pin ying yang zhao ze
+平版印刷术	ping ban yin shua shu
+平顶海山	ping ding hai shan
+平衡剖面	ping heng pou mian
+平衡生态系统	ping heng sheng tai xi tong
+平均海平面	ping jun hai ping mian
+平行不整合	ping xing bu zheng he
+平行层理	ping xing ceng li
+平移断层	ping yi duan ceng
+平原沼泽	ping yuan zhao ze
+坡地	po di
+破坏性地震	po huai xing di zhen
+破坏应力	po huai ying li
+破坏阈限地震	po huai yu xian di zhen
+坡积物	po ji wu
+破裂带	po lie dai
+破裂面	po lie mian
+破裂网络	po lie wang luo
+坡水堆积物	po shui dui ji wu
+剖面	pou mian
+剖面图法	pou mian tu fa
+谱烈度	pu lie du
+普林塞萨	pu lin sai sa
+普林斯巴赫	pu lin si ba he
+普罗万城	pu luo wan cheng
+普那草原	pu na cao yuan
+普通地理学	pu tong de li xue
+普通地图集	pu tong de tu ji
+普通地图学	pu tong de tu xue
+普通地理图	pu tong di li tu
+气候变动	qi hou bian dong
+气候地貌学	qi hou di mao xue
+气候恶化	qi hou e hua
+气候分类	qi hou fen lei
+气候改良	qi hou gai liang
+气候可变性	qi hou ke bian xing
+气候系统	qi hou xi tong
+起始震级	qi shi zhen ji
+起算震级	qi suan zhen ji
+气体废料	qi ti fei liao
+气体色谱	qi ti se pu
+栖霞组	qi xia zu
+气旋路线	qi xuan lu xian
+恰高	qia gao
+浅部构造	qian bu gou zao
+潜伏地震	qian fu di zhen
+前寒武纪	qian han wu ji
+潜火山	qian huo shan
+潜火山地震	qian huo shan di zhen
+潜能模式	qian neng mo shi
+潜蚀	qian shi
+潜蚀作用	qian shi zuo yong
+钱塘江阶	qian tang jiang jie
+迁徙耕作	qian xi geng zuo
+迁徙障碍	qian xi zhang ai
+潜育土	qian yu tu
+潜在地震区	qian zai de zhen qu
+潜在震源	qian zai zhen yuan
+潜在震源区	qian zai zhen yuan qu
+前震	qian zhen
+前震余震型	qian zhen yu zhen xing
+前震主震型	qian zhen zhu zhen xing
+前正觉山	qian zheng jue shan
+强地震学	qiang di zhen xue
+强烈热带风暴	qiang lie re dai feng bao
+强震重复间隔	qiang zhen chong fu jian ge
+强震地震学	qiang zhen di zhen xue
+强震观测	qiang zhen guan ce
+强震加速度图	qiang zhen jia su du tu
+强震加速度仪	qiang zhen jia su du yi
+强震仪	qiang zhen yi
+亲气元素	qin qi yuan su
+侵蚀基准面	qin shi ji zhun mian
+侵蚀阶地	qin shi jie di
+侵蚀面	qin shi mian
+侵蚀循环	qin shi xun huan
+亲石元素	qin shi yuan su
+亲铁元素	qin tie yuan su
+亲铜元素	qin tong yuan su
+倾滑断层	qing hua duan ceng
+黥基	qing ji
+倾斜场	qing xie chang
+庆州历史区	qing zhou li shi qu
+琼戈尼	qiong ge ni
+穹隆构造	qiong long gou zao
+穹丘	qiong qiu
+球对称地球	qiu dui chen di qiu
+丘陵	qiu ling
+球面应力	qiu mian ying li
+球状风化	qiu zhuang feng hua
+屈服应变	qu fu ying bian
+屈浪拏国	qu lang na guo
+曲流	qu liu
+瞿毗霜那国	qu pi shuang na guo
+瞿师罗园	qu shi luo yuan
+佉陀罗山	qu tuo luo shan
+区位三角形	qu wei san jiao xing
+区位商数	qu wei shang shu
+区位系数	qu wei xi shu
+区位型式	qu wei xing shi
+区域	qu yu
+区域地球化学	qu yu di qiu hua xue
+区域地图集	qu yu di tu ji
+区域地震台网	qu yu di zhen tai wang
+区域地质构造	qu yu di zhi gou zao
+区域分异	qu yu fen yi
+区域构造线	qu yu gou zao xian
+区域环境	qu yu huan jing
+区域历史地理	qu yu li shi di li
+区域气候	qu yu qi hou
+区域应力场	qu yu ying li chang
+区域重力场	qu yu zhong li chang
+全波理论	quan bo li lun
+全波震相分析	quan bo zhen xiang fen xi
+全风化	quan feng hua
+泉华沉积	quan hua chen ji
+全景描绘	quan jing miao hui
+全球重力异常	quan qiu zhong li yi chang
+全息地震法	quan xi di zhen fa
+全息地震图	quan xi di zhen tu
+全新世	quan xin shi
+全新统	quan xin tong
+却尔却克组	que er que ke zu
+群丛	qun cong
+群发性地震	qun fa xing di zhen
+群礁	qun jiao
+群克	qun ke
+群生植物	qun sheng zhi wu
+绕射波	rao she bo
+热带	re dai
+热带大陆气候	re dai da lu qi hou
+热带锋	re dai feng
+热带旱生森林	re dai han sheng sen lin
+热带雨林气候	re dai yu lin qi hou
+热点	re dian
+热点地幔柱	re dian di man zhu
+热点说	re dian shuo
+热红外遥感	re hong wai yao gan
+热湖	re hu
+热喀斯特	re ka si te
+热喀斯特湖	re ka si te hu
+热流体	re liu ti
+热融作用	re rong zuo yong
+热水平衡	re shui ping heng
+热异常	re yi chang
+热重力测量	re zhong li ce liang
+仁慈耶稣圣殿	ren ci ye su sheng dian
+人工地貌	ren gong di mao
+人工地震	ren gong di zhen
+人工湖	ren gong hu
+人工水系	ren gong shui xi
+人工诱发地震	ren gong you fa di zhen
+人工震源	ren gong zhen yuan
+人口零增长	ren kou ling zeng zhang
+人口信息系统	ren kou xin xi xi tong
+人口总出生率	ren kou zong chu sheng lv
+人口总死亡率	ren kou zong si wang lv
+人类地理学	ren lei di li xue
+人文地理学	ren wen di li xue
+韧性断层	ren xing duan ceng
+人种地理学	ren zhong di li xue
+日光山	ri guang shan
+日曼投影	ri man tou ying
+日晒风化	ri shai feng hua
+日温差	ri wen cha
+日月潮	ri yue chao
+溶斗	rong dou
+溶沟	rong gou
+融化指数	rong hua zhi shu
+溶滤水	rong lv shui
+溶滤作用	rong lv zuo yong
+溶蚀	rong shi
+溶蚀谷	rong shi gu
+溶蚀盆	rong shi pen
+融土	rong tu
+融雪径流	rong xue jing liu
+熔岩	rong yan
+熔岩被	rong yan bei
+熔岩流	rong yan liu
+熔岩塔	rong yan ta
+肉质植物	rou zhi zhi wu
+入渗	ru shen
+乳香之路	ru xiang zhi lu
+汝阴	ru yin
+入字型构造	ru zi xing gou zao
+软地幔	ruan de man
+软流圈	ruan liu quan
+软砂岩沉积	ruan sha yan chen ji
+瑞利波相速度	rui li bo xiang su du
+瑞利原理	rui li yuan li
+瑞替	rui ti
+弱风化	ruo feng hua
+萨瓦纳气候	sa wa na qi hou
+三点校正法	san dian jiao zheng fa
+三叠纪	san die ji
+三叠系	san die xi
+三分量强震仪	san fen liang qiang zhen yi
+三分向地震仪	san fen xiang di zhen yi
+三工河	san gong he
+三合地震台网	san he di zhen tai wang
+三角测量	san jiao ce liang
+三角洲	san jiao zhou
+三维波速结构	san wei bo su jie gou
+三维地带性	san wei di dai xing
+三维地震模型	san wei di zhen mo xing
+三维图程序	san wei tu cheng xu
+三位一体圣柱	san wei yi ti sheng zhu
+三轴地震计	san zhou di zhen ji
+桑盖国家公园	sang gai guo jia gong yuan
+桑吉兰	sang ji lan
+桑斯苏西宫	sang si su xi gong
+桑索斯	sang suo si
+桑塔木组	sang ta mu zu
+色究竟天	se jiu jing tian
+色雷斯古墓	se lei si gu mu
+色雷斯人墓	se lei si ren mu
+森林保护区	sen lin bao hu qu
+森林草原	sen lin cao yuan
+森林气候	sen lin qi hou
+森林上限	sen lin shang xian
+森林水文学	sen lin shui wen xue
+森林土壤	sen lin tu rang
+沙暴	sha bao
+莎车国	sha che guo
+沙赫利苏伯兹	sha he li su bo zi
+沙垅	sha long
+沙漠城镇	sha mo cheng zhen
+沙漠历史地理	sha mo li shi di li
+砂泥质	sha ni zhi
+沙丘	sha qiu
+沙丘扩侵	sha qiu kuo qin
+砂土液化	sha tu ye hua
+沙溪庙组	sha xi miao zu
+沙羡	sha xian
+砂屑	sha xie
+砂屑灰岩	sha xie hui yan
+砂岩	sha yan
+沙镇溪组	sha zhen xi zu
+砂质灰岩	sha zhi hui yan
+砂质泥岩	sha zhi ni yan
+砂质黏壤土	sha zhi nian rang tu
+山崩	shan beng
+山地	shan di
+山地沼泽	shan di zhao ze
+山顶面	shan ding mian
+山峰	shan feng
+栅格数据结构	shan ge shu ju jie gou
+山弧	shan hu
+珊瑚礁	shan hu jiao
+山间盆地	shan jian pen di
+山麓	shan lu
+山麓堆积	shan lu dui ji
+山麓平原	shan lu ping yuan
+山麓侵蚀面	shan lu qin shi mian
+山麓侵蚀平原	shan lu qin shi ping yuan
+山脉	shan mai
+山体效应	shan ti xiao ying
+山西云岗石窟	shan xi yun gang shi ku
+剡县	shan xian
+扇形论	shan xing lun
+扇形三角洲	shan xing san jiao zhou
+山岳冰川	shan yue bing chuan
+山中小湖	shan zhong xiao hu
+上地幔	shang di man
+上地幔计划	shang di man ji hua
+商品性农业	shang pin xing nong ye
+上统	shang tong
+上新世	shang xin shi
+商业地理学	shang ye di li xue
+商业网布局	shang ye wang bu ju
+设计标准谱	she ji biao zhun pu
+社经地位	she jing di wei
+射气测量	she qi ce liang
+射气系数	she qi xi shu
+射气作用	she qi zuo yong
+摄氏温度表	she shi wen du biao
+深部构造	shen bu gou zao
+申布伦	shen bu lun
+深层地下水	shen ceng di xia shui
+深大断裂	shen da duan lie
+深断裂	shen duan lie
+深海区	shen hai qu
+深井地震仪	shen jing di zhen yi
+深切曲流	shen qie qu liu
+渗透场	shen tou chang
+深源地震面	shen yuan di zhen mian
+伸展构造	shen zhan gou zao
+生产地理学	sheng chan di li xue
+生产专业化	sheng chan zhuan ye hua
+生活型谱	sheng huo xing pu
+生命层	sheng ming ceng
+生命线系统	sheng ming xian xi tong
+声纳遥感	sheng na yao gan
+生死比率	sheng si bi lv
+生态变异	sheng tai bian yi
+生态地段	sheng tai di duan
+生态地理学	sheng tai di li xue
+生态平衡	sheng tai ping heng
+生态塔	sheng tai ta
+生态效益	sheng tai xiao yi
+声望价值	sheng wang jia zhi
+生物地理群落	sheng wu di li qun luo
+生物分布	sheng wu fen bu
+生物分布学	sheng wu fen bu xue
+生物风化作用	sheng wu feng hua zuo yong
+生物礁	sheng wu jiao
+生物净化	sheng wu jing hua
+生物迁移	sheng wu qian yi
+生物圈	sheng wu quan
+生物群	sheng wu qun
+生物异常观测	sheng wu yi chang guan ce
+生物资源保护	sheng wu zi yuan bao hu
+生屑灰岩	sheng xie hui yan
+剩余磁性	sheng yu ci xing
+生源景观	sheng yuan jing guan
+生长断层	sheng zhang duan ceng
+市场导向工业	shi chang dao xiang gong ye
+时程分析法	shi cheng fen xi fa
+视电阻率	shi dian zu lv
+湿害	shi hai
+石盒子组	shi he zi zu
+石灰岩	shi hui yan
+实际蒸散	shi ji zheng san
+石见银山	shi jian yin shan
+世界地图集	shi jie di tu ji
+时空迁移	shi kong qian yi
+时空数据库	shi kong shu ju ku
+石窟庵	shi ku an
+石冷水组	shi leng shui zu
+室利佛逝	shi li fo shi
+矢量数据结构	shi liang shu ju jie gou
+市民塔	shi min ta
+石墓群	shi mu qun
+施佩耶尔	shi pei ye er
+视频分类	shi pin fen lei
+史前地震	shi qian di zhen
+视倾角	shi qing jiao
+市区复苏	shi qu fu su
+湿润气候	shi run qi hou
+石燧石	shi sui shi
+石炭纪	shi tan ji
+石炭系	shi tan xi
+始新世	shi xin shi
+实验地震学	shi yan di zhen xue
+实验地质学	shi yan di zhi xue
+石英	shi ying
+石英岩	shi ying yan
+实用地震学	shi yong di zhen xue
+石油化工业	shi you hua gong ye
+石造城堡	shi zao cheng bao
+市镇景观	shi zhen jing guan
+受控震源	shou kong zhen yuan
+收缩说	shou suo shuo
+首震	shou zhen
+数据精度	shu ju jing du
+数据模型	shu ju mo xing
+疏勒国	shu le guo
+数量地理学	shu liang di li xue
+数量底色法	shu liang di se fa
+树林底层植物	shu lin di ceng zhi wu
+枢纽断层	shu niu duan ceng
+输沙能力	shu sha neng li
+舒善河组	shu shan he zu
+竖向地震荷载	shu xiang di zhen he zai
+数字地震图	shu zi di zhen tu
+数字滤波	shu zi lv bo
+数字图象处理	shu zi tu xiang chu li
+数字图象镶嵌	shu zi tu xiang xiang qian
+数字相关法	shu zi xiang guan fa
+衰落区	shuai luo qu
+双摆地震仪	shuang bai di zhen yi
+双城文化统一	shuang cheng wen hua tong yi
+双磁阻地震仪	shuang ci zu di zhen yi
+水半球	shui ban qiu
+水成景观	shui cheng jing guan
+水稻梯田	shui dao ti tian
+水道网	shui dao wang
+水氡异常	shui dong yi chang
+水化学	shui hua xue
+睡火山	shui huo shan
+水库地震	shui ku di zhen
+水利经济学	shui li jing ji xue
+水力致裂法	shui li zhi lie fa
+水力作用	shui li zuo yong
+水量交换	shui liang jiao huan
+水能	shui neng
+水平地带	shui ping di dai
+水平地震仪	shui ping di zhen yi
+水平断距	shui ping duan ju
+水平降水	shui ping jiang shui
+水平运动	shui ping yun dong
+水迁移	shui qian yi
+水圈	shui quan
+水上景观	shui shang jing guan
+水土保持	shui tu bao chi
+水土流失	shui tu liu shi
+水位	shui wei
+水位地震波	shui wei di zhen bo
+水文地理学	shui wen di li xue
+水文地球化学	shui wen di qiu hua xue
+水文地质学	shui wen di zhi xue
+水文过程	shui wen guo cheng
+水文试验	shui wen shi yan
+水文物理学	shui wen wu li xue
+水污染	shui wu ran
+水下景观	shui xia jing guan
+水循环	shui xun huan
+水样	shui yang
+水质	shui zhi
+水质评价	shui zhi ping jia
+水资源	shui zi yuan
+顺层边坡	shun ceng bian po
+顺化古迹群	shun hua gu ji qun
+顺扭	shun niu
+死火山	si huo shan
+速度地震仪	su du di zhen yi
+速度反演	su du fan yan
+速度各向异性	su du ge xiang yi xing
+速度界面	su du jie mian
+俗离山	su li shan
+酥性土	su xing tu
+溯源堆积	su yuan dui ji
+溯源侵蚀	su yuan qin shi
+酸性腐殖	suan xing fu zhi
+酸雨	suan yu
+碎裂岩	sui lie yan
+遂宁组	sui ning zu
+碎屑沉积	sui xie chen ji
+碎屑型风化壳	sui xie xing feng hua qiao
+碎屑岩	sui xie yan
+塌陷破火山口	ta xian po huo shan kou
+苔草沼泽	tai cao zhao ze
+太古宙	tai gu zhou
+太阳辐射	tai yang fu she
+苔原气候	tai yuan qi hou
+探槽	tan cao
+滩地沼泽	tan di zhao ze
+滩脊	tan ji
+滩脊型潮滩	tan ji xing chao tan
+探井	tan jing
+碳酸盐	tan suan yan
+炭质	tan zhi
+炭质泥岩	tan zhi ni yan
+汤殿山	tang dian shan
+掏蚀	tao shi
+特大地震	te da di zhen
+体波震级	ti bo zhen ji
+提水试验	ti shui shi yan
+提塘	ti tang
+天启洞穴	tian qi dong xue
+天然磁矿	tian ran ci kuang
+天然堤	tian ran di
+天然休止角	tian ran xiu zhi jiao
+天体磁场	tian ti ci chang
+填筑土	tian zhu tu
+条植	tiao zhi
+铁拉登特罗	tie la deng te luo
+铁质土	tie zhi tu
+廷巴克图	ting ba ke tu
+通艾	tong ai
+统层	tong ceng
+同化带	tong hua dai
+统计地震学	tong ji di zhen xue
+桐里山	tong li shan
+通勤带	tong qin dai
+同相波	tong xiang bo
+同心圆地带论	tong xin yuan di dai lun
+统一震级	tong yi zhen ji
+同震区	tong zhen qu
+同震线	tong zhen xian
+透镜体	tou jing ti
+透水层	tou shui ceng
+透水岩	tou shui yan
+投影转换	tou ying zhuan huan
+投子山	tou zi shan
+凸岸坝	tu an ba
+图巴塔哈	tu ba ta ha
+图表阐析	tu biao chan xi
+图伯特	tu bo te
+土地单元	tu di dan yuan
+土地电	tu di dian
+土地功能	tu di gong neng
+土地刻面	tu di ke mian
+土地类型	tu di lei xing
+土地利用	tu di li yong
+土地利用制度	tu di li yong zhi du
+土地能力	tu di neng li
+土地属性	tu di shu xing
+土地特性	tu di te xing
+土地限制性	tu di xian zhi xing
+土氡	tu dong
+图幅尺寸	tu fu chi cun
+图根哈特	tu gen ha te
+土力学	tu li xue
+图面自动注记	tu mian zi dong zhu ji
+土壤发生	tu rang fa sheng
+土壤复区	tu rang fu qu
+土壤耗竭	tu rang hao jie
+土壤胶体	tu rang jiao ti
+土壤侵蚀	tu rang qin shi
+土壤水	tu rang shui
+土壤水分补充	tu rang shui fen bu chong
+土壤水文学	tu rang shui wen xue
+土壤退化	tu rang tui hua
+土壤污染	tu rang wu ran
+土壤因素	tu rang yin su
+土壤资源	tu rang zi yuan
+土壤组合	tu rang zu he
+土蠕	tu ru
+土体蠕动	tu ti ru dong
+图象重叠	tu xiang chong die
+图象复合	tu xiang fu he
+图象几何测定	tu xiang ji he ce ding
+图象模拟	tu xiang mo ni
+图象识别	tu xiang shi bie
+图象数据磁带	tu xiang shu ju ci dai
+图象数字化	tu xiang shu zi hua
+图象投影变换	tu xiang tou ying bian huan
+推覆体	tui fu ti
+退水曲线	tui shui qu xian
+托尔期	tuo er qi
+托管地区	tuo guan di qu
+脱硅作用	tuo gui zuo yong
+托考伊	tuo kao yi
+脱硫酸作用	tuo liu suan zuo yong
+陀螺地震计	tuo luo di zhen ji
+脱气作用	tuo qi zuo yong
+洼地	wa di
+外地核	wai di he
+外黄	wai huang
+外来名	wai lai ming
+外语惯用地名	wai yu guan yong di ming
+挽近地壳运动	wan jin di ke yun dong
+完全布格改正	wan quan bu ge gai zheng
+完全混合湖	wan quan hun he hu
+完全液化	wan quan ye hua
+完钻	wan zuan
+微地貌	wei di mao
+韦尔吉纳	wei er ji na
+韦尔拉	wei er la
+伪方位投影	wei fang wei tou ying
+微风化	wei feng hua
+微观地震效应	wei guan di zhen xiao ying
+微观液化	wei guan ye hua
+微观震中	wei guan zhen zhong
+微碱水生境	wei jian shui sheng jing
+微量金属	wei liang jin shu
+魏玛和德绍	wei ma he de shao
+韦内雷港	wei nei lei gang
+委任统治地	wei ren tong zhi di
+卫生填土法	wei sheng tian tu fa
+微咸湖	wei xian hu
+纬线跨度	wei xian kua du
+尾相	wei xiang
+纬向构造体系	wei xiang gou zao ti xi
+维歇尔地震仪	wei xie er di zhen yi
+卫星定位系统	wei xing ding wei xi tong
+卫星市镇	wei xing shi zhen
+卫星图像判读	wei xing tu xiang pan du
+卫星象片	wei xing xiang pian
+卫星影象	wei xing ying xiang
+围岩	wei yan
+位移地震仪	wei yi di zhen yi
+伪圆柱投影	wei yuan zhu tou ying
+伪圆锥投影	wei yuan zhui tou ying
+韦泽尔	wei ze er
+微震观测	wei zhen guan ce
+微震台阵	wei zhen tai zhen
+微震仪	wei zhen yi
+韦兹莱	wei zi lai
+温带	wen dai
+温带大陆气候	wen dai da lu qi hou
+温带落叶林	wen dai luo ye lin
+温迪亚	wen di ya
+文化边界	wen hua bian jie
+文化汇合	wen hua hui he
+纹泥	wen ni
+温室效应	wen shi xiao ying
+沃达蒸汽泵站	wo da zheng qi beng zhan
+无潮海	wu chao hai
+午城黄土	wu cheng huang tu
+无导向工业	wu dao xiang gong ye
+伍德布法罗	wu de bu fa luo
+无定向磁力仪	wu ding xiang ci li yi
+五峰组	wu feng zu
+无感地震	wu gan di zhen
+吴家坪组	wu jia ping zu
+物理地震学	wu li di zhen xue
+物理风化作用	wu li feng hua zuo yong
+污染源	wu ran yuan
+污水	wu shui
+武遂	wu sui
+无所有处天	wu suo you chu tian
+无线地震台网	wu xian di zhen tai wang
+无源地震	wu yuan di zhen
+无震地形变	wu zhen di xing bian
+无震形变	wu zhen xing bian
+武州	wu zhou
+细腐殖质	xi fu zhi zhi
+矽卡岩	xi ka yan
+细粒砂岩	xi li sha yan
+细粒砂状	xi li sha zhuang
+细砾岩	xi li yan
+悉氏温度表	xi shi wen du biao
+系统识别	xi tong shi bie
+细质地土壤	xi zhi di tu rang
+下部地壳	xia bu di qiao
+下沉海岸	xia chen hai an
+下地幔	xia di man
+下沟组	xia gou zu
+峡谷洞穴群	xia gu dong xue qun
+下降漏斗	xia jiang lou dou
+夏利玛尔公园	xia li ma er gong yuan
+夏洛茨维尔	xia luo ci wei er
+下滤过程	xia lv guo cheng
+下坡风	xia po feng
+下切侵蚀	xia qie qin shi
+下切作用	xia qie zuo yong
+夏琐	xia suo
+下统	xia tong
+下钻	xia zuan
+先成水系	xian cheng shui xi
+现代地壳运动	xian dai di qiao yun dong
+藓类沼泽	xian lei zhao ze
+酰罗城	xian luo cheng
+酰罗山	xian luo shan
+仙女木时间	xian nv mu shi jian
+显生宙	xian sheng zhou
+鲜水河地震带	xian shui he di zhen dai
+咸水湖	xian shui hu
+显微薄片	xian wei bao pian
+显微构造	xian wei gou zao
+闲暇地理	xian xia di li
+掀斜运动	xian xie yun dong
+线性构造	xian xing gou zao
+线性现象	xian xing xian xiang
+相变说	xiang bian shuo
+乡村地理学	xiang cun di li xue
+象岛	xiang dao
+相对年代测定	xiang dui nian dai ce ding
+相对重力值	xiang dui zhong li zhi
+相关沉积	xiang guan chen ji
+相关掩模	xiang guan yan mo
+襄国	xiang guo
+向量地图	xiang liang di tu
+相片判读	xiang pian pan du
+项县	xiang xian
+象限四分树	xiang xian si fen shu
+向斜	xiang xie
+象形图	xiang xing tu
+响应地震图	xiang ying di zhen tu
+香醉山	xiang zui shan
+小地震	xiao di zhen
+消费地理学	xiao fei di li xue
+消洪	xiao hong
+硝化作用	xiao hua zuo yong
+消减板块	xiao jian ban kuai
+消减带	xiao jian dai
+消融区	xiao rong qu
+硝石采石场	xiao shi cai shi chang
+萧条区	xiao tiao qu
+消亡板块	xiao wang ban kuai
+斜断口	xie duan kou
+协调水系	xie tiao shui xi
+新北界	xin bei jie
+新冰期	xin bing qi
+新厂阶	xin chang jie
+信度国	xin du guo
+信度河	xin du he
+欣盖提	xin gai ti
+新构造	xin gou zao
+新构造期	xin gou zao qi
+新构造运动	xin gou zao yun dong
+辛哈拉加	xin ha la jia
+新华夏式	xin hua xia shi
+新近纪	xin jin ji
+新拉纳克	xin la na ke
+辛涅谬尔	xin nie miu er
+新全球构造	xin quan qiu gou zao
+新热带界	xin re dai jie
+新圣女修道院	xin sheng nv xiu dao yuan
+辛特拉	xin te la
+新田沟组	xin tian gou zu
+新锡德尔湖	xin xi de er hu
+信息经济	xin xi jing ji
+信息压缩	xin xi ya suo
+新鲜面	xin xian mian
+新仙女木事件	xin xian nv mu shi jian
+新月形沙丘	xin yue xing sha qiu
+新褶曲山脉	xin zhe qu shan mai
+形变地震仪	xing bian di zhen yi
+性脆	xing cui
+形谷	xing gu
+行为地理学	xing wei di li xue
+行为矩阵	xing wei ju zhen
+行星地震学	xing xing di zhen xue
+行星风系	xing xing feng xi
+行政地理	xing zheng di li
+休眠火山	xiu mian huo shan
+休闲期耕作	xiu xian qi geng zuo
+修正布格异常	xiu zheng bu ge yi chang
+虚波阵面	xu bo zhen mian
+须昌	xu chang
+续发地震	xu fa di zhen
+须家河组	xu jia he zu
+虚假设	xu jia she
+叙利至沙洛呐	xu li zhi sha luo na
+续至波	xu zhi bo
+续至到时	xu zhi dao shi
+悬冰川	xuan bing chuan
+悬浮粒子	xuan fu li zi
+选举地理	xuan ju di li
+玄武岩	xuan wu yan
+悬崖坡	xuan ya po
+旋转波	xuan zhuan bo
+旋转断层	xuan zhuan duan ceng
+旋转断块	xuan zhuan duan kuai
+旋转平面波	xuan zhuan ping mian bo
+雪蚀	xue shi
+雪线	xue xian
+循环钻井液	xun huan zuan jing ye
+熏香之路	xun xiang zhi lu
+寻阳	xun yang
+压电式地震计	ya dian shi di zhen ji
+亚热带	ya re dai
+压缩空气震源	ya suo kong qi zhen yuan
+压缩震相	ya suo zhen xiang
+压陷盆地	ya xian pen di
+压性结构面	ya xing jie gou mian
+亚雪带	ya xue dai
+岩崩	yan beng
+岩崩地震	yan beng di zhen
+沿滨泥沙流	yan bin ni sha liu
+岩层崩落	yan ceng beng luo
+岩成土	yan cheng tu
+盐成土	yan cheng tu
+岩床	yan chuang
+岩洞教堂	yan dong jiao tang
+岩盖	yan gai
+岩关阶	yan guan jie
+雁行式断裂	yan hang shi duan lie
+盐湖	yan hu
+岩画遗址	yan hua yi zhi
+岩基	yan ji
+岩浆	yan jiang
+岩浆冲击说	yan jiang chong ji shuo
+岩浆活动	yan jiang huo dong
+岩浆库	yan jiang ku
+岩浆水	yan jiang shui
+岩刻画	yan ke hua
+雁列构造	yan lie gou zao
+岩脉	yan mai
+岩漠	yan mo
+阎牟那河	yan mou na he
+岩漆	yan qi
+岩溶景观	yan rong jing guan
+岩溶水	yan rong shui
+赝瑞利波	yan rui li bo
+燕山运动	yan shan yun dong
+岩石	yan shi
+岩石断裂力学	yan shi duan lie li xue
+岩石静压力	yan shi jing ya li
+岩石力学性质	yan shi li xue xing zhi
+岩石漆	yan shi qi
+岩石圈	yan shi quan
+岩石圈板块	yan shi quan ban kuai
+岩石圈地震	yan shi quan di zhen
+岩石圈断裂	yan shi quan duan lie
+岩石水理性质	yan shi shui li xing zhi
+岩石循环	yan shi xun huan
+岩石艺术区	yan shi yi shu qu
+岩石质量指标	yan shi zhi liang zhi biao
+岩体静压力	yan ti jing ya li
+岩体强度	yan ti qiang du
+岩土界线	yan tu jie xian
+厌恶性行业	yan wu xing hang ye
+岩屑	yan xie
+岩屑堆	yan xie dui
+岩屑锥	yan xie zhui
+岩性	yan xing
+岩性界线	yan xing jie xian
+盐沼	yan zhao
+赝重力	yan zhong li
+岩株	yan zhu
+羊背石	yang bei shi
+养蚕业	yang can ye
+仰冲板块	yang chong ban kuai
+养分富集	yang fen fu ji
+氧化土	yang hua tu
+鸯掘多罗国	yang jue duo luo guo
+洋盆	yang pen
+阳夏	yang xia
+阳象	yang xiang
+阳翟	yang zhai
+遥测地震台网	yao ce di zhen tai wang
+遥测地震仪	yao ce di zhen yi
+要冲城市	yao chong cheng shi
+夜摩天	ye mo tian
+液压作用	ye ya zuo yong
+页状剥落	ye zhuang bo luo
+易北河谷	yi bei he gu
+易腐作物	yi fu zuo wu
+遗迹群	yi ji qun
+意境地图	yi jing di tu
+移流雾	yi liu wu
+夷平面	yi ping mian
+夷平作用	yi ping zuo yong
+仪器震中	yi qi zhen zhong
+猗氏	yi shi
+艺术文化景观	yi shu wen hua jing guan
+易损性分析	yi sun xing fen xi
+伊索莱	yi suo lai
+伊特鲁立亚	yi te lu li ya
+伊通火山群	yi tong huo shan qun
+伊维萨岛景观	yi wei sa dao jing guan
+义县阶	yi xian jie
+医学地理学	yi xue de li xue
+隐伏断层	yin fu duan ceng
+印干组	yin gan zu
+引力定律	yin li ding lv
+隐生宙	yin sheng zhou
+阴象	yin xiang
+隐域土	yin yu tu
+应变	ying bian
+应变场	ying bian chang
+应变地震图	ying bian di zhen tu
+应变地震仪	ying bian di zhen yi
+应变分布图	ying bian fen bu tu
+应变积累	ying bian ji lei
+应变释放	ying bian shi fang
+应力场	ying li chang
+应力积累	ying li ji lei
+英买力组	ying mai li zu
+硬磐	ying pan
+影区	ying qu
+鹰山组	ying shan zu
+影响半径	ying xiang ban jing
+影象地图	ying xiang di tu
+影象分辨率	ying xiang fen bian lv
+影象灰度	ying xiang hui du
+影象判读	ying xiang pan du
+影象质量	ying xiang zhi liang
+英雄港中心区	ying xiong gang zhong xin qu
+硬叶林	ying ye lin
+应用地理学	ying yong di li xue
+应用地图学	ying yong di tu xue
+应用地震学	ying yong di zhen xue
+映震敏感井	ying zhen min gan jing
+雍布拉岗	yong bu la gang
+永久冻土	yong jiu dong tu
+永久形变	yong jiu xing bian
+永久雪线	yong jiu xue xian
+雍陵	yong ling
+雍丘	yong qiu
+雍县	yong xian
+有潮河口	you chao he kou
+有方廷斯	you fang ting si
+有感地震	you gan di zhen
+有感地震区	you gan di zhen qu
+幼年土壤	you nian tu rang
+游憩地理	you qi di li
+油气水显示	you qi shui xian shi
+由拳	you quan
+犹太人居住区	you tai ren ju zhu qu
+油页岩	you ye yan
+游移湖	you yi hu
+邮政地理学	you zheng di li xue
+预报地图	yu bao di tu
+雨滴侵蚀	yu di qin shi
+鱼复	yu fu
+羽黑山	yu hei shan
+臾那世界国	yu na shi jie guo
+阈限人口	yu xian ren kou
+阈限应力	yu xian ying li
+语言地理学	yu yan di li xue
+预震	yu zhen
+宇治	yu zhi
+宇宙	yu zhou
+宇宙尘	yu zhou chen
+宇宙地学	yu zhou di xue
+宇宙地质学	yu zhou di zhi xue
+宇宙科学	yu zhou ke xue
+圆瓣图	yuan ban tu
+远场体波	yuan chang ti bo
+元地图学	yuan di tu xue
+圆顶石屋	yuan ding shi wu
+元古宙	yuan gu zhou
+冤句	yuan ju
+原摩加多尔	yuan mo jia duo er
+原始大气圈	yuan shi da qi quan
+原始火球假说	yuan shi huo qiu jia shuo
+圆石子	yuan shi zi
+原位测试	yuan wei ce shi
+原型工业化	yuan xing gong ye hua
+远震台网	yuan zhen tai wang
+远震仪	yuan zhen yi
+圆柱投影	yuan zhu tou ying
+月亮港	yue liang gang
+月球潮汐	yue qiu chao xi
+月球章动	yue qiu zhang dong
+约塞米蒂	yue sai mi di
+月震	yue zhen
+月震仪	yue zhen yi
+运动线法	yun dong xian fa
+云岗石窟	yun gang shi ku
+云母	yun mu
+运输地理学	yun shu di li xue
+运输联系	yun shu lian xi
+运输区划	yun shu qu hua
+运输枢纽	yun shu shu niu
+运输网布局	yun shu wang bu ju
+运输网络	yun shu wang luo
+晕滃法	yun weng fa
+晕渲法	yun xuan fa
+孕震构造	yun zhen gou zao
+孕震构造体系	yun zhen gou zao ti xi
+宰比德	zai bi de
+灾变论	zai bian lun
+灾害地理学	zai hai di li xue
+灾害性地震	zai hai xing di zhen
+藻类过量繁殖	zao lei guo liang fan zhi
+造林学	zao lin xue
+造陆运动	zao lu yun dong
+早期人类遗址	zao qi ren lei yi zhi
+造山带	zao shan dai
+造山幕	zao shan mu
+造山运动	zao shan yun dong
+造山作用	zao shan zuo yong
+泽列	ze lie
+增长极论	zeng zhang ji lun
+扎莫希奇古城	zha mo xi qi gu cheng
+瞻波国	zhan bo guo
+障壁坝	zhang bi ba
+张德勒运动	zhang de le yun dong
+张德勒周期	zhang de le zhou qi
+张节理	zhang jie li
+杖林	zhang lin
+胀缩波	zhang suo bo
+张性断裂	zhang xing duan lie
+张性结构面	zhang xing jie gou mian
+长子继承权	zhang zi ji cheng quan
+照叶林	zhao ye lin
+沼泽化	zhao ze hua
+沼泽率	zhao ze lv
+沼泽泥炭	zhao ze ni tan
+沼泽生态系统	zhao ze sheng tai xi tong
+沼泽水文	zhao ze shui wen
+沼泽形成过程	zhao ze xing cheng guo cheng
+沼泽学	zhao ze xue
+磔迦国	zhe jia guo
+哲罗姆派	zhe luo mu pai
+折射波	zhe she bo
+折射层	zhe she ceng
+折射地震仪	zhe she di zhen yi
+折射面	zhe she mian
+折射剖面	zhe she pou mian
+赭时国	zhe shi guo
+柘县	zhe xian
+褶皱带	zhe zhou dai
+褶皱地震	zhe zhou di zhen
+褶皱幕	zhe zhou mu
+褶皱运动	zhe zhou yun dong
+褶皱作用	zhe zhou zuo yong
+震波图	zhen bo tu
+震磁效应	zhen ci xiao ying
+震旦纪	zhen dan ji
+震电效应	zhen dian xiao ying
+震感区	zhen gan qu
+震害重复性	zhen hai chong fu xing
+震害统计	zhen hai tong ji
+震害预测	zhen hai yu ce
+震后救援	zhen hou jiu yuan
+震级	zhen ji
+震级残差	zhen ji can cha
+震级档	zhen ji dang
+震级上限	zhen ji shang xian
+震级时间曲线	zhen ji shi jian qu xian
+震级限值	zhen ji xian zhi
+震裂带	zhen lie dai
+震前滑动	zhen qian hua dong
+震前平静	zhen qian ping jing
+震前形变	zhen qian xing bian
+震情	zhen qing
+震情会商	zhen qing hui shang
+震相分析	zhen xiang fen xi
+针叶林	zhen ye lin
+震影	zhen ying
+震源	zhen yuan
+震源参数	zhen yuan can shu
+震源尺度	zhen yuan chi du
+震源道	zhen yuan dao
+震源定位	zhen yuan ding wei
+震源动力学	zhen yuan dong li xue
+震源几何学	zhen yuan ji he xue
+震源机制	zhen yuan ji zhi
+震源谱	zhen yuan pu
+震源球	zhen yuan qiu
+震源时间函数	zhen yuan shi jian han shu
+震源体积	zhen yuan ti ji
+震源孕育	zhen yuan yun yu
+震中加速度	zhen zhong jia su du
+珍珠冲组	zhen zhu chong zu
+正残积风化壳	zheng can ji feng hua qiao
+正常地貌	zheng chang di mao
+正地貌	zheng di mao
+正断层	zheng duan ceng
+蒸发	zheng fa
+正射影象地图	zheng she ying xiang di tu
+正旋回	zheng xuan hui
+正阳组	zheng yang zu
+正韵律	zheng yun lv
+植被	zhi bei
+知床半岛	zhi chuang ban dao
+质量底色法	zhi liang di se fa
+植林	zhi lin
+志留	zhi liu
+支流	zhi liu
+志留纪	zhi liu ji
+志留系	zhi liu xi
+至那仆底国	zhi na pu di guo
+指示群落	zhi shi qun luo
+滞水面	zhi shui mian
+支提国	zhi ti guo
+支提山	zhi ti shan
+制图分类	zhi tu fen lei
+制图精度	zhi tu jing du
+植物垂直台带	zhi wu chui zhi tai dai
+植物群落	zhi wu qun luo
+制印原图	zhi yin yuan tu
+质子磁力仪	zhi zi ci li yi
+中薄层状	zhong bao ceng zhuang
+中层状	zhong ceng zhuang
+重大建设工程	zhong da jian she gong cheng
+中等地震	zhong deng di zhen
+中断河	zhong duan he
+中国板块	zhong guo ban kuai
+中国南方	zhong guo nan fang
+中厚层状	zhong hou ceng zhuang
+重力	zhong li
+中砾	zhong li
+重力触探	zhong li chu tan
+重力低	zhong li di
+重力高	zhong li gao
+重力构造	zhong li gou zao
+重力均衡校正	zhong li jun heng jiao zheng
+重力均衡异常	zhong li jun heng yi chang
+中粒砂岩	zhong li sha yan
+中粒砂状	zhong li sha zhuang
+重力水	zhong li shui
+重力梯度	zhong li ti du
+重力图	zhong li tu
+重力异常场	zhong li yi chang chang
+中碛	zhong qi
+中强震	zhong qiang zhen
+中生代	zhong sheng dai
+中生植物	zhong sheng zhi wu
+中世纪古城	zhong shi ji gu cheng
+中天山	zhong tian shan
+中天山板块	zhong tian shan ban kuai
+中纬度草原	zhong wei du cao yuan
+中纬度荒漠	zhong wei du huang mo
+中位沼泽	zhong wei zhao ze
+中西部各州	zhong xi bu ge zhou
+中心地学说	zhong xin de xue shuo
+中新世	zhong xin shi
+中心式喷发	zhong xin shi pen fa
+中营养沼泽	zhong ying yang zhao ze
+中周期地震仪	zhong zhou qi di zhen yi
+周家店组	zhou jia dian zu
+祝阿	zhu a
+猪背脊	zhu bei ji
+筑垒村	zhu lei cun
+主量	zhu liang
+侏罗纪	zhu luo ji
+侏罗系	zhu luo xi
+注水试验	zhu shui shi yan
+朱提	zhu ti
+主应力	zhu ying li
+住宅和工作室	zhu zhai he gong zuo shi
+主震型地震	zhu zhen xing di zhen
+柱状结构	zhu zhuang jie gou
+砖红壤性土	zhuan hong rang xing tu
+转换波	zhuan huan bo
+转换断层	zhuan huan duan ceng
+专题地图集	zhuan ti di tu ji
+专题地图学	zhuan ti di tu xue
+专题制图仪	zhuan ti zhi tu yi
+装配工业	zhuang pei gong ye
+准噶尔板块	zhun ga er ban kuai
+准平原	zhun ping yuan
+卓越周期	zhuo yue zhou qi
+资本密集工业	zi ben mi ji gong ye
+自成景观	zi cheng jing guan
+自动化制图	zi dong hua zhi tu
+子合国	zi he guo
+自给性农业	zi ji xing nong ye
+资金密集工业	zi jin mi ji gong ye
+自流井组	zi liu jing zu
+自流水盆地	zi liu shui pen di
+自然地理过程	zi ran di li guo cheng
+自然电位	zi ran dian wei
+自然电位法	zi ran dian wei fa
+自然环境	zi ran huan jing
+自然景观	zi ran jing guan
+自然历	zi ran li
+自然森林	zi ran sen lin
+自然生产潜力	zi ran sheng chan qian li
+自然生态系统	zi ran sheng tai xi tong
+自然遗产	zi ran yi chan
+自然疫源地	zi ran yi yuan di
+自然灾害	zi ran zai hai
+自然资源	zi ran zi yuan
+兹瓦尔特诺茨	zi wa er te nuo ci
+紫外遥感	zi wai yao gan
+自学系统	zi xue xi tong
+自养营养	zi yang ying yang
+自由空间校正	zi you kong jian jiao zheng
+自由空间异常	zi you kong jian yi chang
+资源地理学	zi yuan di li xue
+资源信息系统	zi yuan xin xi xi tong
+棕钙土	zong gai tu
+综合地图集	zong he de tu ji
+综合评价地图	zong he ping jia di tu
+综合运输	zong he yun shu
+综合制图	zong he zhi tu
+综合自然区划	zong he zi ran qu hua
+宗教地理	zong jiao di li
+棕漠土	zong mo tu
+总侵蚀基准面	zong qin shi ji zhun mian
+纵向结合	zong xiang jie he
+纵向沙丘	zong xiang sha qiu
+总蒸发	zong zheng fa
+钻洞动物	zuan dong dong wu
+钻油平台	zuan you ping tai
+最大概率地震	zui da gai lv di zhen
+最大主应力	zui da zhu ying li
+最高洪水位	zui gao hong shui wei
+最可信地震	zui ke xin di zhen
+作物布局	zuo wu bu ju
+作物组合	zuo wu zu he
