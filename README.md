@@ -47,6 +47,8 @@
 
 结巴中文分词 <https://github.com/fxsjy/jieba>
 
+汉字转拼音(pypinyin) <https://github.com/mozillazg/python-pinyin>
+
 MNBVC超大规模中文语料集 <https://github.com/esbatmop/MNBVC> 目前已有33TB数据量
 
 kenlm <https://github.com/kpu/kenlm> 官网<https://kheafield.com/code/kenlm/>
