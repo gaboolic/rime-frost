@@ -2082,7 +2082,7 @@ use_preset_vocabulary: false
 卜凤波	bo feng bo
 不变作负	bu bian zuo fu
 不变作和	bu bian zuo he
-布局骗着与对策	bu ju pian zhe yu dui ce
+布局骗着与对策	bu ju pian zhao yu dui ce
 布局研究	bu ju yan jiu
 才溢	cai yi
 蔡忠诚	cai zhong cheng
@@ -2365,7 +2365,7 @@ use_preset_vocabulary: false
 得子得先各得子	de zi de xian ge de zi
 得子失势	de zi shi shi
 得子失先却是输	de zi shi xian que shi shu
-等着困敌	deng zhe kun di
+等着困敌	deng zhao kun di
 低兵	di bing
 底兵	di bing
 地方棋协大师	di fang qi xie da shi
@@ -2438,7 +2438,7 @@ use_preset_vocabulary: false
 和势	he shi
 河头兵	he tou bing
 河头车	he tou che
-黑方变着	hei fang bian zhe
+黑方变着	hei fang bian zhao
 黑负	hei fu
 黑高右横车	hei gao you heng che
 黑进路卒转中炮对屏风马	hei jin lu zu zhuan zhong pao dui ping feng ma
@@ -2463,7 +2463,7 @@ use_preset_vocabulary: false
 黑左过宫炮	hei zuo guo gong pao
 红兵底炮	hong bing di pao
 红兑三路兵	hong dui san lu bing
-红方变着	hong fang bian zhe
+红方变着	hong fang bian zhao
 红负	hong fu
 红高左横车	hong gao zuo heng che
 红横车占左肋	hong heng che zhan zuo lei
@@ -2527,15 +2527,14 @@ use_preset_vocabulary: false
 进炮应须要辅车	jin pao ying xu yao fu che
 金松	jin song
 靳玉砚	jin yu yan
-禁止着法	jin zhi zhe fa
-精选着法	jing xuan zhe fa
+禁止着法	jin zhi zhao fa
+精选着法	jing xuan zhao fa
 景学义	jing xue yi
 九尾龟	jiu wei gui
 橘中秘	ju zhong mi
 开滦煤矿股份	kai luan mei kuang gu fen
 开通子力	kai tong zi li
 空头炮	kong tou pao
-空着	kong zhe
 控制	kong zhi
 困毙	kun bi
 落子无悔	lao zi wu hui
@@ -2889,7 +2888,7 @@ use_preset_vocabulary: false
 起马	qi ma
 起马对挺卒	qi ma dui ting zu
 起马局	qi ma ju
-弃马十三着	qi ma shi san zhe
+弃马十三着	qi ma shi san zhao
 棋评	qi ping
 棋枰	qi ping
 奇趣象棋排局谱	qi qu xiang qi pai ju pu
@@ -2897,7 +2896,7 @@ use_preset_vocabulary: false
 弃象陷车	qi xiang xian che
 棋协大师	qi xie da shi
 启新高尔夫杯全国象棋甲级联赛	qi xin gao er fu bei quan guo xiang qi jia ji lian sai
-起着	qi zhe
+起着	qi zhao
 弃子成和	qi zi cheng he
 弃子解困	qi zi jie kun
 弃子谋子	qi zi mou zi
@@ -2919,7 +2918,7 @@ use_preset_vocabulary: false
 三卒	san zu
 杀法	sha fa
 杀棋	sha qi
-杀着	sha zhe
+杀着	sha zhao
 闪露	shan lu
 上海金外滩	shang hai jin wai tan
 尚威	shang wei
@@ -2999,7 +2998,7 @@ use_preset_vocabulary: false
 挺兵对金钩炮	ting bing dui jin gou pao
 挺兵对进马	ting bing dui jin ma
 挺兵对起马	ting bing dui qi ma
-停着	ting zhe
+停着	ting zhao
 挺卒	ting zu
 同线车	tong xian che
 突破战术	tu po zhan shu
@@ -3039,7 +3038,7 @@ use_preset_vocabulary: false
 仙人指路对卒底炮飞左象	xian ren zhi lu dui zu di pao fei zuo xiang
 仙人指路对卒底炮上马	xian ren zhi lu dui zu di pao shang ma
 先胜	xian sheng
-闲着	xian zhe
+闲着	xian zhao
 相九进七	xiang jiu jin qi
 相九退七	xiang jiu tui qi
 象棋残局新论	xiang qi can ju xin lun
@@ -3112,7 +3111,7 @@ use_preset_vocabulary: false
 以稳对稳	yi wen dui wen
 一着两用	yi zhao liang yong
 因敌变化	yin di bian hua
-应着	ying zhe
+应着	ying zhao
 用时制度	yong shi zhi du
 有根子	you gen zi
 宇兵	yu bing
@@ -3123,7 +3122,7 @@ use_preset_vocabulary: false
 原位卒	yuan wei zu
 鸳鸯炮	yuan yang pao
 运调	yun tiao
-允许着法	yun xu zhe fa
+允许着法	yun xu zhao fa
 运子得子	yun zi de zi
 运子夺先	yun zi duo xian
 运子合击	yun zi he ji
@@ -3143,8 +3142,7 @@ use_preset_vocabulary: false
 赵汝权	zhao ru quan
 赵鑫鑫	zhao xin xin
 赵寅	zhao yin
-浙江球冠	zhe jiang qiu guan
-着中有数	zhe zhong you shu
+着中有数	zhao zhong you shu
 正头车	zheng tou che
 郑一泓	zheng yi hong
 智弈棋评	zhi yi qi ping
@@ -4022,7 +4020,7 @@ use_preset_vocabulary: false
 逼进红方帅府	bi jin hong fang shuai fu
 逼仕	bi shi
 避仕	bi shi
-必须变着	bi xu bian zhe
+必须变着	bi xu bian zhao
 变二	bian er
 变例	bian li
 边马	bian ma
@@ -4077,7 +4075,7 @@ use_preset_vocabulary: false
 不变作负	bu bian zuo fu
 不变作和	bu bian zuo he
 不吃子	bu chi zi
-布局骗着与对策	bu ju pian zhe yu dui ce
+布局骗着与对策	bu ju pian zhao yu dui ce
 不限步数	bu xian bu shu
 不准在同一直线上	bu zhun zai tong yi zhi xian shang
 踩掉红马	cai diao hong ma
@@ -4216,7 +4214,7 @@ use_preset_vocabulary: false
 车六退四	che liu tui si
 车六退五	che liu tui wu
 车六退一	che liu tui yi
-车每一着	che mei yi zhe
+车每一着	che mei yi zhao
 撤炮	che pao
 车炮抽杀	che pao chou sha
 车七进	che qi jin
@@ -4389,10 +4387,10 @@ use_preset_vocabulary: false
 出现循环反复	chu xian xun huan fan fu
 此局由于	ci ju you yu
 此象	ci xiang
-此着	ci zhe
+此着	ci zhao
 从没捉到捉	cong mei zhuo dao zhuo
 从左路	cong zuo lu
-错着百例	cuo zhe bai li
+错着百例	cuo zhao bai li
 大胆穿心	da dan chuan xin
 大刀剜心	da dao wan xin
 打死黑卒	da si hei zu
@@ -4414,16 +4412,13 @@ use_preset_vocabulary: false
 担子炮	dan zi pao
 党斐	dang fei
 当田字中心	dang tian zi zhong xin
-到另一个空着的交叉点	dao ling yi ge kong zhe de jiao cha dian
 的规定时	de gui ding shi
-德国中国象棋联盟	de guo zhong guo xiang qi lian meng
 得仕	de shi
-的一方	de yi fang
 得子得势	de zi de shi
 得子得先各得子	de zi dei xian ge de zi
 得子失势	de zi shi shi
 得子失先却是输	de zi shi xian que shi shu
-等着困敌	deng zhe kun di
+等着困敌	deng zhao kun di
 低兵	di bing
 底兵	di bing
 底炮	di pao
@@ -4558,7 +4553,7 @@ use_preset_vocabulary: false
 黑冲卒无奈	hei chong zu wu nai
 黑出将	hei chu jiang
 黑方必须	hei fang bi xu
-黑方变着	hei fang bian zhe
+黑方变着	hei fang bian zhao
 黑方只有	hei fang zhi you
 黑负	hei fu
 黑高右横车	hei gao you heng che
@@ -4596,9 +4591,9 @@ use_preset_vocabulary: false
 红败局已定	hong bai ju yi ding
 红兵	hong bing
 红兵底炮	hong bing di pao
-红此着	hong ci zhe
+红此着	hong ci zhao
 红兑三路兵	hong dui san lu bing
-红方变着	hong fang bian zhe
+红方变着	hong fang bian zhao
 红负	hong fu
 红高左横车	hong gao zuo heng che
 红横车占左肋	hong heng che zhan zuo lei
@@ -4704,7 +4699,7 @@ use_preset_vocabulary: false
 进四	jin si
 金松	jin song
 进五	jin wu
-紧要之着	jin yao zhi zhe
+紧要之着	jin yao zhi zhao
 进一	jin yi
 进一马	jin yi ma
 禁止着法	jin zhi zhao fa
@@ -4775,7 +4770,7 @@ use_preset_vocabulary: false
 掠相	lue xiang
 轮到走棋的一方	lun dao zou qi de yi fang
 轮走的	lun zou de
-落家老练之着	luo jia lao lian zhi zhe
+落家老练之着	luo jia lao lian zhi zhao
 吕钦	lv qin
 马八	ma ba
 马八进九	ma ba jin jiu
@@ -4809,7 +4804,7 @@ use_preset_vocabulary: false
 马六退七	ma liu tui qi
 马六退四	ma liu tui si
 马六退五	ma liu tui wu
-马每着走	ma mei zhe zou
+马每着走	ma mei zhao zou
 马炮	ma pao
 马炮兵	ma pao bing
 马炮仕相全	ma pao shi xiang quan
@@ -4866,9 +4861,9 @@ use_preset_vocabulary: false
 马卒	ma zu
 梅花谱	mei hua pu
 梅花三六	mei hua san liu
-每一着	mei yi zhe
-每着	mei zhe
-每着可以	mei zhe ke yi
+每一着	mei yi zhao
+每着	mei zhao
+每着可以	mei zhao ke yi
 每组十六个	mei zu shi liu ge
 闷宫	men gong
 闷杀	men sha
@@ -5208,7 +5203,7 @@ use_preset_vocabulary: false
 起马	qi ma
 起马对挺卒	qi ma dui ting zu
 起马局	qi ma ju
-弃马十三着	qi ma shi san zhe
+弃马十三着	qi ma shi san zhao
 棋盘上	qi pan shang
 棋盘中间	qi pan zhong jian
 棋评	qi ping
@@ -5306,7 +5301,6 @@ use_preset_vocabulary: false
 仕六退五	shi liu tui wu
 仕六退五车	shi liu tui wu che
 仕六退五卒	shi liu tui wu zu
-士每一着只许沿	shi mei yi zhe zhi xu yan
 实乃讹诈	shi nai e zha
 适情雅趣象棋古谱新编	shi qing ya qu xiang qi gu pu xin bian
 士四	shi si
@@ -5361,7 +5355,7 @@ use_preset_vocabulary: false
 帅六退一	shuai liu tui yi
 帅六退一车	shuai liu tui yi che
 帅六退一马	shuai liu tui yi ma
-帅每一着	shuai mei yi zhe
+帅每一着	shuai mei yi zhao
 帅四	shuai si
 帅四进一	shuai si jin yi
 帅四平五	shuai si ping wu
@@ -5396,7 +5390,7 @@ use_preset_vocabulary: false
 双兵	shuang bing
 双车错	shuang che cuo
 双方都	shuang fang dou
-双方各走了一着	shuang fang ge zou liao yi zhe
+双方各走了一着	shuang fang ge zou liao yi zhao
 双方均无	shuang fang jun wu
 双方轮流各走一着	shuang fang lun liu ge zou yi zhao
 双方排阵	shuang fang pai zhen
@@ -5501,7 +5495,6 @@ use_preset_vocabulary: false
 五卒	wu zu
 袭其不备	xi qi bu bei
 献车	xian che
-先得出者	xian de chu zhe
 先锋马	xian feng ma
 先负	xian fu
 献马妙极	xian ma miao ji
@@ -5615,13 +5608,14 @@ use_preset_vocabulary: false
 一至九	yi zhi jiu
 一卒	yi zu
 因敌变化	yin di bian hua
-应当变着而不变	ying dang bian zhe er bu bian
+应当变着	ying dang bian zhao
+应当变着而不变	ying dang bian zhao er bu bian
 应对不佳	ying dui bu jia
 应改	ying gai
 应将	ying jiang
 应使双方	ying shi shuang fang
-应着	ying zhe
-应走着数	ying zou zhe shu
+应着	ying zhao
+应走着数	ying zou zhao shu
 用炮	yong pao
 用时太多	yong shi tai duo
 用中文数字	yong zhong wen shu zi
@@ -5676,10 +5670,8 @@ use_preset_vocabulary: false
 赵汝权	zhao ru quan
 赵鑫鑫	zhao xin xin
 赵子仪	zhao zi yi
-着改走	zhe gai zou
-浙江波尔轴承队	zhe jiang bo er zhou cheng dui
-浙江球冠	zhe jiang qiu guan
-着中有数	zhe zhong you shu
+着改走	zhao gai zou
+着中有数	zhao zhong you shu
 争夺对手	zheng duo dui shou
 正头车	zheng tou che
 直车	zhi che
@@ -5695,8 +5687,6 @@ use_preset_vocabulary: false
 制中	zhi zhong
 中兵	zhong bing
 中宫炮	zhong gong pao
-中国象棋爱好者	zhong guo xiang qi ai hao zhe
-中国象棋兵法种	zhong guo xiang qi bing fa zhong
 中国象棋冠军	zhong guo xiang qi guan jun
 中国象棋锦标赛	zhong guo xiang qi jin biao sai
 中国象棋谱库	zhong guo xiang qi pu ku
@@ -5753,7 +5743,7 @@ use_preset_vocabulary: false
 自来出洞无敌手象棋古谱新编	zi lai chu dong wu di shou xiang qi gu pu xin bian
 子力价值	zi li jia zhi
 子力位置	zi li wei zhi
-自然限着	zi ran xian zhe
+自然限着	zi ran xian zhao
 走法同车一样	zou fa tong che yi yang
 走棋和吃子	zou qi he chi zi
 走一着棋时	zou yi zhao qi shi
