@@ -8,3 +8,6 @@ print(lazy_pinyin('下雨天'))
 
 print(lazy_pinyin('禁着点'))
 print(pinyin('禁着点',heteronym=True))
+
+
+print(pinyin('鸂鶒',heteronym=True))
