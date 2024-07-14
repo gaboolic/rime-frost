@@ -155,6 +155,7 @@ sort: by_weight
 摸子走子
 行棋
 #五子棋
+做棋
 连冲四
 连冲三
 二十六种开局
@@ -193,6 +194,23 @@ sort: by_weight
 斜月
 名月
 彗星
+白棋	bai qi
+冲四	chong si
+寒星	han xing
+黑棋	hei qi
+花月	hua yue
+活三	huo san
+眠三	mian san
+连珠	lian zhu
+疏星	shu xing
+四三	si san
+四三三	si san san
+跳二	tiao er
+五子棋	wu zi qi
+溪月	xi yue
+雨月	yu yue
+抓禁手	zhua jin shou
+做活	zuo huo
 
 愚形
 禁着点
