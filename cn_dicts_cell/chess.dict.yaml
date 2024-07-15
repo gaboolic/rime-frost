@@ -9,7 +9,6 @@ sort: by_weight
 ...
 #象棋
 王天一	wang tian yi
-胡荣华	hu rong hua
 捉双	zhuo shuang
 大子	da zi
 出动大子	chu dong da zi
@@ -32,43 +31,33 @@ sort: by_weight
 千里照面	qian li zhao mian
 双车挫	shuang che cuo
 双車挫	shuang che cuo
-重炮	zhong pao
-重炮杀	zhong pao sha
+重炮	chong pao
+重炮杀	chong pao sha
 夹车炮	jia che pao
 闷宫	men gong
 闷杀	men sha
-铁门闩	tie men shuan
 铁门栓	tie men shuan
 天地炮	tian di pao
-沉底炮	chen di pao
 空头炮	kong tou pao
-卧槽马	wo cao ma
-挂角马	gua jiao ma
 挂角	gua jiao
 八角马	ba jiao ma
-钓鱼马	diao yu ma
 侧面虎	ce mian hu
-高钓马	gao diao ma
 拔簧马	ba huang ma
 双马饮泉	shuang ma yin quan
 车马冷着	che ma leng zhao
 双照将	shuang zhao jiang
-二鬼拍门	er gui pai men
 三进兵	san jin bing
 凤凰三点头	feng huang san dian tou
 太监追黄帝	tai jian zhui huang di
 送佛归殿	song fu gui dian
-大刀剜心	da dao wan xin
 双车协士	shuang che xie shi
 双车夺士	shuang che duo shi
 双车夺炮	shuang che duo pao
 将不死	jiang bu si
 步步带将	bu bu dai jiang
 三车闹士	san che nao shi
-马后炮	ma hou pao
 平顶冠	ping ding guan
 臣压君	chen ya jun
-海底捞月	hai di lao yue
 借车使炮	jie che shi pao
 借车使马	jie che shi ma
 借炮使马	jie pao shi ma
@@ -80,8 +69,6 @@ sort: by_weight
 炮镇五子	pao zhen wu zi
 无根车炮	wu gen che pao
 马看炮	ma kan pao
-盘头马	pan tou ma
-当头炮	dang tou pao
 牛头滚	niu tou gun
 兵五进一	bing wu jin yi
 兵三进一	bing san jin yi
@@ -93,7 +80,6 @@ sort: by_weight
 冲中兵	chong zhong bing
 冲卒	chong zu
 三七线	san qi xian
-两头蛇	liang tou she
 宫顶线	gong ding xian
 卒林线	zu lin xian
 橘中秘	ju zhong mi
@@ -107,10 +93,8 @@ sort: by_weight
 过河车	guo he che
 巡河线	xun he xian
 巡河车	xun he che
-巡河炮	xun he pao
 飞象	fei xiang
 飞相	fei xiang
-屏风马	ping feng ma
 敢死车	gan si che
 敢死炮	gan si pao
 瞎眼狗	xia yan gou
@@ -118,34 +102,28 @@ sort: by_weight
 虎眼	hu yan
 虎眼炮	hu yan pao
 城墙炮	cheng qiang pao
-过宫炮	guo gong pao
 顺炮	shun pao
 列炮	lie pao
 列手炮	lie shou pao
 大列手炮	da lie shou pao
 弃子攻杀	qi zi gong sha
-弃子争先	qi zi zheng xian
 弃车保帅	qi che bao shuai
 弃帅保车	qi shuai bao che
 直车对横车	zhi che dui heng che
 窝心炮	wo xin pao
-窝心马	wo xin ma
 铁滑车	tie hua che
 五六炮	wu liu pao
 五七炮	wu qi pao
 老兵搜山	lao bing sou shan
 绊马脚	ban ma jiao
 绊马腿	ban ma tui
-别马脚	bie ma jiao
 别马腿	bie ma tui
 无理手	wu li shou
-棋谱	qi pu
 古棋谱	gu qi pu
 古谱	gu pu
 #国际象棋
 王车易位	wang che yi wei
 无子可动	wu zi ke dong
-逼和	bi he
 吃过路兵	chi guo lu bing
 兵升变	bing sheng bian
 升变	sheng bian
@@ -158,53 +136,32 @@ sort: by_weight
 连冲三	lian chong san
 二十六种开局	er shi liu zhong kai ju
 长连禁手	zhang lian jin shou
-禁手	jin shou
 三三禁	san san jin
 三三禁手	san san jin shou
 三手两打	san shou liang da
 五手交换	wu shou jiao huan
 直指开局	zhi zhi kai ju
-寒星	han xing
 溪月	xi yue
 疏星	shu xing
-花月	hua yue
-残月	can yue
 雨月	yu yue
-金星	jin xing
 松月	song yue
 丘月	qiu yue
-新月	xin yue
-瑞星	rui xing
-山月	shan yue
 游星	you xing
 斜指开局	xie zhi kai ju
 斜指	xie zhi
 长星	zhang xing
 峡月	xia yue
-恒星	heng xing
-水星	shui xing
-流星	liu xing
 云月	yun yue
 浦月	pu yue
 岚月	lan yue
-银月	yin yue
-明星	ming xing
 斜月	xie yue
 名月	ming yue
-彗星	hui xing
-白棋	bai qi
 冲四	chong si
-黑棋	hei qi
 活三	huo san
 眠三	mian san
-连珠	lian zhu
-四三	si san
-四三三	si san san
 跳二	tiao er
-五子棋	wu zi qi
 抓禁手	zhua jin shou
-做活	zuo huo
-	
+
 愚形	yu xing
 禁着点	jin zhao dian
 高目	gao mu

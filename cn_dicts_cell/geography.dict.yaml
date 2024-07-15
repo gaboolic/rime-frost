@@ -10,26 +10,15 @@ sort: by_weight
 use_preset_vocabulary: false
 ...
 岸礁	an jiao
-奥陶纪	ao tao ji
-奥陶系	ao tao xi
 澳洲界	ao zhou jie
 巴东组	ba dong zu
-白垩	bai e
-白垩纪	bai e ji
-白垩系	bai e xi
-白云母	bai yun mu
-白云石	bai yun shi
-白云岩	bai yun yan
 白云质灰岩	bai yun zhi hui yan
 半常绿森林	ban chang lv sen lin
 半承压水层	ban cheng ya shui ceng
-半干旱地区	ban gan han di qu
 板根	ban gen
 半固定沙丘	ban gu ding sha qiu
 斑晶	ban jing
-板块	ban kuai
 板块边界	ban kuai bian jie
-板块构造	ban kuai gou zao
 板块构造说	ban kuai gou zao shuo
 板块构造学	ban kuai gou zao xue
 板块会聚	ban kuai hui ju
@@ -42,21 +31,17 @@ use_preset_vocabulary: false
 板块驱动力	ban kuai qu dong li
 板块消减	ban kuai xiao jian
 板块学说	ban kuai xue shuo
-板块运动	ban kuai yun dong
 斑粝岩	ban li yan
 板内地震	ban nei di zhen
 阪泉	ban quan
 半日潮汐	ban ri chao xi
 斑铜矿	ban tong kuang
 斑纹带	ban wen dai
-斑岩	ban yan
 板岩	ban yan
-搬运作用	ban yun zuo yong
 斑状结构	ban zhuang jie gou
 邦贾加拉陡崖	bang jia jia la dou ya
 暴发洪水	bao fa hong shui
 孢粉分析	bao fen fen xi
-饱和度	bao he du
 保护地质环境	bao hu di zhi huan jing
 堡礁	bao jiao
 爆破地震	bao po di zhen
@@ -65,11 +50,8 @@ use_preset_vocabulary: false
 宝石学	bao shi xue
 宝塔组	bao ta zu
 包体理论	bao ti li lun
-雹灾	bao zai
 钡长石	bei chang shi
-北回归线	bei hui gui xian
 背斜	bei xie
-本初子午线	ben chu zi wu xian
 崩堤	beng di
 崩积层	beng ji ceng
 崩积楔	beng ji xie
@@ -84,14 +66,10 @@ use_preset_vocabulary: false
 边界代数算法	bian jie dai shu suan fa
 变量聚类分析	bian liang ju lei fen xi
 变量筛选分析	bian liang shai xuan fen xi
-边缘地	bian yuan di
 边缘地震	bian yuan di zhen
 边缘断层	bian yuan duan ceng
 边缘弧	bian yuan hu
-边缘化	bian yuan hua
 边缘深断裂	bian yuan shen duan lie
-变质岩	bian zhi yan
-变质作用	bian zhi zuo yong
 辫状河	bian zhuang he
 标贯	biao guan
 表面重力波	biao mian zhong li bo
@@ -103,7 +81,6 @@ use_preset_vocabulary: false
 滨河床沙坝	bin he chuang sha ba
 滨外坝	bin wai ba
 冰擦痕	bing ca hen
-冰川	bing chuan
 冰川变化	bing chuan bian hua
 冰川补给	bing chuan bu gei
 冰川地质学	bing chuan di zhi xue
@@ -113,7 +90,6 @@ use_preset_vocabulary: false
 冰川物质平衡	bing chuan wu zhi ping heng
 冰川隙	bing chuan xi
 冰川学	bing chuan xue
-冰川作用	bing chuan zuo yong
 冰底碛	bing di qi
 冰斗冰川	bing dou bing chuan
 冰分凝	bing fen ning
@@ -128,7 +104,6 @@ use_preset_vocabulary: false
 冰碛平原	bing qi ping yuan
 冰碛平原水系	bing qi ping yuan shui xi
 冰碛物	bing qi wu
-冰山	bing shan
 冰蚀槽	bing shi cao
 冰水沉积物	bing shui chen ji wu
 冰透镜体	bing tou jing ti
@@ -144,7 +119,6 @@ use_preset_vocabulary: false
 波频率	bo pin lv
 波谱分辨率	bo pu fen bian lv
 波散效应	bo san xiao ying
-剥蚀	bo shi
 剥蚀面	bo shi mian
 剥蚀平原	bo shi ping yuan
 波速比	bo su bi
@@ -156,7 +130,6 @@ use_preset_vocabulary: false
 波运动	bo yun dong
 波至	bo zhi
 波周期	bo zhou qi
-波兹坦	bo zi tan
 不称河	bu cheng he
 不等厚	bu deng hou
 不对称水系	bu dui chen shui xi
@@ -167,12 +140,10 @@ use_preset_vocabulary: false
 捕虏岩	bu lu yan
 不能生物降解	bu neng sheng wu jiang jie
 不透水岩	bu tou shui yan
-不整合	bu zheng he
 采取率	cai qu lv
 残积层	can ji ceng
 残积景观	can ji jing guan
 残积土	can ji tu
-残积物	can ji wu
 参考基准面	can kao ji zhun mian
 残留因素	can liu yin su
 残坡积	can po ji
@@ -181,7 +152,6 @@ use_preset_vocabulary: false
 残余风化层	can yu feng hua ceng
 残余应变	can yu ying bian
 槽波	cao bo
-草甸	cao dian
 草甸沼泽	cao dian zhao ze
 草绘等高线	cao hui deng gao xian
 漕矩咤国	cao ju zha guo
@@ -196,8 +166,6 @@ use_preset_vocabulary: false
 层间流	ceng jian liu
 层间水	ceng jian shui
 层结湖	ceng jie hu
-层理	ceng li
-层位	ceng wei
 层序	ceng xu
 层序地层	ceng xu di ceng
 查科文化	cha ke wen hua
@@ -219,7 +187,6 @@ use_preset_vocabulary: false
 场地烈度调整	chang di lie du tiao zheng
 场地脉动	chang di mai dong
 场函数	chang han shu
-常绿阔叶林	chang lv kuo ye lin
 常年洪水位	chang nian hong shui wei
 常温层	chang wen ceng
 长狭潮道	chang xia chao dao
@@ -240,10 +207,7 @@ use_preset_vocabulary: false
 沉积盖层	chen ji gai ceng
 沉积建造	chen ji jian zao
 沉积水	chen ji shui
-沉积物	chen ji wu
 沉积相	chen ji xiang
-沉积岩	chen ji yan
-沉积作用	chen ji zuo yong
 沉降中心	chen jiang zhong xin
 城堡和城墙	cheng bao he cheng qiang
 城堡和文化	cheng bao he wen hua
@@ -272,25 +236,17 @@ use_preset_vocabulary: false
 城乡交错带	cheng xiang jiao cuo dai
 承压地下水	cheng ya di xia shui
 承压含水层	cheng ya han shui ceng
-承压水	cheng ya shui
 承压应变	cheng ya ying bian
-成岩作用	cheng yan zuo yong
 赤道雨林	chi dao yu lin
 赤金堡	chi jin bao
 持水度	chi shui du
-赤铁矿	chi tie kuang
-冲断层	chong duan ceng
 冲沟	chong gou
 冲洪积	chong hong ji
 冲洪积扇	chong hong ji shan
 冲击变形组构	chong ji bian xing zu gou
 冲击变质作用	chong ji bian zhi zuo yong
-冲积层	chong ji ceng
 冲击地震	chong ji di zhen
-冲积扇	chong ji shan
-冲积物	chong ji wu
 冲积锥	chong ji zhui
-冲刷	chong shua
 冲刷面	chong shua mian
 抽水试验	chou shui shi yan
 抽样技巧	chou yang ji qiao
@@ -319,7 +275,6 @@ use_preset_vocabulary: false
 磁赤铁矿	ci chi tie kuang
 磁带地震仪	ci dai di zhen yi
 磁分路	ci fen lu
-磁化	ci hua
 磁黄铁矿	ci huang tie kuang
 磁记录地震仪	ci ji lu di zhen yi
 磁静日	ci jing ri
@@ -363,36 +318,24 @@ use_preset_vocabulary: false
 大峰山	da feng shan
 大卡萨斯	da ka sa si
 大雷普提斯	da lei pu ti si
-大理岩	da li yan
 大羚羊保护区	da ling yang bao hu qu
 大隆组	da long zu
-大陆	da lu
-大陆板块	da lu ban kuai
 大陆被动边缘	da lu bei dong bian yuan
-大陆冰川	da lu bing chuan
 大陆车阀说	da lu che fa shuo
-大陆地壳	da lu di qiao
 大陆地震	da lu di zhen
 大陆度	da lu du
 大陆复原	da lu fu yuan
 大陆固定论	da lu gu ding lun
-大陆架	da lu jia
-大陆块	da lu kuai
 大陆裂谷	da lu lie gu
 大陆碰撞	da lu peng zhuang
-大陆漂移	da lu piao yi
-大陆漂移说	da lu piao yi shuo
 大陆坡	da lu po
 大陆破裂	da lu po lie
-大陆气团	da lu qi tuan
 大陆消减	da lu xiao jian
 大陆性冰川	da lu xing bing chuan
 大陆型地壳	da lu xing di qiao
-大陆性气候	da lu xing qi hou
 大陆增长	da lu zeng zhang
 大陆主动边缘	da lu zhu dong bian yuan
 大气迁移	da qi qian yi
-大气圈	da qi quan
 大容重试验	da rong zhong shi yan
 大田制度	da tian zhi du
 大同火山群	da tong huo shan qun
@@ -400,28 +343,19 @@ use_preset_vocabulary: false
 达西定律	da xi ding lv
 大冶组	da ye zu
 歹字型构造	dai zi xing gou zao
-单面山	dan mian shan
-淡水湖	dan shui hu
 氮循环	dan xun huan
 单元景观	dan yuan jing guan
-岛弧	dao hu
 倒置地貌	dao zhi di mao
-等高线	deng gao xian
 等级扩散	deng ji kuo san
 等积投影	deng ji tou ying
 等角投影	deng jiao tou ying
 等距投影	deng ju tou ying
 等距原则	deng ju yuan ze
 等时线	deng shi xian
-等值线	deng zhi xian
 迪奥西亚	di ao xi ya
-地表径流	di biao jing liu
-地表水	di biao shui
 地表水污染	di biao shui wu ran
 地表震源	di biao zhen yuan
-地槽	di cao
 地槽地台说	di cao di tai shuo
-地层	di ceng
 地层表	di ceng biao
 地层不整合	di ceng bu zheng he
 地层超覆	di ceng chao fu
@@ -430,12 +364,8 @@ use_preset_vocabulary: false
 地层间断	di ceng jian duan
 地层缺失	di ceng que shi
 地层小区	di ceng xiao qu
-地层学	di ceng xue
 地层走向	di ceng zou xiang
-地磁暴	di ci bao
-地磁北极	di ci bei ji
 地磁参考场	di ci can kao chang
-地磁场	di ci chang
 地磁场矢量	di ci chang shi liang
 地磁场要素	di ci chang yao su
 地磁赤道	di ci chi dao
@@ -443,7 +373,6 @@ use_preset_vocabulary: false
 地磁分量	di ci fen liang
 地磁感应	di ci gan ying
 地磁活动性	di ci huo dong xing
-地磁极	di ci ji
 地磁极性倒转	di ci ji xing dao zhuan
 地磁极性反转	di ci ji xing fan zhuan
 地磁极性期	di ci ji xing qi
@@ -464,15 +393,12 @@ use_preset_vocabulary: false
 地电场	di dian chang
 地电法	di dian fa
 地电仪	di dian yi
-地动仪	di dong yi
 递发地震	di fa di zhen
 地方气候	di fang qi hou
 地方震	di fang zhen
 地缝合线	di feng he xian
 迪夫里伊	di fu li yi
 地滚波	di gun bo
-地核	di he
-地基	di ji
 地基刚性	di ji gang xing
 地基回弹	di ji hui tan
 地基失效	di ji shi xiao
@@ -482,15 +408,9 @@ use_preset_vocabulary: false
 递进变形	di jin bian xing
 地静压力	di jing ya li
 笛卡尔张量	di ka er zhang liang
-笛卡尔坐标	di ka er zuo biao
-地块	di kuai
-地垒	di lei
-地理大发现	di li da fa xian
 地理底图	di li di tu
 地理泛系分析	di li fan xi fen xi
-地理分布	di li fen bu
 地理惯性	di li guan xing
-地理环境	di li huan jing
 地理计量学	di li ji liang xue
 地理精度	di li jing du
 地理考察	di li kao cha
@@ -499,10 +419,7 @@ use_preset_vocabulary: false
 地理数据采编	di li shu ju cai bian
 地理数据库	di li shu ju ku
 地理通名	di li tong ming
-地理纬度	di li wei du
-地理位置	di li wei zhi
 地理相关法	di li xiang guan fa
-地理信息	di li xin xi
 地理信息流	di li xin xi liu
 地理学史	di li xue shi
 地理学思想史	di li xue si xiang shi
@@ -515,9 +432,7 @@ use_preset_vocabulary: false
 地理综合	di li zong he
 地理阻障	di li zu zhang
 地理坐标网	di li zuo biao wang
-地裂缝	di lie feng
 狄罗尼三角网	di luo ni san jiao wang
-地幔	di man
 地幔波	di man bo
 地幔地核界面	di man di he jie mian
 地幔底辟	di man di pi
@@ -531,10 +446,7 @@ use_preset_vocabulary: false
 地幔热柱	di man re zhu
 地幔岩	di man yan
 地幔涌流	di man yong liu
-地幔柱	di man zhu
-地貌	di mao
 地貌成因	di mao cheng yin
-地貌单元	di mao dan yuan
 地貌倒置	di mao dao zhi
 地貌过程	di mao guo cheng
 地貌量计学	di mao liang ji xue
@@ -544,9 +456,7 @@ use_preset_vocabulary: false
 地貌形成作用	di mao xing cheng zuo yong
 地貌序列	di mao xu lie
 地貌旋回	di mao xuan hui
-地貌学	di mao xue
 地貌组合	di mao zu he
-地面沉降	di mian chen jiang
 地面混波	di mian hun bo
 地面加速度	di mian jia su du
 地面脉动	di mian mai dong
@@ -559,30 +469,21 @@ use_preset_vocabulary: false
 底碛	di qi
 地堑	di qian
 地堑盆地	di qian pen di
-地壳	di qiao
 地壳波速结构	di qiao bo su jie gou
 地壳地震	di qiao di zhen
 地壳均衡	di qiao jun heng
-地壳运动	di qiao yun dong
 地壳增厚	di qiao zeng hou
 地倾斜	di qing xie
-地球	di qiu
 地球变化磁场	di qiu bian hua ci chang
 地球变形	di qiu bian xing
-地球表面	di qiu biao mian
 地球潮汐	di qiu chao xi
 地球潮汐因子	di qiu chao xi yin zi
 地球成因说	di qiu cheng yin shuo
 地球磁性	di qiu ci xing
-地球村	di qiu cun
 地球动力模型	di qiu dong li mo xing
-地球动力学	di qiu dong li xue
 地球放射性	di qiu fang she xing
 地球辐射	di qiu fu she
-地球辐射带	di qiu fu she dai
-地球公转	di qiu gong zhuan
 地球固体潮	di qiu gu ti chao
-地球化学	di qiu hua xue
 地球化学场	di qiu hua xue chang
 地球化学景观	di qiu hua xue jing guan
 地球化学区	di qiu hua xue qu
@@ -591,42 +492,29 @@ use_preset_vocabulary: false
 地球基本磁场	di qiu ji ben ci chang
 地球进动	di qiu jin dong
 地球静力学	di qiu jing li xue
-地球科学	di qiu ke xue
-地球空间	di qiu kong jian
 地球力学	di qiu li xue
 地球模型	di qiu mo xing
 地球内部化学	di qiu nei bu hua xue
 地球膨胀	di qiu peng zhang
 地球膨胀说	di qiu peng zhang shuo
-地球史	di qiu shi
 地球收缩	di qiu shou suo
 地球外重力位	di qiu wai zhong li wei
 地球物理场	di qiu wu li chang
 地球物理异常	di qiu wu li yi chang
-地球运动	di qiu yun dong
 地球运动学	di qiu yun dong xue
-地球重力	di qiu zhong li
 地球中心核	di qiu zhong xin he
 地球中心角	di qiu zhong xin jiao
 地球自由章动	di qiu zi you zhang dong
 地球自由振动	di qiu zi you zhen dong
 地球资源卫星	di qiu zi yuan wei xing
-地区	di qu
-地热	di re
 地热对流系统	di re dui liu xi tong
 地热工业	di re gong ye
 地热活动	di re huo dong
-地热井	di re jing
-地热能	di re neng
 地热异常区	di re yi chang qu
-第三纪	di san ji
 地生态学	di sheng tai xue
 地势曲线	di shi qu xian
 地史学	di shi xue
-第四纪	di si ji
 第四纪冰期	di si ji bing qi
-第四系	di si xi
-低速层	di su ceng
 低速带	di su dai
 地图编缉	di tu bian ji
 地图编辑系统	di tu bian ji xi tong
@@ -645,13 +533,11 @@ use_preset_vocabulary: false
 地图判读	di tu pan du
 地图评价	di tu ping jia
 地图谱用	di tu pu yong
-地图设计	di tu she ji
 地图数据结构	di tu shu ju jie gou
 地图数学模型	di tu shu xue mo xing
 地图数字化	di tu shu zi hua
 地图特征码	di tu te zheng ma
 地图图型	di tu tu xing
-地图信息	di tu xin xi
 地图信息论	di tu xin xi lun
 地图演绎法	di tu yan yi fa
 地图坐标网	di tu zuo biao wang
@@ -659,32 +545,23 @@ use_preset_vocabulary: false
 低位沼泽	di wei zhao ze
 低温气候	di wen qi hou
 地文因素	di wen yin su
-地下工程	di xia gong cheng
-地下河	di xia he
 地下河流	di xia he liu
-地下水	di xia shui
 地下水动力学	di xia shui dong li xue
 地下水动态	di xia shui dong tai
 地下水观测	di xia shui guan ce
 地下水径流	di xia shui jing liu
 地下水均衡	di xia shui jun heng
 地下水开采	di xia shui kai cai
-地下水库	di xia shui ku
 地下水网络	di xia shui wang luo
-地下水位	di xia shui wei
-地陷	di xian
 地心轨道	di xin gui dao
 地心角	di xin jiao
 地心距离	di xin ju li
 地心体系	di xin ti xi
 地心天顶	di xin tian ding
 地心位置	di xin wei zhi
-地心引力	di xin yin li
 地形变	di xing bian
 地形变测量	di xing bian ce liang
-地形测绘	di xing ce hui
 地形等级	di xing deng ji
-地形地貌	di xing di mao
 地形地物	di xing di wu
 地形分析程序	di xing fen xi cheng xu
 地形基面	di xing ji mian
@@ -692,25 +569,20 @@ use_preset_vocabulary: false
 地形气候学	di xing qi hou xue
 地形抬升	di xing tai sheng
 地形同位素分馏效应	di xing tong wei su fen liu xiao ying
-地形图	di xing tu
 地形图购置	di xing tu gou zhi
 地形图数字化	di xing tu shu zi hua
 地形要素划分标准及分值表	di xing yao su hua fen biao zhun ji fen zhi biao
-地学	di xue
 地学断面	di xue duan mian
 地学知识介绍牌	di xue zhi shi jie shao pai
 地压型地热资源	di ya xing di re zi yuan
 地压应力	di ya ying li
 低液限粘土	di ye xian nian tu
 地衣测年法	di yi ce nian fa
-地应力	di ying li
 地域专业化	di yu zhuan ye hua
 地月重心	di yue zhong xin
 地噪声	di zao sheng
-地震	di zhen
 地震保险	di zhen bao xian
 地震避难场所	di zhen bi nan chang suo
-地震波	di zhen bo
 地震波传播	di zhen bo chuan bo
 地震波衰减	di zhen bo shuai jian
 地震波速比	di zhen bo su bi
@@ -755,15 +627,12 @@ use_preset_vocabulary: false
 地震构造区划	di zhen gou zao qu hua
 地震构造图	di zhen gou zao tu
 地震构造学	di zhen gou zao xue
-地震观测	di zhen guan ce
 地震观测环境	di zhen guan ce huan jing
 地震光缆	di zhen guang lan
 地震过程	di zhen guo cheng
-地震横波	di zhen heng bo
 地震宏观调查	di zhen hong guan diao cha
 地震回放仪	di zhen hui fang yi
 地震会商	di zhen hui shang
-地震活动带	di zhen huo dong dai
 地震活动度	di zhen huo dong du
 地震活动断层	di zhen huo dong duan ceng
 地震活动图	di zhen huo dong tu
@@ -774,7 +643,6 @@ use_preset_vocabulary: false
 地震级数	di zhen ji shu
 地震机制	di zhen ji zhi
 地震加速度图	di zhen jia su du tu
-地震监测	di zhen jian ce
 地震监测设施	di zhen jian ce she shi
 地震监测台网	di zhen jian ce tai wang
 地震监视系统	di zhen jian shi xi tong
@@ -783,7 +651,6 @@ use_preset_vocabulary: false
 地震静力学	di zhen jing li xue
 地震救助技术	di zhen jiu zhu ji shu
 地震矩张量	di zhen ju zhang liang
-地震勘探	di zhen kan tan
 地震科学	di zhen ke xue
 地震空区	di zhen kong qu
 地震控制	di zhen kong zhi
@@ -806,7 +673,6 @@ use_preset_vocabulary: false
 地震剖面	di zhen pou mian
 地震谱	di zhen pu
 地震迁移	di zhen qian yi
-地震前兆	di zhen qian zhao
 地震前兆效应	di zhen qian zhao xiao ying
 地震区划	di zhen qu hua
 地震区划图	di zhen qu hua tu
@@ -856,29 +722,22 @@ use_preset_vocabulary: false
 地震遥测	di zhen yao ce
 地震遥测台网	di zhen yao ce tai wang
 地震谣言	di zhen yao yan
-地震仪	di zhen yi
 地震仪标定	di zhen yi biao ding
 地震仪参数	di zhen yi can shu
 地震异常	di zhen yi chang
 地震遗迹	di zhen yi ji
 地震易损性	di zhen yi sun xing
-地震遗址	di zhen yi zhi
-地震应急	di zhen ying ji
 地震应急预案	di zhen ying ji yu an
 地震影区	di zhen ying qu
 地震有感范围	di zhen you gan fan wei
-地震预报	di zhen yu bao
 地震预报对策	di zhen yu bao dui ce
-地震预测	di zhen yu ce
 地震原生灾害	di zhen yuan sheng zai hai
-地震灾害	di zhen zai hai
 地震灾害评估	di zhen zai hai ping gu
 地震灾害预测	di zhen zai hai yu ce
 地震灾害预防	di zhen zai hai yu fang
 地震灾情	di zhen zai qing
 地震噪声	di zhen zao sheng
 地震震动	di zhen zhen dong
-地震震级	di zhen zhen ji
 地震震相	di zhen zhen xiang
 地震震源	di zhen zhen yuan
 地震中期预报	di zhen zhong qi yu bao
@@ -887,59 +746,34 @@ use_preset_vocabulary: false
 地震纵波	di zhen zong bo
 地震走时表	di zhen zou shi biao
 地震走时曲线	di zhen zou shi qu xian
-地震作用	di zhen zuo yong
 地质背景	di zhi bei jing
 地质背景条件	di zhi bei jing tiao jian
 地质编录	di zhi bian lu
 地质测绘	di zhi ce hui
-地质测量	di zhi ce liang
-地质地貌	di zhi di mao
 地质点	di zhi dian
-地质调查	di zhi diao cha
 地质调查局	di zhi diao cha ju
 地质调查院	di zhi diao cha yuan
-地质公园	di zhi gong yuan
-地质构造	di zhi gou zao
 地质规律	di zhi gui lv
-地质环境	di zhi huan jing
 地质基础	di zhi ji chu
 地质简况	di zhi jian kuang
 地质结构	di zhi jie gou
-地质景观	di zhi jing guan
-地质勘察	di zhi kan cha
 地质勘查报告	di zhi kan cha bao gao
 地质勘查剖面测量	di zhi kan cha pou mian ce liang
 地质科学研究所	di zhi ke xue yan jiu suo
-地质雷达	di zhi lei da
 地质雷达探测	di zhi lei da tan ce
 地质雷达仪器	di zhi lei da yi qi
-地质力学	di zhi li xue
 地质年表	di zhi nian biao
-地质年代	di zhi nian dai
 地质年代测量	di zhi nian dai ce liang
 地质年代学	di zhi nian dai xue
 地质事件	di zhi shi jian
-地质时期	di zhi shi qi
-地质体	di zhi ti
 地质填图	di zhi tian tu
-地质条件	di zhi tiao jian
-地质图	di zhi tu
 地质温度计	di zhi wen du ji
 地质问题	di zhi wen ti
-地质现象	di zhi xian xiang
 地质旋回	di zhi xuan hui
-地质学	di zhi xue
 地质压力计	di zhi ya li ji
-地质遗迹	di zhi yi ji
 地质营力	di zhi ying li
 地质应力	di zhi ying li
-地质灾害	di zhi zai hai
-地质资料	di zhi zi liao
-地质作用	di zhi zuo yong
-地中海	di zhong hai
-地轴	di zhou
 地轴倾角	di zhou qing jiao
-地主	di zhu
 地柱说	di zhu shuo
 地转平衡	di zhuan ping heng
 地转效应	di zhuan xiao ying
@@ -953,7 +787,6 @@ use_preset_vocabulary: false
 电容地震仪	dian rong di zhen yi
 点源分布	dian yuan fen bu
 点值图	dian zhi tu
-电子地图	dian zi di tu
 电子地震仪	dian zi di zhen yi
 电阻率法	dian zu lv fa
 电阻率剖面	dian zu lv pou mian
@@ -961,13 +794,10 @@ use_preset_vocabulary: false
 叠加地震记录	die jia di zhen ji lu
 叠加定律	die jia ding lv
 跌水潭	die shui tan
-顶点	ding dian
 定点形变测量	ding dian xing bian ce liang
 顶极土壤	ding ji tu rang
 定量地震学	ding liang di zhen xue
 丁威勒	ding wei le
-冻害	dong hai
-东海郡	dong hai jun
 冻结层中水	dong jie ceng zhong shui
 冻结指数	dong jie zhi shu
 动力变质作用	dong li bian zhi zuo yong
@@ -975,24 +805,20 @@ use_preset_vocabulary: false
 动力地质学	dong li di zhi xue
 动圈式地震仪	dong quan shi di zhen yi
 动态震害预测	dong tai zhen hai yu ce
-冻土	dong tu
 冻土动力学	dong tu dong li xue
 冻土进化	dong tu jin hua
 冻土退化	dong tu tui hua
 冻土相分析	dong tu xiang fen xi
 冻土学	dong tu xue
 动物传布	dong wu chuan bu
-动物地理学	dong wu di li xue
 洞穴堆积	dong xue dui ji
 洞穴学	dong xue xue
 杜能模式	du neng mo shi
 都市集聚	du shi ji ju
 都市水文学	du shi shui wen xue
-断层	duan ceng
 断层擦痕	duan ceng ca hen
 断层传播	duan ceng chuan bo
 断层带	duan ceng dai
-断层地震	duan ceng di zhen
 断层谷	duan ceng gu
 断层滑距	duan ceng hua ju
 断层活动段	duan ceng huo dong duan
@@ -1013,7 +839,6 @@ use_preset_vocabulary: false
 断块	duan kuai
 断块构造说	duan kuai gou zao shuo
 断块山	duan kuai shan
-断裂	duan lie
 断裂深度分类	duan lie shen du fen lei
 断裂系	duan lie xi
 短期地震前兆	duan qi di zhen qian zhao
@@ -1021,11 +846,8 @@ use_preset_vocabulary: false
 短水准	duan shui zhun
 断头河	duan tou he
 断陷	duan xian
-断陷盆地	duan xian pen di
 短周期地震仪	duan zhou qi di zhen yi
 堆积阶地	dui ji jie di
-堆积物	dui ji wu
-堆积作用	dui ji zuo yong
 对流力	dui liu li
 对流说	dui liu shuo
 顿丘	dun qiu
@@ -1040,12 +862,7 @@ use_preset_vocabulary: false
 多明各会	duo ming ge hui
 多瑙河两岸	duo nao he liang an
 多瑙河三角洲	duo nao he san jiao zhou
-多年冻土	duo nian dong tu
-多年生植物	duo nian sheng zhi wu
 二次余震	er ci yu zhen
-二叠	er die
-二叠纪	er die ji
-二叠系	er die xi
 二轴晶	er zhou jing
 二祖山	er zu shan
 发电机学说	fa dian ji xue shuo
@@ -1081,9 +898,7 @@ use_preset_vocabulary: false
 犯罪地理	fan zui di li
 方辉橄榄岩	fang hui gan lan yan
 方济各会	fang ji ge hui
-方解石	fang jie shi
 方解石化	fang jie shi hua
-仿射变换	fang she bian huan
 放射带	fang she dai
 放射性测量	fang she xing ce liang
 放射性示踪法	fang she xing shi zong fa
@@ -1101,7 +916,6 @@ use_preset_vocabulary: false
 非生源景观	fei sheng yuan jing guan
 非斯老城	fei si lao cheng
 非弹性形变	fei tan xing xing bian
-分布区	fen bu qu
 分布区间断	fen bu qu jian duan
 分布区型	fen bu qu xing
 分布区中心	fen bu qu zhong xin
@@ -1115,10 +929,8 @@ use_preset_vocabulary: false
 分配结构模型	fen pei jie gou mo xing
 分散城市	fen san cheng shi
 粉砂土	fen sha tu
-粉砂岩	fen sha yan
 粉砂质	fen sha zhi
 分数比例尺	fen shu bi li chi
-分水岭	fen shui ling
 汾渭地震带	fen wei di zhen dai
 分乡组	fen xiang zu
 风暴大浪	feng bao da lang
@@ -1130,7 +942,6 @@ use_preset_vocabulary: false
 缝合带	feng he dai
 风化层	feng hua ceng
 风化壳	feng hua qiao
-风化作用	feng hua zuo yong
 风积物	feng ji wu
 风棱石	feng leng shi
 风蚀脊	feng shi ji
@@ -1143,13 +954,11 @@ use_preset_vocabulary: false
 蜂窝状沙丘	feng wo zhuang sha qiu
 风向频度图	feng xiang pin du tu
 丰芽	feng ya
-风灾	feng zai
 峰值小区划	feng zhi xiao qu hua
 富冰冻土	fu bing dong tu
 俯冲板块	fu chong ban kuai
 俯冲带	fu chong dai
 俯冲断层	fu chong duan ceng
-腹地	fu di
 负地貌	fu di mao
 浮雕影象地图	fu diao ying xiang di tu
 复合土地利用	fu he tu di li yong
@@ -1176,7 +985,6 @@ use_preset_vocabulary: false
 干燥作用	gan zao zuo yong
 刚性板块	gang xing ban kuai
 高草草原	gao cao cao yuan
-高岭土	gao ling tu
 高山矮曲林	gao shan ai qu lin
 高山草场轮牧	gao shan cao chang lun mu
 高山冻土	gao shan dong tu
@@ -1184,11 +992,8 @@ use_preset_vocabulary: false
 高山季节移牧	gao shan ji jie yi mu
 高山土壤	gao shan tu rang
 高位沼泽	gao wei zhao ze
-高原	gao yuan
 高原冰川	gao yuan bing chuan
-高原气候	gao yuan qi hou
 高原沼泽	gao yuan zhao ze
-戈壁	ge bi
 隔火路	ge huo lu
 隔水层	ge shui ceng
 隔坨区	ge tuo qu
@@ -1196,15 +1001,12 @@ use_preset_vocabulary: false
 格网座标	ge wang zuo biao
 格状水系	ge zhuang shui xi
 给水度	gei shui du
-更新世	geng xin shi
 更新统	geng xin tong
 工厂化农业	gong chang hua nong ye
 工程地震	gong cheng di zhen
 工程地震学	gong cheng di zhen xue
-工程地质	gong cheng di zhi
 工程地质单元	gong cheng di zhi dan yuan
 工程地质环境	gong cheng di zhi huan jing
-工程地质勘察	gong cheng di zhi kan cha
 工程地质力学	gong cheng di zhi li xue
 工程地质评价	gong cheng di zhi ping jia
 工程地质试验	gong cheng di zhi shi yan
@@ -1223,7 +1025,6 @@ use_preset_vocabulary: false
 工程震害预测	gong cheng zhen hai yu ce
 共轭断层	gong e duan ceng
 共轭节理	gong e jie li
-工矿区	gong kuang qu
 汞铅矿	gong qian kuang
 弓形山组	gong xing shan zu
 工业地理学	gong ye di li xue
@@ -1233,7 +1034,6 @@ use_preset_vocabulary: false
 工业区景观	gong ye qu jing guan
 工业区位政策	gong ye qu wei zheng ce
 工业综合体	gong ye zong he ti
-构造	gou zao
 构造背景	gou zao bei jing
 构造层	gou zao ceng
 构造层位	gou zao ceng wei
@@ -1250,8 +1050,6 @@ use_preset_vocabulary: false
 构造地貌	gou zao di mao
 构造地貌学	gou zao di mao xue
 构造地形	gou zao di xing
-构造地震	gou zao di zhen
-构造地质学	gou zao di zhi xue
 构造反对称	gou zao fan dui chen
 构造复合	gou zao fu he
 构造高原	gou zao gao yuan
@@ -1275,23 +1073,16 @@ use_preset_vocabulary: false
 构造旋回	gou zao xuan hui
 构造应力	gou zao ying li
 构造应力场	gou zao ying li chang
-构造运动	gou zao yun dong
-古地磁	gu di ci
 古地磁极	gu di ci ji
 古地磁学	gu di ci xue
-古地理	gu di li
 古地理学	gu di li xue
-古地图	gu di tu
 古地震	gu di zhen
 固定论	gu ding lun
 固定沙丘	gu ding sha qiu
 孤峰组	gu feng zu
 古近纪	gu jin ji
-古气候	gu qi hou
 鼓丘	gu qiu
-古生代	gu sheng dai
 古生代花岗岩	gu sheng dai hua gang yan
-古生界	gu sheng jie
 古水文学	gu shui wen xue
 顾特卜塔	gu te bu ta
 固体潮振荡	gu ti chao zhen dang
@@ -1301,7 +1092,6 @@ use_preset_vocabulary: false
 固体热力学	gu ti re li xue
 古土壤	gu tu rang
 古纬度	gu wei du
-古新世	gu xin shi
 古应力场	gu ying li chang
 观测地震学	guan ce di zhen xue
 灌丛休耕法	guan cong xiu geng fa
@@ -1312,7 +1102,6 @@ use_preset_vocabulary: false
 光化学氧化剂	guang hua xue yang hua ji
 光弹性实验	guang tan xing shi yan
 光学图象处理	guang xue tu xiang chu li
-硅化	gui hua
 硅孔雀石	gui kong que shi
 硅铝层	gui lv ceng
 硅铝矿物	gui lv kuang wu
@@ -1321,34 +1110,24 @@ use_preset_vocabulary: false
 硅镁石	gui mei shi
 硅硼钙石	gui peng gai shi
 硅铍石化	gui pi shi hua
-硅酸盐	gui suan yan
 硅锌矿	gui xin kuang
-硅藻土	gui zao tu
 硅质灰岩	gui zhi hui yan
-硅质岩	gui zhi yan
 贵族墓葬	gui zu mu zang
 滚动背斜构造	gun dong bei xie gou zao
 过渡型地壳	guo du xing di qiao
 国际和平公园	guo ji he ping gong yuan
 国际重力公式	guo ji zhong li gong shi
 国家地图集	guo jia di tu ji
-国土规划	guo tu gui hua
-国土开发	guo tu kai fa
 国土整治	guo tu zheng zhi
 国土资源卫星	guo tu zi yuan wei xing
-过氧化物	guo yang hua wu
 海岸地貌	hai an di mao
 海岸地貌学	hai an di mao xue
 海岸阶地	hai an jie di
-海拔	hai ba
 海滨沼泽	hai bin zhao ze
-海底地震	hai di di zhen
 海底地震计	hai di di zhen ji
 海底地震勘探	hai di di zhen kan tan
 海底地震仪	hai di di zhen yi
 海底扩张假说	hai di kuo zhang jia shuo
-海沟	hai gou
-海岭	hai ling
 海门口	hai men kou
 海面升降运动	hai mian sheng jiang yun dong
 氦年代测定法	hai nian dai ce ding fa
@@ -1368,30 +1147,20 @@ use_preset_vocabulary: false
 海洋地壳	hai yang di qiao
 海洋地球化学	hai yang di qiu hua xue
 海洋地震仪	hai yang di zhen yi
-海洋地质	hai yang di zhi
-海洋环境	hai yang huan jing
 海洋环流	hai yang huan liu
-海洋气候	hai yang qi hou
-海洋污染	hai yang wu ran
 海洋性冰川	hai yang xing bing chuan
-海洋性气候	hai yang xing qi hou
 海洋震源	hai yang zhen yuan
 海洋震中	hai yang zhen zhong
 海洋重力勘探	hai yang zhong li kan tan
 含冰量	han bing liang
 旱成土	han cheng tu
-寒带	han dai
 寒冻风化	han dong feng hua
 含砾砂岩	han li sha yan
-含硫量	han liu liang
 含煤岩系	han mei yan xi
 汉撒同盟城	han sa tong meng cheng
 汉萨同盟城市	han sa tong meng cheng shi
 含砂	han sha
-含水层	han shui ceng
 寒温带气候	han wen dai qi hou
-寒武纪	han wu ji
-寒武系	han wu xi
 旱峡	han xia
 含油地层	han you di ceng
 含油面积	han you mian ji
@@ -1408,7 +1177,6 @@ use_preset_vocabulary: false
 合成地图	he cheng di tu
 合成地震记录	he cheng di zhen ji lu
 合成地震剖面	he cheng di zhen pou mian
-河床	he chuang
 河床变形	he chuang bian xing
 河道等级	he dao deng ji
 河道坡降	he dao po jiang
@@ -1419,8 +1187,6 @@ use_preset_vocabulary: false
 河流数目定律	he liu shu mu ding lv
 河流袭夺	he liu xi duo
 河流学	he liu xue
-河漫滩	he man tan
-褐煤	he mei
 河网密度	he wang mi du
 核心边缘论	he xin bian yuan lun
 核震相	he zhen xiang
@@ -1435,7 +1201,6 @@ use_preset_vocabulary: false
 横式海岸	heng shi hai an
 横向倾斜仪	heng xiang qing xie yi
 横向沙丘	heng xiang sha qiu
-红堡	hong bao
 宏观地震观测	hong guan di zhen guan ce
 宏观地震考察	hong guan di zhen kao cha
 宏观地震现象	hong guan di zhen xian xiang
@@ -1465,7 +1230,6 @@ use_preset_vocabulary: false
 护林区	hu lin qu
 湖流	hu liu
 胡马纳草原	hu ma na cao yuan
-湖盆	hu pen
 湖泊沉积	hu po chen ji
 湖泊水文学	hu po shui wen xue
 湖泊蓄水量	hu po xu shui liang
@@ -1475,11 +1239,9 @@ use_preset_vocabulary: false
 湖沼学	hu zhao xue
 湖震	hu zhen
 华北地块	hua bei di kuai
-花岗岩	hua gang yan
 花岗岩年代学	hua gang yan nian dai xue
 花卉山谷	hua hui shan gu
 华莱士线	hua lai shi xian
-滑坡	hua po
 华沙历史中心	hua sha li shi zhong xin
 华氏城	hua shi cheng
 华氏温度表	hua shi wen du biao
@@ -1495,42 +1257,25 @@ use_preset_vocabulary: false
 缓波状层理	huan bo zhuang ceng li
 缓洪	huan hong
 环极西风	huan ji xi feng
-环境保护	huan jing bao hu
 环境地球化学	huan jing di qiu hua xue
 环境地质学	huan jing di zhi xue
-环境规划	huan jing gui hua
 环境区划	huan jing qu hua
-环境容量	huan jing rong liang
-环境退化	huan jing tui hua
 环境卫星系列	huan jing wei xing xi lie
-环境污染	huan jing wu ran
 环境限制	huan jing xian zhi
-环境效应	huan jing xiao ying
 环境演化	huan jing yan hua
-环境要素	huan jing yao su
 环境异常	huan jing yi chang
-环境影响评价	huan jing ying xiang ping jia
 环境灾害	huan jing zai hai
-环境质量	huan jing zhi liang
 环境质量参数	huan jing zhi liang can shu
-环境质量评价	huan jing zhi liang ping jia
 环境质量指数	huan jing zhi liang zhi shu
-环境自净	huan jing zi jing
 环太平洋带	huan tai ping yang dai
 环型环流	huan xing huan liu
-缓震	huan zhen
 环状珊瑚岛	huan zhuang shan hu dao
 荒地区	huang di qu
-荒漠化	huang mo hua
 荒漠气候	huang mo qi hou
 荒漠土壤	huang mo tu rang
-黄铁矿	huang tie kuang
-黄铜矿	huang tong kuang
-黄土	huang tu
 黄土地貌	huang tu di mao
 黄土峁	huang tu mao
 会安古镇	hui an gu zhen
-辉长岩	hui chang yan
 回春作用	hui chun zuo yong
 汇点区	hui dian qu
 灰化红黄壤	hui hua hong huang rang
@@ -1539,7 +1284,6 @@ use_preset_vocabulary: false
 灰壤	hui rang
 汇水区	hui shui qu
 绘图程序库	hui tu cheng xu ku
-灰岩	hui yan
 灰岩深沟	hui yan shen gou
 灰质云岩	hui zhi yun yan
 混成物	hun cheng wu
@@ -1550,24 +1294,18 @@ use_preset_vocabulary: false
 活动构造带	huo dong gou zao dai
 活动论	huo dong lun
 霍尔托巴吉	huo er tuo ba ji
-活火山	huo huo shan
 霍贾	huo jia
 霍拉圣巴拉巴	huo la sheng ba la ba
 霍拉肖维采	huo la xiao wei cai
 霍雷祖修道院	huo lei zu xiu dao yuan
 货流地理	huo liu di li
 霍洛克	huo luo ke
-火山	huo shan
 火山崩流	huo shan beng liu
 火山带	huo shan dai
 火山弹	huo shan dan
-火山地震	huo shan di zhen
 火山地质学	huo shan di zhi xue
 火山海震	huo shan hai zhen
-火山湖	huo shan hu
-火山活动	huo shan huo dong
 火山机构	huo shan ji gou
-火山口	huo shan kou
 火山雷雨	huo shan lei yu
 火山砾	huo shan li
 火山烈度	huo shan lie du
@@ -1581,21 +1319,17 @@ use_preset_vocabulary: false
 火山陷落区	huo shan xian luo qu
 火山学	huo shan xue
 火山预报	huo shan yu bao
-火山锥	huo shan zhui
 火山作用	huo shan zuo yong
 基本烈度	ji ben lie du
 罽宾	ji bin
 基部掏蚀	ji bu tao shi
 基础地震学	ji chu di zhen xue
 基础隔震	ji chu ge zhen
-基底	ji di
-极地冰川	ji di bing chuan
 基底断裂	ji di duan lie
 极地气候	ji di qi hou
 极地气团	ji di qi tuan
 基多古城	ji duo gu cheng
 激发地震	ji fa di zhen
-季风	ji feng
 季风雨林	ji feng yu lin
 激光遥感	ji guang yao gan
 几何等级	ji he deng ji
@@ -1608,7 +1342,6 @@ use_preset_vocabulary: false
 寂静地震	ji jing di zhen
 集块岩	ji kuai yan
 积累区	ji lei qu
-姬路城	ji lu cheng
 基罗拉塔湾	ji luo la ta wan
 吉诺卡斯特城	ji nuo ka si te cheng
 基色圣地	ji se sheng di
@@ -1627,15 +1360,12 @@ use_preset_vocabulary: false
 基性熔岩	ji xing rong yan
 积雪水文学	ji xue shui wen xue
 挤压构造带	ji ya gou zao dai
-基岩	ji yan
 基岩层	ji yan ceng
 基岩反应谱	ji yan fan ying pu
 基岩扇	ji yan shan
-极夜	ji ye
 纪伊山脉	ji yi shan mai
 济阴	ji yin
 集约农业	ji yue nong ye
-基质	ji zhi
 基准标志	ji zhun biao zhi
 基准海平面	ji zhun hai ping mian
 基准面速度	ji zhun mian su du
@@ -1646,26 +1376,17 @@ use_preset_vocabulary: false
 假喀斯特	jia ka si te
 嘉陵江组	jia ling jiang zu
 假整合	jia zheng he
-间冰期	jian bing qi
 建设地理学	jian she di li xue
-碱土	jian tu
-间歇泉	jian xie quan
-渐新世	jian xin shi
 尖形坝	jian xing ba
 尖形滩	jian xing tan
 兼营农业	jian ying nong ye
-降水	jiang shui
 交错层理	jiao cuo ceng li
 角峰	jiao feng
-胶结	jiao jie
-角砾岩	jiao li yan
 郊区农业	jiao qu nong ye
 阶地	jie di
 阶地沼泽	jie di zhao ze
-结构	jie gou
 结构面	jie gou mian
 结壳作用	jie ke zuo yong
-节理	jie li
 近场地面运动	jin chang di mian yun dong
 近场地震运动	jin chang di zhen yun dong
 近代地壳运动	jin dai di qiao yun dong
@@ -1683,8 +1404,6 @@ use_preset_vocabulary: false
 景观损害	jing guan sun hai
 经济地理条件	jing ji di li tiao jian
 经济发展战略	jing ji fa zhan zhan lue
-经济协作区	jing ji xie zuo qu
-警戒水位	jing jie shui wei
 静力触探	jing li chu tan
 径流变率	jing liu bian lv
 径流模数	jing liu mo shu
@@ -1726,11 +1445,8 @@ use_preset_vocabulary: false
 绝对重力值	jue dui zhong li zhi
 均变说	jun bian shuo
 均衡说	jun heng shuo
-军事地理	jun shi di li
 均匀磁化轴	jun yun ci hua zhou
 均匀应力场	jun yun ying li chang
-喀斯特	ka si te
-喀斯特地貌	ka si te di mao
 喀斯特地貌学	ka si te di mao xue
 喀斯特化	ka si te hua
 喀斯特平原	ka si te ping yuan
@@ -1756,7 +1472,6 @@ use_preset_vocabulary: false
 刻蚀地貌	ke shi di mao
 可视性分析	ke shi xing fen xi
 刻图	ke tu
-可再生资源	ke zai sheng zi yuan
 垦殖指数	ken zhi zhi shu
 孔多阿岩画	kong duo a yan hua
 孔戈尼亚斯	kong ge ni ya si
@@ -1768,7 +1483,6 @@ use_preset_vocabulary: false
 空间数据内插	kong jian shu ju nei cha
 空间数据融合	kong jian shu ju rong he
 空间数据压缩	kong jian shu ju ya suo
-空间索引	kong jian suo yin
 空间信息格网	kong jian xin xi ge wang
 空间制图	kong jian zhi tu
 空间主权	kong jian zhu quan
@@ -1780,7 +1494,6 @@ use_preset_vocabulary: false
 控震构造体系	kong zhen gou zao ti xi
 空中重力测量	kong zhong zhong li ce liang
 块状崩落	kuai zhuang beng luo
-矿泉	kuang quan
 矿业聚落	kuang ye ju luo
 扩散中心	kuo san zhong xin
 扩展扩散	kuo zhan kuo san
@@ -1799,7 +1512,6 @@ use_preset_vocabulary: false
 里昂历史遗址	li ang li shi yi zhi
 里奥阿比塞奥	li ao a bi sai ao
 离堆山	li dui shan
-粒级	li ji
 里加历史中心	li jia li shi zhong xin
 里克特公式	li ke te gong shi
 里拉修道院	li la xiu dao yuan
@@ -1807,20 +1519,17 @@ use_preset_vocabulary: false
 理论地震图	li lun di zhen tu
 理论地震学	li lun di zhen xue
 理论振幅	li lun zhen fu
-砾漠	li mo
 离散板块边界	li san ban kuai bian jie
 历史地图集	li shi de tu ji
 离石黄土	li shi huang tu
 历史气候	li shi qi hou
 历史人文地理	li shi ren wen di li
-里氏震级	li shi zhen ji
 历史自然地理	li shi zi ran di li
 里特维尔德	li te wei er de
 离心水系	li xin shui xi
 粒雪	li xue
 粒雪化作用	li xue hua zuo yong
 粒雪盆	li xue pen
-砾岩	li yan
 粒状崩解	li zhuang beng jie
 离子色谱分析	li zi se pu fen xi
 连岛坝	lian dao ba
@@ -1841,7 +1550,6 @@ use_preset_vocabulary: false
 烈度异常	lie du yi chang
 捩断层	lie duan ceng
 裂缝喷发	lie feng pen fa
-裂谷	lie gu
 裂谷系	lie gu xi
 裂隙式喷发	lie xi shi pen fa
 裂隙水	lie xi shui
@@ -1849,19 +1557,13 @@ use_preset_vocabulary: false
 裂陷盆地	lie xian pen di
 裂陷作用	lie xian zuo yong
 林地沼泽	lin di zhao ze
-磷灰石	lin hui shi
 临界震级	lin jie zhen ji
 临泾	lin jing
-林区	lin qu
-淋溶层	lin rong ceng
 临时地震台站	lin shi di zhen tai zhan
 临湘组	lin xiang zu
 临震预测	lin zhen yu ce
 零点幕	ling dian mu
-领海	ling hai
 零级地震	ling ji di zhen
-令居	ling ju
-领空	ling kong
 零频地震学	ling pin di zhen xue
 菱铁质	ling tie zhi
 零阳	ling yang
@@ -1874,7 +1576,6 @@ use_preset_vocabulary: false
 流水地貌	liu shui di mao
 流水地貌学	liu shui di mao xue
 流水过程	liu shui guo cheng
-流纹岩	liu wen yan
 流域分水线	liu yu fen shui xian
 流域形态	liu yu xing tai
 龙马溪组	long ma xi zu
@@ -1883,22 +1584,16 @@ use_preset_vocabulary: false
 陆地地貌	lu di di mao
 陆地震源	lu di zhen yuan
 陆间裂谷系	lu jian lie gu xi
-陆界	lu jie
 陆面蒸发	lu mian zheng fa
 陆棚边缘地震	lu peng bian yuan di zhen
-陆相	lu xiang
 陆向斜	lu xiang xie
-落水洞	luo shui dong
-落叶林	luo ye lin
 绿带城市	lv dai cheng shi
 旅游客量	lv you ke liang
 绿洲耕作	lv zhou geng zuo
 脉冲地震法	mai chong di zhen fa
-脉动	mai dong
 脉动仪	mai dong yi
 迈赫迈德	mai he mai de
 茅口组	mao kou zu
-煤层	mei ceng
 面波	mian bo
 面波法	mian bo fa
 面波频散	mian bo pin san
@@ -1909,10 +1604,8 @@ use_preset_vocabulary: false
 漠盖层	mo gai ceng
 墨卡托投影	mo ka tuo tou ying
 模拟地震动	mo ni de zhen dong
-模拟地震	mo ni di zhen
 模拟地震学	mo ni di zhen xue
 漠漆	mo qi
-磨蚀	mo shi
 木材生产基地	mu cai sheng chan ji di
 穆鲁山	mu lu shan
 母质层	mu zhi ceng
@@ -1920,31 +1613,24 @@ use_preset_vocabulary: false
 奈斯维市	nai si wei shi
 南北地震带	nan bei di zhen dai
 南磁极	nan ci ji
-南回归线	nan hui gui xian
-南极	nan ji
 南津关组	nan jin guan zu
 内部发展理论	nei bu fa zhan li lun
 内地核	nei di he
 内地幔	nei di man
 内盖夫	nei gai fu
-内陆	nei lu
 内陆地震	nei lu di zhen
 内营力	nei ying li
 能动断层	neng dong duan ceng
 能源地理学	neng yuan di li xue
 逆冲断层	ni chong duan ceng
-逆断层	ni duan ceng
 溺谷	ni gu
-泥灰岩	ni hui yan
 泥灰岩段	ni hui yan duan
 拟建物	ni jian wu
 泥晶	ni jing
 泥晶灰岩	ni jing hui yan
 泥流	ni liu
 泥漠	ni mo
-泥盆纪	ni pen ji
 泥盆系	ni pen xi
-泥石流	ni shi liu
 逆向河	ni xiang he
 泥岩	ni yan
 逆掩断层	ni yan duan ceng
@@ -1953,20 +1639,16 @@ use_preset_vocabulary: false
 泥质砂岩	ni zhi sha yan
 粘滑地震	nian hua di zhen
 年轮气候学	nian lun qi hou xue
-年平均温度	nian ping jun wen du
 粘土	nian tu
 年温差	nian wen cha
 年正常径流量	nian zheng chang jing liu liang
 黏质壤土	nian zhi rang tu
 粘质砂土	nian zhi sha tu
 黏重土	nian zhong tu
-鸟瞰图	niao kan tu
 凝灰火山渣锥	ning hui huo shan zha zhui
-凝灰岩	ning hui yan
 凝结高度	ning jie gao du
 扭摆地震计	niu bai di zhen ji
 扭称	niu cheng
-牛轭湖	niu e hu
 扭性结构面	niu xing jie gou mian
 扭转地震仪	niu zhuan di zhen yi
 扭转振动仪	niu zhuan zhen dong yi
@@ -1979,7 +1661,6 @@ use_preset_vocabulary: false
 派生地图	pai sheng di tu
 抛物线形沙丘	pao wu xian xing sha qiu
 佩乔尔斯克院	pei qiao er si ke yuan
-盆地	pen di
 喷水冒砂	pen shui mao sha
 蓬莱坝组	peng lai ba zu
 蓬莱镇组	peng lai zhen zu
@@ -1988,31 +1669,24 @@ use_preset_vocabulary: false
 劈理	pi li
 劈裂试验	pi lie shi yan
 片理	pian li
-片麻岩	pian ma yan
 片蚀	pian shi
 片岩	pian yan
 片状构造	pian zhuang gou zao
-漂砾	piao li
 贫营养沼泽	pin ying yang zhao ze
 平版印刷术	ping ban yin shua shu
 平顶海山	ping ding hai shan
 平衡剖面	ping heng pou mian
 平衡生态系统	ping heng sheng tai xi tong
-平均海平面	ping jun hai ping mian
 平行不整合	ping xing bu zheng he
 平行层理	ping xing ceng li
 平移断层	ping yi duan ceng
 平原沼泽	ping yuan zhao ze
-坡地	po di
-破坏性地震	po huai xing di zhen
 破坏应力	po huai ying li
 破坏阈限地震	po huai yu xian di zhen
-坡积物	po ji wu
 破裂带	po lie dai
 破裂面	po lie mian
 破裂网络	po lie wang luo
 坡水堆积物	po shui dui ji wu
-剖面	pou mian
 剖面图法	pou mian tu fa
 谱烈度	pu lie du
 普林塞萨	pu lin sai sa
@@ -2026,10 +1700,8 @@ use_preset_vocabulary: false
 气候变动	qi hou bian dong
 气候地貌学	qi hou di mao xue
 气候恶化	qi hou e hua
-气候分类	qi hou fen lei
 气候改良	qi hou gai liang
 气候可变性	qi hou ke bian xing
-气候系统	qi hou xi tong
 起始震级	qi shi zhen ji
 起算震级	qi suan zhen ji
 气体废料	qi ti fei liao
@@ -2039,7 +1711,6 @@ use_preset_vocabulary: false
 恰高	qia gao
 浅部构造	qian bu gou zao
 潜伏地震	qian fu di zhen
-前寒武纪	qian han wu ji
 潜火山	qian huo shan
 潜火山地震	qian huo shan di zhen
 潜能模式	qian neng mo shi
@@ -2052,7 +1723,6 @@ use_preset_vocabulary: false
 潜在地震区	qian zai de zhen qu
 潜在震源	qian zai zhen yuan
 潜在震源区	qian zai zhen yuan qu
-前震	qian zhen
 前震余震型	qian zhen yu zhen xing
 前震主震型	qian zhen zhu zhen xing
 前正觉山	qian zheng jue shan
@@ -2080,7 +1750,6 @@ use_preset_vocabulary: false
 穹隆构造	qiong long gou zao
 穹丘	qiong qiu
 球对称地球	qiu dui chen di qiu
-丘陵	qiu ling
 球面应力	qiu mian ying li
 球状风化	qiu zhuang feng hua
 屈服应变	qu fu ying bian
@@ -2093,14 +1762,12 @@ use_preset_vocabulary: false
 区位商数	qu wei shang shu
 区位系数	qu wei xi shu
 区位型式	qu wei xing shi
-区域	qu yu
 区域地球化学	qu yu di qiu hua xue
 区域地图集	qu yu di tu ji
 区域地震台网	qu yu di zhen tai wang
 区域地质构造	qu yu di zhi gou zao
 区域分异	qu yu fen yi
 区域构造线	qu yu gou zao xian
-区域环境	qu yu huan jing
 区域历史地理	qu yu li shi di li
 区域气候	qu yu qi hou
 区域应力场	qu yu ying li chang
@@ -2113,7 +1780,6 @@ use_preset_vocabulary: false
 全球重力异常	quan qiu zhong li yi chang
 全息地震法	quan xi di zhen fa
 全息地震图	quan xi di zhen tu
-全新世	quan xin shi
 全新统	quan xin tong
 却尔却克组	que er que ke zu
 群丛	qun cong
@@ -2122,12 +1788,9 @@ use_preset_vocabulary: false
 群克	qun ke
 群生植物	qun sheng zhi wu
 绕射波	rao she bo
-热带	re dai
 热带大陆气候	re dai da lu qi hou
 热带锋	re dai feng
 热带旱生森林	re dai han sheng sen lin
-热带雨林气候	re dai yu lin qi hou
-热点	re dian
 热点地幔柱	re dian di man zhu
 热点说	re dian shuo
 热红外遥感	re hong wai yao gan
@@ -2141,8 +1804,6 @@ use_preset_vocabulary: false
 热重力测量	re zhong li ce liang
 仁慈耶稣圣殿	ren ci ye su sheng dian
 人工地貌	ren gong di mao
-人工地震	ren gong di zhen
-人工湖	ren gong hu
 人工水系	ren gong shui xi
 人工诱发地震	ren gong you fa di zhen
 人工震源	ren gong zhen yuan
@@ -2151,7 +1812,6 @@ use_preset_vocabulary: false
 人口总出生率	ren kou zong chu sheng lv
 人口总死亡率	ren kou zong si wang lv
 人类地理学	ren lei di li xue
-人文地理学	ren wen di li xue
 韧性断层	ren xing duan ceng
 人种地理学	ren zhong di li xue
 日光山	ri guang shan
@@ -2164,22 +1824,17 @@ use_preset_vocabulary: false
 融化指数	rong hua zhi shu
 溶滤水	rong lv shui
 溶滤作用	rong lv zuo yong
-溶蚀	rong shi
 溶蚀谷	rong shi gu
 溶蚀盆	rong shi pen
 融土	rong tu
 融雪径流	rong xue jing liu
-熔岩	rong yan
 熔岩被	rong yan bei
-熔岩流	rong yan liu
 熔岩塔	rong yan ta
 肉质植物	rou zhi zhi wu
 入渗	ru shen
 乳香之路	ru xiang zhi lu
-汝阴	ru yin
 入字型构造	ru zi xing gou zao
 软地幔	ruan de man
-软流圈	ruan liu quan
 软砂岩沉积	ruan sha yan chen ji
 瑞利波相速度	rui li bo xiang su du
 瑞利原理	rui li yuan li
@@ -2187,14 +1842,11 @@ use_preset_vocabulary: false
 弱风化	ruo feng hua
 萨瓦纳气候	sa wa na qi hou
 三点校正法	san dian jiao zheng fa
-三叠纪	san die ji
 三叠系	san die xi
 三分量强震仪	san fen liang qiang zhen yi
 三分向地震仪	san fen xiang di zhen yi
 三工河	san gong he
 三合地震台网	san he di zhen tai wang
-三角测量	san jiao ce liang
-三角洲	san jiao zhou
 三维波速结构	san wei bo su jie gou
 三维地带性	san wei di dai xing
 三维地震模型	san wei di zhen mo xing
@@ -2214,53 +1866,38 @@ use_preset_vocabulary: false
 森林气候	sen lin qi hou
 森林上限	sen lin shang xian
 森林水文学	sen lin shui wen xue
-森林土壤	sen lin tu rang
-沙暴	sha bao
 莎车国	sha che guo
 沙赫利苏伯兹	sha he li su bo zi
 沙垅	sha long
 沙漠城镇	sha mo cheng zhen
 沙漠历史地理	sha mo li shi di li
 砂泥质	sha ni zhi
-沙丘	sha qiu
 沙丘扩侵	sha qiu kuo qin
 砂土液化	sha tu ye hua
 沙溪庙组	sha xi miao zu
 沙羡	sha xian
 砂屑	sha xie
 砂屑灰岩	sha xie hui yan
-砂岩	sha yan
 沙镇溪组	sha zhen xi zu
 砂质灰岩	sha zhi hui yan
 砂质泥岩	sha zhi ni yan
 砂质黏壤土	sha zhi nian rang tu
-山崩	shan beng
-山地	shan di
 山地沼泽	shan di zhao ze
 山顶面	shan ding mian
-山峰	shan feng
 栅格数据结构	shan ge shu ju jie gou
 山弧	shan hu
-珊瑚礁	shan hu jiao
-山间盆地	shan jian pen di
-山麓	shan lu
 山麓堆积	shan lu dui ji
 山麓平原	shan lu ping yuan
 山麓侵蚀面	shan lu qin shi mian
 山麓侵蚀平原	shan lu qin shi ping yuan
-山脉	shan mai
 山体效应	shan ti xiao ying
-山西云岗石窟	shan xi yun gang shi ku
 剡县	shan xian
 扇形论	shan xing lun
 扇形三角洲	shan xing san jiao zhou
-山岳冰川	shan yue bing chuan
 山中小湖	shan zhong xiao hu
-上地幔	shang di man
 上地幔计划	shang di man ji hua
 商品性农业	shang pin xing nong ye
 上统	shang tong
-上新世	shang xin shi
 商业地理学	shang ye di li xue
 商业网布局	shang ye wang bu ju
 设计标准谱	she ji biao zhun pu
@@ -2271,17 +1908,14 @@ use_preset_vocabulary: false
 摄氏温度表	she shi wen du biao
 深部构造	shen bu gou zao
 申布伦	shen bu lun
-深层地下水	shen ceng di xia shui
 深大断裂	shen da duan lie
 深断裂	shen duan lie
-深海区	shen hai qu
 深井地震仪	shen jing di zhen yi
 深切曲流	shen qie qu liu
 渗透场	shen tou chang
 深源地震面	shen yuan di zhen mian
 伸展构造	shen zhan gou zao
 生产地理学	sheng chan di li xue
-生产专业化	sheng chan zhuan ye hua
 生活型谱	sheng huo xing pu
 生命层	sheng ming ceng
 生命线系统	sheng ming xian xi tong
@@ -2290,9 +1924,7 @@ use_preset_vocabulary: false
 生态变异	sheng tai bian yi
 生态地段	sheng tai di duan
 生态地理学	sheng tai di li xue
-生态平衡	sheng tai ping heng
 生态塔	sheng tai ta
-生态效益	sheng tai xiao yi
 声望价值	sheng wang jia zhi
 生物地理群落	sheng wu di li qun luo
 生物分布	sheng wu fen bu
@@ -2301,8 +1933,6 @@ use_preset_vocabulary: false
 生物礁	sheng wu jiao
 生物净化	sheng wu jing hua
 生物迁移	sheng wu qian yi
-生物圈	sheng wu quan
-生物群	sheng wu qun
 生物异常观测	sheng wu yi chang guan ce
 生物资源保护	sheng wu zi yuan bao hu
 生屑灰岩	sheng xie hui yan
@@ -2314,7 +1944,6 @@ use_preset_vocabulary: false
 视电阻率	shi dian zu lv
 湿害	shi hai
 石盒子组	shi he zi zu
-石灰岩	shi hui yan
 实际蒸散	shi ji zheng san
 石见银山	shi jian yin shan
 世界地图集	shi jie di tu ji
@@ -2327,19 +1956,12 @@ use_preset_vocabulary: false
 市民塔	shi min ta
 石墓群	shi mu qun
 施佩耶尔	shi pei ye er
-视频分类	shi pin fen lei
 史前地震	shi qian di zhen
 视倾角	shi qing jiao
 市区复苏	shi qu fu su
-湿润气候	shi run qi hou
 石燧石	shi sui shi
-石炭纪	shi tan ji
-石炭系	shi tan xi
-始新世	shi xin shi
 实验地震学	shi yan di zhen xue
 实验地质学	shi yan di zhi xue
-石英	shi ying
-石英岩	shi ying yan
 实用地震学	shi yong di zhen xue
 石油化工业	shi you hua gong ye
 石造城堡	shi zao cheng bao
@@ -2347,9 +1969,6 @@ use_preset_vocabulary: false
 受控震源	shou kong zhen yuan
 收缩说	shou suo shuo
 首震	shou zhen
-数据精度	shu ju jing du
-数据模型	shu ju mo xing
-疏勒国	shu le guo
 数量地理学	shu liang di li xue
 数量底色法	shu liang di se fa
 树林底层植物	shu lin di ceng zhi wu
@@ -2358,7 +1977,6 @@ use_preset_vocabulary: false
 舒善河组	shu shan he zu
 竖向地震荷载	shu xiang di zhen he zai
 数字地震图	shu zi di zhen tu
-数字滤波	shu zi lv bo
 数字图象处理	shu zi tu xiang chu li
 数字图象镶嵌	shu zi tu xiang xiang qian
 数字相关法	shu zi xiang guan fa
@@ -2371,43 +1989,30 @@ use_preset_vocabulary: false
 水稻梯田	shui dao ti tian
 水道网	shui dao wang
 水氡异常	shui dong yi chang
-水化学	shui hua xue
 睡火山	shui huo shan
 水库地震	shui ku di zhen
 水利经济学	shui li jing ji xue
 水力致裂法	shui li zhi lie fa
 水力作用	shui li zuo yong
 水量交换	shui liang jiao huan
-水能	shui neng
 水平地带	shui ping di dai
 水平地震仪	shui ping di zhen yi
 水平断距	shui ping duan ju
 水平降水	shui ping jiang shui
 水平运动	shui ping yun dong
 水迁移	shui qian yi
-水圈	shui quan
 水上景观	shui shang jing guan
-水土保持	shui tu bao chi
-水土流失	shui tu liu shi
-水位	shui wei
 水位地震波	shui wei di zhen bo
 水文地理学	shui wen di li xue
 水文地球化学	shui wen di qiu hua xue
-水文地质学	shui wen di zhi xue
 水文过程	shui wen guo cheng
 水文试验	shui wen shi yan
 水文物理学	shui wen wu li xue
-水污染	shui wu ran
 水下景观	shui xia jing guan
-水循环	shui xun huan
-水样	shui yang
-水质	shui zhi
 水质评价	shui zhi ping jia
-水资源	shui zi yuan
 顺层边坡	shun ceng bian po
 顺化古迹群	shun hua gu ji qun
 顺扭	shun niu
-死火山	si huo shan
 速度地震仪	su du di zhen yi
 速度反演	su du fan yan
 速度各向异性	su du ge xiang yi xing
@@ -2417,28 +2022,21 @@ use_preset_vocabulary: false
 溯源堆积	su yuan dui ji
 溯源侵蚀	su yuan qin shi
 酸性腐殖	suan xing fu zhi
-酸雨	suan yu
 碎裂岩	sui lie yan
 遂宁组	sui ning zu
 碎屑沉积	sui xie chen ji
 碎屑型风化壳	sui xie xing feng hua qiao
-碎屑岩	sui xie yan
 塌陷破火山口	ta xian po huo shan kou
 苔草沼泽	tai cao zhao ze
-太古宙	tai gu zhou
-太阳辐射	tai yang fu she
 苔原气候	tai yuan qi hou
 探槽	tan cao
 滩地沼泽	tan di zhao ze
 滩脊	tan ji
 滩脊型潮滩	tan ji xing chao tan
-探井	tan jing
-碳酸盐	tan suan yan
 炭质	tan zhi
 炭质泥岩	tan zhi ni yan
 汤殿山	tang dian shan
 掏蚀	tao shi
-特大地震	te da di zhen
 体波震级	ti bo zhen ji
 提水试验	ti shui shi yan
 提塘	ti tang
@@ -2451,7 +2049,6 @@ use_preset_vocabulary: false
 条植	tiao zhi
 铁拉登特罗	tie la deng te luo
 铁质土	tie zhi tu
-廷巴克图	ting ba ke tu
 通艾	tong ai
 统层	tong ceng
 同化带	tong hua dai
@@ -2466,38 +2063,28 @@ use_preset_vocabulary: false
 透镜体	tou jing ti
 透水层	tou shui ceng
 透水岩	tou shui yan
-投影转换	tou ying zhuan huan
 投子山	tou zi shan
 凸岸坝	tu an ba
 图巴塔哈	tu ba ta ha
 图表阐析	tu biao chan xi
-图伯特	tu bo te
 土地单元	tu di dan yuan
 土地电	tu di dian
 土地功能	tu di gong neng
 土地刻面	tu di ke mian
-土地类型	tu di lei xing
-土地利用	tu di li yong
 土地利用制度	tu di li yong zhi du
 土地能力	tu di neng li
-土地属性	tu di shu xing
 土地特性	tu di te xing
 土地限制性	tu di xian zhi xing
 土氡	tu dong
 图幅尺寸	tu fu chi cun
 图根哈特	tu gen ha te
-土力学	tu li xue
 图面自动注记	tu mian zi dong zhu ji
 土壤发生	tu rang fa sheng
 土壤复区	tu rang fu qu
 土壤耗竭	tu rang hao jie
-土壤胶体	tu rang jiao ti
-土壤侵蚀	tu rang qin shi
-土壤水	tu rang shui
 土壤水分补充	tu rang shui fen bu chong
 土壤水文学	tu rang shui wen xue
 土壤退化	tu rang tui hua
-土壤污染	tu rang wu ran
 土壤因素	tu rang yin su
 土壤资源	tu rang zi yuan
 土壤组合	tu rang zu he
@@ -2520,9 +2107,7 @@ use_preset_vocabulary: false
 脱硫酸作用	tuo liu suan zuo yong
 陀螺地震计	tuo luo di zhen ji
 脱气作用	tuo qi zuo yong
-洼地	wa di
 外地核	wai di he
-外黄	wai huang
 外来名	wai lai ming
 外语惯用地名	wai yu guan yong di ming
 挽近地壳运动	wan jin di ke yun dong
@@ -2549,12 +2134,10 @@ use_preset_vocabulary: false
 尾相	wei xiang
 纬向构造体系	wei xiang gou zao ti xi
 维歇尔地震仪	wei xie er di zhen yi
-卫星定位系统	wei xing ding wei xi tong
 卫星市镇	wei xing shi zhen
 卫星图像判读	wei xing tu xiang pan du
 卫星象片	wei xing xiang pian
 卫星影象	wei xing ying xiang
-围岩	wei yan
 位移地震仪	wei yi di zhen yi
 伪圆柱投影	wei yuan zhu tou ying
 伪圆锥投影	wei yuan zhui tou ying
@@ -2563,14 +2146,12 @@ use_preset_vocabulary: false
 微震台阵	wei zhen tai zhen
 微震仪	wei zhen yi
 韦兹莱	wei zi lai
-温带	wen dai
 温带大陆气候	wen dai da lu qi hou
 温带落叶林	wen dai luo ye lin
 温迪亚	wen di ya
 文化边界	wen hua bian jie
 文化汇合	wen hua hui he
 纹泥	wen ni
-温室效应	wen shi xiao ying
 沃达蒸汽泵站	wo da zheng qi beng zhan
 无潮海	wu chao hai
 午城黄土	wu cheng huang tu
@@ -2582,8 +2163,6 @@ use_preset_vocabulary: false
 吴家坪组	wu jia ping zu
 物理地震学	wu li di zhen xue
 物理风化作用	wu li feng hua zuo yong
-污染源	wu ran yuan
-污水	wu shui
 武遂	wu sui
 无所有处天	wu suo you chu tian
 无线地震台网	wu xian di zhen tai wang
@@ -2597,11 +2176,9 @@ use_preset_vocabulary: false
 细粒砂状	xi li sha zhuang
 细砾岩	xi li yan
 悉氏温度表	xi shi wen du biao
-系统识别	xi tong shi bie
 细质地土壤	xi zhi di tu rang
 下部地壳	xia bu di qiao
 下沉海岸	xia chen hai an
-下地幔	xia di man
 下沟组	xia gou zu
 峡谷洞穴群	xia gu dong xue qun
 下降漏斗	xia jiang lou dou
@@ -2613,16 +2190,13 @@ use_preset_vocabulary: false
 下切作用	xia qie zuo yong
 夏琐	xia suo
 下统	xia tong
-下钻	xia zuan
 先成水系	xian cheng shui xi
 现代地壳运动	xian dai di qiao yun dong
 藓类沼泽	xian lei zhao ze
 酰罗城	xian luo cheng
 酰罗山	xian luo shan
 仙女木时间	xian nv mu shi jian
-显生宙	xian sheng zhou
 鲜水河地震带	xian shui he di zhen dai
-咸水湖	xian shui hu
 显微薄片	xian wei bao pian
 显微构造	xian wei gou zao
 闲暇地理	xian xia di li
@@ -2641,14 +2215,10 @@ use_preset_vocabulary: false
 相片判读	xiang pian pan du
 项县	xiang xian
 象限四分树	xiang xian si fen shu
-向斜	xiang xie
-象形图	xiang xing tu
 响应地震图	xiang ying di zhen tu
 香醉山	xiang zui shan
-小地震	xiao di zhen
 消费地理学	xiao fei di li xue
 消洪	xiao hong
-硝化作用	xiao hua zuo yong
 消减板块	xiao jian ban kuai
 消减带	xiao jian dai
 消融区	xiao rong qu
@@ -2674,10 +2244,8 @@ use_preset_vocabulary: false
 新全球构造	xin quan qiu gou zao
 新热带界	xin re dai jie
 新圣女修道院	xin sheng nv xiu dao yuan
-辛特拉	xin te la
 新田沟组	xin tian gou zu
 新锡德尔湖	xin xi de er hu
-信息经济	xin xi jing ji
 信息压缩	xin xi ya suo
 新鲜面	xin xian mian
 新仙女木事件	xin xian nv mu shi jian
@@ -2691,7 +2259,6 @@ use_preset_vocabulary: false
 行星地震学	xing xing di zhen xue
 行星风系	xing xing feng xi
 行政地理	xing zheng di li
-休眠火山	xiu mian huo shan
 休闲期耕作	xiu xian qi geng zuo
 修正布格异常	xiu zheng bu ge yi chang
 虚波阵面	xu bo zhen mian
@@ -2705,19 +2272,16 @@ use_preset_vocabulary: false
 悬冰川	xuan bing chuan
 悬浮粒子	xuan fu li zi
 选举地理	xuan ju di li
-玄武岩	xuan wu yan
 悬崖坡	xuan ya po
 旋转波	xuan zhuan bo
 旋转断层	xuan zhuan duan ceng
 旋转断块	xuan zhuan duan kuai
 旋转平面波	xuan zhuan ping mian bo
 雪蚀	xue shi
-雪线	xue xian
 循环钻井液	xun huan zuan jing ye
 熏香之路	xun xiang zhi lu
 寻阳	xun yang
 压电式地震计	ya dian shi di zhen ji
-亚热带	ya re dai
 压缩空气震源	ya suo kong qi zhen yuan
 压缩震相	ya suo zhen xiang
 压陷盆地	ya xian pen di
@@ -2734,10 +2298,8 @@ use_preset_vocabulary: false
 岩盖	yan gai
 岩关阶	yan guan jie
 雁行式断裂	yan hang shi duan lie
-盐湖	yan hu
 岩画遗址	yan hua yi zhi
 岩基	yan ji
-岩浆	yan jiang
 岩浆冲击说	yan jiang chong ji shuo
 岩浆活动	yan jiang huo dong
 岩浆库	yan jiang ku
@@ -2745,19 +2307,16 @@ use_preset_vocabulary: false
 岩刻画	yan ke hua
 雁列构造	yan lie gou zao
 岩脉	yan mai
-岩漠	yan mo
 阎牟那河	yan mou na he
 岩漆	yan qi
 岩溶景观	yan rong jing guan
 岩溶水	yan rong shui
 赝瑞利波	yan rui li bo
 燕山运动	yan shan yun dong
-岩石	yan shi
 岩石断裂力学	yan shi duan lie li xue
 岩石静压力	yan shi jing ya li
 岩石力学性质	yan shi li xue xing zhi
 岩石漆	yan shi qi
-岩石圈	yan shi quan
 岩石圈板块	yan shi quan ban kuai
 岩石圈地震	yan shi quan di zhen
 岩石圈断裂	yan shi quan duan lie
@@ -2769,7 +2328,6 @@ use_preset_vocabulary: false
 岩体强度	yan ti qiang du
 岩土界线	yan tu jie xian
 厌恶性行业	yan wu xing hang ye
-岩屑	yan xie
 岩屑堆	yan xie dui
 岩屑锥	yan xie zhui
 岩性	yan xing
@@ -2778,19 +2336,15 @@ use_preset_vocabulary: false
 赝重力	yan zhong li
 岩株	yan zhu
 羊背石	yang bei shi
-养蚕业	yang can ye
 仰冲板块	yang chong ban kuai
 养分富集	yang fen fu ji
 氧化土	yang hua tu
 鸯掘多罗国	yang jue duo luo guo
-洋盆	yang pen
 阳夏	yang xia
 阳象	yang xiang
-阳翟	yang zhai
 遥测地震台网	yao ce di zhen tai wang
 遥测地震仪	yao ce di zhen yi
 要冲城市	yao chong cheng shi
-夜摩天	ye mo tian
 液压作用	ye ya zuo yong
 页状剥落	ye zhuang bo luo
 易北河谷	yi bei he gu
@@ -2812,22 +2366,17 @@ use_preset_vocabulary: false
 医学地理学	yi xue de li xue
 隐伏断层	yin fu duan ceng
 印干组	yin gan zu
-引力定律	yin li ding lv
-隐生宙	yin sheng zhou
 阴象	yin xiang
 隐域土	yin yu tu
-应变	ying bian
 应变场	ying bian chang
 应变地震图	ying bian di zhen tu
 应变地震仪	ying bian di zhen yi
 应变分布图	ying bian fen bu tu
 应变积累	ying bian ji lei
 应变释放	ying bian shi fang
-应力场	ying li chang
 应力积累	ying li ji lei
 英买力组	ying mai li zu
 硬磐	ying pan
-影区	ying qu
 鹰山组	ying shan zu
 影响半径	ying xiang ban jing
 影象地图	ying xiang di tu
@@ -2836,28 +2385,21 @@ use_preset_vocabulary: false
 影象判读	ying xiang pan du
 影象质量	ying xiang zhi liang
 英雄港中心区	ying xiong gang zhong xin qu
-硬叶林	ying ye lin
 应用地理学	ying yong di li xue
 应用地图学	ying yong di tu xue
 应用地震学	ying yong di zhen xue
 映震敏感井	ying zhen min gan jing
 雍布拉岗	yong bu la gang
-永久冻土	yong jiu dong tu
 永久形变	yong jiu xing bian
 永久雪线	yong jiu xue xian
 雍陵	yong ling
-雍丘	yong qiu
-雍县	yong xian
 有潮河口	you chao he kou
 有方廷斯	you fang ting si
-有感地震	you gan di zhen
 有感地震区	you gan di zhen qu
 幼年土壤	you nian tu rang
 游憩地理	you qi di li
 油气水显示	you qi shui xian shi
-由拳	you quan
 犹太人居住区	you tai ren ju zhu qu
-油页岩	you ye yan
 游移湖	you yi hu
 邮政地理学	you zheng di li xue
 预报地图	yu bao di tu
@@ -2870,8 +2412,6 @@ use_preset_vocabulary: false
 语言地理学	yu yan di li xue
 预震	yu zhen
 宇治	yu zhi
-宇宙	yu zhou
-宇宙尘	yu zhou chen
 宇宙地学	yu zhou di xue
 宇宙地质学	yu zhou di zhi xue
 宇宙科学	yu zhou ke xue
@@ -2879,7 +2419,6 @@ use_preset_vocabulary: false
 远场体波	yuan chang ti bo
 元地图学	yuan di tu xue
 圆顶石屋	yuan ding shi wu
-元古宙	yuan gu zhou
 冤句	yuan ju
 原摩加多尔	yuan mo jia duo er
 原始大气圈	yuan shi da qi quan
@@ -2894,33 +2433,26 @@ use_preset_vocabulary: false
 月球潮汐	yue qiu chao xi
 月球章动	yue qiu zhang dong
 约塞米蒂	yue sai mi di
-月震	yue zhen
 月震仪	yue zhen yi
 运动线法	yun dong xian fa
 云岗石窟	yun gang shi ku
-云母	yun mu
 运输地理学	yun shu di li xue
 运输联系	yun shu lian xi
 运输区划	yun shu qu hua
 运输枢纽	yun shu shu niu
 运输网布局	yun shu wang bu ju
-运输网络	yun shu wang luo
 晕滃法	yun weng fa
 晕渲法	yun xuan fa
 孕震构造	yun zhen gou zao
 孕震构造体系	yun zhen gou zao ti xi
 宰比德	zai bi de
-灾变论	zai bian lun
 灾害地理学	zai hai di li xue
 灾害性地震	zai hai xing di zhen
 藻类过量繁殖	zao lei guo liang fan zhi
 造林学	zao lin xue
 造陆运动	zao lu yun dong
 早期人类遗址	zao qi ren lei yi zhi
-造山带	zao shan dai
 造山幕	zao shan mu
-造山运动	zao shan yun dong
-造山作用	zao shan zuo yong
 泽列	ze lie
 增长极论	zeng zhang ji lun
 扎莫希奇古城	zha mo xi qi gu cheng
@@ -2935,7 +2467,6 @@ use_preset_vocabulary: false
 张性结构面	zhang xing jie gou mian
 长子继承权	zhang zi ji cheng quan
 照叶林	zhao ye lin
-沼泽化	zhao ze hua
 沼泽率	zhao ze lv
 沼泽泥炭	zhao ze ni tan
 沼泽生态系统	zhao ze sheng tai xi tong
@@ -2944,7 +2475,6 @@ use_preset_vocabulary: false
 沼泽学	zhao ze xue
 磔迦国	zhe jia guo
 哲罗姆派	zhe luo mu pai
-折射波	zhe she bo
 折射层	zhe she ceng
 折射地震仪	zhe she di zhen yi
 折射面	zhe she mian
@@ -2958,14 +2488,12 @@ use_preset_vocabulary: false
 褶皱作用	zhe zhou zuo yong
 震波图	zhen bo tu
 震磁效应	zhen ci xiao ying
-震旦纪	zhen dan ji
 震电效应	zhen dian xiao ying
 震感区	zhen gan qu
 震害重复性	zhen hai chong fu xing
 震害统计	zhen hai tong ji
 震害预测	zhen hai yu ce
 震后救援	zhen hou jiu yuan
-震级	zhen ji
 震级残差	zhen ji can cha
 震级档	zhen ji dang
 震级上限	zhen ji shang xian
@@ -2975,19 +2503,15 @@ use_preset_vocabulary: false
 震前滑动	zhen qian hua dong
 震前平静	zhen qian ping jing
 震前形变	zhen qian xing bian
-震情	zhen qing
 震情会商	zhen qing hui shang
 震相分析	zhen xiang fen xi
-针叶林	zhen ye lin
 震影	zhen ying
-震源	zhen yuan
 震源参数	zhen yuan can shu
 震源尺度	zhen yuan chi du
 震源道	zhen yuan dao
 震源定位	zhen yuan ding wei
 震源动力学	zhen yuan dong li xue
 震源几何学	zhen yuan ji he xue
-震源机制	zhen yuan ji zhi
 震源谱	zhen yuan pu
 震源球	zhen yuan qiu
 震源时间函数	zhen yuan shi jian han shu
@@ -2998,19 +2522,13 @@ use_preset_vocabulary: false
 正残积风化壳	zheng can ji feng hua qiao
 正常地貌	zheng chang di mao
 正地貌	zheng di mao
-正断层	zheng duan ceng
-蒸发	zheng fa
 正射影象地图	zheng she ying xiang di tu
 正旋回	zheng xuan hui
 正阳组	zheng yang zu
 正韵律	zheng yun lv
-植被	zhi bei
-知床半岛	zhi chuang ban dao
 质量底色法	zhi liang di se fa
 植林	zhi lin
 志留	zhi liu
-支流	zhi liu
-志留纪	zhi liu ji
 志留系	zhi liu xi
 至那仆底国	zhi na pu di guo
 指示群落	zhi shi qun luo
@@ -3020,7 +2538,6 @@ use_preset_vocabulary: false
 制图分类	zhi tu fen lei
 制图精度	zhi tu jing du
 植物垂直台带	zhi wu chui zhi tai dai
-植物群落	zhi wu qun luo
 制印原图	zhi yin yuan tu
 质子磁力仪	zhi zi ci li yi
 中薄层状	zhong bao ceng zhuang
@@ -3029,9 +2546,7 @@ use_preset_vocabulary: false
 中等地震	zhong deng di zhen
 中断河	zhong duan he
 中国板块	zhong guo ban kuai
-中国南方	zhong guo nan fang
 中厚层状	zhong hou ceng zhuang
-重力	zhong li
 中砾	zhong li
 重力触探	zhong li chu tan
 重力低	zhong li di
@@ -3047,7 +2562,6 @@ use_preset_vocabulary: false
 重力异常场	zhong li yi chang chang
 中碛	zhong qi
 中强震	zhong qiang zhen
-中生代	zhong sheng dai
 中生植物	zhong sheng zhi wu
 中世纪古城	zhong shi ji gu cheng
 中天山	zhong tian shan
@@ -3057,26 +2571,20 @@ use_preset_vocabulary: false
 中位沼泽	zhong wei zhao ze
 中西部各州	zhong xi bu ge zhou
 中心地学说	zhong xin de xue shuo
-中新世	zhong xin shi
 中心式喷发	zhong xin shi pen fa
 中营养沼泽	zhong ying yang zhao ze
 中周期地震仪	zhong zhou qi di zhen yi
 周家店组	zhou jia dian zu
-祝阿	zhu a
 猪背脊	zhu bei ji
 筑垒村	zhu lei cun
 主量	zhu liang
-侏罗纪	zhu luo ji
-侏罗系	zhu luo xi
 注水试验	zhu shui shi yan
 朱提	zhu ti
-主应力	zhu ying li
 住宅和工作室	zhu zhai he gong zuo shi
 主震型地震	zhu zhen xing di zhen
 柱状结构	zhu zhuang jie gou
 砖红壤性土	zhuan hong rang xing tu
 转换波	zhuan huan bo
-转换断层	zhuan huan duan ceng
 专题地图集	zhuan ti di tu ji
 专题地图学	zhuan ti di tu xue
 专题制图仪	zhuan ti zhi tu yi
@@ -3095,16 +2603,9 @@ use_preset_vocabulary: false
 自然地理过程	zi ran di li guo cheng
 自然电位	zi ran dian wei
 自然电位法	zi ran dian wei fa
-自然环境	zi ran huan jing
-自然景观	zi ran jing guan
-自然历	zi ran li
 自然森林	zi ran sen lin
 自然生产潜力	zi ran sheng chan qian li
-自然生态系统	zi ran sheng tai xi tong
-自然遗产	zi ran yi chan
 自然疫源地	zi ran yi yuan di
-自然灾害	zi ran zai hai
-自然资源	zi ran zi yuan
 兹瓦尔特诺茨	zi wa er te nuo ci
 紫外遥感	zi wai yao gan
 自学系统	zi xue xi tong

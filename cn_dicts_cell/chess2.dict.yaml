@@ -2049,7 +2049,6 @@ use_preset_vocabulary: false
 保全精兵	bao quan jing bing
 北斗棋苑选粹	bei dou qi yuan xuan cui
 北京中加	bei jing zhong jia
-避实击虚	bi shi ji xu
 边马	bian ma
 边马对还中炮	bian ma dui hai zhong pao
 兵行线	bing xing xian
@@ -2075,32 +2074,25 @@ use_preset_vocabulary: false
 车前马后须相应	che qian ma hou xu xiang ying
 车入花心	che ru hua xin
 陈翀	chen chong
-沉底炮	chen di pao
 陈富杰	chen fu jie
 陈海华	chen hai hua
 陈罗平	chen luo ping
 陈启明	chen qi ming
 程进超	cheng jin chao
 程鸣	cheng ming
-抽杀	chou sha
 楚汉六凤	chu han liu feng
 从没捉到捉	cong mei zhuo dao zhuo
 大胆穿心	da dan chuan xin
-大刀剜心	da dao wan xin
 大连益春堂	da lian yi chun tang
 大占优势	da zhan you shi
 待过河兵	dai guo he bing
 待判局面	dai pan ju mian
 单兵擒王	dan bing qin wang
 单缺仕	dan que shi
-单缺士	dan que shi
-单缺象	dan que xiang
 单缺相	dan que xiang
 单提马	dan ti ma
 单霞丽	dan xia li
-担子炮	dan zi pao
 党斐	dang fei
-得子	de zi
 得子得势	de zi de shi
 得子得先各得子	de zi de xian ge de zi
 得子失势	de zi shi shi
@@ -2110,7 +2102,6 @@ use_preset_vocabulary: false
 底兵	di bing
 地方棋协大师	di fang qi xie da shi
 调动子力	diao dong zi li
-钓鱼马	diao yu ma
 叠炮	die pao
 东北三虎	dong bei san hu
 对兵局	dui bing ju
@@ -2127,7 +2118,6 @@ use_preset_vocabulary: false
 二打二还打	er da er hai da
 二打一还打	er da yi huan da
 二级棋士	er ji qi shi
-二将	er jiang
 二将对二闲	er jiang dui er xian
 二将二还将	er jiang er hai jiang
 二闲对一打一闲	er xian dui yi da yi xian
@@ -2149,26 +2139,20 @@ use_preset_vocabulary: false
 封锁战术	feng suo zhan shu
 傅信仁	fu xin ren
 高兵	gao bing
-高华	gao hua
 葛维浦	ge wei pu
 隔一步杀	ge yi bu sha
 宫顶线	gong ding xian
-拱卒	gong zu
 固己乱敌	gu ji luan di
 古谱	gu pu
-挂角马	gua jiao ma
 拐角马	guai jiao ma
 广东东莞长安	guang dong dong guan chang an
 龟背炮	gui bei pao
 归心马	gui xin ma
 过宫敛炮	guo gong lian pao
 过宫马	guo gong ma
-过宫炮	guo gong pao
 过宫炮对还中炮	guo gong pao dui hai zhong pao
-国际大师	guo ji da shi
 过肋	guo lei
 郭丽萍	guo li ping
-海底捞月	hai di lao yue
 还中炮	hai zhong pao
 河北金环钢构	he bei jin huan gang gou
 河边无青草不用多嘴牛	he bian wu qing cao bu yong duo zui niu
@@ -2236,7 +2220,6 @@ use_preset_vocabulary: false
 湖北中盐宏博队	hu bei zhong yan hong bo dui
 互进拐角马	hu jin guai jiao ma
 互进三兵	hu jin san bing
-胡荣华	hu rong hua
 互有顾忌	hu you gu ji
 胡远茂	hu yuan mao
 虎坐中堂	hu zuo zhong tang
@@ -2246,7 +2229,6 @@ use_preset_vocabulary: false
 花心卒	hua xin zu
 缓开车	huan kai che
 黄海林	huang hai lin
-黄勇	huang yong
 黄政	huang zheng
 计时方案	ji shi fang an
 吉翔	ji xiang
@@ -2262,21 +2244,16 @@ use_preset_vocabulary: false
 金波	jin bo
 金钩炮	jin gou pao
 金钩炮对起马	jin gou pao dui qi ma
-禁锢	jin gu
 金海英	jin hai ying
 进炮应须要辅车	jin pao ying xu yao fu che
-金松	jin song
 靳玉砚	jin yu yan
 禁止着法	jin zhi zhao fa
 精选着法	jing xuan zhao fa
 景学义	jing xue yi
-九尾龟	jiu wei gui
 橘中秘	ju zhong mi
 开滦煤矿股份	kai luan mei kuang gu fen
 开通子力	kai tong zi li
 空头炮	kong tou pao
-控制	kong zhi
-困毙	kun bi
 落子无悔	lao zi wu hui
 肋车	lei che
 肋道	lei dao
@@ -2284,28 +2261,18 @@ use_preset_vocabulary: false
 黎德志	li de zhi
 李鸿嘉	li hong jia
 李家华	li jia hua
-李来群	li lai qun
 立马车	li ma che
 李群	li qun
 李少庚	li shao geng
 李望祥	li wang xiang
-李雪松	li xue song
-李义庭	li yi ting
-连将杀	lian jiang sha
 敛炮	lian pao
 联子配合	lian zi pei he
 两鬼拍门	liang gui pai men
-梁军	liang jun
 廖二平	liao er ping
 列炮	lie pao
-林宏敏	lin hong min
 岭南双龙	ling nan shuang long
-六出祁山	liu chu qi shan
-柳大华	liu da hua
-刘殿中	liu dian zhong
 流行布局新变探索	liu xing bu ju xin bian tan suo
 刘宗泽	liu zong ze
-吕钦	lv qin
 马炮仕相全	ma pao shi xiang quan
 马士象全	ma shi xiang quan
 马头炮	ma tou pao
@@ -2327,10 +2294,8 @@ use_preset_vocabulary: false
 欧阳琦琳	ou yang qi lin
 排局研究	pai ju yan jiu
 盘河马探秘	pan he ma tan mi
-盘头马	pan tou ma
 炮碾丹砂	pao nian dan sha
 匹马单刀	pi ma dan dao
-片甲不回	pian jia bu hui
 七兵	qi bing
 七斗星杯象甲联赛	qi dou xing bei xiang jia lian sai
 棋规	qi gui
@@ -2344,7 +2309,6 @@ use_preset_vocabulary: false
 起马局	qi ma ju
 弃马十三着	qi ma shi san zhao
 棋评	qi ping
-棋枰	qi ping
 奇趣象棋排局谱	qi qu xiang qi pai ju pu
 棋书	qi shu
 弃象陷车	qi xiang xian che
@@ -2366,26 +2330,20 @@ use_preset_vocabulary: false
 权衡缓急	quan heng huan ji
 三兵	san bing
 三车闹士	san che nao shi
-三顾草庐	san gu cao lu
 三级棋士	san ji qi shi
 三仙炼丹	san xian lian dan
 三卒	san zu
 杀法	sha fa
 杀棋	sha qi
 杀着	sha zhao
-闪露	shan lu
 上海金外滩	shang hai jin wai tan
-尚威	shang wei
 舍小救大	she xiao jiu da
 审局	shen ju
 审局度势	shen ju du shi
-申鹏	shen peng
 审势	shen shi
 神州八骏	shen zhou ba jun
 审子	shen zi
 胜定	sheng ding
-胜势	sheng shi
-士角炮	shi jiao pao
 士角炮对起马局	shi jiao pao dui qi ma ju
 士角炮对挺卒	shi jiao pao dui ting zu
 事林广记	shi lin guang ji
@@ -2421,9 +2379,7 @@ use_preset_vocabulary: false
 孙勇征	sun yong zheng
 锁喉带箭	suo hou dai jian
 太监追皇帝	tai jian zhui huang di
-陶汉明	tao han ming
 韬略元机	tao lue yuan ji
-特级大师	te ji da shi
 特级大师象棋实战布局	te ji da shi xiang qi shi zhan bu ju
 特级国际大师	te ji guo ji da shi
 提吃	ti chi
@@ -2441,18 +2397,9 @@ use_preset_vocabulary: false
 同线车	tong xian che
 突破战术	tu po zhan shu
 退象	tui xiang
-万春林	wan chun lin
-王斌	wang bin
-王嘉良	wang jia liang
 王孔兴	wang kong xing
-王琳娜	wang lin na
-汪洋	wang yang
 王跃飞	wang yue fei
-围困	wei kun
 稳步缓攻	wen bu huan gong
-卧槽	wo cao
-卧槽马	wo cao ma
-窝心马	wo xin ma
 窝心炮	wo xin pao
 五八炮对屏风马	wu ba pao dui ping feng ma
 五八炮进三兵对屏风马	wu ba pao jin san bing dui ping feng ma
@@ -2465,12 +2412,10 @@ use_preset_vocabulary: false
 五七炮对屏风马	wu qi pao dui ping feng ma
 五七炮双弃兵对反宫马	wu qi pao shuang qi bing dui fan gong ma
 伍霞	wu xia
-五羊杯	wu yang bei
 袭其不备	xi qi bu bei
 厦门港务控股	xia men gang wu kong gu
 先负	xian fu
 先弃后取	xian qi hou qu
-仙人指路	xian ren zhi lu
 仙人指路对金钩炮	xian ren zhi lu dui jin gou pao
 仙人指路对卒底炮	xian ren zhi lu dui zu di pao
 仙人指路对卒底炮飞左象	xian ren zhi lu dui zu di pao fei zuo xiang
@@ -2491,31 +2436,23 @@ use_preset_vocabulary: false
 象棋业余伍级	xiang qi ye yu wu ji
 象棋业余壹级	xiang qi ye yu yi ji
 象棋中局杀势	xiang qi zhong ju sha shi
-谢靖	xie jing
 谢岿	xie kui
 谢思明	xie si ming
 谢业枧	xie ye jian
 心武残编	xin wu can bian
 行棋处理	xing qi chu li
 胸有全局	xiong you quan ju
-徐超	xu chao
 徐健秒	xu jian miao
-徐天红	xu tian hong
-徐天利	xu tian li
-许银川	xu yin chuan
 许银川中残局精华	xu yin chuan zhong can ju jing hua
 选机突破	xuan ji tu po
 薛文强	xue wen qiang
-巡河炮	xun he pao
 颜成龙	yan cheng long
 言穆江	yan mu jiang
-阎文清	yan wen qing
 羊肠九曲	yang chang jiu qu
 杨德琪	yang de qi
 杨官璘	yang guan lin
 羊角士	yang jiao shi
 杨小平	yang xiao ping
-要杀	yao sha
 一打一闲	yi da yi xian
 以攻坏攻	yi gong huai gong
 已过河兵	yi guo he bing
@@ -2523,14 +2460,12 @@ use_preset_vocabulary: false
 一级棋士	yi ji qi shi
 一将一杀	yi jiang yi sha
 一将一捉	yi jiang yi zhuo
-以静制动	yi jing zhi dong
 以快打慢	yi kuai da man
 弈林精华	yi lin jing hua
 弈林新编	yi lin xin bian
 弈林雄狮	yi lin xiong shi
 一杀一捉	yi sha yi zhuo
 一矢双雕	yi shi shuang diao
-弈天	yi tian
 以稳对稳	yi wen dui wen
 一着两用	yi zhao liang yong
 因敌变化	yin di bian hua
@@ -2539,7 +2474,6 @@ use_preset_vocabulary: false
 有根子	you gen zi
 宇兵	yu bing
 寓守于攻	yu shou yu gong
-于幼华	yu you hua
 袁洪梁	yuan hong liang
 渊深海阔	yuan shen hai kuo
 原位卒	yuan wei zu
@@ -2555,16 +2489,10 @@ use_preset_vocabulary: false
 运子战术	yun zi zhan shu
 占据要道	zhan ju yao dao
 占肋	zhan lei
-张国凤	zhang guo feng
-张江	zhang jiang
-张强	zhang qiang
 张申宏	zhang shen hong
 张影富	zhang ying fu
 照将	zhao jiang
-赵庆阁	zhao qing ge
 赵汝权	zhao ru quan
-赵鑫鑫	zhao xin xin
-赵寅	zhao yin
 着中有数	zhao zhong you shu
 正头车	zheng tou che
 郑一泓	zheng yi hong
@@ -2581,8 +2509,6 @@ use_preset_vocabulary: false
 中局谋和	zhong ju mou he
 中局占优	zhong ju zhan you
 中盘搏杀	zhong pan bo sha
-重炮	zhong pao
-中炮	zhong pao
 中炮对半途列炮	zhong pao dui ban tu lie pao
 中炮对补士敛炮	zhong pao dui bu shi lian pao
 中炮对单提马	zhong pao dui dan ti ma
@@ -2618,12 +2544,9 @@ use_preset_vocabulary: false
 中卒	zhong zu
 朱琮思	zhu cong si
 竹香斋	zhu xiang zhai
-庄玉庭	zhuang yu ting
 自来出洞无敌手象棋古谱新编	zi lai chu dong wu di shou xiang qi gu pu xin bian
 子力价值	zi li jia zhi
 阻碍敌军	zu ai di jun
-阻挡	zu dang
-卒底炮	zu di pao
 卒林线	zu lin xian
 做杀	zuo sha
 左士角炮	zuo shi jiao pao
@@ -2650,7 +2573,6 @@ use_preset_vocabulary: false
 避仕	bi shi
 必须变着	bi xu bian zhao
 变二	bian er
-变例	bian li
 边卒	bian zu
 蹩马腿	bie ma tui
 兵八	bing ba
@@ -2684,7 +2606,6 @@ use_preset_vocabulary: false
 残棋炮归家	can qi pao gui jia
 残棋圣手	can qi sheng shou
 缠角马	chan jiao ma
-长兵器	chang bing qi
 车八进	che ba jin
 车八平	che ba ping
 车八退	che ba tui
@@ -2726,7 +2647,6 @@ use_preset_vocabulary: false
 吃子	chi zi
 冲卒	chong zu
 抽将	chou jiang
-出将	chu jiang
 出帅	chu shuai
 除帅	chu shuai
 出现循环反复	chu xian xun huan fan fu
@@ -2769,7 +2689,6 @@ use_preset_vocabulary: false
 遏制黑	e zhi hei
 二车	er che
 二打一还打	er da yi hai da
-二鬼拍门	er gui pai men
 而径走	er jing zou
 二退	er tui
 而占领叉点	er zhan ling cha dian
@@ -2798,7 +2717,6 @@ use_preset_vocabulary: false
 伏马	fu ma
 伏杀	fu sha
 改走将	gai zou jiang
-高钓马	gao diao ma
 高头兵	gao tou bing
 隔步成杀	ge bu cheng sha
 各分七种	ge fen qi zhong
@@ -2868,12 +2786,9 @@ use_preset_vocabulary: false
 即使黑马	ji shi hei ma
 计时钟	ji shi zhong
 将帅捕杀	jiang shuai bu sha
-将死	jiang si
-将一个	jiang yi ge
 交叉组成	jiao cha zu cheng
 交流棋艺	jiao liu qi yi
 进八	jin ba
-进车	jin che
 紧凑老练	jin cou lao lian
 进二	jin er
 进九	jin jiu
@@ -2898,17 +2813,14 @@ use_preset_vocabulary: false
 卷下	juan xia
 均为拒绝	jun wei ju jue
 均在马蹄之下	jun zai ma ti zhi xia
-开局	kai ju
 可打死红兵	ke da si hong bing
 客队身份	ke dui shen fen
 可见黑第	ke jian hei di
-可进可退	ke jin ke tui
 可以直进	ke yi zhi jin
 控局	kong ju
 控局得胜	kong ju de sheng
 控局制胜	kong ju zhi sheng
 空心炮	kong xin pao
-控制局势	kong zhi ju shi
 困法	kun fa
 拦炮	lan pao
 老兵建功	lao bing jian gong
@@ -2917,7 +2829,6 @@ use_preset_vocabulary: false
 连环炮	lian huan pao
 连战两轮	lian zhan liang lun
 两款属于提和	liang kuan shu yu ti he
-两头蛇	liang tou she
 列手炮	lie shou pao
 另一方必须回避	ling yi fang bi xu hui bi
 另一方已	ling yi fang yi
@@ -2937,7 +2848,6 @@ use_preset_vocabulary: false
 马八进七车	ma ba jin qi che
 马长捉兵	ma chang zhuo bing
 马出路	ma chu lu
-马后炮	ma hou pao
 马后炮杀	ma hou pao sha
 马九	ma jiu
 马九进七车	ma jiu jin qi che
@@ -2949,7 +2859,6 @@ use_preset_vocabulary: false
 马炮双卒士象	ma pao shuang zu shi xiang
 马七	ma qi
 马七进五车	ma qi jin wu che
-马前卒	ma qian zu
 马三进五车	ma san jin wu che
 马四进五车	ma si jin wu che
 马五	ma wu
@@ -3024,7 +2933,6 @@ use_preset_vocabulary: false
 偏马局	pian ma ju
 平八	ping ba
 平二	ping er
-屏风马	ping feng ma
 平九	ping jiu
 平六	ping liu
 平炮	ping pao
@@ -3035,17 +2943,14 @@ use_preset_vocabulary: false
 平四	ping si
 平五	ping wu
 平五卒	ping wu zu
-平一	ping yi
 平中炮	ping zhong pao
 破仕	po shi
 破仕夺关	po shi duo guan
 破仕掠相	po shi lue xiang
 浦东队	pu dong dui
-弃兵	qi bing
 弃兵争先	qi bing zheng xian
 棋例	qi li
 七马	qi ma
-棋盘上	qi pan shang
 棋盘中间	qi pan zhong jian
 棋谱来源	qi pu lai yuan
 弃士打马	qi shi da ma
@@ -3080,7 +2985,6 @@ use_preset_vocabulary: false
 塞相眼	sai xiang yan
 三步虎	san bu hu
 三进兵	san jin bing
-三十二个	san shi er ge
 三子归边	san zi gui bian
 杀势取胜	sha shi qu sheng
 山顶公	shan ding gong
@@ -3090,7 +2994,6 @@ use_preset_vocabulary: false
 深厚的功夫	shen hou de gong fu
 甚为巧妙	shen wei qiao miao
 升将三楼	sheng jiang san lou
-胜局已定	sheng ju yi ding
 胜炮	sheng pao
 升炮巡河	sheng pao xun he
 胜双	sheng shuang
@@ -3121,7 +3024,6 @@ use_preset_vocabulary: false
 仕相	shi xiang
 士象	shi xiang
 仕相全	shi xiang quan
-士象全	shi xiang quan
 实则为亮帅	shi ze wei liang shuai
 实战着法是	shi zhan zhao fa shi
 帅和将	shuai he jiang
@@ -3160,7 +3062,6 @@ use_preset_vocabulary: false
 帅五退一马	shuai wu tui yi ma
 帅五退一炮	shuai wu tui yi pao
 双兵	shuang bing
-双方都	shuang fang dou
 双方各走了一着	shuang fang ge zou liao yi zhao
 双方均无	shuang fang jun wu
 双方轮流各走一着	shuang fang lun liu ge zou yi zhao
@@ -3246,11 +3147,8 @@ use_preset_vocabulary: false
 一方出现	yi fang chu xian
 一方的棋子	yi fang de qi zi
 一方提和	yi fang ti he
-一横	yi heng
 亦红优	yi hong you
 以后黑炮	yi hou hei pao
-一将	yi jiang
-以解	yi jie
 亦可改走	yi ke gai zou
 弈完第	yi wan di
 以下黑	yi xia hei
@@ -3258,7 +3156,6 @@ use_preset_vocabulary: false
 一象	yi xiang
 一斜	yi xie
 意欲大胆穿心	yi yu da dan chuan xin
-一着棋	yi zhao qi
 弈至第	yi zhi di
 一至九	yi zhi jiu
 一卒	yi zu
@@ -3266,7 +3163,6 @@ use_preset_vocabulary: false
 应当变着而不变	ying dang bian zhao er bu bian
 应对不佳	ying dui bu jia
 应改	ying gai
-应将	ying jiang
 应使双方	ying shi shuang fang
 应走着数	ying zou zhao shu
 用炮	yong pao
@@ -3279,7 +3175,6 @@ use_preset_vocabulary: false
 右帅	you shuai
 由于黑方	you yu hei fang
 由执红棋	you zhi hong qi
-原谱	yuan pu
 约恩	yue en
 运马	yun ma
 在布局后	zai bu ju hou
@@ -3313,17 +3208,15 @@ use_preset_vocabulary: false
 只许走一步	zhi xu zou yi bu
 只有炮吃子	zhi you pao chi zi
 制中	zhi zhong
-中兵	zhong bing
 中国象棋冠军	zhong guo xiang qi guan jun
 中国象棋锦标赛	zhong guo xiang qi jin biao sai
 中国象棋谱库	zhong guo xiang qi pu ku
 中国象棋世界锦标赛	zhong guo xiang qi shi jie jin biao sai
 中后局	zhong hou ju
-中局	zhong ju
 中局混战	zhong ju hun zhan
 中局阶段	zhong ju jie duan
 中路取势	zhong lu qu shi
-重炮杀	zhong pao sha
+重炮杀	chong pao sha
 主队身份	zhu dui shen fen
 转入中局	zhuan ru zhong ju
 准备赶走	zhun bei gan zou
