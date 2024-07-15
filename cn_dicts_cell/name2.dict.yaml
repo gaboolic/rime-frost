@@ -3,7 +3,6 @@
 #
 # 动漫人名等
 # 需要降频
-#
 
 ---
 name: name2
@@ -11,7 +10,6 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-    
 阿闭贞大	a bi zhen da
 阿闭贞征	a bi zhen zheng
 阿部定吉	a bu ding ji
@@ -5463,7 +5461,6 @@ use_preset_vocabulary: false
 佐藤启作	zuo teng qi zuo
 佐佐木小次郎	zuo zuo mu xiao ci lang
 白河	bai he
-白河静流	bai he jing liu
 白河萤	bai he ying
 百濑环	bai lai huan
 白色雨伞	bai se yu san
@@ -5483,7 +5480,6 @@ use_preset_vocabulary: false
 稻穗信	dao sui xin
 登波离	deng bo li
 登波离桥	deng bo li qiao
-飞世巴	fei shi ba
 飞田扉	fei tian fei
 风流庵	feng liu an
 鼓堂诗名	gu tang shi ming
@@ -5522,7 +5518,6 @@ use_preset_vocabulary: false
 明日香	ming ri xiang
 木濑步	mu lai bu
 那由多	na you duo
-南燕	nan yan
 南云霞	nan yun xia
 诺艾尔	nuo ai er
 千夏	qian xia
@@ -5553,7 +5548,6 @@ use_preset_vocabulary: false
 仙堂麻寻	xian tang ma xun
 想君	xiang jun
 相摩望	xiang mo wang
-相摩希	xiang mo xi
 箱崎智纱	xiang qi zhi sha
 翔太	xiang tai
 香月	xiang yue
@@ -7251,49 +7245,21 @@ use_preset_vocabulary: false
 宗庙	zong miao
 最佳李纯信	zui jia li chun xin
 阿波	a bo
-阿部正次	a bu zheng ci
 阿茶局	a cha ju
 阿初	a chu
 阿市	a shi
 阿松	a song
-阿苏惟将	a su wei jiang
-安部政吉	an bu zheng ji
-安东爱季	an dong ai ji
 安东高季	an dong gao ji
 安房	an fang
-安国寺惠琼	an guo si hui qiong
 安见直政	an jian zhi zheng
-安井道顿	an jing dao dun
-安藤良整	an teng liang zheng
-安藤守就	an teng shou jiu
-安藤直次	an teng zhi ci
-安藤重信	an teng zhong xin
-安田长秀	an tian chang xiu
-安田显元	an tian xian yuan
 安土	an tu
 安土桃山	an tu tao shan
-安西又助	an xi you zhu
 安艺	an yi
 安芸国虎	an yun guo hu
-安宅冬康	an zhai dong kang
-安宅信康	an zhai xin kang
-奥村荣明	ao cun rong ming
-奥村永福	ao cun yong fu
-奥平信昌	ao ping xin chang
 八板金兵卫	ba ban jin bing wei
 八王子	ba wang zi
 百地三太夫	bai di san tai fu
-白石宗实	bai shi zong shi
-百武贤兼	bai wu xian jian
-拜乡家嘉	bai xiang jia jia
-板部冈江雪斋	ban bu gang jiang xue zhai
-板仓胜重	ban cang sheng zhong
-坂井政尚	ban jing zheng shang
-坂崎直盛	ban qi zhi sheng
 坂田源右卫门	ban tian yuan you wei men
-板垣信方	ban yuan xin fang
-保科正俊	bao ke zheng jun
-宝藏院胤荣	bao zang yuan yin rong
 备后	bei hou
 北陆道	bei lu dao
 北陆孤狼	bei lu gu lang
@@ -7302,177 +7268,61 @@ use_preset_vocabulary: false
 北畠具房	bei tian ju fang
 北畠具教	bei tian ju jiao
 北畠晴具	bei tian qing ju
-北条纲成	bei tiao gang cheng
-北条高广	bei tiao gao guang
-北条幻庵	bei tiao huan an
-北条景广	bei tiao jing guang
-北条氏邦	bei tiao shi bang
 北条氏定	bei tiao shi ding
-北条氏繁	bei tiao shi fan
-北条氏规	bei tiao shi gui
-北条氏康	bei tiao shi kang
-北条氏胜	bei tiao shi sheng
-北条氏秀	bei tiao shi xiu
-北条氏照	bei tiao shi zhao
-北条氏政	bei tiao shi zheng
-北条氏直	bei tiao shi zhi
-北条早云	bei tiao zao yun
 北乡氏久	bei xiang shi jiu
-北信爱	bei xin ai
 北政所	bei zheng suo
 备中	bei zhong
 本多小松	ben duo xiao song
-本多正纯	ben duo zheng chun
-本多正信	ben duo zheng xin
-本多政重	ben duo zheng zhong
-本多忠朝	ben duo zhong chao
-本多忠纯	ben duo zhong chun
 本多重次	ben duo zhong ci
-本多忠高	ben duo zhong gao
-本多忠胜	ben duo zhong sheng
-本多忠真	ben duo zhong zhen
-本多忠政	ben duo zhong zheng
 本能寺之变	ben neng si zhi bian
-本山茂宗	ben shan mao zong
 本因坊算砂	ben yin fang suan sha
 本愿寺	ben yuan si
 本愿寺教如	ben yuan si jiao ru
 本愿寺显如	ben yuan si xian ru
 本愿寺证如	ben yuan si zheng ru
 本愿寺准如	ben yuan si zhun ru
-本庄繁长	ben zhuang fan chang
 比叡山	bi rui shan
-别所长治	bie suo chang zhi
 滨松	bin song
 并和氏续	bing he shi xu
 兵农合一	bing nong he yi
-波多野晴通	bo duo ye qing tong
-波多野秀尚	bo duo ye xiu shang
-波多野秀治	bo duo ye xiu zhi
-波多野稙通	bo duo ye zhi tong
 播磨	bo mo
 播磨屋宗德	bo mo wu zong de
 伯耆	bo qi
-薄田兼相	bo tian jian xiang
-不破光治	bu po guang zhi
-不破直光	bu po zhi guang
 藏田五郎左	cang tian wu lang zuo
 曾根昌世	ceng gen chang shi
 茶茶	cha cha
-茶屋四郎次郎	cha wu si lang ci lang
 茶屋又四郎	cha wu you si lang
-柴田胜丰	chai tian sheng feng
-柴田胜家	chai tian sheng jia
 长坂长闲	chang ban chang xian
 长坂胜繁	chang ban sheng fan
-长船纲直	chang chuan gang zhi
-长船贞亲	chang chuan zhen qin
-长谷川等伯	chang gu chuan deng bo
-长井道利	chang jing dao li
-长连龙	chang lian long
 常陆	chang lu
 长门	chang men
-长束正家	chang shu zheng jia
 长尾景虎	chang wei jing hu
-长尾晴景	chang wei qing jing
-长尾为景	chang wei wei jing
-长尾政景	chang wei zheng jing
 长享	chang xiang
 长筱合战	chang xiao he zhan
-长续连	chang xu lian
-长野具藤	chang ye ju teng
-长野业盛	chang ye ye sheng
-长野业正	chang ye ye zheng
-长宗我部国亲	chang zong wo bu guo qin
-长宗我部亲吉	chang zong wo bu qin ji
-长宗我部盛亲	chang zong wo bu sheng qin
-长宗我部信亲	chang zong wo bu xin qin
-长宗我部元亲	chang zong wo bu yuan qin
-朝比奈泰朝	chao bi nai tai chao
-朝仓景恒	chao cang jing heng
-朝仓景健	chao cang jing jian
-朝仓景镜	chao cang jing jing
-朝仓景连	chao cang jing lian
-朝仓孝景	chao cang xiao jing
-朝仓义景	chao cang yi jing
-朝仓宗滴	chao cang zong di
 车悬	che xuan
-成富茂安	cheng fu mao an
-城井镇房	cheng jing zhen fang
-成松信胜	cheng song xin sheng
-成田长泰	cheng tian chang tai
-成田长忠	cheng tian chang zhong
-成田氏长	cheng tian shi chang
-赤池长任	chi chi chang ren
-赤井直正	chi jing zhi zheng
-池赖和	chi lai he
 赤松义佑	chi song yi you
-赤松政秀	chi song zheng xiu
-赤松政则	chi song zheng ze
-池田恒兴	chi tian heng xing
-池田辉政	chi tian hui zheng
 池田物左卫门	chi tian wu zuo wei men
-池田元助	chi tian yuan zhu
-赤尾清纲	chi wei qing gang
-赤穴盛清	chi xue sheng qing
 初井教业	chu jing jiao ye
 出浦盛清	chu pu sheng qing
 出羽	chu yu
 出云	chu yun
-出云阿国	chu yun a guo
 出云的阿国	chu yun de a guo
 出云之鹿	chu yun zhi lu
-川上久朗	chuan shang jiu lang
-川上忠坚	chuan shang zhong jian
-川上忠智	chuan shang zhong zhi
 川中岛合战	chuan zhong dao he zhan
 春日局	chun ri ju
 春日山	chun ri shan
-村井长赖	cun jing chang lai
 村井长明	cun jing chang ming
-村井贞胜	cun jing zhen sheng
 村上国清	cun shang guo qing
-村上武吉	cun shang wu ji
-村上义清	cun shang yi qing
-村上元吉	cun shang yuan ji
 大阪	da ban
 大阪冬之阵	da ban dong zhi zhen
 大阪七星将	da ban qi xing jiang
 大阪夏之阵	da ban xia zhi zhen
-大宝寺义氏	da bao si yi shi
-大村纯忠	da cun chun zhong
-大道寺政繁	da dao si zheng fan
-大谷吉继	da gu ji ji
-大国实赖	da guo shi lai
 大和	da he
-大久保长安	da jiu bao chang an
-大久保忠教	da jiu bao zhong jiao
-大久保忠邻	da jiu bao zhong lin
-大久保忠世	da jiu bao zhong shi
-大久保忠员	da jiu bao zhong yuan
-大久保忠佐	da jiu bao zhong zuo
-大内定纲	da nei ding gang
-大内辉弘	da nei hui hong
 大内隆宏	da nei long hong
-大内义长	da nei yi chang
-大内义隆	da nei yi long
-大内义兴	da nei yi xing
-大内政弘	da nei zheng hong
-大崎义隆	da qi yi long
-大崎义直	da qi yi zhi
 大石智久	da shi zhi jiu
-大熊朝秀	da xiong chao xiu
-大须贺康高	da xu he kang gao
-大野治长	da ye zhi chang
-大野治房	da ye zhi fang
-大野治胤	da ye zhi yin
 大永	da yong
-大友亲盛	da you qin sheng
-大友亲家	da you qing jia
 大友晴英	da you qing ying
 大友义鑑	da you yi jian
-大友义统	da you yi tong
-大友义镇	da you yi zhen
 大友宗麟	da you zong lin
 大隅	da yu
 大月景秀	da yue jing xiu
@@ -7481,43 +7331,22 @@ use_preset_vocabulary: false
 丹后	dan hou
 淡路	dan lu
 但马	dan ma
-丹羽长秀	dan yu chang xiu
-丹羽长重	dan yu chang zhong
 道川兵卫三郎	dao chuan bing wei san lang
 稻富一梦	dao fu yi meng
 稻姬	dao ji
-岛津丰久	dao jin feng jiu
-岛津贵久	dao jin gui jiu
-岛津家久	dao jin jia jiu
 岛津龙伯	dao jin long bo
 岛津日新斋	dao jin ri xin zhai
-岛津尚久	dao jin shang jiu
-岛津实久	dao jin shi jiu
-岛津岁久	dao jin sui jiu
-岛津义弘	dao jin yi hong
-岛津义虎	dao jin yi hu
-岛津义久	dao jin yi jiu
 岛津征久	dao jin zheng jiu
-岛津忠恒	dao jin zhong heng
-岛津忠将	dao jin zhong jiang
-岛津忠良	dao jin zhong liang
-岛井宗室	dao jing zong shi
-岛清兴	dao qing xing
 岛胜猛	dao sheng meng
 刀狩	dao shou
 稻叶一铁	dao ye yi tie
-稻叶贞通	dao ye zhen tong
-稻叶正成	dao ye zheng cheng
 岛左近	dao zuo jin
 德川家光	de chuan jia guang
-德川家康	de chuan jia kang
 德川赖房	de chuan lai fang
 德川赖宣	de chuan lai xuan
 德川信康	de chuan xin kang
-德川秀忠	de chuan xiu zhong
 德川义直	de chuan yi zhi
 得居通之	de ju tong zhi
-德永寿昌	de yong shou chang
 地黄八幡	di huang ba fan
 淀君	dian jun
 淀屋长安	dian wu chang an
@@ -7525,210 +7354,95 @@ use_preset_vocabulary: false
 东海道	dong hai dao
 东海道第一弓取	dong hai dao di yi gong qu
 东山道	dong shan dao
-东乡重位	dong xiang zhong wei
-渡边勘兵卫	du bian kan bing wei
-渡边守纲	du bian shou gang
 笃十藏	du shi cang
 独眼龙政宗	du yan long zheng zong
 对马	dui ma
 盾冈满茂	dun gang man mao
 多罗尾光俊	duo luo wei guang jun
 多田满赖	duo tian man lai
-二本松义继	er ben song yi ji
-二宫就辰	er gong jiu chen
 二阶崩之变	er jie beng zhi bian
 二阶堂辉行	er jie tang hui xing
-二阶堂盛义	er jie tang sheng yi
-二阶堂照行	er jie tang zhao xing
 二曲轮之助	er qu lun zhi zhu
-儿玉就英	er yu jiu ying
 繁尺元氏	fan chi yuan shi
-饭富虎昌	fan fu hu chang
 饭田觉兵卫	fan tian jue bing wei
 饭田直政	fan tian zhi zheng
-饭尾连龙	fan wei lian long
 芳春院	fang chun yuan
-芳贺高定	fang he gao ding
-芳贺高继	fang he gao ji
 肥后	fei hou
 肥前	fei qian
 肥前之熊	fei qian zhi xiong
 飞驒	fei tuo
-分部光嘉	fen bu guang jia
 丰臣国松	feng chen guo song
 丰臣完子	feng chen wan zi
-丰臣秀长	feng chen xiu chang
-丰臣秀次	feng chen xiu ci
-丰臣秀吉	feng chen xiu ji
-丰臣秀赖	feng chen xiu lai
-丰臣秀胜	feng chen xiu sheng
 丰臣秀信	feng chen xiu xin
 丰后	feng hou
-风魔小太郎	feng mo xiao tai lang
 丰前	feng qian
-蜂屋赖隆	feng wu lai long
-蜂须贺家政	feng xu he jia zheng
 蜂须贺小六	feng xu he xiao liu
-蜂须贺正胜	feng xu he zheng sheng
 服部半藏	fu bu ban zang
-福岛正则	fu dao zheng ze
-福留亲政	fu liu qin zheng
-福留仪重	fu liu yi zhong
 富山	fu shan
 富田景胜	fu tian jing sheng
-富田景政	fu tian jing zheng
-富田隆实	fu tian long shi
-富田势源	fu tian shi yuan
-富田重政	fu tian zhong zheng
-富永山随	fu yong shan sui
-福原贞俊	fu yuan zhen jun
 府中三人众	fu zhong san ren zhong
-肝付兼护	gan fu jian hu
-肝付兼亮	gan fu jian liang
-肝付兼续	gan fu jian xu
-肝付良兼	gan fu liang jian
 甘利昌忠	gan li chang zhong
-甘利虎泰	gan li hu tai
 甘糟景持	gan zao jing chi
-甘糟景继	gan zao jing ji
-冈本禅哲	gang ben chan zhe
-冈本赖氏	gang ben lai shi
-冈本随缘斋	gang ben sui yuan zhai
-冈部元信	gang bu yuan xin
-冈部贞纲	gang bu zhen gang
-冈部正纲	gang bu zheng gang
-冈吉正	gang ji zheng
 冈利胜	gang li sheng
 冈崎	gang qi
-冈田重孝	gang tian zhong xiao
-高坂昌信	gao ban chang xin
-高坂甚内	gao ban shen nei
 高岛政重	gao dao zheng zhong
-高力清长	gao li qing chang
-高梨政赖	gao li zheng lai
 高木清长	gao mu qing chang
-高桥鉴种	gao qiao jian zhong
-高桥绍运	gao qiao shao yun
-高山右近	gao shan you jin
-高山友照	gao shan you zhao
 高山重友	gao shan zhong you
 高台院	gao tai yuan
 镐团右卫门	gao tuan you wei men
 高野山	gao ye shan
-高远赖继	gao yuan lai ji
 镐直政	gao zhi zheng
-葛山氏元	ge shan shi yuan
-葛西晴信	ge xi qing xin
-根岸兔角	gen an tu jiao
 根津甚八	gen jin shen ba
 根来寺	gen lai si
-亘理元宗	gen li yuan zong
 宫本传太夫	gong ben chuan tai fu
 宫本武藏	gong ben wu zang
-宫部继润	gong bu ji run
 攻弹正	gong dan zheng
-沟口秀胜	gou kou xiu sheng
 沟尾庄兵卫	gou wei zhuang bing wei
 古河公方	gu he gong fang
 古河御所	gu he yu suo
-古田重然	gu tian zhong ran
-谷忠澄	gu zhong cheng
 关东管领	guan dong guan ling
 关口氏广	guan kou shi guang
-关盛信	guan sheng xin
-关一政	guan yi zheng
 关原合战	guan yuan he zhan
 龟井兹矩	gui jing zi ju
 鬼美浓	gui mei nong
-鬼庭纲元	gui ting gang yuan
 鬼庭左月	gui ting zuo yue
 鬼小岛弥太郎	gui xiao dao mi tai lang
 鬼玄蕃	gui xuan fan
-鲑延秀纲	gui yan xiu gang
-桂元澄	gui yuan cheng
 鬼之半藏	gui zhi ban cang
 鬼作左	gui zuo zuo
-锅岛胜茂	guo dao sheng mao
-锅岛直茂	guo dao zhi mao
-国司元相	guo si yuan xiang
-果心居士	guo xin ju shi
 国友善兵卫	guo you shan bing wei
-海北纲亲	hai bei gang qin
 海道第一弓	hai dao di yi gong
-海野栋纲	hai ye dong gang
-海野六郎	hai ye liu lang
-海野信亲	hai ye xin qin
 豪姬	hao ji
-河尻秀隆	he kao xiu long
 河内	he nei
 和泉	he quan
-和田惟政	he tian wei zheng
-河田长亲	he tian zhang qin
-和田昭为	he tian zhao wei
-河野通春	he ye tong chun
-河野通宣	he ye tong xuan
-河野通直	he ye tong zhi
-黑田长政	hei tian chang zheng
 黑田官兵卫	hei tian guan bing wei
 黑田如水	hei tian ru shui
-黑田孝高	hei tian xiao gao
-黑田职隆	hei tian zhi long
 横谷左近	heng gu zuo jin
 横山喜内	heng shan xi nei
-横田高松	heng tian gao song
 鸿池新六	hong chi xin liu
 弘治	hong zhi
 后柏原天皇	hou bai yuan tian huang
 后花园上皇	hou hua yuan shang huang
-后奈良天皇	hou nai liang tian huang
 后水尾天皇	hou shui wei tian huang
-后藤基次	hou teng ji ci
-后藤贤丰	hou teng xian feng
-后藤信康	hou teng xin kang
 后藤又兵卫	hou teng you bing wei
-后土御门天皇	hou tu yu men tian huang
-后阳成天皇	hou yang cheng tian huang
-户川达安	hu chuan da an
-户川秀安	hu chuan xiu an
 户次川之战	hu ci chuan zhi zhan
 户次鑑连	hu ci jian lian
 户石崩	hu shi beng
 湖衣姬	hu yi ji
 户沢盛安	hu ze sheng an
-花房正成	hua fang zheng cheng
-花房正幸	hua fang zheng xing
-花房职秀	hua fang zhi xiu
 花之御所	hua zhi yu suo
-荒木村重	huang mu cun zhong
-荒木氏纲	huang mu shi gang
 会津	hui jin
 会津征伐	hui jin zheng fa
-迹部胜资	ji bu sheng zi
-吉川广家	ji chuan guang jia
-吉川经家	ji chuan jing jia
-吉川元长	ji chuan yuan chang
-吉川元春	ji chuan yuan chun
-吉冈长增	ji gang chang zeng
 吉冈传七郎	ji gang chuan qi lang
 吉冈清十郎	ji gang qing shi lang
 吉冈宪法	ji gang xian fa
-吉弘鉴理	ji hong jian li
 吉弘镇种	ji hong zhen zhong
-吉见正赖	ji jian zheng lai
-吉江景资	ji jiang jing zi
-吉江宗信	ji jiang zong xin
-吉良亲实	ji liang qin shi
-吉良亲贞	ji liang qin zhen
 姬路	ji lu
 畿内	ji nei
 季琼真蕊	ji qiong zhen rui
 吉田郡山	ji tian jun shan
 吉田康俊	ji tian kang jun
-吉田孝赖	ji tian xiao lai
 吉田印西	ji tian yin xi
-吉田政重	ji tian zheng zhong
-吉田重俊	ji tian zhong jun
-矶野员昌	ji ye yuan chang
 纪伊	ji yi
 甲斐	jia fei
 甲斐之虎	jia fei zhi hu
@@ -7736,68 +7450,21 @@ use_preset_vocabulary: false
 加贺	jia he
 甲贺	jia he
 加贺征伐	jia he zheng fa
-加藤段藏	jia teng duan cang
-加藤光泰	jia teng guang tai
-加藤嘉明	jia teng jia ming
-加藤清正	jia teng qing zheng
 甲阳军鉴	jia yang jun jian
-菅达长	jian da chang
-坚田元庆	jian tian yuan qing
 贱岳合战	jian yue he zhan
 贱岳七本枪	jian yue qi ben qiang
-菅沼定盈	jian zhao ding ying
-江村亲家	jiang cun qing jia
-江里口信常	jiang li kou xin chang
-江马辉盛	jiang ma hui sheng
-角仓了以	jiao cang le yi
-角仓素庵	jiao cang su an
-角隈石宗	jiao wei shi zong
 角屋七郎次郎	jiao wu qi lang ci lang
-结城晴朝	jie cheng qing chao
-结城秀康	jie cheng xiu kang
-结城政胜	jie cheng zheng sheng
 堺港	jie gang
-今川氏丰	jin chuan shi feng
-今川氏辉	jin chuan shi hui
-今川氏亲	jin chuan shi qin
-今川氏真	jin chuan shi zhen
-津川义冬	jin chuan yi dong
-今川义元	jin chuan yi yuan
-今川义忠	jin chuan yi zhong
 近江	jin jiang
-今井宗久	jin jing zong jiu
 今井宗薰	jin jing zong xun
-津轻为信	jin qing wei xin
-金森长近	jin sen chang jin
-金上盛备	jin shang sheng bei
-近藤义武	jin teng yi wu
 津田监物	jin tian jian wu
-津田信澄	jin tian xin cheng
-津田宗及	jin tian zong ji
-津野亲忠	jin ye qin zhong
 金泽	jin ze
 金子元春	jin zi yuan chun
-金子元宅	jin zi yuan zhai
-京极高次	jing ji gao ci
-京极高吉	jing ji gao ji
-京极高知	jing ji gao zhi
-京极龙子	jing ji long zi
-井伊直政	jing yi zhi zheng
 臼杵俭速	jiu chu jian su
 九鬼广隆	jiu gui guang long
-九鬼嘉隆	jiu gui jia long
-九鬼守隆	jiu gui shou long
-九户政实	jiu hu zheng shi
-酒井家次	jiu jing jia ci
-酒井忠次	jiu jing zhong ci
-酒井忠胜	jiu jing zhong sheng
-酒井忠世	jiu jing zhong shi
-久武亲信	jiu wu qin xin
-久武亲直	jiu wu qin zhi
 九州岛	jiu zhou dao
 九州征伐	jiu zhou zheng fa
 菊姬	ju ji
-菊亭晴季	ju ting qing ji
 崛立直正	jue li zhi zheng
 崛内氏善	jue nei shi shan
 崛尾忠氏	jue wei zhong shi
@@ -7805,372 +7472,138 @@ use_preset_vocabulary: false
 骏府	jun fu
 骏河	jun he
 可儿才藏	ke er cai cang
-口羽通良	kou yu tong liang
-堀尾吉晴	ku wei ji qing
-堀秀政	ku xiu zheng
-堀秀治	ku xiu zhi
 堀越公方	ku yue gong fang
 来岛通康	lai dao tong kang
-来岛通总	lai dao tong zong
 濑田扫部	lai tian sao bu
-立花道雪	li hua dao xue
 立花誾千代	li hua yin qian dai
-立花直次	li hua zhi ci
-立花宗茂	li hua zong mao
-里见义弘	li jian yi hong
-里见义康	li jian yi kang
-里见义赖	li jian yi lai
-里见义尧	li jian yi yao
-栗林政赖	li lin zheng lai
-蛎崎季广	li qi ji guang
 蛎崎庆广	li qi qing guang
 利休七哲	li xiu qi zhe
-立原久纲	li yuan jiu gang
-笠原政尧	li yuan zheng yao
 镰仓公方	lian cang gong fang
 镰仓御所	lian cang yu suo
-林崎甚助	lin qi shen zhu
 林通胜	lin tong sheng
-林秀贞	lin xiu zhen
-铃木元信	ling mu yuan xin
-铃木重朝	ling mu zhong chao
-铃木重秀	ling mu zhong xiu
-铃木重意	ling mu zhong yi
 铃木佐大夫	ling mu zuo dai fu
 六角承祯	liu jiao cheng zhen
-六角定赖	liu jiao ding lai
-六角高赖	liu jiao gao lai
-六角义贤	liu jiao yi xian
-六角义治	liu jiao yi zhi
 柳生兵库助	liu sheng bing ku zhu
 柳生十兵卫	liu sheng shi bing wei
-柳生宗矩	liu sheng zong ju
-柳生宗严	liu sheng zong yan
-留守政景	liu shou zheng jing
 柳原户兵卫	liu yuan hu bing wei
 泷本寺非有	long ben si fei you
-泷川雄利	long chuan xiong li
-泷川一益	long chuan yi yi
-泷川益重	long chuan yi zhong
-笼手田安经	long shou tian an jing
-笼手田安一	long shou tian an yi
-龙造寺长信	long zao si chang xin
-龙造寺家就	long zao si jia jiu
-龙造寺隆信	long zao si long xin
-龙造寺信周	long zao si xin zhou
-龙造寺政家	long zao si zheng jia
 陆奥	lu ao
-芦名盛隆	lu ming sheng long
-芦名盛氏	lu ming sheng shi
-芦名盛兴	lu ming sheng xing
 芦名盛重	lu ming sheng zhong
-吕宋助左卫门	lv song zhu zuo wei men
 马场信房	ma chang xin fang
-毛利辉元	mao li hui yuan
-毛利隆元	mao li long yuan
-毛利胜永	mao li sheng yong
 毛利新助	mao li xin zhu
-毛利秀广	mao li xiu guang
-毛利元就	mao li yuan jiu
 毛利重能	mao li zhong neng
-毛受胜照	mao shou sheng zhao
 美浓	mei nong
 梅岳承芳	mei yue cheng fang
 美作	mei zuo
-祢寝重长	mi qin zhong chang
-名古屋山三郎	ming gu wu shan san lang
-明石全登	ming shi quan deng
 明应	ming ying
 明应之变	ming ying zhi bian
-明智光秀	ming zhi guang xiu
-明智秀满	ming zhi xiu man
 明智玉子	ming zhi yu zi
-末吉孙左卫门	mo ji sun zuo wei men
 末森城之战	mo sen cheng zhi zhan
-木曾义昌	mu ceng yi chang
-木曾义康	mu ceng yi kang
 牧村兵部	mu cun bing bu
-木村重成	mu cun zhong cheng
 木津城	mu jin cheng
 母里太兵卫	mu li tai bing wei
-母里友信	mu li you xin
 木崎原之战	mu qi yuan zhi zhan
-木下昌直	mu xia chang zhi
-木下家定	mu xia jia ding
 木下利匡	mu xia li kuang
 木下利直	mu xia li zhi
 木下藤吉郎	mu xia teng ji lang
-木造具政	mu zao ju zheng
 那古野	na gu ye
-那须资晴	na xu zi qing
-乃美宗胜	nai mei zong sheng
 奈佐日本助	nai zuo ri ben zhu
-南部利直	nan bu li zhi
-南部晴政	nan bu qing zheng
-南部信直	nan bu xin zhi
 楠长谙	nan chang an
 南海道	nan hai dao
 内管领	nei guan ling
-内藤昌丰	nei teng chang feng
-内藤如安	nei teng ru an
-内藤正成	nei teng zheng cheng
 能登	neng deng
-尼子经久	ni zi jing jiu
-尼子晴久	ni zi qing jiu
-尼子胜久	ni zi sheng jiu
-尼子义久	ni zi yi jiu
 鲇贝宗重	nian bei zong zhong
-鸟居强右卫门	niao ju qiang you wei men
-鸟居元忠	niao ju yuan zhong
-鸟居忠吉	niao ju zhong ji
 宁宁	ning ning
-牛尾幸清	niu wei xing qing
 浓姬	nong ji
 毘沙门天	pi sha men tian
-片仓景纲	pian cang jing gang
-片桐且元	pian tong qie yuan
-平冈房实	ping gang fang shi
-平贺元相	ping he yuan xiang
 平氏	ping shi
 平手汎秀	ping shou fa xiu
 平手经治	ping shou jing zhi
-平手政秀	ping shou zheng xiu
-平岩亲吉	ping yan qin ji
-平野长泰	ping ye chang tai
 破竹柴田	po zhu chai tian
-蒲池鉴盛	pu chi jian sheng
-蒲池镇涟	pu chi zhen lian
-浦上宗景	pu shang zong jing
-蒲生定秀	pu sheng ding xiu
-蒲生赖乡	pu sheng lai xiang
-蒲生氏乡	pu sheng shi xiang
-蒲生贤秀	pu sheng xian xiu
 蒲生乡舍	pu sheng xiang she
-蒲生秀行	pu sheng xiu xing
-七里赖周	qi li lai zhou
-七条兼仲	qi tiao jian zhong
 七尾	qi wei
-千坂景亲	qian ban jing qin
-前波吉继	qian bo ji ji
 千贺孙兵卫	qian he sun bing wei
-浅井长时	qian jing chang shi
-浅井长政	qian jing chang zheng
-浅井井赖	qian jing jing lai
-浅井久政	qian jing jiu zheng
-浅井亮政	qian jing liang zheng
-浅利胜赖	qian li sheng lai
-千利休	qian li xiu
-前田安胜	qian tian an sheng
-前田利长	qian tian li chang
 前田利常	qian tian li chang
 前田利昌	qian tian li chang
-前田利家	qian tian li jia
-前田利久	qian tian li jiu
-前田利益	qian tian li yi
-前田利政	qian tian li zheng
 前田庆次	qian tian qing ci
 前田松	qian tian song
-前田秀继	qian tian xiu ji
-前田玄以	qian tian xuan yi
-千叶邦胤	qian ye bang yin
-前野长康	qian ye chang kang
 浅野长晟	qian ye chang sheng
-浅野长政	qian ye chang zheng
-浅野幸长	qian ye xing chang
-千叶胤富	qian ye yin fu
 千宗易	qian zong yi
 枪弹正	qiang dan zheng
 枪之又左	qiang zhi you zuo
 庆长	qing chang
 倾奇者	qing qi zhe
-青山忠成	qing shan zhong cheng
-清水康英	qing shui kang ying
-清水宗治	qing shui zong zhi
 清洲	qing zhou
-秋山信友	qiu shan xin you
 秋上久家	qiu shang jiu jia
-秋田实季	qiu tian shi ji
 曲直濑道三	qu zhi lai dao san
-犬童赖安	quan tong lai an
-泉泽久秀	quan ze jiu xiu
-仁科盛信	ren ke sheng xin
 日本七柱枪	ri ben qi zhu qiang
-日根野弘就	ri gen ye hong jiu
 日向	ri xiang
-日野富子	ri ye fu zi
-若林镇兴	ruo lin zhen xing
 若狭	ruo xia
 萨摩	sa mo
-三村家亲	san cun jia qin
-三村元亲	san cun yuan qin
 三弹正	san dan zheng
 三刀屋久佑	san dao wu jiu you
 三方原会战	san fang yuan hui zhan
-三好长庆	san hao chang qing
-三好长逸	san hao chang yi
-三好长治	san hao chang zhi
-三好康长	san hao kang chang
 三好三人众	san hao san ren zhong
-三好实休	san hao shi xiu
 三好笑岩	san hao xiao yan
-三好义继	san hao yi ji
 三好义贤	san hao yi xian
-三好义兴	san hao yi xing
-三好元长	san hao yuan chang
-三好政康	san hao zheng kang
-三好政胜	san hao zheng sheng
 三河	san he
 三河魂	san he hun
-三条公赖	san tiao gong lai
-三云成持	san yun cheng chi
-三枝守友	san zhi shou you
 三中老	san zhong lao
-桑名吉成	sang ming ji cheng
-桑山重晴	sang shan zhong qing
-色部胜长	se bu sheng chang
-色部长实	se bu zhang shi
-森长可	sen chang ke
-森村春	sen cun chun
-森可成	sen ke cheng
 森兰丸	sen lan wan
 森下道与	sen xia dao yu
-森忠政	sen zhong zheng
 杀生关白	sha sheng guan bai
-山岸尚家	shan an shang jia
-山本勘助	shan ben kan zhu
-山本寺定长	shan ben si ding chang
 山城	shan cheng
-杉谷善住坊	shan gu shan zhu fang
-山科言继	shan ke yan ji
 山名禅高	shan ming chan gao
 山名持丰	shan ming chi feng
 山名佑丰	shan ming you feng
-山名政丰	shan ming zheng feng
 山名宗全	shan ming zong quan
 山内千代	shan nei qian dai
-山内一丰	shan nei yi feng
 山浦国清	shan pu guo qing
-山崎长德	shan qi chang de
-山崎片家	shan qi pian jia
 山上宗二	shan shang zong er
 山田长政	shan tian chang zheng
 山田匡德	shan tian kuang de
-山田有信	shan tian you xin
-山县昌景	shan xian chang jing
 山阳道	shan yang dao
 山阴道	shan yin dao
-杉之坊照算	shan zhi fang zhao suan
-山中俊好	shan zhong jun hao
 山中鹿介	shan zhong lu jie
-山中幸盛	shan zhong xing sheng
-上井觉兼	shang jing jue jian
 上洛	shang luo
-上泉信纲	shang quan xin gang
 上杉定宪	shang shan ding xian
-上杉辉虎	shang shan hui hu
-上杉景虎	shang shan jing hu
-上杉景胜	shang shan jing sheng
-上杉景信	shang shan jing xin
-上杉谦信	shang shan qian xin
-上杉宪政	shang shan xian zheng
-上条政繁	shang tiao zheng fan
 上野	shang ye
 上州第一枪	shang zhou di yi qiang
 上总	shang zong
 涉谷与右卫门	she gu yu you wei men
 摄津	she jin
-神保氏张	shen bao shi zhang
 神保长城	shen bao zhang cheng
-神保长职	shen bao zhang zhi
 神保长住	shen bao zhang zhu
-神户具盛	shen hu ju sheng
-深水长智	shen shui chang zhi
-神屋宗湛	shen wu zong zhan
-神西元通	shen xi yuan tong
-深泽利重	shen ze li zhong
 生驹吉乃	sheng ju ji nai
-生驹亲正	sheng ju qin zheng
-生驹一正	sheng ju yi zheng
-石川高信	shi chuan gao xin
-市川经好	shi chuan jing hao
-石川数正	shi chuan shu zheng
 石川五右卫门	shi chuan wu you wei men
-石川昭光	shi chuan zhao guang
 室町幕府	shi ding mu fu
 室町御所	shi ding yu suo
 师冈一羽	shi gang yi yu
 世鬼政时	shi gui zheng shi
-十河存保	shi he cun bao
-十河一存	shi he yi cun
 氏家卜全	shi jia bu quan
-氏家光氏	shi jia guang shi
-氏家守栋	shi jia shou dong
-氏家行广	shi jia xing guang
-氏家直元	shi jia zhi yuan
 石见	shi jian
 世濑藏人	shi lai cang ren
-石母田景赖	shi mu tian jing lai
-柿崎景家	shi qi jing jia
-柿崎晴家	shi qi qing jia
 石山御坊	shi shan yu fang
-石田三成	shi tian san cheng
-石田重家	shi tian zhong jia
 施药院全宗	shi yao yuan quan zong
 矢沢赖纲	shi ze lai gang
 矢沢赖康	shi ze lai kang
-寿桂尼	shou gui ni
 守护代	shou hu dai
-狩野永德	shou ye yong de
-水谷胤重	shui gu yin zhong
-水野胜成	shui ye sheng cheng
-水野信元	shui ye xin yuan
-水野忠重	shui ye zhong zhong
-斯波诠真	si bo quan zhen
-斯波诠直	si bo quan zhi
 斯波义达	si bo yi da
 斯波义廉	si bo yi lian
 斯波义良	si bo yi liang
 斯波义敏	si bo yi min
-斯波义统	si bo yi tong
-斯波义银	si bo yi yin
 四国征伐	si guo zheng fa
-松波义亲	song bo yi qin
-松仓重信	song cang zhong xin
-松仓重政	song cang zhong zheng
-松井康之	song jing kang zhi
-松井友闲	song jing you xian
-松平广忠	song ping guang zhong
-松平清康	song ping qing kang
-松平信康	song ping xin kang
 松平元康	song ping yuan kang
 松平忠辉	song ping zhong hui
-松平忠吉	song ping zhong ji
-松浦隆信	song pu long xin
-松浦镇信	song pu zhen xin
-松前庆广	song qian qing guang
-松田宪秀	song tian xian xiu
 松下加兵卫	song xia jia bing wei
-松永久通	song yong jiu tong
-松永久秀	song yong jiu xiu
 穗井田元清	sui jing tian yuan qing
 太田长知	tai tian chang zhi
-太田道灌	tai tian dao guan
-太田牛一	tai tian niu yi
 太田三乐斋	tai tian san le zhai
-太田氏资	tai tian shi zi
 太田宗正	tai tian zong zheng
-太原雪斋	tai yuan xue zhai
 太政大臣	tai zheng da chen
-汤浅五助	tang qian wu zhu
 逃弹正	tao dan zheng
-陶晴贤	tao qing xian
-藤堂高虎	teng tang gao hu
-鹈殿长照	ti dian chang zhao
-鹈殿氏长	ti dian shi chang
 鹈饲孙六	ti si sun liu
-田北镇周	tian bei zhen zhou
 天草四郎	tian cao si lang
-田村清显	tian cun qing xian
 田村重显	tian cun zhong xian
 畠山高政	tian shan gao zheng
 畠山义纲	tian shan yi gang
@@ -8182,155 +7615,72 @@ use_preset_vocabulary: false
 天文	tian wen
 天文之乱	tian wen zhi luan
 天秀尼	tian xiu ni
-天野康景	tian ye kang jing
-天野隆重	tian ye long zhong
-田原亲贤	tian yuan qin xian
 天正	tian zheng
-田中吉政	tian zhong ji zheng
 田中胜助	tian zhong sheng zhu
-筒井定次	tong jing ding ci
-筒井顺庆	tong jing shun qing
 桶狭间会战	tong xia jian hui zhan
-土井利胜	tu jing li sheng
-土居宗珊	tu ju zong shan
 土岐成赖	tu qi cheng lai
-土岐赖次	tu qi lai ci
-土岐赖艺	tu qi lai yi
 土桥平次	tu qiao ping ci
-土田御前	tu tian yu qian
 土屋昌次	tu wu chang ci
-土屋昌恒	tu wu chang heng
 土佐	tu zuo
 拓植三之丞	tuo zhi san zhi cheng
-丸目长惠	wan mu chang hui
 望月六郎	wang yue liu lang
 娓原景宗	wei yuan jing zong
 尾张	wei zhang
 尾张之虎	wei zhang zhi hu
 文龟	wen gui
-温井景隆	wen jing jing long
 文禄	wen lu
 文明	wen ming
 问驻所统景	wen zhu suo tong jing
 五大老	wu da lao
-屋代景赖	wu dai jing lai
-五代友喜	wu dai you xi
 五奉行	wu feng xing
-武井夕庵	wu jing xi an
 五轮书	wu lun shu
-武田胜赖	wu tian sheng lai
 武田逍遥轩	wu tian xiao yao xuan
 武田信繁	wu tian xin fan
-武田信丰	wu tian xin feng
-武田信虎	wu tian xin hu
 武田信吉	wu tian xin ji
-武田信廉	wu tian xin lian
-武田信胜	wu tian xin sheng
-武田信玄	wu tian xin xuan
-武田义信	wu tian yi xin
-武田元明	wu tian yuan ming
 武野绍鸥	wu ye shao ou
 雾隐才藏	wu yin cai cang
 武藏	wu zang
-细川高国	xi chuan gao guo
-细川晴元	xi chuan qing yuan
 西川仁右卫门	xi chuan ren you wei men
 细川三斋	xi chuan san zhai
 细川胜元	xi chuan sheng yuan
-细川氏纲	xi chuan shi gang
 细川藤孝	xi chuan teng xiao
-细川幽斋	xi chuan you zhai
-细川元常	xi chuan yuan chang
-细川昭元	xi chuan zhao yuan
-细川政元	xi chuan zheng yuan
-细川忠兴	xi chuan zhong xing
 西国无双的大将	xi guo wu shuang de da jiang
 西国之雄	xi guo zhi xiong
 西海道	xi hai dao
-喜入季久	xi ru ji jiu
-西园寺公广	xi yuan si gong guang
-下间赖廉	xia jian lai lian
-下间赖照	xia jian lai zhao
-下间仲孝	xia jian zhong xiao
 下克上	xia ke shang
 夏目晴信	xia mu qing xin
 下野	xia ye
 虾夷	xia yi
 下总	xia zong
-仙石秀久	xian shi xiu jiu
-仙桃院	xian tao yuan
-香川亲和	xiang chuan qin he
-香川元景	xiang chuan yuan jing
-香川之景	xiang chuan zhi jing
-向井正纲	xiang jing zheng gang
-相良义阳	xiang liang yi yang
 享禄	xiang lu
-相马盛胤	xiang ma sheng yin
-相马显胤	xiang ma xian yin
-相马义胤	xiang ma yi yin
 相模	xiang mo
 相模的狮子	xiang mo de shi zi
-香宗我部亲泰	xiang zong wo bu qin tai
-小滨景隆	xiao bin jing long
 筱部堪二郎	xiao bu kan er lang
-小岛职镇	xiao dao zhi zhen
 小豆坂合战	xiao dou ban he zhan
 小督	xiao du
 小幡虎盛	xiao fan hu sheng
 小幡堪兵卫	xiao fan kan bing wei
 小谷	xiao gu
 小崛远洲	xiao jue yuan zhou
-小濑甫庵	xiao lai fu an
-小笠原长时	xiao li yuan chang shi
 小笠原少斋	xiao li yuan shao zhai
-小梁川盛宗	xiao liang chuan sheng zong
 小牧山长久手之战	xiao mu shan chang jiu shou zhi zhan
-小山田信茂	xiao shan tian xin mao
-小山田信有	xiao shan tian xin you
-小寺政职	xiao si zheng zhi
-小田氏治	xiao tian shi zhi
 小田原	xiao tian yuan
 小田原征伐	xiao tian yuan zheng fa
-小西行长	xiao xi hang zhang
-小西隆佐	xiao xi long zuo
 小野善鬼	xiao ye shan gui
 小野寺辉道	xiao ye si hui dao
-小野寺义道	xiao ye si yi dao
-小野镇幸	xiao ye zhen xing
-小野忠明	xiao ye zhong ming
-筱原长房	xiao yuan zhang fang
-小早川隆景	xiao zao chuan long jing
 小早川秀包	xiao zao chuan xiu bao
-小早川秀秋	xiao zao chuan xiu qiu
 胁阪安治	xie ban an zhi
-新发田长敦	xin fa tian chang dun
-新发田重家	xin fa tian zhong jia
-新纳忠元	xin na zhong yuan
 信浓	xin nong
-熊谷信直	xiong gu xin zhi
-朽木元纲	xiu mu yuan gang
-须田满亲	xu tian man qin
 穴户隆家	xue hu long jia
 穴户梅轩	xue hu mei xuan
 穴户元续	xue hu yuan xu
 穴山梅雪	xue shan mei xue
 穴山小助	xue shan xiao zhu
-穴山信君	xue shan xin jun
-岩城常隆	yan cheng chang long
-岩成友通	yan cheng you tong
 延德	yan de
 岩剑城之战	yan jian cheng zhi zhan
 延历寺	yan li si
 塩市丸	yan shi wan
 一乘谷	yi cheng gu
-伊达成实	yi da cheng shi
-伊达辉宗	yi da hui zong
-伊达晴宗	yi da qing zong
-伊达实元	yi da shi yuan
-伊达政宗	yi da zheng zong
-伊达稙宗	yi da zhi zong
-伊丹康直	yi dan kang zhi
-伊地知重兴	yi di zhi chong xing
 伊地知重秀	yi di zhi zhong xiu
 伊东义佑	yi dong yi you
 伊东佑安	yi dong you an
@@ -8339,83 +7689,45 @@ use_preset_vocabulary: false
 依冈左京	yi gang zuo jing
 伊贺	yi he
 伊贺崎道顺	yi he qi dao shun
-伊集院忠仓	yi ji yuan zhong cang
-伊集院忠栋	yi ji yuan zhong dong
 一领具足	yi ling ju zu
 一门众	yi men zhong
-伊木忠次	yi mu zhong ci
-伊奈忠次	yi nai zhong ci
 壹岐	yi qi
-一色义道	yi se yi dao
-一色义定	yi se yi ding
-一色义清	yi se yi qing
-一色义直	yi se yi zhi
 伊势	yi shi
 伊势盛时	yi shi sheng shi
 伊势贞亲	yi shi zhen qin
 一粟放牛	yi su fang niu
 伊藤物十郎	yi teng wu shi lang
 伊藤一刀斋	yi teng yi dao zhai
-益田元祥	yi tian yuan xiang
-一条兼定	yi tiao jian ding
-一条信龙	yi tiao xin long
-一万田鉴实	yi wan tian jian shi
 一向一揆	yi xiang yi kui
 一向宗	yi xiang zong
 以心崇纭	yi xin chong yun
 伊予	yi yu
-因幡	yin fan
 隐岐	yin qi
 樱井晴吉	ying jing qing ji
 应仁	ying ren
 应仁之乱	ying ren zhi luan
 鹰司孝子	ying si xiao zi
 鹰司信房	ying si xin fang
-颖娃久虎	ying wa jiu hu
 永禄	yong lu
 永田德本	yong tian de ben
 永正	yong zheng
 由比正雪	you bi zheng xue
 由布姬	you bu ji
-由利镰之助	you li lian zhi zhu
-有马晴信	you ma qing xin
 友野二郎兵卫	you ye er lang bing wei
-游佐长教	you zuo chang jiao
-游佐续光	you zuo xu guang
 羽柴秀长	yu chai xiu chang
 羽柴秀次	yu chai xiu ci
 羽柴秀吉	yu chai xiu ji
-羽柴秀胜	yu chai xiu sheng
-宇都宫广纲	yu du gong guang gang
-宇都宫国纲	yu du gong guo gang
 御馆之乱	yu guan zhi luan
-宇久纯定	yu jiu chun ding
 宇久纯玄	yu jiu chun xuan
 雨森弥兵卫	yu sen mi bing wei
-宇山久兼	yu shan jiu jian
 御宿堪兵卫	yu su kan bing wei
-宇喜多秀家	yu xi duo xiu jia
-宇喜多直家	yu xi duo zhi jia
-宇喜多忠家	yu xi duo zhong jia
 宇野藤右卫门	yu ye teng you wei men
-宇佐美定满	yu zuo mei ding man
-原长赖	yuan chang lai
-原昌胤	yuan chang yin
-圆城寺信胤	yuan cheng si xin yin
-猿渡信光	yuan du xin guang
 猿飞佐助	yuan fei zuo zhu
 元龟	yuan gui
 元和	yuan he
-原虎胤	yuan hu yin
 远江	yuan jiang
-远山纲景	yuan shan gang jing
-远山景任	yuan shan jing ren
 远山康光	yuan shan kang guang
 源氏	yuan shi
-远藤基信	yuan teng ji xin
-远藤直经	yuan teng zhi jing
-原田宗时	yuan tian zong shi
-垣屋光成	yuan wu guang cheng
 愿证寺证惠	yuan zheng si zheng hui
 越后	yue hou
 越后之龙	yue hou zhi long
@@ -8424,158 +7736,49 @@ use_preset_vocabulary: false
 杂贺孙市	za he sun shi
 杂贺孙一	za he sun yi
 讃岐	zan qi
-糟屋武则	zao wu wu ze
-增田长盛	zeng tian chang sheng
-斋村政广	zhai cun zheng guang
-斋藤朝信	zhai teng chao xin
 斋藤传鬼坊	zhai teng chuan gui fang
-斋藤道三	zhai teng dao san
 斋藤归蝶	zhai teng gui die
-斋藤利三	zhai teng li san
-斋藤龙兴	zhai teng long xing
-斋藤义龙	zhai teng yi long
 沼田佑光	zhao tian you guang
-真壁氏干	zhen bi shi gan
-真柄直澄	zhen bing zhi cheng
-真柄直隆	zhen bing zhi long
-真田昌辉	zhen tian chang hui
-真田昌幸	zhen tian chang xing
 真田大助	zhen tian da zhu
 真田十勇士	zhen tian shi yong shi
 真田丸	zhen tian wan
 真田信昌	zhen tian xin chang
-真田信繁	zhen tian xin fan
-真田信纲	zhen tian xin gang
 真田信吉	zhen tian xin ji
 真田信幸	zhen tian xin xing
 真田信政	zhen tian xin zheng
-真田信之	zhen tian xin zhi
 真田幸昌	zhen tian xing chang
 真田幸村	zhen tian xing cun
-真田幸隆	zhen tian xing long
-正木赖忠	zheng mu lai zhong
-正木时茂	zheng mu shi mao
-正木时忠	zheng mu shi zhong
-正亲町天皇	zheng qin ding tian huang
-支仓常长	zhi cang chang chang
-志村光安	zhi cun guang an
-志贺亲次	zhi he qin ci
-志贺亲守	zhi he qin shou
-直江兼续	zhi jiang jian xu
-直江景纲	zhi jiang jing gang
 直江实纲	zhi jiang shi gang
-直江信纲	zhi jiang xin gang
 直江状	zhi jiang zhuang
 志摩	zhi mo
 芝迁清右卫门	zhi qian qing you wei men
 芝山监物	zhi shan jian wu
-织田长次	zhi tian chang ci
-织田长益	zhi tian chang yi
 织田犬	zhi tian quan
-织田胜长	zhi tian sheng chang
 织田市	zhi tian shi
-织田信安	zhi tian xin an
-织田信包	zhi tian xin bao
-织田信长	zhi tian xin chang
-织田信定	zhi tian xin ding
-织田信高	zhi tian xin gao
-织田信光	zhi tian xin guang
-织田信广	zhi tian xin guang
 织田信好	zhi tian xin hao
-织田信吉	zhi tian xin ji
-织田信胜	zhi tian xin sheng
-织田信贤	zhi tian xin xian
-织田信孝	zhi tian xin xiao
-织田信行	zhi tian xin xing
-织田信兴	zhi tian xin xing
-织田信雄	zhi tian xin xiong
-织田信秀	zhi tian xin xiu
-织田信友	zhi tian xin you
-织田信贞	zhi tian xin zhen
-织田信正	zhi tian xin zheng
-织田信忠	zhi tian xin zhong
 织田秀孝	zhi tian xiu xiao
-织田秀信	zhi tian xiu xin
 织田有乐斋	zhi tian you le zhai
 踯躅崎馆	zhi zhu qi guan
-中川光重	zhong chuan guang zhong
-中川清秀	zhong chuan qing xiu
-中村一荣	zhong cun yi rong
-中村一氏	zhong cun yi shi
-中村一忠	zhong cun yi zhong
-中岛可之助	zhong dao ke zhi zhu
-中岛重房	zhong dao zhong fang
-钟卷自斋	zhong juan zi zhai
 中山朝正	zhong shan chao zheng
-中条景泰	zhong tiao jing tai
-中野宗时	zhong ye zong shi
-冢原卜传	zhong yuan bu chuan
-种子岛久时	zhong zi dao jiu shi
-种子岛时尧	zhong zi dao shi yao
 周防	zhou fang
 筑后	zhu hou
 诸角虎定	zhu jiao hu ding
-猪苗代盛国	zhu miao dai sheng guo
 筑前	zhu qian
 筑田藤左兵卫	zhu tian teng zuo bing wei
-猪俣邦宪	zhu yu bang xian
-竹俣庆纲	zhu yu qing gang
 竹中半兵卫	zhu zhong ban bing wei
-竹中重门	zhu zhong zhong men
-竹中重治	zhu zhong zhong zhi
 猪子兵介	zhu zi bing jie
-椎名康胤	zhui ming kang yin
-姊小路赖纲	zi xiao lu lai gang
-宗义调	zong yi tiao
-宗义智	zong yi zhi
 诹访大明神	zou fang da ming shen
 诹访湖	zou fang hu
-诹访赖高	zou fang lai gao
-诹访赖满	zou fang lai man
-诹访赖重	zou fang lai zhong
-诹访御料人	zou fang yu liao ren
-足利成氏	zu li cheng shi
-足利义材	zu li yi cai
-足利义澄	zu li yi cheng
-足利义辉	zu li yi hui
-足利义晴	zu li yi qing
-足利义荣	zu li yi rong
-足利义尚	zu li yi shang
-足利义视	zu li yi shi
-足利义氏	zu li yi shi
-足利义维	zu li yi wei
 足利义寻	zu li yi xun
-足利义昭	zu li yi zhao
-足利义政	zu li yi zheng
-足利义稙	zu li yi zhi
-足利政知	zu li zheng zhi
 足田丰五郎	zu tian feng wu lang
 组屋源四郎	zu wu yuan si lang
-最上义光	zui shang yi guang
 最上义姬	zui shang yi ji
 最上义时	zui shang yi shi
-最上义守	zui shang yi shou
-佐伯惟定	zuo bo wei ding
 佐渡	zuo du
 佐分利猪之助	zuo fen li zhu zhi zhu
 佐贺山	zuo he shan
 佐甲藤太郎	zuo jia teng tai lang
-佐久间盛政	zuo jiu jian sheng zheng
-佐久间盛重	zuo jiu jian sheng zhong
-佐久间信盛	zuo jiu jian xin sheng
-佐世元嘉	zuo shi yuan jia
 佐田彦四郎	zuo tian yan si lang
-佐胁良之	zuo xie liang zhi
-佐野房纲	zuo ye fang gang
-佐治信方	zuo zhi xin fang
-佐治一成	zuo zhi yi cheng
-佐竹义久	zuo zhu yi jiu
-佐竹义宣	zuo zhu yi xuan
-佐竹义昭	zuo zhu yi zhao
-佐竹义重	zuo zhu yi zhong
-佐佐成政	zuo zuo cheng zheng
-佐佐木小次郎	zuo zuo mu xiao ci lang
-佐佐政次	zuo zuo zheng ci
 阿尔	a er
 阿尔弗雷德	a er fu lei de
 阿尔洛夫斯卡娅	a er luo fu si ka ya
@@ -9486,16 +8689,13 @@ use_preset_vocabulary: false
 安娜斯塔西亚	an na si ta xi ya
 安妮蓝妮克丝	an ni lan ni ke si
 安琪史东	an qi shi dong
-安七炫	an qi xuan
 安七炫吴建豪	an qi xuan wu jian hao
 安若儿	an ruo er
 安少宇	an shao yu
-安胜浩	an sheng hao
 安室奈美惠	an shi nai mei hui
 安以轩	an yi xuan
 安又琪	an you qi
 安在懋	an zai mao
-安在旭	an zai xu
 安志杰	an zhi jie
 奥户巴寿	ao hu ba shou
 奥田民生	ao tian min sheng
@@ -9524,7 +8724,6 @@ use_preset_vocabulary: false
 白雪	bai xue
 白一彤	bai yi tong
 白玉昆	bai yu kun
-白智英	bai zhi ying
 坂本隆一	ban ben long yi
 板本龙一	ban ben long yi
 班得瑞乐团	ban de rui yue tuan
@@ -9628,7 +8827,6 @@ use_preset_vocabulary: false
 仓木麻衣	cang mu ma yi
 藏娃	cang wa
 苍蝇	cang ying
-曹成模	cao cheng mo
 曹诚模	cao cheng mo
 曹方	cao fang
 曹芳	cao fang
@@ -9636,7 +8834,6 @@ use_preset_vocabulary: false
 曹格	cao ge
 曹卉娟	cao hui juan
 曹可凡	cao ke fan
-曹璐	cao lu
 草莓救星	cao mei jiu xing
 草蜢	cao meng
 曹沁芳	cao qin fang
@@ -9665,7 +8862,6 @@ use_preset_vocabulary: false
 超口爱乐团	chao kou ai yue tuan
 超载	chao zai
 车继铃	che ji ling
-车太贤	che tai xian
 车婉婉	che wan wan
 陈艾玲	chen ai ling
 陈艾湄	chen ai mei
@@ -9831,7 +9027,6 @@ use_preset_vocabulary: false
 成龙	cheng long
 城南海	cheng nan hai
 程诺	cheng nuo
-成诗京	cheng shi jing
 城市少女	cheng shi shao nv
 程晓静	cheng xiao jing
 程欣	cheng xin
@@ -9841,7 +9036,6 @@ use_preset_vocabulary: false
 成振宇	cheng zhen yu
 池赖广	chi lai guang
 池秋美	chi qiu mei
-池贤宇	chi xian yu
 赤雪	chi xue
 迟志强	chi zhi qiang
 宠物店男孩	chong wu dian nan hai
@@ -10094,7 +9288,6 @@ use_preset_vocabulary: false
 傅天颖	fu tian ying
 傅薇	fu wei
 傅小洋	fu xiao yang
-付辛博	fu xin bo
 傅颖	fu ying
 傅振辉	fu zhen hui
 甘萍	gan ping
@@ -10134,7 +9327,6 @@ use_preset_vocabulary: false
 高晓松	gao xiao song
 高娅媛	gao ya yuan
 高阳	gao yang
-高耀太	gao yao tai
 高以爱	gao yi ai
 高友振	gao you zhen
 高宇	gao yu
@@ -10386,7 +9578,6 @@ use_preset_vocabulary: false
 胡敏明	hu min ming
 胡诺言	hu nuo yan
 胡培蔚	hu pei wei
-琥珀	hu po
 胡启荣	hu qi rong
 胡清蓝	hu qing lan
 胡锐	hu rui
@@ -10444,7 +9635,6 @@ use_preset_vocabulary: false
 黄建为	huang jian wei
 黄玠	huang jie
 黄静雅	huang jing ya
-黄静茵	huang jing yin
 黄俊郎	huang jun lang
 黄俊源	huang jun yuan
 黄凯琪	huang kai qi
@@ -10575,11 +9765,9 @@ use_preset_vocabulary: false
 姜彩二	jiang cai er
 蒋晨	jiang chen
 姜成民	jiang cheng min
-姜成勋	jiang cheng xun
 蒋大为	jiang da wei
 姜道	jiang dao
 江得胜	jiang de sheng
-姜东元	jiang dong yuan
 江宏恩	jiang hong en
 姜华	jiang hua
 江华	jiang hua
@@ -10605,7 +9793,6 @@ use_preset_vocabulary: false
 姜贤秀	jiang xian xiu
 姜昕	jiang xin
 江欣慈	jiang xin ci
-姜星	jiang xing
 蒋雅文	jiang ya wen
 降央卓玛	jiang yang zhuo ma
 姜亿华	jiang yi hua
@@ -10657,7 +9844,6 @@ use_preset_vocabulary: false
 金景浩	jin jing hao
 今井翼	jin jing yi
 金门王与李炳辉	jin men wang yu li bing hui
-金旼钟	jin min zhong
 金木一	jin mu yi
 金培达	jin pei da
 金沛晟	jin pei sheng
@@ -10677,7 +9863,6 @@ use_preset_vocabulary: false
 金贤哲	jin xian zhe
 金贤政	jin xian zheng
 金贤正	jin xian zheng
-金贤重	jin xian zhong
 金享中	jin xiang zhong
 金兴洙	jin xing zhu
 锦绣二重唱	jin xiu er chong chang
@@ -10688,12 +9873,8 @@ use_preset_vocabulary: false
 金宇宙	jin yu zhou
 金悦	jin yue
 金在熙	jin zai xi
-金在中	jin zai zhong
 金震彪	jin zhen biao
-金桢勋	jin zhen xun
 金政文	jin zheng wen
-金正勋	jin zheng xun
-金钟国	jin zhong guo
 金钟旭	jin zhong xu
 井柏然	jing bo ran
 景岗山	jing gang shan
@@ -10807,13 +9988,11 @@ use_preset_vocabulary: false
 李璨琛	li can chen
 李琛	li chen
 李承焕	li cheng huan
-李承铉	li cheng xuan
 李承哲	li cheng zhe
 李春波	li chun bo
 李大龙	li da long
 利得汇	li de hui
 李迪	li di
-李东健	li dong jian
 李东允	li dong yun
 李度	li du
 李端娴	li duan xian
@@ -10871,8 +10050,6 @@ use_preset_vocabulary: false
 李路	li lu
 李茂	li mao
 李茂山	li mao shan
-李民基	li min ji
-李珉宇	li min yu
 黎明	li ming
 黎明诗	li ming shi
 李明洋	li ming yang
@@ -10895,7 +10072,6 @@ use_preset_vocabulary: false
 李珊	li shan
 李善日	li shan ri
 李少春	li shao chun
-李胜基	li sheng ji
 李圣杰	li sheng jie
 李升烈	li sheng lie
 黎升铭	li sheng ming
@@ -10930,7 +10106,6 @@ use_preset_vocabulary: false
 李祥霆	li xiang ting
 李小东	li xiao dong
 李晓杰	li xiao jie
-李孝利	li xiao li
 李小龙	li xiao long
 李小璐	li xiao lu
 李小沛	li xiao pei
@@ -10973,13 +10148,10 @@ use_preset_vocabulary: false
 李在宪	li zai xian
 李在勋	li zai xun
 李宰勋	li zai xun
-李在元	li zai yuan
-李宰镇	li zai zhen
 李泽坚	li ze jian
 李兆君	li zhao jun
 李镇成	li zhen cheng
 李振辉	li zhen hui
-李贞贤	li zhen xian
 李正	li zheng
 李正帆	li zheng fan
 李正峰	li zheng feng
@@ -10990,7 +10162,6 @@ use_preset_vocabulary: false
 李治廷	li zhi ting
 荔枝王	li zhi wang
 李智秀	li zhi xiu
-李志勋	li zhi xun
 李朱元	li zhu yuan
 李卓庭	li zhuo ting
 黎姿	li zi
@@ -11133,7 +10304,6 @@ use_preset_vocabulary: false
 林玉英	lin yu ying
 林宇中	lin yu zhong
 林苑	lin yuan
-林在范	lin zai fan
 林正豪	lin zheng hao
 林志斌	lin zhi bin
 林直次郎	lin zhi ci lang
@@ -11200,7 +10370,6 @@ use_preset_vocabulary: false
 刘劭希	liu shao xi
 刘邵希	liu shao xi
 刘盛通	liu sheng tong
-柳时元	liu shi yuan
 刘思伟	liu si wei
 刘天兰	liu tian lan
 刘维	liu wei
@@ -11452,7 +10621,6 @@ use_preset_vocabulary: false
 娜坦莉莫森特	na tan li mo sen te
 娜薇	na wei
 那英	na ying
-南宝拉	nan bao la
 男才女貌	nan cai nv mao
 南方二重唱	nan fang er chong chang
 南方台湾小姑娘	nan fang tai wan xiao gu niang
@@ -11545,11 +10713,8 @@ use_preset_vocabulary: false
 漂亮亲戚	piao liang qin qi
 朴明秀	piao ming xiu
 朴相民	piao xiang min
-朴孝信	piao xiao xin
 飘乐队	piao yue dui
 朴镇英	piao zhen ying
-朴正炫	piao zheng xuan
-朴志胤	piao zhi yin
 品冠	pin guan
 平川大辅	ping chuan da fu
 平井坚	ping jing jian
@@ -11560,7 +10725,6 @@ use_preset_vocabulary: false
 蒲公英合唱团	pu gong ying he chang tuan
 朴光贤	pu guang xian
 朴海珍	pu hai zhen
-朴慧京	pu hui jing
 普普乐团	pu pu yue tuan
 朴申阳	pu shen yang
 朴树	pu shu
@@ -11678,7 +10842,6 @@ use_preset_vocabulary: false
 沙非	sha fei
 沙靖杰	sha jing jie
 莎拉布莱曼	sha la bu lai man
-沙子	sha zi
 山本健司	shan ben jian si
 山本领平	shan ben ling ping
 山本让二	shan ben rang er
@@ -11712,7 +10875,6 @@ use_preset_vocabulary: false
 邵雨涵	shao yu han
 佘诗曼	she shi man
 深白色二人组	shen bai se er ren zu
-申承勋	shen cheng xun
 申成雨	shen cheng yu
 沈殿霞	shen dian xia
 深度接触乐队	shen du jie chu yue dui
@@ -11720,7 +10882,6 @@ use_preset_vocabulary: false
 神谷浩史	shen gu hao shi
 申赫	shen he
 神话	shen hua
-申彗星	shen hui xing
 申慧星	shen hui xing
 沈建宏	shen jian hong
 沈建祥	shen jian xiang
@@ -11776,7 +10937,6 @@ use_preset_vocabulary: false
 矢野浩二	shi ye hao er
 石野田奈津代	shi ye tian nai jin dai
 史逸欣	shi yi xin
-诗音	shi yin
 拾音社	shi yin she
 柿原彻也	shi yuan che ye
 矢泽永吉	shi ze yong ji
@@ -11808,7 +10968,6 @@ use_preset_vocabulary: false
 思小妞	si xiao niu
 松本和之	song ben he zhi
 松本孝弘	song ben xiao hong
-宋承宪	song cheng xian
 松谷卓	song gu zhuo
 宋光植	song guang zhi
 宋佳	song jia
@@ -12143,7 +11302,6 @@ use_preset_vocabulary: false
 文佩玲	wen pei ling
 温胜光	wen sheng guang
 闻婷	wen ting
-文熙俊	wen xi jun
 文筱芮	wen xiao rui
 吻乐队	wen yue dui
 文章	wen zhang
@@ -12221,7 +11379,6 @@ use_preset_vocabulary: false
 五月天	wu yue tian
 物乐团	wu yue tuan
 吴展濠	wu zhan hao
-吴钟赫	wu zhong he
 吴忠明	wu zhong ming
 吴卓玲	wu zhuo ling
 吴卓羲	wu zhuo xi
@@ -12677,7 +11834,6 @@ use_preset_vocabulary: false
 殷悦	yin yue
 音乐铁人	yin yue tie ren
 殷正洋	yin zheng yang
-殷志源	yin zhi yuan
 尹子茹	yin zi ru
 尹子维	yin zi wei
 应昌佑	ying chang you
@@ -12846,7 +12002,6 @@ use_preset_vocabulary: false
 张含韵	zhang han yun
 张皓	zhang hao
 张镐哲	zhang hao zhe
-张赫	zhang he
 张洪量	zhang hong liang
 张虎	zhang hu
 张惠春	zhang hui chun
@@ -12887,7 +12042,6 @@ use_preset_vocabulary: false
 张米亚	zhang mi ya
 张明敏	zhang ming min
 张铭泉	zhang ming quan
-张娜拉	zhang na la
 张佩金	zhang pei jin
 张鹏	zhang peng
 章鹏	zhang peng
@@ -12902,7 +12056,6 @@ use_preset_vocabulary: false
 张琼	zhang qiong
 张冉	zhang ran
 张蓉蓉	zhang rong rong
-张睿恩	zhang rui en
 张润伟	zhang run wei
 张桑悦	zhang sang yue
 张珊珊	zhang shan shan
@@ -12952,7 +12105,6 @@ use_preset_vocabulary: false
 张永久	zhang yong jiu
 张永智	zhang yong zhi
 张佑方	zhang you fang
-张佑赫	zhang you he
 张宇	zhang yu
 张钰	zhang yu
 张玉华	zhang yu hua
@@ -13013,7 +12165,6 @@ use_preset_vocabulary: false
 赵浴辰	zhao yu chen
 赵雨航	zhao yu hang
 赵媛媛	zhao yuan yuan
-赵彰赫	zhao zhang he
 赵之璧	zhao zhi bi
 赵治德	zhao zhi de
 赵壮赫	zhao zhuang he
@@ -13051,7 +12202,6 @@ use_preset_vocabulary: false
 郑伦境	zheng lun jing
 郑楠	zheng nan
 郑琼之	zheng qiong zhi
-郑仁	zheng ren
 郑仁浩	zheng ren hao
 郑日英	zheng ri ying
 郑融	zheng rong
@@ -13228,7 +12378,6 @@ use_preset_vocabulary: false
 阿莱桑多罗德尔	a lai sang duo luo de er
 阿帕契	a pa qi
 阿散井	a san jing
-阿散井恋次	a san jing lian ci
 爱川罗武	ai chuan luo wu
 爱川罗武原七番队队长	ai chuan luo wu yuan qi fan dui dui zhang
 艾多拉德	ai duo la de
@@ -13301,13 +12450,11 @@ use_preset_vocabulary: false
 苍角王子	cang jiao wang zi
 藏人	cang ren
 草鹿	cao lu
-草鹿八千流	cao lu ba qian liu
 草鹿八千留	cao lu ba qian liu
 草莓	cao mei
 草莓君	cao mei jun
 叄舞白刃	cen wu bai ren
 茶渡	cha du
-茶渡泰虎	cha du tai hu
 柴田	chai tian
 柴田勇一	chai tian yong yi
 长岛雄一	chang dao xiong yi
@@ -13326,7 +12473,6 @@ use_preset_vocabulary: false
 雏根先生	chu gen xian sheng
 初曲止绷	chu qu zhi beng
 雏森	chu sen
-雏森桃	chu sen tao
 初舞	chu wu
 初舞月白	chu wu yue bai
 穿点	chuan dian
@@ -13452,10 +12598,8 @@ use_preset_vocabulary: false
 抚斩	fu zhan
 浮竹	fu zhu
 浮竹队长	fu zhu dui zhang
-浮竹十四郎	fu zhu shi si lang
 浮竹十四郎家	fu zhu shi si lang jia
 咖喱饭	ga li fan
-改造魂魄	gai zao hun po
 钢皮	gang pi
 刚腾拜恩	gang teng bai en
 刚藤拜恩	gang teng bai en
@@ -13511,10 +12655,6 @@ use_preset_vocabulary: false
 黑崎草莓	hei qi cao mei
 黑崎君	hei qi jun
 黑崎同学	hei qi tong xue
-黑崎夏梨	hei qi xia li
-黑崎一护	hei qi yi hu
-黑崎一心	hei qi yi xin
-黑崎游子	hei qi you zi
 黑崎真关	hei qi zhen guan
 黑崎真咲	hei qi zhen xiao
 黑色的月牙天冲	hei se de yue ya tian chong
@@ -13592,7 +12732,6 @@ use_preset_vocabulary: false
 金彦	jin yan
 镜花水月	jing hua shui yue
 京乐	jing le
-京乐春水	jing le chun shui
 瀞灵壁	jing ling bi
 静灵壁	jing ling bi
 瀞灵门	jing ling men
@@ -13603,11 +12742,9 @@ use_preset_vocabulary: false
 瀞灵廷的阴谋之秋	jing ling ting de yin mou zhi qiu
 井露	jing lu
 镜门	jing men
-井上	jing shang
 井上公主	jing shang gong zhu
 井上旻	jing shang min
 井上织姬	jing shang zhi ji
-井上织姫	jing shang zhi zhen
 精神体	jing shen ti
 京乐队长	jing yue dui chang
 京紫	jing zi
@@ -13713,7 +12850,6 @@ use_preset_vocabulary: false
 露井	lu jing
 录灵虫	lu ling chong
 路鲁	lu lu
-露露	lu lu
 露露殿下	lu lu dian xia
 露露酱	lu lu jiang
 露露美眉	lu lu mei mei
@@ -13819,7 +12955,6 @@ use_preset_vocabulary: false
 朴路美	pu lu mei
 浦原	pu yuan
 浦原商店	pu yuan shang dian
-浦原喜助	pu yuan xi zhu
 齐鲁奇	qi lu qi
 奇鲁奇山达威奇	qi lu qi shan da wei qi
 齐木美帆	qi mu mei fan
@@ -13853,7 +12988,6 @@ use_preset_vocabulary: false
 清川元梦	qing chuan yuan meng
 晴空	qing kong
 黥面	qing mian
-青山	qing shan
 青山穣	qing shan rang
 清音	qing yin
 蛆虫之巢	qu chong zhi chao
@@ -13866,7 +13000,6 @@ use_preset_vocabulary: false
 群狼	qun lang
 群鸟冰柱	qun niao bing zhu
 日番谷	ri fan gu
-日番谷冬狮郎	ri fan gu dong shi lang
 日番谷冬獅郎	ri fan gu dong shi lang
 日露	ri lu
 日世里	ri shi li
@@ -13902,7 +13035,6 @@ use_preset_vocabulary: false
 山老头	shan lao tou
 杉山纪彰	shan shan ji zhang
 杉田	shan tian
-山田花太郎	shan tian hua tai lang
 杉田智和	shan tian zhi he
 上谷秀夫	shang gu xiu fu
 梢绫	shao ling
@@ -13937,11 +13069,9 @@ use_preset_vocabulary: false
 史塔克	shi ta ke
 石田	shi tian
 石田龙弦	shi tian long xian
-石田雨龙	shi tian yu long
 石田宗弦	shi tian zong xian
 市丸	shi wan
 市丸队长	shi wan dui zhang
-市丸银	shi wan yin
 噬虚	shi xu
 十字绞刑台	shi zi jiao xing tai
 手铐	shou kao
@@ -14107,14 +13237,12 @@ use_preset_vocabulary: false
 袖白雪	xiu bai xue
 修兵	xiu bing
 朽木	xiu mu
-朽木白哉	xiu mu bai zai
 朽木大人	xiu mu da ren
 朽木队长	xiu mu dui zhang
 朽木绯真	xiu mu fei zhen
 朽木家	xiu mu jia
 朽木家的家臣	xiu mu jia de jia chen
 朽木露琦亚	xiu mu lu qi ya
-朽木露琪亚	xiu mu lu qi ya
 朽木同学	xiu mu tong xue
 朽木响河	xiu mu xiang he
 朽木小姐	xiu mu xiao jie
@@ -14211,7 +13339,6 @@ use_preset_vocabulary: false
 勇音	yong yin
 佑希	you xi
 有沢竜贵	you ze long gui
-有沢龙贵	you ze long gui
 有泽龙贵	you ze long gui
 有昭田钵玄	you zhao tian bo xuan
 有昭田钵玄鬼道众副鬼道师	you zhao tian bo xuan gui dao zhong fu gui dao shi
@@ -14281,7 +13408,6 @@ use_preset_vocabulary: false
 志波岩鹫	zhi bo yan jiu
 志波燕鹫	zhi bo yan jiu
 志波一族	zhi bo yi zu
-织姬	zhi ji
 织露	zhi lu
 置鲇	zhi nian
 置鮎龙太郎	zhi nian long tai lang
@@ -14431,7 +13557,6 @@ use_preset_vocabulary: false
 十次	shi ci
 室町	shi ding
 室町十次	shi ding shi ci
-石田	shi tian
 石田铁	shi tian tie
 石田银	shi tian yin
 首藤	shou teng
@@ -14486,13 +13611,11 @@ use_preset_vocabulary: false
 侑士	you shi
 裕太	yu tai
 远山金太郎	yuan shan jin tai lang
-越前	yue qian
 越前菜菜子	yue qian cai cai zi
 越前龙马	yue qian long ma
 越前伦子	yue qian lun zi
 越前南次郎	yue qian nan ci lang
 岳人	yue ren
-真田	zhen tian
 真田弦一郎	zhen tian xian yi lang
 枝纯	zhi chun
 知念宽	zhi nian kuan
@@ -14999,7 +14122,6 @@ use_preset_vocabulary: false
 滨海地板	bin hai di ban
 冰川核	bing chuan he
 冰冻	bing dong
-病毒	bing du
 兵队火蛟	bing dui huo jiao
 兵队水龙蜥	bing dui shui long xi
 冰封	bing feng
@@ -15700,7 +14822,6 @@ use_preset_vocabulary: false
 冬贝利落地灯	dong bei li luo di deng
 冬贝利玩偶	dong bei li wan ou
 东部低谷	dong bu di gu
-东方	dong fang
 东方刺鱼	dong fang ci yu
 东方监视塔	dong fang jian shi ta
 冻结	dong jie
@@ -16944,7 +16065,6 @@ use_preset_vocabulary: false
 胡鹫	hu jiu
 狐獴	hu meng
 湖畔眼镜蛇	hu pan yan jing she
-琥珀	hu po
 琥珀鮟鱇	hu po an kang
 琥珀八目鳗	hu po ba mu man
 琥珀丁香	hu po ding xiang
@@ -17412,7 +16532,6 @@ use_preset_vocabulary: false
 接雨草树林码头	jie yu cao shu lin ma tou
 接雨草沼泽地	jie yu cao zhao ze di
 金锤台地	jin chui tai di
-筋斗云	jin dou yun
 金斗云	jin dou yun
 金粉	jin fen
 金刚砂	jin gang sha
@@ -17986,7 +17105,6 @@ use_preset_vocabulary: false
 瞭望塔	liao wang ta
 瞭望阵营地	liao wang zhen ying di
 猎豹鳗	lie bao man
-烈风	lie feng
 裂骨斩	lie gu zhan
 烈火箭	lie huo jian
 猎人风味水蜥饼	lie ren feng wei shui xi bing
@@ -18165,7 +17283,6 @@ use_preset_vocabulary: false
 芦荟	lu hui
 鲁莽异端者	lu mang yi duan zhe
 鲁纳尔	lu na er
-露琪亚	lu qi ya
 露线	lu xian
 陆蟹蟹脚	lu xie xie jiao
 陆行鸟	lu xing niao
@@ -19999,7 +19116,6 @@ use_preset_vocabulary: false
 兽骨项链	shou gu xiang lian
 兽骨鱼枪	shou gu yu qiang
 兽骨咒角	shou gu zhou jiao
-守护	shou hu
 兽角长杖	shou jiao chang zhang
 兽角钓竿	shou jiao diao gan
 兽角耳坠	shou jiao er zhui
@@ -21098,7 +20214,6 @@ use_preset_vocabulary: false
 旋螺	xuan luo
 玄水连山	xuan shui lian shan
 玄铁矿	xuan tie kuang
-玄武	xuan wu
 玄岩巨像	xuan yan ju xiang
 旋转亮片	xuan zhuan liang pian
 雪白石英	xue bai shi ying
@@ -22085,160 +21200,33 @@ use_preset_vocabulary: false
 王一	wang yi
 吴二	wu er
 张星	zhang xing
-赵华	zhao hua
-阿散井恋次	a san jing lian ci
 八番队	ba fan dui
-白打	bai da
-白雷	bai lei
-斑目一角	ban mu yi jiao
-半虚	ban xu
-崩点	beng dian
-冰轮丸	bing lun wan
-狛村左阵	bo cun zuo zhen
-草鹿八千流	cao lu ba qian liu
-茶渡泰虎	cha du tai hu
 侘助	cha zhu
 瀞灵壁	cheng ling bi
-赤火炮	chi huo pao
-紬屋雨	chou wu yu
-雏森桃	chu sen tao
-穿点	chuan dian
-穿界门	chuan jie men
-传令部	chuan ling bu
-大前田希千代	da qian tian xi qian dai
-东仙要	dong xian yao
-冻云	dong yun
-独眼罩	du yan zhao
-断界	duan jie
-对灵子的隶属	dui ling zi de li shu
-对灵子的收束	dui ling zi de shou shu
 二番队	er fan dui
-反鬼相杀	fan gui xiang sha
-非番队	fei fan dui
-飞镰脚	fei lian jiao
-飞梅	fei mei
-封灵铐	feng ling kao
 缚道	fu dao
-浮竹十四郎	fu zhu shi si lang
-改造魂魄	gai zao hun po
-更木剣八	geng mu jian ba
-鬼道	gui dao
-鬼灯丸	gui deng wan
-桧佐木修兵	gui zuo mu xiu bing
-黑崎一护	hei qi yi hu
-黑崎一心	hei qi yi xin
-黑崎真咲	hei qi zhen xiao
-红姫	hong zhen
-虎彻清音	hu che qing yin
-虎彻勇音	hu che yong yin
-花天狂骨	hua tian kuang gu
-花刈甚太	hua yi shen tai
 荒巻真木造	huang juan zhen mu zao
-魂葬	hun zang
-吉良伊鹤	ji liang yi he
-剑八	jian ba
-京乐春水	jing le chun shui
-镜门	jing men
-井上织姬	jing shang zhi ji
-精神体	jing shen ti
 九番队	jiu fan dui
-拘流	ju liu
-拘突	ju tu
-蓝染惣右介	lan ran zong you jie
-理吉	li ji
 捩花	lie hua
-绫濑川弓亲	ling lai chuan gong qin
-灵络	ling luo
-灵珠核	ling zhu he
-灵子转换机	ling zi zhuan huan ji
 六番队	liu fan dui
-流刃若火	liu ren ruo huo
-乱装天傀	luan zhuang tian kui
-旅祸	lv huo
-卯之花烈	mao zhi hua lie
-灭却师	mie que shi
-灭却专精	mie que zhuan jing
 涅茧利	nie jian li
-涅音无	nie yin wu
 疋杀地蔵	pi sha di zang
-劈乌	pi wu
-破道	po dao
-破芒阵	po mang zhen
-破弃咏唱	po qi yong chang
-浦原喜助	pu yuan xi zhu
 七番队	qi fan dui
-千本樱	qian ben ying
-牵星箝	qian xing qian
-切魂之物	qie hun zhi wu
-清虫	qing chong
-雀蜂	que feng
-日番谷冬狮郎	ri fan gu dong shi lang
 肉雫唼	rou na sha
 三番队	san fan dui
-散灵手套	san ling shou tao
-杀气石	sha qi shi
 山本元柳斎重国	shan ben yuan liu zhai zhong guo
-山田花太郎	shan tian hua tai lang
-射场铁左卫门	she chang tie zuo wei men
-蛇尾丸	she wei wan
 神鎗	shen cheng
 十二番队	shi er fan dui
 十番队	shi fan dui
-尸魂界	shi hun jie
-十三番队	shi san fan dui
-石田雨龙	shi tian yu long
-市丸银	shi wan yin
 十一番队	shi yi fan dui
 双殛	shuang ji
-双鱼理	shuang yu li
-瞬步	shun bu
-瞬閧	shun hong
-瞬花	shun hua
-瞬开	shun kai
-兕丹坊	si dan fang
 四番队	si fan dui
-四枫院夜一	si feng yuan ye yi
 死神	si shen
-死神专精	si shen zhuan jing
-松元乱菊	song yuan luan ju
 砕蜂	sui feng
 碎蜂	sui feng
-唐观音寺	tang guan yin si
-特制滋养强壮剂	te zhi zi yang qiang zhuang ji
-藤孔雀	teng kong que
 天谴	tian qian
-天踏绚	tian ta xuan
-通廷证	tong ting zheng
-歪面反应	wai mian fan ying
-握菱铁斋	wo ling tie zhai
 五番队	wu fan dui
 五形头	wu xing tou
-小椿仙太郎	xiao chun xian tai lang
-刑军	xing jun
-朽木白哉	xiu mu bai zai
-朽木露琦亚	xiu mu lu qi ya
-虚浮	xu fu
-虚化	xu hua
-虚圈	xu quan
-压抑言灵	ya yi yan ling
 厳霊丸	yan ling wan
-夜一	ye yi
 一番队	yi fan dui
-一贯坂慈楼坊	yi guan ban ci lou fang
-义骸	yi hai
-义魂丸	yi hun wan
-伊势七绪	yi shi qi xu
-因果之锁	yin guo zhi suo
-隐秘机动	yin mi ji dong
-银筒	yin tong
-萤蔓	ying man
-有泽龙贵	you ze long gui
 円乗寺辰房	yuan cheng si chen fang
-斩月	zhan yue
-遮魂膜	zhe hun mo
-震点	zhen dian
-志波海燕	zhi bo hai yan
-志波空鹤	zhi bo kong he
-志波燕鹫	zhi bo yan jiu
-中央四十六室	zhong yang si shi liu shi
-竹添幸吉郎	zhu tian xing ji lang

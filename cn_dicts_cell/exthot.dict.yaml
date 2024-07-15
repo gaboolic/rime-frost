@@ -2,7 +2,6 @@
 # encoding: utf-8
 #
 # ext 网络热词
-#
 
 ---
 name: exthot
@@ -10,7 +9,6 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-    
 阿贝贝	a bei bei
 阿贝多	a bei duo
 阿蝉	a chan

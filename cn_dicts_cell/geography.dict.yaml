@@ -2,7 +2,6 @@
 # encoding: utf-8
 #
 # 地理 地质
-#
 
 ---
 name: geography
@@ -10,7 +9,6 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-    
 岸礁	an jiao
 奥陶纪	ao tao ji
 奥陶系	ao tao xi

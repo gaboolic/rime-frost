@@ -2,7 +2,6 @@
 # encoding: utf-8
 #
 # 音乐相关
-#
 
 ---
 name: music
@@ -10,7 +9,6 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-    
 点弦	dian xian
 和弦	he xian
 琶音

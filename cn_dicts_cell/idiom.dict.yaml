@@ -2,7 +2,6 @@
 # encoding: utf-8
 #
 # 成语
-#
 
 ---
 name: idiom
@@ -10,10 +9,8 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-    
 阿母为汝求	a mu wei ru qiu
 阿母谢媒人	a mu xie mei ren
-阿那曲	a na qu
 阿若憍陈如	a ruo jiao chen ru
 蔼蔼帝王州	ai ai di wang zhou
 哀哀父母	ai ai fu mu
@@ -16981,7 +16978,6 @@ use_preset_vocabulary: false
 阿魏无真	a wei wu zhen
 阿意苟合	a yi gou he
 阿旨顺情	a zhi shun qing
-哀哀父母	ai ai fu mu
 挨挨抢抢	ai ai qiang qiang
 哀哀欲绝	ai ai yu jue
 挨挨拶拶	ai ai zan zan
@@ -16998,7 +16994,6 @@ use_preset_vocabulary: false
 挨打受气	ai da shou qi
 爱戴高帽子	ai dai gao mao zi
 挨饿受冻	ai e shou dong
-哀而不伤	ai er bu shang
 艾发衰容	ai fa shuai rong
 爱非其道	ai fei qi dao
 挨风缉缝	ai feng ji feng
@@ -17106,7 +17101,6 @@ use_preset_vocabulary: false
 爱者如宝	ai zhe ru bao
 爱之如宝	ai zhi ru bao
 爱之炫光	ai zhi xuan guang
-爱之欲其生	ai zhi yu qi sheng
 爱之欲其生恶之欲其死	ai zhi yu qi sheng wu zhi yu qi si
 矮子观场	ai zi guan chang
 矮子看戏	ai zi kan xi
@@ -17274,7 +17268,6 @@ use_preset_vocabulary: false
 安土重居	an tu zhong ju
 安土重迁	an tu zhong qian
 安危冷暖	an wei leng nuan
-安危相易	an wei xiang yi
 安危相易祸福相生	an wei xiang yi huo fu xiang sheng
 安危与共	an wei yu gong
 安危之机	an wei zhi ji
@@ -17283,7 +17276,6 @@ use_preset_vocabulary: false
 安闲自得	an xian zi de
 安闲自在	an xian zi zai
 安详恭敬	an xiang gong jing
-暗香疏影	an xiang shu ying
 安心定志	an xin ding zhi
 安心乐业	an xin le ye
 安心乐意	an xin le yi
@@ -17614,7 +17606,6 @@ use_preset_vocabulary: false
 百动不如一静	bai dong bu ru yi jing
 百读不厌	bai du bu yan
 百堵皆兴	bai du jie xing
-百堵皆作	bai du jie zuo
 百堵朋兴	bai du peng xing
 百堵咸作	bai du xian zuo
 百端待举	bai duan dai ju
@@ -17758,7 +17749,6 @@ use_preset_vocabulary: false
 白蜡明经	bai la ming jing
 白浪如山	bai lang ru shan
 白狼手套	bai lang shou tao
-白浪滔天	bai lang tao tian
 白浪掀天	bai lang xian tian
 百里不同风千里不同俗	bai li bu tong feng qian li bu tong su
 百里不同俗	bai li bu tong su
@@ -18204,7 +18194,6 @@ use_preset_vocabulary: false
 谤书一箧	bang shu yi qie
 帮闲偷懒	bang xian tou lan
 帮闲钻懒	bang xian zuan lan
-邦以民为本	bang yi min wei ben
 蚌鹬相持	bang yu xiang chi
 蚌鹬相争	bang yu xiang zheng
 蚌鹬争衡	bang yu zheng heng
@@ -18219,7 +18208,6 @@ use_preset_vocabulary: false
 抱冰公事	bao bing gong shi
 饱病难医	bao bing nan yi
 暴病身亡	bao bing shen wang
-抱布贸丝	bao bu mao si
 暴不肖人	bao bu xiao ren
 抱才而困	bao cai er kun
 褒采一介	bao cai yi jie
@@ -18258,7 +18246,6 @@ use_preset_vocabulary: false
 暴骨沙场	bao gu sha chang
 暴骨原野	bao gu yuan ye
 保固自守	bao gu zi shou
-抱关击柝	bao guan ji tuo
 抱关之怨	bao guan zhi yuan
 抱关执钥	bao guan zhi yue
 保国安民	bao guo an min
@@ -18270,7 +18257,6 @@ use_preset_vocabulary: false
 抱恨黄泉	bao hen huang quan
 抱恨泉壤	bao hen quan rang
 抱恨终天	bao hen zhong tian
-暴虎冯河	bao hu ping he
 抱虎枕蛟	bao hu zhen jiao
 包荒匿瑕	bao huang ni xia
 抱火厝薪	bao huo cuo xin
@@ -18294,7 +18280,6 @@ use_preset_vocabulary: false
 苞苴竿牍	bao ju gan du
 苞苴公行	bao ju gong xing
 苞苴贿赂	bao ju hui lu
-包举宇内	bao ju yu nei
 暴君印记	bao jun yin ji
 暴君之冠	bao jun zhi guan
 宝窟腿甲	bao ku tui jia
@@ -18358,7 +18343,6 @@ use_preset_vocabulary: false
 暴食花鼠	bao shi hua shu
 饱食暖衣	bao shi nuan yi
 暴屍于市	bao shi yu shi
-饱食终日	bao shi zhong ri
 饱受冬寒知春暖	bao shou dong han zhi chun nuan
 抱首鼠窜	bao shou shu cuan
 抱首四窜	bao shou si cuan
@@ -18762,7 +18746,6 @@ use_preset_vocabulary: false
 笔酣墨饱	bi han mo bao
 鼻鼾如雷	bi han ru lei
 笔翰如流	bi han ru liu
-彼何人斯	bi he ren si
 璧合珠联	bi he zhu lian
 闭户读书	bi hu du shu
 比户而封	bi hu er feng
@@ -18926,7 +18909,6 @@ use_preset_vocabulary: false
 鼻青眼紫	bi qing yan zi
 敝裘羸马	bi qiu lei ma
 笔驱造化	bi qu zao hua
-比权量力	bi quan liang li
 避让贤路	bi rang xian lu
 避人耳目	bi ren er mu
 逼人太甚	bi ren tai shen
@@ -19026,7 +19008,6 @@ use_preset_vocabulary: false
 必有近忧	bi you jin you
 臂有四肘	bi you si zhou
 必有所成	bi you suo cheng
-必有我师	bi you wo shi
 必有一彪	bi you yi biao
 必有一得	bi you yi de
 必有一伤	bi you yi shang
@@ -19316,7 +19297,6 @@ use_preset_vocabulary: false
 并存不悖	bing cun bu bei
 兵挫地削	bing cuo di xue
 并胆同心	bing dan tong xin
-并蒂芙蓉	bing di fu rong
 并蒂莲花	bing di lian hua
 冰冻三尺	bing dong san chi
 冰冻三尺非一日之寒	bing dong san chi fei yi ri zhi han
@@ -19842,7 +19822,6 @@ use_preset_vocabulary: false
 不得其法	bu de qi fa
 不得其门而入	bu de qi men er ru
 不得其死	bu de qi si
-不得其所	bu de qi suo
 不得其详	bu de qi xiang
 不得人心	bu de ren xin
 不得如意	bu de ru yi
@@ -19854,7 +19833,6 @@ use_preset_vocabulary: false
 不得违误	bu de wei wu
 不得相干	bu de xiang gan
 不得已而为之	bu de yi er wei zhi
-不得已而用之	bu de yi er yong zhi
 不得有违	bu de you wei
 不得有误	bu de you wu
 不得主意	bu de zhu yi
@@ -19922,7 +19900,6 @@ use_preset_vocabulary: false
 不尴不尬	bu gan bu ga
 不干不净	bu gan bu jing
 不甘雌伏	bu gan ci fu
-不敢告劳	bu gan gao lao
 不敢高攀	bu gan gao pan
 不敢苟同	bu gan gou tong
 不甘后人	bu gan hou ren
@@ -20016,7 +19993,6 @@ use_preset_vocabulary: false
 不羁之民	bu ji zhi min
 不羁之士	bu ji zhi shi
 不急之务	bu ji zhi wu
-不稼不穑	bu jia bu se
 不假雕镂	bu jia diao lou
 不假雕饰	bu jia diao shi
 不假思量	bu jia si liang
@@ -20092,7 +20068,6 @@ use_preset_vocabulary: false
 不觉技痒	bu jue ji yang
 不绝如带	bu jue ru dai
 不绝如发	bu jue ru fa
-不绝如缕	bu jue ru lv
 不绝如线	bu jue ru xian
 不绝若绳	bu jue ruo sheng
 不绝若线	bu jue ruo xian
@@ -20264,14 +20239,12 @@ use_preset_vocabulary: false
 不谋而合	bu mou er he
 不谋而同	bu mou er tong
 不谋而信	bu mou er xin
-不谋其政	bu mou qi zheng
 不谋私利	bu mou si li
 不谋同辞	bu mou tong ci
 不牧之地	bu mu zhi di
 不奈之何	bu nai zhi he
 不挠不屈	bu nao bu qu
 不挠不折	bu nao bu zhe
-不能成方圆	bu neng cheng fang yuan
 不能持论	bu neng chi lun
 不能出口	bu neng chu kou
 不能登大雅之堂	bu neng deng da ya zhi tang
@@ -20294,7 +20267,6 @@ use_preset_vocabulary: false
 不能自已	bu neng zi yi
 不能自制	bu neng zi zhi
 不能自主	bu neng zi zhu
-不念旧恶	bu nian jiu e
 不念僧面念佛面	bu nian seng mian nian fo mian
 不宁唯是	bu ning wei shi
 不怕不识货	bu pa bu shi huo
@@ -20363,7 +20335,6 @@ use_preset_vocabulary: false
 不忍释手	bu ren shi shou
 不仁之器	bu ren zhi qi
 不忍卒读	bu ren zu du
-不日不月	bu ri bu yue
 不容分说	bu rong fen shuo
 不容分诉	bu rong fen su
 不容置辩	bu rong zhi bian
@@ -20374,7 +20345,6 @@ use_preset_vocabulary: false
 不茹不吐	bu ru bu tu
 不入佛门不受戒	bu ru fo men bu shou jie
 不如孤月独明	bu ru gu yue du ming
-不如归去	bu ru gui qu
 不入虎穴	bu ru hu xue
 不入虎穴不得虎子	bu ru hu xue bu de hu zi
 不入虎穴焉得虎子	bu ru hu xue yan de hu zi
@@ -20394,7 +20364,6 @@ use_preset_vocabulary: false
 不衫不履	bu shan bu lv
 不善自谋	bu shan zi mou
 不上不落	bu shang bu luo
-不上不下	bu shang bu xia
 不伤大体	bu shang da ti
 不上芦苇	bu shang lu wei
 不伤脾胃	bu shang pi wei
@@ -20403,7 +20372,6 @@ use_preset_vocabulary: false
 不少概见	bu shao gai jian
 不涉你目	bu she ni mu
 不涉你足	bu she ni zu
-不舍昼夜	bu she zhou ye
 不甚了了	bu shen liao liao
 不甚轩轾	bu shen xuan zhi
 不胜杯杓	bu sheng bei shao
@@ -20547,7 +20515,6 @@ use_preset_vocabulary: false
 不为凡响	bu wei fan xiang
 不为苟同	bu wei gou tong
 不为牛后	bu wei niu hou
-不违农时	bu wei nong shi
 不畏强御	bu wei qiang yu
 不为戎首	bu wei rong shou
 不违天时	bu wei tian shi
@@ -20572,7 +20539,6 @@ use_preset_vocabulary: false
 不习地土	bu xi di tu
 不惜工本	bu xi gong ben
 不袭窠臼	bu xi ke jiu
-不习水土	bu xi shui tu
 不惜一辞	bu xi yi ci
 不惜一语	bu xi yi yu
 不系之舟	bu xi zhi zhou
@@ -20584,7 +20550,6 @@ use_preset_vocabulary: false
 不相上下	bu xiang shang xia
 不相适应	bu xiang shi ying
 不相往来	bu xiang wang lai
-不相为谋	bu xiang wei mou
 不相问闻	bu xiang wen wen
 不祥之金	bu xiang zhi jin
 不祥之木	bu xiang zhi mu
@@ -20617,7 +20582,6 @@ use_preset_vocabulary: false
 不朽之功	bu xiu zhi gong
 不朽之勋	bu xiu zhi xun
 不许百姓点灯	bu xu bai xing dian deng
-不徐不疾	bu xu bu ji
 不虚此行	bu xu ci xing
 不恤人言	bu xu ren yan
 不虚是行	bu xu shi xing
@@ -20650,7 +20614,6 @@ use_preset_vocabulary: false
 不夷不惠	bu yi bu hui
 不依不饶	bu yi bu rao
 不遗尺寸	bu yi chi cun
-不以辞害志	bu yi ci hai zhi
 不遗寸草	bu yi cun cao
 不遗寸长	bu yi cun chang
 不翼而飞	bu yi er fei
@@ -20659,7 +20622,6 @@ use_preset_vocabulary: false
 不一而足	bu yi er zu
 不遗葑菲	bu yi feng fei
 不义富贵	bu yi fu gui
-不以规矩	bu yi gui ju
 不以规矩不成方圆	bu yi gui ju bu cheng fang yuan
 不以规矩不能成方圆	bu yi gui ju bu neng cheng fang yuan
 不易乎世	bu yi hu shi
@@ -20671,7 +20633,6 @@ use_preset_vocabulary: false
 布衣芒屩	bu yi mang jue
 不一其人	bu yi qi ren
 布衣黔首	bu yi qian shou
-不以人废言	bu yi ren fei yan
 不亦善夫	bu yi shan fu
 布衣蔬食	bu yi shu shi
 布衣碎片	bu yi sui pian
@@ -20726,7 +20687,6 @@ use_preset_vocabulary: false
 不约而同	bu yue er tong
 不越雷池	bu yue lei chi
 不在话下	bu zai hua xia
-不在其位	bu zai qi wei
 不在其位不谋其政	bu zai qi wei bu mou qi zheng
 不赞一词	bu zan yi ci
 哺糟啜醨	bu zao chuo li
@@ -20741,7 +20701,6 @@ use_preset_vocabulary: false
 不置褒贬	bu zhi bao bian
 不知不觉	bu zhi bu jue
 不止不可	bu zhi bu ke
-不忮不求	bu zhi bu qiu
 不知不识	bu zhi bu shi
 不止不行	bu zhi bu xing
 不知不罪	bu zhi bu zui
@@ -20750,7 +20709,6 @@ use_preset_vocabulary: false
 不知道哪头炕热	bu zhi dao na tou kang re
 不知颠倒	bu zhi dian dao
 不知丁董	bu zhi ding dong
-不知端倪	bu zhi duan ni
 不知恩义	bu zhi en yi
 不知凡几	bu zhi fan ji
 不知分限	bu zhi fen xian
@@ -20833,7 +20791,6 @@ use_preset_vocabulary: false
 不终之药	bu zhong zhi yao
 卜昼卜夜	bu zhou bu ye
 不著不落	bu zhu bu luo
-不主故常	bu zhu gu chang
 不著痕迹	bu zhu hen ji
 不著筋节	bu zhu jin jie
 不著疼热	bu zhu teng re
@@ -20918,7 +20875,6 @@ use_preset_vocabulary: false
 财多招忌损人苗	cai duo zhao ji sun ren miao
 才乏兼人	cai fa jian ren
 才非玉润	cai fei yu run
-采葑采菲	cai feng cai fei
 彩凤随鸦	cai feng sui ya
 采风问俗	cai feng wen su
 才富八斗	cai fu ba dou
@@ -21201,7 +21157,6 @@ use_preset_vocabulary: false
 藏垢纳污	cang gou na wu
 藏垢遮污	cang gou zhe wu
 沧海尘飞	cang hai chen fei
-沧海横流	cang hai heng liu
 沧海桑田	cang hai sang tian
 沧海扬尘	cang hai yang chen
 沧海一鳞	cang hai yi lin
@@ -21258,7 +21213,6 @@ use_preset_vocabulary: false
 苍蝇碰壁	cang ying peng bi
 藏有露影	cang you lu ying
 藏贼引盗	cang zei yin dao
-藏之名山	cang zhi ming shan
 藏之名山传之其人	cang zhi ming shan chuan zhi qi ren
 藏诸名山	cang zhu ming shan
 藏诸名山传之其人	cang zhu ming shan chuan zhi qi ren
@@ -21270,7 +21224,6 @@ use_preset_vocabulary: false
 草草收兵	cao cao shou bing
 草草完事	cao cao wan shi
 草船借箭	cao chuan jie jian
-草创未就	cao chuang wei jiu
 操刀必割	cao dao bi ge
 操刀不割	cao dao bu ge
 操刀割锦	cao dao ge jin
@@ -21355,7 +21308,6 @@ use_preset_vocabulary: false
 策顽磨钝	ce wan mo dun
 策无遗算	ce wu yi suan
 策勋饮至	ce xun yin zhi
-恻隐之心	ce yin zhi xin
 侧足而立	ce zu er li
 厕足其间	ce zu qi jian
 参差不齐	cen ci bu qi
@@ -21797,7 +21749,6 @@ use_preset_vocabulary: false
 扯破脸皮	che po lian pi
 扯旗放炮	che qi fang pao
 扯纤拉烟	che qian la yan
-车如流水马如龙	che ru liu shui ma ru long
 彻桑未雨	che sang wei yu
 彻上彻下	che shang che xia
 车神勋章	che shen xun zhang
@@ -21864,7 +21815,6 @@ use_preset_vocabulary: false
 尘劳碌碌	chen lao lu lu
 陈雷胶漆	chen lei jiao qi
 沉李浮瓜	chen li fu gua
-陈力就列	chen li jiu lie
 沉沦之羽	chen lun zhi yu
 臣门如市	chen men ru shi
 沉迷不悟	chen mi bu wu
@@ -21890,7 +21840,6 @@ use_preset_vocabulary: false
 趁人之危	chen ren zhi wei
 陈善闭邪	chen shan bi xie
 沉声静气	chen sheng jing qi
-陈师鞠旅	chen shi ju lv
 趁势落篷	chen shi luo peng
 尘世褶裙	chen shi zhe qun
 趁水和泥	chen shui huo ni
@@ -21904,7 +21853,6 @@ use_preset_vocabulary: false
 尘雾之云	chen wu zhi yun
 沉小霞相会出师表	chen xiao xia xiang hui chu shi biao
 沉心静气	chen xin jing qi
-称心快意	chen xin kuai yi
 称心满意	chen xin man yi
 臣心如水	chen xin ru shui
 称心如意	chen xin ru yi
@@ -22442,7 +22390,6 @@ use_preset_vocabulary: false
 吃肉不如喝汤	chi rou bu ru he tang
 齿如编贝	chi ru bian bei
 齿如含贝	chi ru han bei
-齿如瓠犀	chi ru hu xi
 齿如齐贝	chi ru qi bei
 耻辱印记	chi ru yin ji
 吃软不吃硬	chi ruan bu chi ying
@@ -22653,7 +22600,6 @@ use_preset_vocabulary: false
 宠辱何惊	chong ru he jing
 宠辱皆惊	chong ru jie jing
 宠辱皆忘	chong ru jie wang
-宠辱若惊	chong ru ruo jing
 宠辱无惊	chong ru wu jing
 重三叠四	chong san die si
 虫沙微类	chong sha wei lei
@@ -22728,7 +22674,6 @@ use_preset_vocabulary: false
 酬功报德	chou gong bao de
 酬功给效	chou gong gei xiao
 愁海无涯	chou hai wu ya
-愁红惨绿	chou hong can lv
 愁红怨绿	chou hong yuan lv
 丑话说在前面	chou hua shuo zai qian mian
 抽黄对白	chou huang dui bai
@@ -22756,7 +22701,6 @@ use_preset_vocabulary: false
 臭名远扬	chou ming yuan yang
 臭名昭彰	chou ming zhao zhang
 臭名昭著	chou ming zhao zhu
-绸缪束薪	chou mou shu xin
 绸缪帷幄	chou mou wei wo
 绸缪未雨	chou mou wei yu
 绸缪牖户	chou mou you hu
@@ -22932,7 +22876,6 @@ use_preset_vocabulary: false
 触景伤情	chu jing shang qing
 触景伤心	chu jing shang xin
 触景生怀	chu jing sheng huai
-触景生情	chu jing sheng qing
 处静息迹	chu jing xi ji
 储精蓄锐	chu jing xu rui
 除旧布新	chu jiu bu xin
@@ -22988,7 +22931,6 @@ use_preset_vocabulary: false
 触目兴怀	chu mu xing huai
 触目兴叹	chu mu xing tan
 楚幕有乌	chu mu you wu
-出纳之吝	chu na zhi lin
 楚囊之情	chu nang zhi qing
 处囊之锥	chu nang zhi zhui
 出内之吝	chu nei zhi lin
@@ -23045,7 +22987,6 @@ use_preset_vocabulary: false
 处身涉世	chu shen she shi
 初生牛犊不怕虎	chu sheng niu du bu pa hu
 出圣入神	chu sheng ru shen
-出生入死	chu sheng ru si
 初生之犊	chu sheng zhi du
 初生之犊不惧虎	chu sheng zhi du bu ju hu
 初生之犊不畏虎	chu sheng zhi du bu wei hu
@@ -23229,7 +23170,6 @@ use_preset_vocabulary: false
 川泽之示	chuan ze zhi shi
 穿针引线	chuan zhen yin xian
 传之不朽	chuan zhi bu xiu
-传之其人	chuan zhi qi ren
 传宗接代	chuan zong jie dai
 闯荡江湖	chuang dang jiang hu
 怆地呼天	chuang di hu tian
@@ -23291,7 +23231,6 @@ use_preset_vocabulary: false
 椎锋陷阵	chui feng xian zhen
 椎肤剥髓	chui fu bo sui
 椎肤剥体	chui fu bo ti
-垂拱而治	chui gong er zhi
 垂拱仰成	chui gong yang cheng
 垂拱之化	chui gong zhi hua
 吹垢索瘢	chui gou suo ban
@@ -23410,7 +23349,6 @@ use_preset_vocabulary: false
 蠢蠢欲动	chun chun yu dong
 春风不入驴耳	chun feng bu ru lv er
 春风吹又生	chun feng chui you sheng
-春风得意	chun feng de yi
 春风风人	chun feng feng ren
 春风浩荡	chun feng hao dang
 春风和气	chun feng he qi
@@ -23581,7 +23519,6 @@ use_preset_vocabulary: false
 此风不可长	ci feng bu ke zhang
 辞丰意雄	ci feng yi xiong
 此伏彼起	ci fu bi qi
-辞富居贫	ci fu ju pin
 刺骨暗影	ci gu an ying
 刺股读书	ci gu du shu
 刺骨寒冰	ci gu han bing
@@ -23658,7 +23595,6 @@ use_preset_vocabulary: false
 辞致雅赡	ci zhi ya shan
 此中多有	ci zhong duo you
 此中三昧	ci zhong san mei
-辞尊居卑	ci zun ju bei
 从壁上观	cong bi shang guan
 从不间断	cong bu jian duan
 从长计较	cong chang ji jiao
@@ -23956,7 +23892,6 @@ use_preset_vocabulary: false
 撮土为香	cuo tu wei xiang
 蹉跎日月	cuo tuo ri yue
 蹉跎时日	cuo tuo shi ri
-蹉跎岁月	cuo tuo sui yue
 蹉跎自误	cuo tuo zi wu
 措心积虑	cuo xin ji lv
 厝薪于火	cuo xin yu huo
@@ -23983,7 +23918,6 @@ use_preset_vocabulary: false
 大本大宗	da ben da zong
 大笔如椽	da bi ru chuan
 大笔一挥	da bi yi hui
-大辩不言	da bian bu yan
 大辩若讷	da bian ruo ne
 打遍天下无敌手	da bian tian xia wu di shou
 达变通机	da bian tong ji
@@ -24078,7 +24012,6 @@ use_preset_vocabulary: false
 大恩不谢	da en bu xie
 大恩大德	da en da de
 大而化之	da er hua zhi
-大而无当	da er wu dang
 大发慈悲	da fa ci bei
 大发厥词	da fa jue ci
 大发雷霆	da fa lei ting
@@ -24280,7 +24213,6 @@ use_preset_vocabulary: false
 大酺三日	da pu san ri
 大起大落	da qi da luo
 大气磅礴	da qi pang bo
-大器晚成	da qi wan cheng
 大器小用	da qi xiao yong
 大钱大物	da qian da wu
 大千世界	da qian shi jie
@@ -24461,7 +24393,6 @@ use_preset_vocabulary: false
 大有裨益	da you bi yi
 大有见地	da you jian di
 大有径娣	da you jing di
-大有径庭	da you jing ting
 大有可观	da you ke guan
 大有可为	da you ke wei
 大有其人	da you qi ren
@@ -24677,7 +24608,6 @@ use_preset_vocabulary: false
 耽古笃学	dan gu du xue
 弹冠结绶	dan guan jie shou
 胆寒发竖	dan han fa shu
-惮赫千里	dan he qian li
 单鹄寡凫	dan hu gua fu
 淡乎寡味	dan hu gua wei
 耽花恋酒	dan hua lian jiu
@@ -24908,7 +24838,6 @@ use_preset_vocabulary: false
 当面锣对面鼓	dang mian luo dui mian gu
 当面是人	dang mian shi ren
 当面是人背后是鬼	dang mian shi ren bei hou shi gui
-当面输心背面笑	dang mian shu xin bei mian xiao
 当面银子对面钱	dang mian yin zi dui mian qian
 荡气回肠	dang qi hui chang
 当前决意	dang qian jue yi
@@ -25268,7 +25197,6 @@ use_preset_vocabulary: false
 得其皮毛	de qi pi mao
 得其三昧	de qi san mei
 得其死力	de qi si li
-得其所哉	de qi suo zai
 得钱买放	de qian mai fang
 德浅行薄	de qian xing bao
 得趣忘形	de qu wang xing
@@ -25339,7 +25267,6 @@ use_preset_vocabulary: false
 得意之鸣	de yi zhi ming
 得意之色	de yi zhi se
 得意之作	de yi zhi zuo
-德音莫违	de yin mo wei
 得荫忘身	de yin wang shen
 德輶如毛	de you ru mao
 德輶如羽	de you ru yu
@@ -25627,7 +25554,6 @@ use_preset_vocabulary: false
 颠倒乾坤	dian dao qian kun
 颠倒是非	dian dao shi fei
 颠倒妍媸	dian dao yan chi
-颠倒衣裳	dian dao yi chang
 颠倒阴阳	dian dao yin yang
 点滴归公	dian di gui gong
 颠颠痴痴	dian dian chi chi
@@ -25790,7 +25716,6 @@ use_preset_vocabulary: false
 凋年景急	diao nian jing ji
 雕盘绮食	diao pan qi shi
 雕墙峻宇	diao qiang jun yu
-貂裘换酒	diao qiu huan jiu
 吊丧问疾	diao sang wen ji
 掉舌鼓唇	diao she gu chun
 刁声浪气	diao sheng lang qi
@@ -25866,7 +25791,6 @@ use_preset_vocabulary: false
 鼎成龙去	ding cheng long qu
 鼎成龙升	ding cheng long sheng
 鼎铛有耳	ding cheng you er
-鼎铛玉石	ding cheng yu shi
 丁宠家庭	ding chong jia ting
 钉刺冲锋	ding ci chong feng
 钉刺猎弓	ding ci lie gong
@@ -26261,7 +26185,6 @@ use_preset_vocabulary: false
 洞悉兜帽	dong xi dou mao
 东曦既驾	dong xi ji jia
 东曦既上	dong xi ji shang
-东西南北	dong xi nan bei
 东西南北客	dong xi nan bei ke
 东西南北人	dong xi nan bei ren
 东西南朔	dong xi nan shuo
@@ -26603,7 +26526,6 @@ use_preset_vocabulary: false
 毒手尊拳	du shou zun quan
 读书百遍其义自见	du shu bai bian qi yi zi xian
 读书得间	du shu de jian
-读书破万卷	du shu po wan juan
 读书破万卷下笔如有神	du shu po wan juan xia bi ru you shen
 读书三到	du shu san dao
 肚束三蔑	du shu san mie
@@ -26616,7 +26538,6 @@ use_preset_vocabulary: false
 都头异姓	du tou yi xing
 度外之人	du wai zhi ren
 度外置之	du wai zhi zhi
-独往独来	du wang du lai
 杜微慎防	du wei shen fang
 睹微知显	du wei zhi xian
 睹微知著	du wei zhi zhu
@@ -26632,7 +26553,6 @@ use_preset_vocabulary: false
 妒贤嫉能	du xian ji neng
 笃新怠旧	du xin dai jiu
 笃信好古	du xin hao gu
-笃信好学	du xin hao xue
 笃行不倦	du xing bu juan
 独行独断	du xing du duan
 独醒独清	du xing du qing
@@ -27040,7 +26960,6 @@ use_preset_vocabulary: false
 夺人所好	duo ren suo hao
 多如繁星	duo ru fan xing
 多如恒沙	duo ru heng sha
-多如牛毛	duo ru niu mao
 多少少年亡	duo shao shao nian wang
 度身而衣	duo shen er yi
 堕神圣地	duo shen sheng de
@@ -27298,7 +27217,6 @@ use_preset_vocabulary: false
 耳边之风	er bian zhi feng
 耳鬓厮磨	er bin si mo
 耳鬓相磨	er bin xiang mo
-而不见舆薪	er bu jian yu xin
 耳不旁听	er bu pang ting
 耳不忍闻	er bu ren wen
 儿不嫌母丑狗不嫌家贫	er bu xian mu chou gou bu xian jia pin
@@ -27380,7 +27298,6 @@ use_preset_vocabulary: false
 耳软心活	er ruan xin huo
 二三君子	er san jun zi
 二三其操	er san qi cao
-二三其德	er san qi de
 二三其节	er san qi jie
 二三其心	er san qi xin
 二三其意	er san qi yi
@@ -27408,7 +27325,6 @@ use_preset_vocabulary: false
 二竖作恶	er shu zuo e
 耳顺之年	er shun zhi nian
 儿孙自有儿孙福	er sun zi you er sun fu
-二桃杀三士	er tao sha san shi
 耳提面诲	er ti mian hui
 耳提面命	er ti mian ming
 耳提面训	er ti mian xun
@@ -27470,7 +27386,6 @@ use_preset_vocabulary: false
 发凡言例	fa fan yan li
 发愤图强	fa fen tu qiang
 发愤忘餐	fa fen wang can
-发愤忘食	fa fen wang shi
 发奋为雄	fa fen wei xiong
 发愤自雄	fa fen zi xiong
 罚弗及嗣	fa fu ji si
@@ -27516,7 +27431,6 @@ use_preset_vocabulary: false
 发潜阐幽	fa qian chan you
 发人猛省	fa ren meng xing
 发人深思	fa ren shen si
-发人深省	fa ren shen xing
 发轫之始	fa ren zhi shi
 伐善攘羭	fa shan rang yu
 乏善足陈	fa shan zu chen
@@ -27539,7 +27453,6 @@ use_preset_vocabulary: false
 伐性之斧	fa xing zhi fu
 法眼如炬	fa yan ru ju
 法眼通天	fa yan tong tian
-发言盈庭	fa yan ying ting
 发扬褒大	fa yang bao da
 发扬踔厉	fa yang chuo li
 发扬蹈厉	fa yang dao li
@@ -27592,7 +27505,6 @@ use_preset_vocabulary: false
 反唇之讥	fan chun zhi ji
 反道败德	fan dao bai de
 反跌文章	fan die wen zhang
-犯而不校	fan er bu jiao
 犯而勿校	fan er wu xiao
 烦法细文	fan fa xi wen
 泛泛而谈	fan fan er tan
@@ -27855,7 +27767,6 @@ use_preset_vocabulary: false
 放牛归马	fang niu gui ma
 放屁添风	fang pi tian feng
 放僻邪侈	fang pi xie chi
-放辟邪侈	fang pi xie chi
 放辟淫侈	fang pi yin chi
 放屁砸了脚后跟	fang pi za le jiao hou gen
 访贫问苦	fang pin wen ku
@@ -28032,8 +27943,6 @@ use_preset_vocabulary: false
 废寝忘餐	fei qin wang can
 废寝忘食	fei qin wang shi
 飞禽走兽	fei qin zou shou
-废去私有制度	fei qu si you zhi du
-斐然成章	fei ran cheng zhang
 废然而返	fei ran er fan
 斐然可观	fei ran ke guan
 废然思返	fei ran si fan
@@ -28322,7 +28231,6 @@ use_preset_vocabulary: false
 分外眼红	fen wai yan hong
 分外眼明	fen wai yan ming
 分外眼睁	fen wai yan zheng
-分外妖娆	fen wai yao rao
 分外夭夭	fen wai yao yao
 分外之赏	fen wai zhi shang
 分外之物	fen wai zhi wu
@@ -28540,7 +28448,6 @@ use_preset_vocabulary: false
 风花双剑	feng hua shuang jian
 风花雪夜	feng hua xue ye
 风花雪月	feng hua xue yue
-风华正茂	feng hua zheng mao
 冯驩弹铗	feng huan dan jia
 风鬟雾鬓	feng huan wu bin
 风鬟雨鬓	feng huan yu bin
@@ -28685,7 +28592,6 @@ use_preset_vocabulary: false
 风木之思	feng mu zhi si
 丰年补败	feng nian bu bai
 丰年稔岁	feng nian ren sui
-凤鸟不至	feng niao bu zhi
 风牛马不相及	feng niu ma bu xiang ji
 风怒图腾	feng nu tu teng
 风怒武器	feng nu wu qi
@@ -28921,8 +28827,6 @@ use_preset_vocabulary: false
 风雨连床	feng yu lian chuang
 风雨飘零	feng yu piao ling
 风雨飘摇	feng yu piao yao
-风雨凄凄	feng yu qi qi
-风雨如晦	feng yu ru hui
 风雨如磐	feng yu ru pan
 风雨时若	feng yu shi ruo
 风雨调顺	feng yu tiao shun
@@ -28952,7 +28856,6 @@ use_preset_vocabulary: false
 风云莫测	feng yun mo ce
 风云气候	feng yun qi hou
 风云人物	feng yun ren wu
-风云突变	feng yun tu bian
 风云万变	feng yun wan bian
 风韵秀彻	feng yun xiu che
 风韵犹存	feng yun you cun
@@ -29387,7 +29290,6 @@ use_preset_vocabulary: false
 福寿无疆	fu shou wu jiang
 俯首系颈	fu shou xi jing
 俯首下心	fu shou xia xin
-肤受之诉	fu shou zhi su
 肤受之言	fu shou zhi yan
 覆霜秘境	fu shuang mi jing
 覆水不收	fu shui bu shou
@@ -29436,7 +29338,6 @@ use_preset_vocabulary: false
 扶危翼倾	fu wei yi qing
 扶危拯溺	fu wei zheng ni
 抚慰之沙	fu wei zhi sha
-父为子隐	fu wei zi yin
 浮文巧语	fu wen qiao yu
 福无十全	fu wu shi quan
 福无双至	fu wu shuang zhi
@@ -29447,7 +29348,6 @@ use_preset_vocabulary: false
 父析子荷	fu xi zi he
 附下罔上	fu xia wang shang
 赴险如夷	fu xian ru yi
-浮想联翩	fu xiang lian pian
 腹心大臣	fu xin da chen
 负薪构堂	fu xin gou tang
 腹心股肱	fu xin gu gong
@@ -29792,7 +29692,6 @@ use_preset_vocabulary: false
 感慨万端	gan kai wan duan
 感慨万千	gan kai wan qian
 感慨系之	gan kai xi zhi
-甘苦与共	gan ku yu gong
 感喟不置	gan kui bu zhi
 感愧无地	gan kui wu di
 干理敏捷	gan li min jie
@@ -29859,7 +29758,6 @@ use_preset_vocabulary: false
 甘心如荠	gan xin ru ji
 甘心若荠	gan xin ruo ji
 肝心若裂	gan xin ruo lie
-甘心首疾	gan xin shou ji
 肝心涂地	gan xin tu di
 甘馨之费	gan xin zhi fei
 赶鸭子上架	gan ya zi shang jia
@@ -29915,7 +29813,6 @@ use_preset_vocabulary: false
 钢铁意志	gang tie yi zhi
 钢铁勇气	gang tie yong qi
 岗头泽底	gang tou ze di
-刚毅木讷	gang yi mu ne
 刚正不阿	gang zheng bu e
 刚正无私	gang zheng wu si
 刚直不阿	gang zhi bu e
@@ -30078,7 +29975,6 @@ use_preset_vocabulary: false
 高山大野	gao shan da ye
 高山景行	gao shan jing xing
 高山峻岭	gao shan jun ling
-高山流水	gao shan liu shui
 高山密林	gao shan mi lin
 高山仰止	gao shan yang zhi
 高山野林	gao shan ye lin
@@ -30135,7 +30031,6 @@ use_preset_vocabulary: false
 高下在口	gao xia zai kou
 高下在手	gao xia zai shou
 高下在心	gao xia zai xin
-槁项黄馘	gao xiang huang guo
 槁项黧馘	gao xiang li guo
 槁项没齿	gao xiang mei chi
 高翔远引	gao xiang yuan yin
@@ -30771,7 +30666,6 @@ use_preset_vocabulary: false
 狗尾貂续	gou wei diao xu
 狗尾续貂	gou wei xu diao
 勾心斗角	gou xin dou jiao
-钩心斗角	gou xin dou jiao
 狗心狗行	gou xin gou xing
 钩心摄魄	gou xin she po
 狗行狼心	gou xing lang xin
@@ -30952,7 +30846,6 @@ use_preset_vocabulary: false
 顾盼生姿	gu pan sheng zi
 顾盼自得	gu pan zi de
 顾盼自豪	gu pan zi hao
-顾盼自雄	gu pan zi xiong
 鼓盆而歌	gu pen er ge
 鼓盆之戚	gu pen zhi qi
 孤蓬自振	gu peng zi zhen
@@ -31135,7 +31028,6 @@ use_preset_vocabulary: false
 瓜区豆分	gua qu dou fen
 寡人之疾	gua ren zhi ji
 瓜熟蒂落	gua shu di luo
-瓜田不纳履	gua tian bu na lv
 瓜田不纳履李下不整冠	gua tian bu na lv li xia bu zheng guan
 瓜田不纳履李下不正冠	gua tian bu na lv li xia bu zheng guan
 瓜甜蒂苦	gua tian di ku
@@ -31161,7 +31053,6 @@ use_preset_vocabulary: false
 怪诞不经	guai dan bu jing
 怪诞诡奇	guai dan gui qi
 怪怪奇奇	guai guai qi qi
-怪力乱神	guai li luan shen
 拐米倒做了仓官	guai mi dao zuo le cang guan
 怪模怪样	guai mo guai yang
 乖僻邪谬	guai pi xie miu
@@ -31820,7 +31711,6 @@ use_preset_vocabulary: false
 过眼烟云	guo yan yan yun
 过眼云烟	guo yan yun yan
 过意不去	guo yi bu qu
-过犹不及	guo you bu ji
 国贼禄鬼	guo zei lu gui
 果真如此	guo zhen ru ci
 国之干城	guo zhi gan cheng
@@ -32043,7 +31933,6 @@ use_preset_vocabulary: false
 寒木春华	han mu chun hua
 汉娜之刃	han na zhi ren
 翰鸟缨缴	han niao ying jiao
-汗牛充栋	han niu chong dong
 汗牛充屋	han niu chong wu
 汗牛塞栋	han niu sai dong
 汗牛塞屋	han niu sai wu
@@ -32336,7 +32225,6 @@ use_preset_vocabulary: false
 号天叩地	hao tian kou di
 号天扣地	hao tian kou di
 好天良夜	hao tian liang ye
-昊天罔极	hao tian wang ji
 号恸崩催	hao tong beng cui
 好为人师	hao wei ren shi
 好为事端	hao wei shi duan
@@ -32417,7 +32305,6 @@ use_preset_vocabulary: false
 河东狮子	he dong shi zi
 河东狮子吼	he dong shi zi hou
 鹤短凫长	he duan fu chang
-和而不唱	he er bu chang
 和而不同	he er bu tong
 合二为一	he er wei yi
 合而为一	he er wei yi
@@ -32715,7 +32602,6 @@ use_preset_vocabulary: false
 横生枝节	heng sheng zhi jie
 衡石程书	heng shi cheng shu
 衡石量书	heng shi liang shu
-横槊赋诗	heng shuo fu shi
 横说横有理竖说竖有理	heng shuo heng you li shu shuo shu you li
 横说竖说	heng shuo shu shuo
 横躺竖卧	heng tang shu wo
@@ -32820,7 +32706,6 @@ use_preset_vocabulary: false
 洪乔捎书	hong qiao shao shu
 洪乔掷水	hong qiao zhi shui
 洪乔之误	hong qiao zhi wu
-红情绿意	hong qing lv yi
 宏任务化	hong ren wu hua
 红日三竿	hong ri san gan
 宏儒硕学	hong ru shuo xue
@@ -32832,7 +32717,6 @@ use_preset_vocabulary: false
 红瘦绿肥	hong shou lv fei
 红衰翠减	hong shuai cui jian
 红衰绿减	hong shuai lv jian
-洪水横流	hong shui heng liu
 洪水猛兽	hong shui meng shou
 红丝暗系	hong si an xi
 红丝待选	hong si dai xuan
@@ -32957,7 +32841,6 @@ use_preset_vocabulary: false
 后人乘凉	hou ren cheng liang
 喉舌之官	hou she zhi guan
 喉舌之任	hou she zhi ren
-后生可畏	hou sheng ke wei
 齁声雷起	hou sheng lei qi
 厚生利用	hou sheng li yong
 后生小子	hou sheng xiao zi
@@ -33300,7 +33183,6 @@ use_preset_vocabulary: false
 话到嘴边留一半	hua dao zui bian liu yi ban
 画地成牢	hua di cheng lao
 画地成图	hua di cheng tu
-画地而趋	hua di er qu
 画荻和丸	hua di huo wan
 画荻教子	hua di jiao zi
 画地刻木	hua di ke mu
@@ -33645,7 +33527,6 @@ use_preset_vocabulary: false
 换帅如换刀	huan shuai ru huan dao
 换汤不换药	huan tang bu huan yao
 欢天喜地	huan tian xi di
-还我河山	huan wo he shan
 环雾披风	huan wu pi feng
 欢喜若狂	huan xi ruo kuang
 欢喜冤家	huan xi yuan jia
@@ -33788,11 +33669,9 @@ use_preset_vocabulary: false
 荒唐之辞	huang tang zhi ci
 皇天不负苦心人	huang tian bu fu ku xin ren
 皇天不负有心人	huang tian bu fu you xin ren
-皇天后土	huang tian hou tu
 黄天焦日	huang tian jiao ri
 皇天有眼	huang tian you yan
 黄童白颠	huang tong bai dian
-黄童白叟	huang tong bai sou
 黄童皓首	huang tong hao shou
 荒土奴隶	huang tu nu li
 荒无人烟	huang wu ren yan
@@ -33839,7 +33718,6 @@ use_preset_vocabulary: false
 灰尘之云	hui chen zhi yun
 回嗔作喜	hui chen zuo xi
 回嗔作笑	hui chen zuo xiao
-挥斥八极	hui chi ba ji
 回筹转策	hui chou zhuan ce
 回船转舵	hui chuan zhuan duo
 回春妙手	hui chun miao shou
@@ -33937,7 +33815,6 @@ use_preset_vocabulary: false
 绘情绘景	hui qing hui jing
 灰躯糜骨	hui qu mi gu
 挥拳掳袖	hui quan lu xiu
-惠然肯来	hui ran ken lai
 惠然之顾	hui ran zhi gu
 诲人不倦	hui ren bu juan
 诲人不厌	hui ren bu yan
@@ -34200,7 +34077,6 @@ use_preset_vocabulary: false
 祸福无偏	huo fu wu pian
 祸福相共	huo fu xiang gong
 祸福相贯	huo fu xiang guan
-祸福相生	huo fu xiang sheng
 祸福相随	huo fu xiang sui
 祸福相依	huo fu xiang yi
 祸福倚伏	huo fu yi fu
@@ -34357,7 +34233,6 @@ use_preset_vocabulary: false
 火烛小心	huo zhu xiao xin
 火烛银花	huo zhu yin hua
 活捉生擒	huo zhuo sheng qin
-获罪于天	huo zui yu tian
 祸作福阶	huo zuo fu jie
 积案如山	ji an ru shan
 积案盈箱	ji an ying xiang
@@ -34557,7 +34432,6 @@ use_preset_vocabulary: false
 寄花献佛	ji hua xian fo
 际会风云	ji hui feng yun
 积毁销骨	ji hui xiao gu
-积毁销金	ji hui xiao jin
 忌讳之禁	ji hui zhi jin
 饥火烧肠	ji huo shao chang
 计获事足	ji huo shi zu
@@ -34805,7 +34679,6 @@ use_preset_vocabulary: false
 稽颡肉袒	ji sang rou tan
 积沙成塔	ji sha cheng ta
 积沙成滩	ji sha cheng tan
-积善成德	ji shan cheng de
 箕山挂瓢	ji shan gua piao
 积善无人见存心有天知	ji shan wu ren jian cun xin you tian zhi
 积善阴骘	ji shan yin zhi
@@ -34823,7 +34696,6 @@ use_preset_vocabulary: false
 齑身粉骨	ji shen fen gu
 汲深绠短	ji shen geng duan
 计深虑远	ji shen lv yuan
-极深研几	ji shen yan ji
 机深智远	ji shen zhi yuan
 疾声大呼	ji sheng da hu
 鸡声断爱	ji sheng duan ai
@@ -34868,7 +34740,6 @@ use_preset_vocabulary: false
 鸡黍深盟	ji shu shen meng
 鸡黍之膳	ji shu zhi shan
 积衰新造	ji shuai xin zao
-积水成渊	ji shui cheng yuan
 积水为海	ji shui wei hai
 集思广益	ji si guang yi
 积素累旧	ji su lei jiu
@@ -34887,13 +34758,11 @@ use_preset_vocabulary: false
 极天罔地	ji tian wang di
 急痛攻心	ji tong gong xin
 鸡头鱼刺	ji tou yu ci
-积土成山	ji tu cheng shan
 急兔反噬	ji tu fan shi
 积土为山	ji tu wei shan
 积土为山积水为海	ji tu wei shan ji shui wei hai
 鸡豚同社	ji tun tong she
 鸡豚之息	ji tun zhi xi
-既往不咎	ji wang bu jiu
 既往不迫	ji wang bu po
 既往不追	ji wang bu zhui
 继往开来	ji wang kai lai
@@ -34934,7 +34803,6 @@ use_preset_vocabulary: false
 吉祥如意	ji xiang ru yi
 吉祥善事	ji xiang shan shi
 吉祥腰饰	ji xiang yao shi
-吉祥止止	ji xiang zhi zhi
 积小成大	ji xiao cheng da
 即小见大	ji xiao jian da
 积小致巨	ji xiao zhi ju
@@ -35000,11 +34868,9 @@ use_preset_vocabulary: false
 急于求成	ji yu qiu cheng
 疾语如风	ji yu ru feng
 急于事功	ji yu shi gong
-急于星火	ji yu xing huo
 觊觎之心	ji yu zhi xin
 觊觎之志	ji yu zhi zhi
 集苑集枯	ji yuan ji ku
-霁月光风	ji yue guang feng
 期月有成	ji yue you cheng
 疾云步级	ji yun bu ji
 集韵增文	ji yun zeng wen
@@ -35016,7 +34882,6 @@ use_preset_vocabulary: false
 急张拘诸	ji zhang ju zhu
 饥者无择	ji zhe wu ze
 饥者易食	ji zhe yi shi
-饥者易为食	ji zhe yi wei shi
 饥者易为食渴者易为饮	ji zhe yi wei shi ke zhe yi wei yin
 鸡争鹅斗	ji zheng e dou
 急征重敛	ji zheng zhong lian
@@ -35275,7 +35140,6 @@ use_preset_vocabulary: false
 加砖添瓦	jia zhuan tian wa
 架装结构	jia zhuang jie gou
 家赀万贯	jia zi wan guan
-兼爱无私	jian ai wu si
 建安风骨	jian an feng gu
 见鞍思马	jian an si ma
 简傲绝俗	jian ao jue su
@@ -35444,7 +35308,6 @@ use_preset_vocabulary: false
 见了新人忘旧人	jian le xin ren wang jiu ren
 拣了芝麻丢了西瓜	jian le zhi ma diu le xi gua
 见利弃义	jian li qi yi
-见利思义	jian li si yi
 见利忘义	jian li wang yi
 简练揣摩	jian lian chuai mo
 贱敛贵出	jian lian gui chu
@@ -35586,7 +35449,6 @@ use_preset_vocabulary: false
 践土食毛	jian tu shi mao
 鉴往知来	jian wang zhi lai
 键位布局	jian wei bu ju
-见危授命	jian wei shou ming
 见微知萌	jian wei zhi meng
 见危致命	jian wei zhi ming
 见微知著	jian wei zhi zhu
@@ -36535,14 +36397,12 @@ use_preset_vocabulary: false
 尽如所期	jin ru suo qi
 尽锐出战	jin rui chu zhan
 进锐退速	jin rui tui su
-浸润之谮	jin run zhi zen
 噤若寒蝉	jin ruo han chan
 锦瑟华年	jin se hua nian
 锦瑟年华	jin se nian hua
 进善惩恶	jin shan cheng e
 进善惩奸	jin shan cheng jian
 进善黜恶	jin shan chu e
-尽善尽美	jin shan jin mei
 近山识兽傍水知鱼	jin shan shi shou bang shui zhi yu
 进善退恶	jin shan tui e
 锦上添花	jin shang tian hua
@@ -36598,7 +36458,6 @@ use_preset_vocabulary: false
 近水凿齿	jin shui zao chi
 进思尽忠	jin si jin zhong
 进思尽忠退思补过	jin si jin zhong tui si bu guo
-尽态极妍	jin tai ji yan
 金台市骏	jin tai shi jun
 金汤战甲	jin tang zhan jia
 金汤之固	jin tang zhi gu
@@ -36733,7 +36592,6 @@ use_preset_vocabulary: false
 金玉锦绣	jin yu jin xiu
 金玉良言	jin yu liang yan
 金玉良缘	jin yu liang yuan
-金玉满堂	jin yu man tang
 金玉满堂长命富贵	jin yu man tang chang ming fu gui
 瑾瑜匿瑕	jin yu ni xia
 金玉其外	jin yu qi wai
@@ -37010,7 +36868,6 @@ use_preset_vocabulary: false
 惊天地泣鬼神	jing tian di qi gui shen
 惊天动地	jing tian dong di
 荆天棘地	jing tian ji di
-经天纬地	jing tian wei di
 径廷之辞	jing ting zhi ci
 鲸吞蚕食	jing tun can shi
 鲸吞虎据	jing tun hu ju
@@ -37239,7 +37096,6 @@ use_preset_vocabulary: false
 九九归一	jiu jiu gui yi
 九九归原	jiu jiu gui yuan
 九九同心	jiu jiu tong xin
-赳赳武夫	jiu jiu wu fu
 赳赳雄断	jiu jiu xiong duan
 鸠居鹊巢	jiu ju que chao
 久居人下	jiu ju ren xia
@@ -37651,7 +37507,6 @@ use_preset_vocabulary: false
 具瞻所归	ju zhan suo gui
 句斟字酌	ju zhen zi zhuo
 举止不凡	ju zhi bu fan
-居之不疑	ju zhi bu yi
 举直措枉	ju zhi cuo wang
 举直错枉	ju zhi cuo wang
 举止大方	ju zhi da fang
@@ -37782,11 +37637,9 @@ use_preset_vocabulary: false
 绝情寡义	jue qing gua yi
 绝裙而去	jue qun er qu
 觉人觉世	jue ren jue shi
-绝仁弃义	jue ren qi yi
 绝色佳人	jue se jia ren
 绝少分甘	jue shao fen gan
 决胜庙堂	jue sheng miao tang
-绝圣弃智	jue sheng qi zhi
 决胜千里	jue sheng qian li
 决胜于千里之外	jue sheng yu qian li zhi wai
 决胜之机	jue sheng zhi ji
@@ -37863,7 +37716,6 @@ use_preset_vocabulary: false
 君子不夺人所好	jun zi bu duo ren suo hao
 君子不念旧恶	jun zi bu nian jiu e
 君子动口小人动手	jun zi dong kou xiao ren dong shou
-君子固穷	jun zi gu qiong
 君子好逑	jun zi hao qiu
 君子绝交不出恶声	jun zi jue jiao bu chu e sheng
 君子乐得为君子	jun zi le de wei jun zi
@@ -37883,7 +37735,6 @@ use_preset_vocabulary: false
 开诚布信	kai cheng bu xin
 开诚相见	kai cheng xiang jian
 慨当以慷	kai dang yi kang
-岂弟君子	kai di jun zi
 开顶风船	kai ding feng chuan
 开放体系结构框架	kai fang ti xi jie gou kuang jia
 开弓不放箭	kai gong bu fang jian
@@ -38150,7 +38001,6 @@ use_preset_vocabulary: false
 咳唾成珠	ke tuo cheng zhu
 咳唾凝珠	ke tuo ning zhu
 咳唾珠玉	ke tuo zhu yu
-可望不可即	ke wang bu ke ji
 可望而不可即	ke wang er bu ke ji
 刻雾裁风	ke wu cai feng
 可喜可愕	ke xi ke e
@@ -38219,7 +38069,6 @@ use_preset_vocabulary: false
 孔怀之重	kong huai zhi zhong
 恐慌万状	kong huang wan zhuang
 空空道人	kong kong dao ren
-空空如也	kong kong ru ye
 空口说白话	kong kou shuo bai hua
 空口无凭	kong kou wu ping
 空旷无人	kong kuang wu ren
@@ -38239,7 +38088,6 @@ use_preset_vocabulary: false
 空谈快意	kong tan kuai yi
 空头冤家	kong tou yuan jia
 空头支票	kong tou zhi piao
-孔武有力	kong wu you li
 孔席不栗	kong xi bu li
 孔席不暖	kong xi bu nuan
 孔席不适	kong xi bu shi
@@ -38512,7 +38360,6 @@ use_preset_vocabulary: false
 胯下之辱	kua xia zhi ru
 夸州兼郡	kua zhou jian jun
 快步流星	kuai bu liu xing
-脍不厌细	kuai bu yan xi
 快刀不削自己的柄	kuai dao bu xue zi ji de bing
 快刀热水干手巾	kuai dao re shui gan shou jin
 快刀斩乱麻	kuai dao zhan luan ma
@@ -38703,8 +38550,6 @@ use_preset_vocabulary: false
 溃于蚁穴	kui yu yi xue
 悃愊无华	kun bi wu hua
 昆弟之好	kun di zhi hao
-困而不学	kun er bu xue
-困而学之	kun er xue zhi
 昆冈之火	kun gang zhi huo
 壸浆箪食	kun jiang dan shi
 困勉下学	kun mian xia xue
@@ -38763,12 +38608,10 @@ use_preset_vocabulary: false
 来去分明	lai qu fen ming
 来去无踪	lai qu wu zong
 来去自由	lai qu zi you
-来日大难	lai ri da nan
 来日方长	lai ri fang chang
 来日应长	lai ri ying chang
 来日正长	lai ri zheng chang
 来如风雨	lai ru feng yu
-来世不可待	lai shi bu ke dai
 来是是非人去是是非者	lai shi shi fei ren qu shi shi fei zhe
 来势凶猛	lai shi xiong meng
 来势汹汹	lai shi xiong xiong
@@ -38961,12 +38804,10 @@ use_preset_vocabulary: false
 老调重弹	lao diao chong tan
 老掉了牙	lao diao le ya
 劳而不获	lao er bu huo
-老而不死	lao er bu si
 老而不死是为贼	lao er bu si shi wei zei
 老而弥笃	lao er mi du
 老而弥壮	lao er mi zhuang
 劳而少功	lao er shao gong
-劳而无功	lao er wu gong
 劳而无益	lao er wu yi
 老而益壮	lao er yi zhuang
 老房子起火	lao fang zi qi huo
@@ -39113,7 +38954,6 @@ use_preset_vocabulary: false
 乐道遗荣	le dao yi rong
 乐而不荒	le er bu huang
 乐而不厌	le er bu yan
-乐而不淫	le er bu yin
 乐而忘返	le er wang fan
 乐而忘归	le er wang gui
 乐而忘疲	le er wang pi
@@ -39157,7 +38997,6 @@ use_preset_vocabulary: false
 乐新厌旧	le xin yan jiu
 乐行忧违	le xing you wei
 乐业安居	le ye an ju
-乐以忘忧	le yi wang you
 乐在其中	le zai qi zhong
 乐终而悲	le zhong er bei
 泪迸肠绝	lei beng chang jue
@@ -39660,7 +39499,6 @@ use_preset_vocabulary: false
 练达老成	lian da lao cheng
 敛锷韬光	lian e tao guang
 连二并三	lian er bing san
-廉而不刿	lian er bu gui
 连二赶三	lian er gan san
 敛发谨饬	lian fa jin chi
 廉风正气	lian feng zheng qi
@@ -40623,7 +40461,6 @@ use_preset_vocabulary: false
 龙韬虎略	long tao hu lue
 龙腾豹变	long teng bao bian
 龙腾凤飞	long teng feng fei
-龙腾凤集	long teng feng ji
 龙腾虎蹴	long teng hu cu
 龙腾虎踞	long teng hu ju
 龙腾虎啸	long teng hu xiao
@@ -41351,7 +41188,6 @@ use_preset_vocabulary: false
 买笑寻欢	mai xiao xun huan
 买笑迎欢	mai xiao ying huan
 卖笑追欢	mai xiao zhui huan
-麦秀两岐	mai xiu liang qi
 麦秀两歧	mai xiu liang qi
 麦秀黍离	mai xiu shu li
 麦秀之悲	mai xiu zhi bei
@@ -41803,7 +41639,6 @@ use_preset_vocabulary: false
 没事人一大堆	mei shi ren yi da dui
 没世无闻	mei shi wu wen
 没石饮羽	mei shi yin yu
-媒妁之言	mei shuo zhi yan
 昧死以闻	mei si yi wen
 枚速马工	mei su ma gong
 眉头不伸	mei tou bu shen
@@ -41828,7 +41663,6 @@ use_preset_vocabulary: false
 没屋架梁	mei wu jia liang
 眉舞色飞	mei wu se fei
 每下愈笃	mei xia yu du
-每下愈况	mei xia yu kuang
 眉笑颜开	mei xiao yan kai
 没心没想	mei xin mei xiang
 昧心蒙面	mei xin meng mian
@@ -42103,7 +41937,6 @@ use_preset_vocabulary: false
 靡衣偷食	mi yi tou shi
 密意幽悰	mi yi you cong
 靡衣玉食	mi yi yu shi
-靡有孑遗	mi you jie yi
 密语甜言	mi yu tian yan
 密约偷期	mi yue tou qi
 弥月之喜	mi yue zhi xi
@@ -42425,7 +42258,6 @@ use_preset_vocabulary: false
 名不常存	ming bu chang cun
 名不副实	ming bu fu shi
 名不徒显	ming bu tu xian
-名不虚传	ming bu xu chuan
 名不虚得	ming bu xu de
 名不虚立	ming bu xu li
 名不虚谓	ming bu xu wei
@@ -42475,7 +42307,6 @@ use_preset_vocabulary: false
 酩酊大醉	ming ding da zui
 酩酊烂醉	ming ding lan zui
 名动金瓯	ming dong jin ou
-明发不寐	ming fa bu mei
 明罚敕法	ming fa chi fa
 明法审令	ming fa shen ling
 鸣凤朝阳	ming feng zhao yang
@@ -42818,7 +42649,6 @@ use_preset_vocabulary: false
 摩顶至足	mo ding zhi zu
 莫读书若也	mo du shu ruo ye
 磨盾之暇	mo dun zhi xia
-磨而不磷	mo er bu lin
 磨而不磷涅而不缁	mo er bu lin nie er bu zi
 殁而不朽	mo er bu xiu
 没而不朽	mo er bu xiu
@@ -42905,7 +42735,6 @@ use_preset_vocabulary: false
 莫能为力	mo neng wei li
 莫能轩轾	mo neng xuan zhi
 莫能自拔	mo neng zi ba
-莫逆于心	mo ni yu xin
 莫逆之交	mo ni zhi jiao
 莫逆之契	mo ni zhi qi
 莫逆之友	mo ni zhi you
@@ -42961,7 +42790,6 @@ use_preset_vocabulary: false
 末学后进	mo xue hou jin
 末学陋识	mo xue lou shi
 磨牙费嘴	mo ya fei zui
-磨牙吮血	mo ya shun xue
 磨牙凿齿	mo ya zao chi
 抹一鼻子灰	mo yi bi zi hui
 莫饮卯时酒	mo yin mao shi jiu
@@ -43318,7 +43146,6 @@ use_preset_vocabulary: false
 耐霜熬寒	nai shuang ao han
 乃文乃武	nai wen nai wu
 乃我困汝	nai wo kun ru
-乃武乃文	nai wu nai wen
 乃心公家	nai xin gong jia
 乃心王室	nai xin wang shi
 乃玉乃金	nai yu nai jin
@@ -43534,7 +43361,6 @@ use_preset_vocabulary: false
 内外完好	nei wai wan hao
 内外之分	nei wai zhi fen
 内无粮草外无救兵	nei wu liang cao wai wu jiu bing
-内省不疚	nei xing bu jiu
 内省无愧	nei xing wu kui
 内修外攘	nei xiu wai rang
 内应外合	nei ying wai he
@@ -43548,7 +43374,6 @@ use_preset_vocabulary: false
 能得罪远亲不得罪近邻	neng de zui yuan qin bu de zui jin lin
 能刚能柔	neng gang neng rou
 能工巧匠	neng gong qiao jiang
-能近取譬	neng jin qu pi
 能谋善断	neng mou shan duan
 能漂一邑	neng piao yi yi
 能掐会算	neng qia hui suan
@@ -43853,7 +43678,6 @@ use_preset_vocabulary: false
 啮檗吞针	nie bo tun zhen
 涅而不渝	nie er bu yu
 涅而不淄	nie er bu zi
-涅而不缁	nie er bu zi
 孽根祸胎	nie gen huo tai
 捏怪排科	nie guai pai ke
 啮甲冥鼠	nie jia ming shu
@@ -43919,7 +43743,6 @@ use_preset_vocabulary: false
 宁添一斗	ning tian yi dou
 宁添一斗莫添一口	ning tian yi dou mo tian yi kou
 佞徒损友	ning tu sun you
-宁为鸡口	ning wei ji kou
 宁为鸡口不为牛后	ning wei ji kou bu wei niu hou
 宁为鸡口毋为牛后	ning wei ji kou wu wei niu hou
 宁为玉碎	ning wei yu sui
@@ -44042,7 +43865,6 @@ use_preset_vocabulary: false
 浓抹淡妆	nong mo dan zhuang
 浓墨重彩	nong mo zhong cai
 弄巧呈乖	nong qiao cheng guai
-弄巧成拙	nong qiao cheng zhuo
 弄巧反拙	nong qiao fan zhuo
 弄沙成塔	nong sha cheng ta
 弄神弄鬼	nong shen nong gui
@@ -44094,9 +43916,7 @@ use_preset_vocabulary: false
 驽蹇之乘	nu jian zhi cheng
 努筋拔力	nu jin ba li
 驽马恋栈	nu ma lian zhan
-驽马恋栈豆	nu ma lian zhan dou
 驽马铅刀	nu ma qian dao
-驽马十驾	nu ma shi jia
 驽马十舍	nu ma shi she
 怒骂嘻笑	nu ma xi xiao
 怒眉睁目	nu mei zheng mu
@@ -44366,7 +44186,6 @@ use_preset_vocabulary: false
 匏瓜空悬	pao gua kong xuan
 匏瓜徒悬	pao gua tu xuan
 袍笏登场	pao hu deng chang
-炮火连天	pao huo lian tian
 抛金弃鼓	pao jin qi gu
 跑了和尚跑不了庙	pao le he shang pao bu liao miao
 跑了和尚跑不了寺	pao le he shang pao bu liao si
@@ -44467,7 +44286,6 @@ use_preset_vocabulary: false
 捧头鼠窜	peng tou shu cuan
 蓬头跣足	peng tou xian zu
 捧土濡涕	peng tu ru ti
-鹏抟九天	peng tuan jiu tian
 鹏抟鹢退	peng tuan yi tui
 蓬屋生辉	peng wu sheng hui
 捧檄色喜	peng xi se xi
@@ -44674,7 +44492,6 @@ use_preset_vocabulary: false
 翩翩风度	pian pian feng du
 翩翩公子	pian pian gong zi
 翩翩年少	pian pian nian shao
-翩翩起舞	pian pian qi wu
 翩翩少年	pian pian shao nian
 翩翩自乐	pian pian zi le
 翩若惊鸿	pian ruo jing hong
@@ -44829,7 +44646,6 @@ use_preset_vocabulary: false
 瓶沉簪折	ping chen zan zhe
 凭城借一	ping cheng jie yi
 平川旷野	ping chuan kuang ye
-平淡无奇	ping dan wu qi
 平旦之气	ping dan zhi qi
 平等待人	ping deng dai ren
 平等互惠	ping deng hu hui
@@ -45049,7 +44865,6 @@ use_preset_vocabulary: false
 剖蚌求珍	pou bang qiu zhen
 剖蚌求珠	pou bang qiu zhu
 剖胆倾心	pou dan qing xin
-掊斗折衡	pou dou zhe heng
 裒多益寡	pou duo yi gua
 剖烦析滞	pou fan xi zhi
 剖腹藏珠	pou fu cang zhu
@@ -45119,7 +44934,6 @@ use_preset_vocabulary: false
 普天率土	pu tian shuai tu
 普天同庆	pu tian tong qing
 普天匝地	pu tian za di
-普天之下	pu tian zhi xia
 普通平台	pu tong ping tai
 铺胸纳地	pu xiong na di
 暴衣露盖	pu yi lu gai
@@ -45546,7 +45360,6 @@ use_preset_vocabulary: false
 七损八伤	qi sun ba shang
 七损八益	qi sun ba yi
 奇谈怪论	qi tan guai lun
-泣涕如雨	qi ti ru yu
 齐天大圣	qi tian da sheng
 齐天洪福	qi tian hong fu
 欺天诳地	qi tian kuang di
@@ -45601,7 +45414,6 @@ use_preset_vocabulary: false
 七夕礼盒	qi xi li he
 綦溪利跂	qi xi li qi
 七夕乞巧	qi xi qi qiao
-气息奄奄	qi xi yan yan
 祁奚之荐	qi xi zhi jian
 祁奚之举	qi xi zhi ju
 弃瑕录用	qi xia lu yong
@@ -45653,7 +45465,6 @@ use_preset_vocabulary: false
 起偃为竖	qi yan wei shu
 气焰嚣张	qi yan xiao zhang
 气焰熏天	qi yan xun tian
-其言也善	qi yan ye shan
 骑扬州鹤	qi yang zhou he
 气噎喉堵	qi ye hou du
 弃义倍信	qi yi bei xin
@@ -45955,7 +45766,6 @@ use_preset_vocabulary: false
 千里送鹅毛	qian li song e mao
 千里送鹅毛礼轻人意重	qian li song e mao li qing ren yi zhong
 千里送毫毛	qian li song hao mao
-千里迢迢	qian li tiao tiao
 千里迢遥	qian li tiao yao
 千里同风	qian li tong feng
 千里无烟	qian li wu yan
@@ -46045,7 +45855,6 @@ use_preset_vocabulary: false
 千秋万代	qian qiu wan dai
 千秋万古	qian qiu wan gu
 千秋万世	qian qiu wan shi
-千秋万岁	qian qiu wan sui
 缱绻难舍	qian quan nan she
 缱绻羡爱	qian quan xian ai
 牵瘸驴上窟窿桥	qian que lv shang ku long qiao
@@ -46413,9 +46222,6 @@ use_preset_vocabulary: false
 巧媳妇做不出没米饭	qiao xi fu zuo bu chu mo mi fan
 俏眼扮给瞎子看	qiao yan ban gei xia zi kan
 巧言利口	qiao yan li kou
-巧言令色	qiao yan ling se
-巧言偏辞	qiao yan pian ci
-巧言如簧	qiao yan ru huang
 俏眼做给瞎子看	qiao yan zuo gei xia zi kan
 巧语花言	qiao yu hua yan
 樵语牧唱	qiao yu mu chang
@@ -46589,7 +46395,6 @@ use_preset_vocabulary: false
 寝食不安	qin shi bu an
 寝食俱废	qin shi ju fei
 秦失其鹿	qin shi qi lu
-螓首蛾眉	qin shou e mei
 亲疏贵贱	qin shu gui jian
 琴挑文君	qin tiao wen jun
 秦庭朗镜	qin ting lang jing
@@ -47099,7 +46904,6 @@ use_preset_vocabulary: false
 琼林玉树	qiong lin yu shu
 琼林玉质	qiong lin yu zhi
 琼楼金阙	qiong lou jin que
-琼楼玉宇	qiong lou yu yu
 穷妙极巧	qiong miao ji qiao
 穷乃益坚	qiong nai yi jian
 穷年累世	qiong nian lei shi
@@ -47234,7 +47038,6 @@ use_preset_vocabulary: false
 求名责实	qiu ming ze shi
 囚牛好音	qiu niu hao yin
 丘奇论题	qiu qi lun ti
-求其友声	qiu qi you sheng
 求签问卜	qiu qian wen bu
 求亲告友	qiu qin gao you
 求亲靠友	qiu qin kao you
@@ -47646,9 +47449,7 @@ use_preset_vocabulary: false
 裙布钗荆	qun bu chai jing
 裙布荆钗	qun bu jing chai
 群策群力	qun ce qun li
-群雌粥粥	qun ci yu yu
 裙带关系	qun dai guan xi
-群而不党	qun er bu dang
 群芳竞艳	qun fang jing yan
 群方咸遂	qun fang xian sui
 群分类聚	qun fen lei ju
@@ -47669,7 +47470,6 @@ use_preset_vocabulary: false
 群起效尤	qun qi xiao you
 群情鼎沸	qun qing ding fei
 群情欢洽	qun qing huan qia
-群轻折轴	qun qing zhe zhou
 群山四应	qun shan si ying
 群山万壑	qun shan wan he
 群石点头	qun shi dian tou
@@ -47783,7 +47583,6 @@ use_preset_vocabulary: false
 惹灾招祸	re zai zhao huo
 热蒸现卖	re zheng xian mai
 惹罪招愆	re zui zhao qian
-人百其身	ren bai qi shen
 人不得外财不富	ren bu de wai cai bu fu
 人不犯我	ren bu fan wo
 人不犯我我不犯人	ren bu fan wo wo bu fan ren
@@ -47955,7 +47754,6 @@ use_preset_vocabulary: false
 仁民爱物	ren min ai wu
 人民民主统一战线	ren min min zhu tong yi zhan xian
 人命关天	ren ming guan tian
-人命危浅	ren ming wei qian
 人莫若故	ren mo ruo gu
 人莫予毒	ren mo yu du
 人谋不臧	ren mou bu zang
@@ -48041,7 +47839,6 @@ use_preset_vocabulary: false
 人神共嫉	ren shen gong ji
 人神同愤	ren shen tong fen
 人神同嫉	ren shen tong ji
-人生不满百	ren sheng bu man bai
 人生不满百常怀千岁忧	ren sheng bu man bai chang huai qian sui you
 人声鼎沸	ren sheng ding fei
 人生何处不相逢	ren sheng he chu bu xiang feng
@@ -48054,7 +47851,6 @@ use_preset_vocabulary: false
 人生如梦	ren sheng ru meng
 人生如萍	ren sheng ru ping
 人生如寓	ren sheng ru yu
-人生如朝露	ren sheng ru zhao lu
 人生若寄	ren sheng ruo ji
 人生若梦	ren sheng ruo meng
 人生似鸟同林宿	ren sheng si niao tong lin su
@@ -48246,7 +48042,6 @@ use_preset_vocabulary: false
 人之常情	ren zhi chang qing
 人之初性本善	ren zhi chu xing ben shan
 人之恒情	ren zhi heng qing
-人之将死	ren zhi jiang si
 人之将死其言也善	ren zhi jiang si qi yan ye shan
 仁之胜不仁也	ren zhi sheng bu ren ye
 人之水镜	ren zhi shui jing
@@ -48305,7 +48100,6 @@ use_preset_vocabulary: false
 日计不足岁计有余	ri ji bu zu sui ji you yu
 日积月聚	ri ji yue ju
 日积月累	ri ji yue lei
-日居月诸	ri ji yue zhu
 日见沉重	ri jian chen zhong
 日渐月染	ri jian yue ran
 日角龙庭	ri jiao long ting
@@ -48659,7 +48453,6 @@ use_preset_vocabulary: false
 如饥似渴	ru ji si ke
 如继一臂	ru ji yi bi
 如见肺肝	ru jian fei gan
-乳间股脚	ru jian gu jiao
 如箭离弦	ru jian li xian
 如见其人	ru jian qi ren
 如箭在弦	ru jian zai xian
@@ -48691,11 +48484,9 @@ use_preset_vocabulary: false
 入理入情	ru li ru qing
 如临大敌	ru lin da di
 如临深谷	ru lin shen gu
-如临深渊	ru lin shen yuan
 如临深渊如履薄冰	ru lin shen yuan ru lv bo bing
 如临渊谷	ru lin yuan gu
 如龙似虎	ru long si hu
-如履薄冰	ru lv bo bing
 如履春冰	ru lv chun bing
 如履平地	ru lv ping di
 如履如临	ru lv ru lin
@@ -48730,7 +48521,6 @@ use_preset_vocabulary: false
 如泣草芥	ru qi cao jie
 入其彀中	ru qi gou zhong
 如漆如胶	ru qi ru jiao
-如泣如诉	ru qi ru su
 茹泣吞悲	ru qi tun bei
 如切如磋	ru qie ru cuo
 如切如磋如琢如磨	ru qie ru cuo ru zhuo ru mo
@@ -48808,7 +48598,6 @@ use_preset_vocabulary: false
 如响应声	ru xiang ying sheng
 入孝出弟	ru xiao chu di
 入孝出悌	ru xiao chu ti
-如兄如弟	ru xiong ru di
 乳臭未干	ru xiu wei gan
 乳臭未乾	ru xiu wei qian
 如雪逢汤	ru xue feng tang
@@ -48916,7 +48705,6 @@ use_preset_vocabulary: false
 弱不胜衣	ruo bu sheng yi
 若出一吻	ruo chu yi wen
 若出一辙	ruo chu yi zhe
-若存若亡	ruo cun ruo wang
 若大若小	ruo da ruo xiao
 若登高必自卑	ruo deng gao bi zi bei
 弱冠之年	ruo guan zhi nian
@@ -48931,7 +48719,6 @@ use_preset_vocabulary: false
 若昧平生	ruo mei ping sheng
 若明若暗	ruo ming ruo an
 若明若昧	ruo ming ruo mei
-若烹小鲜	ruo peng xiao xian
 若前若后	ruo qian ruo hou
 弱肉强食	ruo rou qiang shi
 弱如扶病	ruo ru fu bing
@@ -49105,7 +48892,6 @@ use_preset_vocabulary: false
 三顾茅庐	san gu mao lu
 三瓜两枣	san gua liang zao
 三跪九叩	san gui jiu kou
-三过其门而不入	san guo qi men er bu ru
 三国志平话	san guo zhi ping hua
 三好二怯	san hao er qie
 三好两歹	san hao liang dai
@@ -49233,7 +49019,6 @@ use_preset_vocabulary: false
 三尸暴跳七窃生烟	san shi bao tiao qi qie sheng yan
 三十不豪	san shi bu hao
 三豕渡河	san shi du he
-三十而立	san shi er li
 三豕金根	san shi jin gen
 三十六策	san shi liu ce
 三十六策走为上策	san shi liu ce zou wei shang ce
@@ -49309,8 +49094,6 @@ use_preset_vocabulary: false
 三衅三浴	san xin san yu
 三星高照	san xing gao zhao
 三省吾身	san xing wu shen
-三星在户	san xing zai hu
-三星在天	san xing zai tian
 三旬九食	san xun jiu shi
 三熏三沐	san xun san mu
 三薰三沐	san xun san mu
@@ -49330,7 +49113,6 @@ use_preset_vocabulary: false
 三怨成府	san yuan cheng fu
 三元及第	san yuan ji di
 三月不违者	san yue bu wei zhe
-三月不知肉味	san yue bu zhi rou wei
 三月三日	san yue san ri
 三月忘味	san yue wang wei
 三灾八难	san zai ba nan
@@ -49440,7 +49222,6 @@ use_preset_vocabulary: false
 骚人墨士	sao ren mo shi
 骚人雅士	sao ren ya shi
 骚人逸客	sao ren yi ke
-搔首踟蹰	sao shou chi chu
 搔首踟躇	sao shou chi chu
 搔首卖俏	sao shou mai qiao
 搔首弄姿	sao shou nong zi
@@ -49536,7 +49317,6 @@ use_preset_vocabulary: false
 杀人如草不闻声	sha ren ru cao bu wen sheng
 杀人如蒿	sha ren ru hao
 杀人如芥	sha ren ru jie
-杀人如麻	sha ren ru ma
 杀人如蓺	sha ren ru yi
 杀人须见血救人须救彻	sha ren xu jian xue jiu ren xu jiu che
 杀人一万	sha ren yi wan
@@ -49713,7 +49493,6 @@ use_preset_vocabulary: false
 善始克终	shan shi ke zhong
 善事可作	shan shi ke zuo
 善始令终	shan shi ling zhong
-善始善终	shan shi shan zhong
 山水相连	shan shui xiang lian
 闪烁其词	shan shuo qi ci
 善颂善祷	shan song shan dao
@@ -49871,7 +49650,6 @@ use_preset_vocabulary: false
 赏善罚恶	shang shan fa e
 赏善罚否	shang shan fa fou
 赏善罚淫	shang shan fa yin
-商山四皓	shang shan si hao
 尚慎旃哉	shang shen zhan zai
 伤时感事	shang shi gan shi
 上树拔梯	shang shu ba ti
@@ -50037,7 +49815,6 @@ use_preset_vocabulary: false
 蛇虺魍魉	she hui wang liang
 社会贤达	she hui xian da
 舍己成人	she ji cheng ren
-舍己从人	she ji cong ren
 舍己救人	she ji jiu ren
 社稷生民	she ji sheng min
 舍己为公	she ji wei gong
@@ -50207,7 +49984,6 @@ use_preset_vocabulary: false
 深根宁极	shen gen ning ji
 深根蟠结	shen gen pan jie
 深更半夜	shen geng ban ye
-深耕易耨	shen geng yi nou
 神工鬼斧	shen gong gui fu
 神工鬼力	shen gong gui li
 神工妙力	shen gong miao li
@@ -50299,7 +50075,6 @@ use_preset_vocabulary: false
 神谋妙策	shen mou miao ce
 神谋妙算	shen mou miao suan
 深谋远略	shen mou yuan lue
-深谋远虑	shen mou yuan lv
 神目如电	shen mu ru dian
 神怒民痛	shen nu min tong
 神怒民怨	shen nu min yuan
@@ -50486,7 +50261,6 @@ use_preset_vocabulary: false
 慎终如始	shen zhong ru shi
 深中隐厚	shen zhong yin hou
 慎终于始	shen zhong yu shi
-慎终追远	shen zhong zhui yuan
 神醉心往	shen zui xin wang
 身做身当	shen zuo shen dang
 胜败及兵家常事	sheng bai ji bing jia chang shi
@@ -50739,14 +50513,12 @@ use_preset_vocabulary: false
 实不相瞒	shi bu xiang man
 势不相容	shi bu xiang rong
 矢不虚发	shi bu xu fa
-食不厌精	shi bu yan jing
 食不厌精脍不厌细	shi bu yan jing kuai bu yan xi
 食不言寝不语	shi bu yan qin bu yu
 事不宜迟	shi bu yi chi
 食不异肉	shi bu yi rou
 事不有余	shi bu you yu
 失不再来	shi bu zai lai
-时不再来	shi bu zai lai
 十步之内必有芳草	shi bu zhi nei bi you fang cao
 食不知味	shi bu zhi wei
 食不重肉	shi bu zhong rou
@@ -50779,7 +50551,6 @@ use_preset_vocabulary: false
 势单力孤	shi dan li gu
 视丹如绿	shi dan ru lv
 适当其冲	shi dang qi chong
-适当其时	shi dang qi shi
 失道寡助	shi dao gua zhu
 事到临头懊悔迟	shi dao lin tou ao hui chi
 世道人情	shi dao ren qing
@@ -50896,7 +50667,6 @@ use_preset_vocabulary: false
 失魂落魄	shi hun luo po
 失魂丧胆	shi hun sang dan
 失魂丧魄	shi hun sang po
-实获我心	shi huo wo xin
 食藿悬鹑	shi huo xuan chun
 事火咒龙	shi huo zhou long
 世济其美	shi ji qi mei
@@ -51104,7 +50874,6 @@ use_preset_vocabulary: false
 世上若要人情好	shi shang ruo yao ren qing hao
 世上万般皆下品	shi shang wan ban jie xia pin
 世上谓之一笔书	shi shang wei zhi yi bi shu
-世上无难事	shi shang wu nan shi
 世上无难事只怕有心人	shi shang wu nan shi zhi pa you xin ren
 世上新人赶旧人	shi shang xin ren gan jiu ren
 世上应无切齿人	shi shang ying wu qie chi ren
@@ -51187,7 +50956,6 @@ use_preset_vocabulary: false
 十万八千里	shi wan ba qian li
 十万火急	shi wan huo ji
 十万火速	shi wan huo su
-事往日迁	shi wang ri qian
 时望所归	shi wang suo gui
 视为儿戏	shi wei er xi
 食味方丈	shi wei fang zhang
@@ -51349,7 +51117,6 @@ use_preset_vocabulary: false
 始祖徽记	shi zu hui ji
 食租衣税	shi zu yi shui
 使嘴使舌	shi zui shi she
-始作俑者	shi zuo yong zhe
 寿比南山	shou bi nan shan
 授柄于人	shou bing yu ren
 手不释卷	shou bu shi juan
@@ -51434,7 +51201,6 @@ use_preset_vocabulary: false
 瘦死的骆驼比马大	shou si de luo tuo bi ma da
 守土有责	shou tu you ze
 守望平台	shou wang ping tai
-守望相助	shou wang xiang zhu
 首尾共济	shou wei gong ji
 首尾两端	shou wei liang duan
 首尾相继	shou wei xiang ji
@@ -51524,7 +51290,6 @@ use_preset_vocabulary: false
 数短论长	shu duan lun chang
 树多成林	shu duo cheng lin
 疏而不漏	shu er bu lou
-述而不作	shu er bu zuo
 属耳垣墙	shu er yuan qiang
 束发封帛	shu fa feng bo
 殊方绝域	shu fang jue yu
@@ -51573,7 +51338,6 @@ use_preset_vocabulary: false
 舒眉展眼	shu mei zhan yan
 暑门大嚼	shu men da jiao
 熟门熟路	shu men shu lu
-数米而炊	shu mi er chui
 数米量柴	shu mi liang chai
 术妙轩岐	shu miao xuan qi
 署名用户	shu ming yong hu
@@ -51601,7 +51365,6 @@ use_preset_vocabulary: false
 书缺有间	shu que you jian
 鼠雀之辈	shu que zhi bei
 鼠雀之牙	shu que zhi ya
-淑人君子	shu ren jun zi
 输人算人之机	shu ren suan ren zhi ji
 鼠入牛角	shu ru niu jiao
 输入输出设备指派	shu ru shu chu she bei zhi pai
@@ -51616,7 +51379,6 @@ use_preset_vocabulary: false
 书声琅琅	shu sheng lang lang
 书生之见	shu sheng zhi jian
 熟视无睹	shu shi wu du
-鼠屎污羹	shu shi wu geng
 漱石枕流	shu shi zhen liu
 束手待毙	shu shou dai bi
 束手待死	shu shou dai si
@@ -51638,7 +51400,6 @@ use_preset_vocabulary: false
 束手自毙	shu shou zi bi
 束手坐视	shu shou zuo shi
 鼠鼠得意	shu shu de yi
-啜菽饮水	shu shu yin shui
 菽水承欢	shu shui cheng huan
 熟思审处	shu si shen chu
 书堂隐相儒	shu tang yin xiang ru
@@ -51728,7 +51489,6 @@ use_preset_vocabulary: false
 率性任情	shuai xing ren qing
 率以为常	shuai yi wei chang
 率由旧则	shuai you jiu ze
-率由旧章	shuai you jiu zhang
 闩门闭户	shuan men bi hu
 霜刀小径	shuang dao xiao jing
 霜凋夏绿	shuang diao xia lv
@@ -51854,7 +51614,6 @@ use_preset_vocabulary: false
 谁谓朝来一拆雨	shui wei chao lai yi chai yu
 睡卧不宁	shui wo bu ning
 水泄不漏	shui xie bu lou
-水泄不通	shui xie bu tong
 水泄不透	shui xie bu tou
 谁信东流海洋深	shui xin dong liu hai yang shen
 水性精通	shui xing jing tong
@@ -51934,7 +51693,6 @@ use_preset_vocabulary: false
 说长论短	shuo chang lun duan
 说长说短	shuo chang shuo duan
 硕大无比	shuo da wu bi
-硕大无朋	shuo da wu peng
 说到曹操曹操就到	shuo dao cao cao cao cao jiu dao
 说得天花乱坠	shuo de tian hua luan zhui
 说地谈天	shuo di tan tian
@@ -52002,7 +51760,6 @@ use_preset_vocabulary: false
 思不出位	si bu chu wei
 死不改悔	si bu gai hui
 死不悔改	si bu hui gai
-驷不及舌	si bu ji she
 死不瞑目	si bu ming mu
 四不拗六	si bu niu liu
 死不认尸	si bu ren shi
@@ -52135,7 +51892,6 @@ use_preset_vocabulary: false
 斯斯文文	si si wen wen
 思所逐之	si suo zhu zhi
 四体百骸	si ti bai hai
-四体不勤	si ti bu qin
 四体不勤五谷不分	si ti bu qin wu gu bu fen
 四亭八当	si ting ba dang
 四停八当	si ting ba dang
@@ -52294,7 +52050,6 @@ use_preset_vocabulary: false
 夙心往志	su xin wang zhi
 夙兴昧旦	su xing mei dan
 夙兴夜处	su xing ye chu
-夙兴夜寐	su xing ye mei
 宿学旧儒	su xue jiu ru
 俗谚口碑	su yan kou bei
 夙夜不怠	su ye bu dai
@@ -52304,7 +52059,6 @@ use_preset_vocabulary: false
 夙夜匪懈	su ye fei xie
 夙夜梦寐	su ye meng mei
 夙夜为谋	su ye wei mou
-夙夜在公	su ye zai gong
 素隐行怪	su yin xing guai
 俗语有本	su yu you ben
 溯源穷流	su yuan qiong liu
@@ -52339,7 +52093,6 @@ use_preset_vocabulary: false
 碎骨粉尸	sui gu fen shi
 岁寒三友	sui han san you
 岁寒松柏	sui han song bai
-岁寒知松柏	sui han zhi song bai
 随行就市	sui hang jiu shi
 隋侯之珠	sui hou zhi zhu
 虽疾无声	sui ji wu sheng
@@ -52425,7 +52178,6 @@ use_preset_vocabulary: false
 损上益下	sun shang yi xia
 笋因落箨方成竹	sun yin luo tuo fang cheng zhu
 损有余补不足	sun you yu bu bu zu
-损之又损	sun zhi you sun
 所答非所问	suo da fei suo wen
 所当无敌	suo dang wu di
 缩地补天	suo di bu tian
@@ -52475,7 +52227,6 @@ use_preset_vocabulary: false
 他人未知忙	ta ren wei zhi mang
 踏人一脚须防一拳	ta ren yi jiao xu fang yi quan
 他山攻错	ta shan gong cuo
-他山之石	ta shan zhi shi
 它山之石可以攻玉	ta shan zhi shi ke yi gong yu
 他时饱满谢苍天	ta shi bao man xie cang tian
 他乡故知	ta xiang gu zhi
@@ -52738,7 +52489,6 @@ use_preset_vocabulary: false
 滔滔不绝	tao tao bu jue
 滔滔汩汩	tao tao gu gu
 滔滔滚滚	tao tao gun gun
-陶陶兀兀	tao tao wu wu
 滔天大罪	tao tian da zui
 滔天之罪	tao tian zhi zui
 滔天罪行	tao tian zui xing
@@ -52797,7 +52547,6 @@ use_preset_vocabulary: false
 涕泗交下	ti si jiao xia
 涕泗交颐	ti si jiao yi
 涕泗流涟	ti si liu lian
-涕泗滂沱	ti si pang tuo
 涕泗纵横	ti si zong heng
 倜傥不羁	ti tang bu ji
 倜傥不群	ti tang bu qun
@@ -52849,7 +52598,6 @@ use_preset_vocabulary: false
 恬不知羞	tian bu zhi xiu
 天不作美	tian bu zuo mei
 天差地远	tian cha di yuan
-天长地久	tian chang di jiu
 天长地阔	tian chang di kuo
 天长地老	tian chang di lao
 天长地远	tian chang di yuan
@@ -52908,7 +52656,6 @@ use_preset_vocabulary: false
 天高听下	tian gao ting xia
 天各一方	tian ge yi fang
 天公地道	tian gong di dao
-天工人代	tian gong ren dai
 天冠地屦	tian guan di ju
 填海造地	tian hai zao di
 天寒地冻	tian han di dong
@@ -52993,7 +52740,6 @@ use_preset_vocabulary: false
 天塌了自有高的顶住	tian ta le zi you gao de ding zhu
 天塌自有高人顶	tian ta zi you gao ren ding
 天台路迷	tian tai lu mi
-天堂地狱	tian tang di yu
 恬恬吃三碗公	tian tian chi san wan gong
 天庭饱满地阁方圆	tian ting bao man di ge fang yuan
 天外飞来	tian wai fei lai
@@ -53002,7 +52748,6 @@ use_preset_vocabulary: false
 天网恢恢疏而不漏	tian wang hui hui shu er bu lou
 天王老子	tian wang lao zi
 天闻若雷	tian wen ruo lei
-天无二日	tian wu er ri
 天无二日民无二主	tian wu er ri min wu er zhu
 天无绝人之路	tian wu jue ren zhi lu
 天下本无事	tian xia ben wu shi
@@ -53175,7 +52920,6 @@ use_preset_vocabulary: false
 铁环营地	tie huan ying di
 铁栏监狱	tie lan jian yu
 铁马横行	tie ma heng xing
-铁马金戈	tie ma jin ge
 铁门坎儿难过	tie men kan er nan guo
 铁面判坩	tie mian pan gan
 铁面枪牙	tie mian qiang ya
@@ -53211,7 +52955,6 @@ use_preset_vocabulary: false
 廷克维斯	ting ke wei si
 挺鹿走险	ting lu zou xian
 听某嘴大富贵	ting mou zui da fu gui
-听其言而观其行	ting qi yan er guan qi xing
 停妻再娶	ting qi zai qu
 听其自流	ting qi zi liu
 听其自然	ting qi zi ran
@@ -53451,7 +53194,6 @@ use_preset_vocabulary: false
 铜铸铁浇	tong zhu tie jiao
 痛自创艾	tong zi chuang yi
 偷安旦夕	tou an dan xi
-投畀豺虎	tou bi chai hu
 投笔从戎	tou bi cong rong
 投鞭断流	tou bian duan liu
 头不梳脸不洗	tou bu shu lian bu xi
@@ -53513,7 +53255,6 @@ use_preset_vocabulary: false
 投刃皆虚	tou ren jie xu
 头三脚难踢	tou san jiao nan ti
 投山窜海	tou shan cuan hai
-头上安头	tou shang an tou
 头上打一下脚底板响	tou shang da yi xia jiao di ban xiang
 头上末下	tou shang mo xia
 头上著头	tou shang zhuo tou
@@ -53588,7 +53329,6 @@ use_preset_vocabulary: false
 涂歌里咏	tu ge li yong
 涂歌巷舞	tu ge xiang wu
 涂歌邑诵	tu ge yi song
-吐故纳新	tu gu na xin
 土豪劣绅	tu hao lie shen
 兔毫竹管	tu hao zhu guan
 兔迹狐踪	tu ji hu zong
@@ -53858,7 +53598,6 @@ use_preset_vocabulary: false
 万夫不当	wan fu bu dang
 万夫不当之勇	wan fu bu dang zhi yong
 万夫莫当	wan fu mo dang
-万夫莫开	wan fu mo kai
 顽父嚚母	wan fu yin mu
 顽梗不化	wan geng bu hua
 弯弓饮羽	wan gong yin yu
@@ -53955,7 +53694,6 @@ use_preset_vocabulary: false
 玩时贪日	wan shi tan ri
 万世无疆	wan shi wu jiang
 万世一时	wan shi yi shi
-万寿无疆	wan shou wu jiang
 万水千山	wan shui qian shan
 万死不辞	wan si bu ci
 万死一生	wan si yi sheng
@@ -54039,7 +53777,6 @@ use_preset_vocabulary: false
 王公大人	wang gong da ren
 王贡弹冠	wang gong dan guan
 王公贵戚	wang gong gui qi
-王顾左右而言他	wang gu zuo you er yan ta
 亡国大夫	wang guo da fu
 亡国灭种	wang guo mie zhong
 亡国破家	wang guo po jia
@@ -54201,7 +53938,6 @@ use_preset_vocabulary: false
 煨干就湿	wei gan jiu shi
 为官须作相	wei guan xu zuo xiang
 微光草篮	wei guang cao lan
-为鬼为蜮	wei gui wei yu
 为国捐躯	wei guo juan qu
 为国为民	wei guo wei min
 微过细故	wei guo xi gu
@@ -54290,7 +54026,6 @@ use_preset_vocabulary: false
 危若朝露	wei ruo zhao lu
 为山九仞功亏一篑	wei shan jiu ren gong kui yi kui
 为山止篑	wei shan zhi kui
-为善最乐	wei shan zui le
 为蛇画足	wei she hua zu
 威慑凝视	wei she ning shi
 为蛇若何	wei she ruo he
@@ -54362,7 +54097,6 @@ use_preset_vocabulary: false
 危言逆耳	wei yan ni er
 危言竦论	wei yan song lun
 危言耸听	wei yan song ting
-危言危行	wei yan wei xing
 危言正色	wei yan zheng se
 渭阳之情	wei yang zhi qing
 惟一臂之弗瘳	wei yi bi zhi fu chou
@@ -54374,7 +54108,6 @@ use_preset_vocabulary: false
 惟有读书高	wei you du shu gao
 未有无志而建功	wei you wu zhi er jian gong
 惟有志不立	wei you zhi bu li
-谓予不信	wei yu bu xin
 未雨绸缪	wei yu chou mou
 危于累卵	wei yu lei luan
 为渊驱鱼	wei yuan qu yu
@@ -54528,7 +54261,6 @@ use_preset_vocabulary: false
 文昭武穆	wen zhao wu mu
 闻者足戒	wen zhe zu jie
 温枕扇席	wen zhen shan xi
-文质彬彬	wen zhi bin bin
 文治武功	wen zhi wu gong
 文治武力	wen zhi wu li
 问诸水滨	wen zhu shui bin
@@ -54592,9 +54324,7 @@ use_preset_vocabulary: false
 卧榻之上岂容他人鼾睡	wo ta zhi shang qi rong ta ren han shui
 握炭流汤	wo tan liu tang
 窝停主人	wo ting zhu ren
-我为鱼肉	wo wei yu rou
 握雾拏云	wo wu na yun
-我武惟扬	wo wu wei yang
 卧薪尝胆	wo xin chang dan
 卧薪尝糁	wo xin chang shen
 我心如秤	wo xin ru cheng
@@ -54678,7 +54408,6 @@ use_preset_vocabulary: false
 无冬历夏	wu dong li xia
 五冬六夏	wu dong liu xia
 无动为大	wu dong wei da
-无冬无夏	wu dong wu xia
 无动于衷	wu dong yu zhong
 舞动之藤	wu dong zhi teng
 五斗解酲	wu dou jie cheng
@@ -54703,7 +54432,6 @@ use_preset_vocabulary: false
 五分明儿	wu fen ming er
 无风不起浪	wu feng bu qi lang
 舞凤飞龙	wu feng fei long
-无风起浪	wu feng qi lang
 无风三尺浪	wu feng san chi lang
 无风生浪	wu feng sheng lang
 五风十雨	wu feng shi yu
@@ -54738,7 +54466,6 @@ use_preset_vocabulary: false
 无功受禄	wu gong shou lu
 无功受禄寝食不安	wu gong shou lu qin shi bu an
 无古不成今	wu gu bu cheng jin
-五谷不分	wu gu bu fen
 五谷不升	wu gu bu sheng
 五羖大夫	wu gu da fu
 五谷丰登	wu gu feng deng
@@ -54752,7 +54479,6 @@ use_preset_vocabulary: false
 无关宏旨	wu guan hong zhi
 无关紧要	wu guan jin yao
 无关痛痒	wu guan tong yang
-无官一身轻	wu guan yi shen qing
 五光十色	wu guang shi se
 五鬼闹判	wu gui nao pan
 物归原主	wu gui yuan zhu
@@ -54857,7 +54583,6 @@ use_preset_vocabulary: false
 无可奈何	wu ke nai he
 无可奈何花落去	wu ke nai he hua luo qu
 无可匹敌	wu ke pi di
-无可无不可	wu ke wu bu ke
 无可争辩	wu ke zheng bian
 无可置辩	wu ke zhi bian
 无可置喙	wu ke zhi hui
@@ -54915,7 +54640,6 @@ use_preset_vocabulary: false
 五内如焚	wu nei ru fen
 无能为力	wu neng wei li
 无能为役	wu neng wei yi
-乌鸟私情	wu niao si qing
 吴牛喘月	wu niu chuan yue
 舞弄文墨	wu nong wen mo
 捂盘惜售	wu pan xi shou
@@ -54948,7 +54672,6 @@ use_preset_vocabulary: false
 无亲无故	wu qin wu gu
 无穷无尽	wu qiong wu jin
 无求到处人情好	wu qiu dao chu ren qing hao
-无拳无勇	wu quan wu yong
 五雀六燕	wu que liu yan
 舞裙歌扇	wu qun ge shan
 无人问津	wu ren wen jin
@@ -55003,7 +54726,6 @@ use_preset_vocabulary: false
 无事生风	wu shi sheng feng
 无事生事	wu shi sheng shi
 无时无刻	wu shi wu ke
-无始无终	wu shi wu zhong
 五十衣帛	wu shi yi bo
 勿施于人	wu shi yu ren
 无事早归	wu shi zao gui
@@ -55039,7 +54761,6 @@ use_preset_vocabulary: false
 无所不用其极	wu suo bu yong qi ji
 无所不有	wu suo bu you
 无所不悦	wu suo bu yue
-无所不在	wu suo bu zai
 无所不知	wu suo bu zhi
 无所不至	wu suo bu zhi
 无所不作	wu suo bu zuo
@@ -55062,7 +54783,6 @@ use_preset_vocabulary: false
 无所畏惧	wu suo wei ju
 雾锁烟迷	wu suo yan mi
 无所依归	wu suo yi gui
-无所用心	wu suo yong xin
 无所用之	wu suo yong zhi
 无所重轻	wu suo zhong qing
 无所作为	wu suo zuo wei
@@ -55224,7 +54944,6 @@ use_preset_vocabulary: false
 无知妄说	wu zhi wang shuo
 无知妄作	wu zhi wang zuo
 五知先生	wu zhi xian sheng
-恶之欲其死	wu zhi yu qi si
 物至则反	wu zhi ze fan
 无置锥地	wu zhi zhui di
 无中生有	wu zhong sheng you
@@ -55273,7 +54992,6 @@ use_preset_vocabulary: false
 西风残照	xi feng can zhao
 西风落叶	xi feng luo ye
 席丰履厚	xi feng lv hou
-吸风饮露	xi feng yin lu
 鼷腹鹪枝	xi fu jiao zhi
 析肝刿胆	xi gan gui dan
 析肝沥悃	xi gan li kun
@@ -55343,7 +55061,6 @@ use_preset_vocabulary: false
 惜墨如金	xi mo ru jin
 徙木之信	xi mu zhi xin
 犀牛望月	xi niu wang yue
-喜怒哀乐	xi nu ai le
 喜怒不形于色	xi nu bu xing yu se
 喜怒人之常情	xi nu ren zhi chang qing
 息怒停瞋	xi nu ting chen
@@ -55412,7 +55129,6 @@ use_preset_vocabulary: false
 息息相关	xi xi xiang guan
 息息相通	xi xi xiang tong
 惜香怜玉	xi xiang lian yu
-嬉笑怒骂	xi xiao nu ma
 嬉笑怒骂皆成文章	xi xiao nu ma jie cheng wen zhang
 喜笑颜开	xi xiao yan kai
 洗心涤虑	xi xin di lv
@@ -55467,7 +55183,6 @@ use_preset_vocabulary: false
 下笔千言	xia bi qian yan
 下笔千言离题万里	xia bi qian yan li ti wan li
 下笔如神	xia bi ru shen
-下笔如有神	xia bi ru you shen
 下笔有神	xia bi you shen
 下比有余	xia bi you yu
 虾兵蟹将	xia bing xie jiang
@@ -55668,7 +55383,6 @@ use_preset_vocabulary: false
 纤悉无遗	xian xi wu yi
 先下米先吃饭	xian xia mi xian chi fan
 先下手为强	xian xia shou wei qiang
-贤贤易色	xian xian yi se
 险象环生	xian xiang huan sheng
 先笑后号	xian xiao hou hao
 先小人后君子	xian xiao ren hou jun zi
@@ -55808,7 +55522,6 @@ use_preset_vocabulary: false
 相容收敛	xiang rong shou lian
 想入非非	xiang ru fei fei
 橡茹藿歠	xiang ru huo chuo
-相濡以沫	xiang ru yi mo
 祥瑞辐辏	xiang rui fu cou
 向若而叹	xiang ruo er tan
 像煞有介事	xiang sha you jie shi
@@ -55822,7 +55535,6 @@ use_preset_vocabulary: false
 相失交臂	xiang shi jiao bi
 相视莫逆	xiang shi mo ni
 乡书难寄	xiang shu nan ji
-相鼠有皮	xiang shu you pi
 相帅成风	xiang shuai cheng feng
 向死而生	xiang si er sheng
 相思入骨	xiang si ru gu
@@ -55882,14 +55594,12 @@ use_preset_vocabulary: false
 啸傲湖山	xiao ao hu shan
 笑比河清	xiao bi he qing
 笑不可仰	xiao bu ke yang
-小不忍则乱大谋	xiao bu ren ze luan da mou
 小材大用	xiao cai da yong
 萧曹避席	xiao cao bi xi
 小惩大诫	xiao cheng da jie
 消愁解闷	xiao chou jie men
 消愁释愦	xiao chou shi kui
 小丑跳梁	xiao chou tiao liang
-小大由之	xiao da you zhi
 小道消息	xiao dao xiao xi
 小德出入	xiao de chu ru
 小肚鸡肠	xiao du ji chang
@@ -55993,7 +55703,6 @@ use_preset_vocabulary: false
 孝思不匮	xiao si bu kui
 效死疆场	xiao si jiang chang
 效死输忠	xiao si shu zhong
-效死勿去	xiao si wu qu
 小题大做	xiao ti da zuo
 鸮啼鬼啸	xiao ti gui xiao
 孝悌力田	xiao ti li tian
@@ -56005,7 +55714,6 @@ use_preset_vocabulary: false
 小巫见大巫	xiao wu jian da wu
 小隙沉舟	xiao xi chen zhou
 消息盈冲	xiao xi ying chong
-消息盈虚	xiao xi ying xu
 小黠大痴	xiao xia da chi
 哓哓不休	xiao xiao bu xiu
 小小不言	xiao xiao bu yan
@@ -56068,10 +55776,8 @@ use_preset_vocabulary: false
 颉颃之行	xie hang zhi xing
 邂逅不偶	xie hou bu ou
 邂逅相逢	xie hou xiang feng
-邂逅相遇	xie hou xiang yu
 谢家宝树	xie jia bao shu
 谢家活计	xie jia huo ji
-胁肩谄笑	xie jian chan xiao
 胁肩低眉	xie jian di mei
 胁肩低首	xie jian di shou
 胁肩累足	xie jian lei zu
@@ -56137,7 +55843,6 @@ use_preset_vocabulary: false
 心长绠短	xin chang geng duan
 心长力短	xin chang li duan
 心潮澎湃	xin chao peng pai
-心潮逐浪高	xin chao zhu lang gao
 新陈代谢	xin chen dai xie
 心驰神往	xin chi shen wang
 心驰魏阙	xin chi wei que
@@ -56160,7 +55865,6 @@ use_preset_vocabulary: false
 心到神知	xin dao shen zhi
 心低意沮	xin di yi ju
 心动不如行动	xin dong bu ru xing dong
-信而好古	xin er hao gu
 信而有征	xin er you zheng
 衅发萧墙	xin fa xiao qiang
 新发于硎	xin fa yu xing
@@ -56319,17 +56023,14 @@ use_preset_vocabulary: false
 心如金石	xin ru jin shi
 心如木石	xin ru mu shi
 心如死灰	xin ru si hui
-心如铁石	xin ru tie shi
 心如悬旌	xin ru xuan jing
 心如止水	xin ru zhi shui
-心若死灰	xin ruo si hui
 信赏必罚	xin shang bi fa
 心上心下	xin shang xin xia
 心神不定	xin shen bu ding
 心神不宁	xin shen bu ning
 心神恍惚	xin shen huang hu
 心事重重	xin shi chong chong
-信誓旦旦	xin shi dan dan
 信守不渝	xin shou bu yu
 信手拈来	xin shou nian lai
 心手相忘	xin shou xiang wang
@@ -56411,7 +56112,6 @@ use_preset_vocabulary: false
 心拙口夯	xin zhuo kou ben
 心醉魂迷	xin zui hun mi
 心醉神迷	xin zui shen mi
-行百里者半九十	xing bai li zhe ban jiu shi
 行百里者半于九十	xing bai li zhe ban yu jiu shi
 兴邦立国	xing bang li guo
 行兵布阵	xing bing bu zhen
@@ -56426,7 +56126,6 @@ use_preset_vocabulary: false
 行不履危	xing bu lv wei
 行步如飞	xing bu ru fei
 行不胜衣	xing bu sheng yi
-行不由径	xing bu you jing
 行不逾方	xing bu yu fang
 行藏用舍	xing cang yong she
 行成于思	xing cheng yu si
@@ -56604,7 +56303,6 @@ use_preset_vocabulary: false
 凶喘肤汗	xiong chuan fu han
 兄弟和而家不分	xiong di he er jia bu fen
 兄弟阋墙	xiong di xi qiang
-兄弟阋于墙	xiong di xi yu qiang
 兄弟阋于墙外御其侮	xiong di xi yu qiang wai yu qi wu
 兄弟相害	xiong di xiang hai
 兄弟怡怡	xiong di yi yi
@@ -56709,7 +56407,6 @@ use_preset_vocabulary: false
 羞面见人	xiu mian jian ren
 休明盛世	xiu ming sheng shi
 朽木不雕	xiu mu bu diao
-朽木不可雕	xiu mu bu ke diao
 朽木粪墙	xiu mu fen qiang
 朽木粪土	xiu mu fen tu
 朽木枯株	xiu mu ku zhu
@@ -56915,7 +56612,6 @@ use_preset_vocabulary: false
 轩辕之石	xuan yuan zhi shi
 眩晕射击	xuan yun she ji
 轩轾不分	xuan zhi bu fen
-玄之又玄	xuan zhi you xuan
 炫昼缟夜	xuan zhou gao ye
 旋转变换	xuan zhuan bian huan
 玄锥之履	xuan zhui zhi lv
@@ -56937,7 +56633,6 @@ use_preset_vocabulary: false
 谑而不虐	xue er bu nue
 学而不厌	xue er bu yan
 学而时习之	xue er shi xi zhi
-学而优则仕	xue er you ze shi
 削发披缁	xue fa pi zi
 学非所用	xue fei suo yong
 学富才高	xue fu cai gao
@@ -56955,7 +56650,6 @@ use_preset_vocabulary: false
 穴居野处	xue ju ye chu
 血口喷人	xue kou pen ren
 谑浪笑傲	xue lang xiao ao
-谑浪笑敖	xue lang xiao ao
 学老于年	xue lao yu nian
 血泪斑斑	xue lei ban ban
 血泪盈襟	xue lei ying jin
@@ -56966,12 +56660,10 @@ use_preset_vocabulary: false
 血流如注	xue liu ru zhu
 血脉贯通	xue mai guan tong
 血木猎弓	xue mu lie gong
-削木为吏	xue mu wei li
 雪泥鸿迹	xue ni hong ji
 雪泥鸿爪	xue ni hong zhao
 雪虐风饕	xue nue feng tao
 血盆大口	xue pen da kou
-血气方刚	xue qi fang gang
 血气之勇	xue qi zhi yong
 学浅才疏	xue qian cai shu
 学然后知不足	xue ran hou zhi bu zu
@@ -56982,7 +56674,6 @@ use_preset_vocabulary: false
 血肉淋漓	xue rou lin li
 血肉模糊	xue rou mo hu
 血肉相连	xue rou xiang lian
-学如不及	xue ru bu ji
 学如不及犹恐失之	xue ru bu ji you kong shi zhi
 学如穿井	xue ru chuan jing
 学如登山	xue ru deng shan
@@ -57134,7 +56825,6 @@ use_preset_vocabulary: false
 言必信行必果	yan bi xin xing bi guo
 言必有据	yan bi you ju
 言必有物	yan bi you wu
-言必有中	yan bi you zhong
 偃兵息甲	yan bing xi jia
 偃兵修文	yan bing xiu wen
 眼柄腰带	yan bing yao dai
@@ -57150,7 +56840,6 @@ use_preset_vocabulary: false
 言不二价	yan bu er jia
 言不顾行	yan bu gu xing
 言不及行	yan bu ji xing
-言不及义	yan bu ji yi
 眼不见为净	yan bu jian wei jing
 眼不见心不烦	yan bu jian xin bu fan
 言不尽意	yan bu jin yi
@@ -57204,7 +56893,6 @@ use_preset_vocabulary: false
 言而无文行之不远	yan er wu wen xing zhi bu yuan
 言而无信	yan er wu xin
 燕尔新婚	yan er xin hun
-言而有信	yan er you xin
 言发祸随	yan fa huo sui
 言芳行洁	yan fang xing jie
 言方行圆	yan fang xing yuan
@@ -57382,7 +57070,6 @@ use_preset_vocabulary: false
 雁逝鱼沉	yan shi yu chen
 燕石坠子	yan shi zhui zi
 燕瘦环肥	yan shou huan fei
-偃鼠饮河	yan shu yin he
 严霜单打独根儿草	yan shuang dan da du gen er cao
 严霜烈日	yan shuang lie ri
 严丝合缝	yan si he feng
@@ -57426,7 +57113,6 @@ use_preset_vocabulary: false
 烟消火灭	yan xiao huo mie
 眼笑眉飞	yan xiao mei fei
 烟消雾散	yan xiao wu san
-言笑晏晏	yan xiao yan yan
 烟消云散	yan xiao yun san
 言笑自如	yan xiao zi ru
 言笑自若	yan xiao zi ruo
@@ -57663,7 +57349,6 @@ use_preset_vocabulary: false
 洋洋得意	yang yang de yi
 养羊剪毛	yang yang jian mao
 洋洋洒驱	yang yang sa qu
-洋洋洒洒	yang yang sa sa
 洋洋盈耳	yang yang ying er
 洋洋自得	yang yang zi de
 养音九皋	yang yin jiu gao
@@ -57861,7 +57546,6 @@ use_preset_vocabulary: false
 冶叶倡条	ye ye chang tiao
 业业矜矜	ye ye jin jin
 业业兢兢	ye ye jing jing
-夜以继日	ye yi ji ri
 夜以继昼	ye yi ji zhou
 叶影妖刀	ye ying yao dao
 以八尺为一步	yi ba chi wei yi bu
@@ -58095,8 +57779,6 @@ use_preset_vocabulary: false
 一刀两断	yi dao liang duan
 一刀两断一了百了	yi dao liang duan yi liao bai liao
 一刀一枪	yi dao yi qiang
-以德报德	yi de bao de
-以德报怨	yi de bao yuan
 以德服人	yi de fu ren
 医德堪钦	yi de kan qin
 医德可风	yi de ke feng
@@ -58232,7 +57914,6 @@ use_preset_vocabulary: false
 一佛出世二佛涅槃	yi fo chu shi er fo nie pan
 一佛出世二佛升天	yi fo chu shi er fo sheng tian
 一夫出死万乘不轻	yi fu chu si wan sheng bu qing
-一夫当关	yi fu dang guan
 一夫当关万夫莫摧	yi fu dang guan wan fu mo cui
 一夫当关万夫莫开	yi fu dang guan wan fu mo kai
 蚁附蜂屯	yi fu feng tun
@@ -58505,7 +58186,6 @@ use_preset_vocabulary: false
 一决雌雄	yi jue ci xiong
 以绝后患	yi jue hou huan
 一决胜负	yi jue sheng fu
-贻厥孙谋	yi jue sun mou
 诒厥之谋	yi jue zhi mou
 贻厥子孙	yi jue zi sun
 异军特起	yi jun te qi
@@ -58532,7 +58212,6 @@ use_preset_vocabulary: false
 异口同音	yi kou tong yin
 异口同韵	yi kou tong yun
 以口问心	yi kou wen xin
-一口吸尽西江水	yi kou xi jin xi jiang shui
 一口吸尽西江水一壁	yi kou xi jin xi jiang shui yi bi
 一口咬定	yi kou yao ding
 一口一声	yi kou yi sheng
@@ -58597,7 +58276,6 @@ use_preset_vocabulary: false
 一灵真性	yi ling zhen xing
 以六尺为一步	yi liu chi wei yi bu
 依流平进	yi liu ping jin
-一龙一蛇	yi long yi she
 一龙一猪	yi long yi zhu
 一路风尘	yi lu feng chen
 一路风清	yi lu feng qing
@@ -58677,7 +58355,6 @@ use_preset_vocabulary: false
 一鸣惊人	yi ming jing ren
 一命鸣呼	yi ming ming hu
 遗名去利	yi ming qu li
-异名同实	yi ming tong shi
 一铭网吧	yi ming wang ba
 一命呜呼	yi ming wu hu
 一命之荣	yi ming zhi rong
@@ -59071,7 +58748,6 @@ use_preset_vocabulary: false
 一双两好	yi shuang liang hao
 沂水春风	yi shui chun feng
 以水济水	yi shui ji shui
-以水救水	yi shui jiu shui
 以水投石	yi shui tou shi
 以水投水	yi shui tou shui
 沂水舞雩	yi shui wu yu
@@ -59314,7 +58990,6 @@ use_preset_vocabulary: false
 以刑致刑	yi xing zhi xing
 一行作吏	yi xing zuo li
 贻羞万年	yi xiu wan nian
-衣绣夜行	yi xiu ye xing
 衣绣夜游	yi xiu ye you
 遗休余烈	yi xiu yu lie
 遗休馀烈	yi xiu yu lie
@@ -59367,7 +59042,6 @@ use_preset_vocabulary: false
 溢言虚美	yi yan xu mei
 以言徇物	yi yan xun wu
 一言以敝	yi yan yi bi
-一言以蔽之	yi yan yi bi zhi
 一言一行	yi yan yi xing
 怡颜悦色	yi yan yue se
 一言之信	yi yan zhi xin
@@ -59419,7 +59093,6 @@ use_preset_vocabulary: false
 以疑决疑	yi yi jue yi
 薏苡蒙谤	yi yi meng bang
 薏苡明珠	yi yi ming zhu
-以意逆志	yi yi ni zhi
 移易迁变	yi yi qian bian
 意义深长	yi yi shen chang
 以意为之	yi yi wei zhi
@@ -59489,8 +59162,6 @@ use_preset_vocabulary: false
 遗簪坠履	yi zan zhui lv
 遗簪坠舄	yi zan zhui xi
 以泽量尸	yi ze liang shi
-一则以惧	yi ze yi ju
-一则以喜	yi ze yi xi
 一则以喜一则以惧	yi ze yi xi yi ze yi ju
 易箦之际	yi ze zhi ji
 一眨巴眼	yi zha ba yan
@@ -59515,8 +59186,6 @@ use_preset_vocabulary: false
 一朝权在手	yi zhao quan zai shou
 一朝权在手便把令来行	yi zhao quan zai shou bian ba ling lai xing
 一朝一夕	yi zhao yi xi
-亿兆一心	yi zhao yi xin
-一朝之忿	yi zhao zhi fen
 一朝之患	yi zhao zhi huan
 一着走错满盘皆输	yi zhao zou cuo man pan jie shu
 易辙改弦	yi zhe gai xian
@@ -59536,7 +59205,6 @@ use_preset_vocabulary: false
 一掷百万	yi zhi bai wan
 一知半见	yi zhi ban jian
 一知半解	yi zhi ban jie
-以直报怨	yi zhi bao yuan
 以指测河	yi zhi ce he
 颐指风使	yi zhi feng shi
 一致估计	yi zhi gu ji
@@ -59694,7 +59362,6 @@ use_preset_vocabulary: false
 隐迹鬼魂	yin ji gui hun
 隐迹埋名	yin ji mai ming
 银甲护腿	yin jia hu tui
-殷鉴不远	yin jian bu yuan
 引脚分配	yin jiao fen pei
 引经据典	yin jing ju dian
 引经据古	yin jing ju gu
@@ -59706,7 +59373,6 @@ use_preset_vocabulary: false
 引狼自卫	yin lang zi wei
 引类呼朋	yin lei hu peng
 印累绶若	yin lei shou ruo
-因利乘便	yin li cheng bian
 引领而望	yin ling er wang
 因陋就寡	yin lou jiu gua
 因陋就简	yin lou jiu jian
@@ -59867,7 +59533,6 @@ use_preset_vocabulary: false
 莺闺燕阁	ying gui yan ge
 莺花犹怕春光老	ying hua you pa chun guang lao
 影魂劣魔	ying hun lie mo
-鹰击长空	ying ji chang kong
 应机立断	ying ji li duan
 鹰击毛挚	ying ji mao zhi
 蝇集蚁附	ying ji yi fu
@@ -59900,7 +59565,6 @@ use_preset_vocabulary: false
 鹰拿雁捉	ying na yan zhuo
 硬皮恐兽	ying pi kong shou
 盈篇累牍	ying pian lei du
-嘤其鸣矣	ying qi ming yi
 嘤其鸣矣求其友声	ying qi ming yi qiu qi you sheng
 莺期燕约	ying qi yan yue
 盈千累万	ying qian lei wan
@@ -60064,7 +59728,6 @@ use_preset_vocabulary: false
 永生永世	yong sheng yong shi
 永世不忘	yong shi bu wang
 永世长存	yong shi chang cun
-永矢弗谖	yong shi fu xuan
 永世无穷	yong shi wu qiong
 用手掌打一下	yong shou zhang da yi xia
 拥书百城	yong shu bai cheng
@@ -60098,7 +59761,6 @@ use_preset_vocabulary: false
 用在一朝	yong zai yi zhao
 勇者不惧	yong zhe bu ju
 拥政爱民	yong zheng ai min
-用之不竭	yong zhi bu jie
 永志不忘	yong zhi bu wang
 用智铺谋	yong zhi pu mou
 庸中佼佼	yong zhong jiao jiao
@@ -60114,7 +59776,6 @@ use_preset_vocabulary: false
 有本有原	you ben you yuan
 有本有源	you ben you yuan
 油壁香车	you bi xiang che
-游必有方	you bi you fang
 有鼻子有眼	you bi zi you yan
 由表及里	you biao ji li
 有病不治常得中医	you bing bu zhi chang de zhong yi
@@ -60205,7 +59866,6 @@ use_preset_vocabulary: false
 有尽有让	you jin you rang
 有近有远有厚有薄	you jin you yuan you hou you bo
 右军习气	you jun xi qi
-犹恐失之	you kong shi zhi
 有口不能言	you kou bu neng yan
 有口皆碑	you kou jie bei
 有口难辩	you kou nan bian
@@ -60387,7 +60047,6 @@ use_preset_vocabulary: false
 悠闲自在	you xian zi zai
 游响停云	you xiang ting yun
 有心拜节寒食不迟	you xin bai jie han shi bu chi
-忧心忡忡	you xin chong chong
 游心骇耳	you xin hai er
 忧心悄悄	you xin qiao qiao
 忧心如捣	you xin ru dao
@@ -60472,7 +60131,6 @@ use_preset_vocabulary: false
 有证为凭	you zheng wei ping
 有征无战	you zheng wu zhan
 有志不在年高	you zhi bu zai nian gao
-有志竟成	you zhi jing cheng
 有志难酬	you zhi nan chou
 有枝添叶	you zhi tian ye
 有志无时	you zhi wu shi
@@ -60498,7 +60156,6 @@ use_preset_vocabulary: false
 又作冯妇	you zuo feng fu
 有作有为	you zuo you wei
 于安思危	yu an si wei
-欲罢不能	yu ba bu neng
 瑜百瑕一	yu bai xia yi
 鹬蚌持争	yu bang chi zheng
 鹬蚌持争渔翁得利	yu bang chi zheng yu weng de li
@@ -60519,7 +60176,6 @@ use_preset_vocabulary: false
 鱼帛狐声	yu bo hu sheng
 余波未平	yu bo wei ping
 语不惊人	yu bu jing ren
-语不惊人死不休	yu bu jing ren si bu xiu
 誉不绝口	yu bu jue kou
 愚不可及	yu bu ke ji
 语不投机	yu bu tou ji
@@ -60677,7 +60333,6 @@ use_preset_vocabulary: false
 榆瞑豆重	yu ming dou zhong
 雨沐风餐	yu mu feng can
 榆木疙瘩	yu mu ge da
-鱼目混珍	yu mu hun zhen
 鱼目混珠	yu mu hun zhu
 鱼目间珠	yu mu jian zhu
 榆木脑袋	yu mu nao dai
@@ -60805,7 +60460,6 @@ use_preset_vocabulary: false
 雨宿风餐	yu su feng can
 鱼素久睽	yu su jiu kui
 语素生成	yu su sheng cheng
-欲速则不达	yu su ze bu da
 玉碎香残	yu sui xiang can
 玉碎香消	yu sui xiang xiao
 玉碎珠沉	yu sui zhu chen
@@ -60901,7 +60555,6 @@ use_preset_vocabulary: false
 郁郁芊芊	yu yu qian qian
 玉宇琼楼	yu yu qiong lou
 鱼与熊掌	yu yu xiong zhang
-鱼鱼雅雅	yu yu ya ya
 鱼跃龙门	yu yue long men
 鱼跃鸢飞	yu yue yuan fei
 雨约云期	yu yue yun qi
@@ -61005,7 +60658,6 @@ use_preset_vocabulary: false
 远谋深算	yuan mou shen suan
 渊谋远略	yuan mou yuan lue
 圆木警枕	yuan mu jing zhen
-缘木求鱼	yuan mu qiu yu
 远年近日	yuan nian jin ri
 远年近岁	yuan nian jin sui
 怨女旷夫	yuan nv kuang fu
@@ -61210,7 +60862,6 @@ use_preset_vocabulary: false
 云交雨合	yun jiao yu he
 蕴藉含蓄	yun jie han xu
 云阶月地	yun jie yue di
-运斤成风	yun jin cheng feng
 运斤如风	yun jin ru feng
 云锦天章	yun jin tian zhang
 云净天空	yun jing tian kong
@@ -61293,7 +60944,6 @@ use_preset_vocabulary: false
 允执厥中	yun zhi jue zhong
 匀脂抹粉	yun zhi mo fen
 运智铺谋	yun zhi pu mou
-允执其中	yun zhi qi zhong
 运之掌上	yun zhi zhang shang
 云中白鹤	yun zhong bai he
 云中仙鹤	yun zhong xian he
@@ -61311,7 +60961,6 @@ use_preset_vocabulary: false
 咂嘴弄舌	za zui nong she
 咂嘴舔唇	za zui tian chun
 咂嘴咂舌	za zui za she
-载沉载浮	zai chen zai fu
 在陈之厄	zai chen zhi e
 载驰载驱	zai chi zai qu
 在此一举	zai ci yi ju
@@ -61328,7 +60977,6 @@ use_preset_vocabulary: false
 再回头是百年身	zai hui tou shi bai nian shen
 宰鸡教猴	zai ji jiao hou
 在家不会迎宾客	zai jia bu hui ying bin ke
-在家出家	zai jia chu jia
 在家敬父母何必远烧香	zai jia jing fu mu he bi yuan shao xiang
 在家千日好出门一时难	zai jia qian ri hao chu men yi shi nan
 在家为父子受事为君臣	zai jia wei fu zi shou shi wei jun chen
@@ -61363,12 +61011,10 @@ use_preset_vocabulary: false
 宰相肚里好撑船	zai xiang du li hao cheng chuan
 宰相肚里能撑船	zai xiang du li neng cheng chuan
 宰相家人七品官	zai xiang jia ren qi pin guan
-载笑载言	zai xiao zai yan
 载一抱素	zai yi bao su
 在一个跳板上走	zai yi ge tiao ban shang zou
 在圆地上走	zai yuan di shang zou
 再造之恩	zai zao zhi en
-载舟覆舟	zai zhou fu zhou
 再做道理	zai zuo dao li
 再作冯妇	zai zuo feng fu
 赞不绝口	zan bu jue kou
@@ -61401,7 +61047,6 @@ use_preset_vocabulary: false
 造车合辙	zao che he zhe
 早晨不做官晚上不唱喏	zao chen bu zuo guan wan shang bu chang re
 早出暮归	zao chu mu gui
-早出晚归	zao chu wan gui
 造次颠沛	zao ci dian pei
 造次行事	zao ci xing shi
 造端倡始	zao duan chang shi
@@ -61613,7 +61258,6 @@ use_preset_vocabulary: false
 战云弥漫	zhan yun mi man
 战云浓密	zhan yun nong mi
 战战惶惶	zhan zhan huang huang
-战战兢兢	zhan zhan jing jing
 战战栗栗	zhan zhan li li
 湛湛青天	zhan zhan qing tian
 詹詹炎炎	zhan zhan yan yan
@@ -61702,7 +61346,6 @@ use_preset_vocabulary: false
 朝不保暮	zhao bu bao mu
 朝不保夕	zhao bu bao xi
 朝不及夕	zhao bu ji xi
-朝不虑夕	zhao bu lv xi
 朝不谋夕	zhao bu mou xi
 招财进宝	zhao cai jin bao
 朝趁暮食	zhao chen mu shi
@@ -61719,7 +61362,6 @@ use_preset_vocabulary: false
 招风惹雨	zhao feng re yu
 招蜂引蝶	zhao feng yin die
 朝歌暮弦	zhao ge mu xian
-朝歌夜弦	zhao ge ye xian
 朝更暮改	zhao geng mu gai
 照功行赏	zhao gong xing shang
 朝过夕改	zhao guo xi gai
@@ -62146,7 +61788,6 @@ use_preset_vocabulary: false
 志大才疏	zhi da cai shu
 治大国如烹小鲜	zhi da guo ru peng xiao xian
 枝大于本	zhi da yu ben
-至大至刚	zhi da zhi gang
 纸带穿孔	zhi dai chuan kong
 只待雨淋头	zhi dai yu lin tou
 至当不易	zhi dang bu yi
@@ -62379,7 +62020,6 @@ use_preset_vocabulary: false
 至圣至明	zhi sheng zhi ming
 治世安民拨乱反正	zhi shi an min bo luan fan zheng
 知识密集型产业	zhi shi mi ji xing chan ye
-志士仁人	zhi shi ren ren
 知事少时烦恼少	zhi shi shao shi fan nao shao
 指矢天日	zhi shi tian ri
 直是无着力处	zhi shi wu zhuo li chu
@@ -62505,7 +62145,6 @@ use_preset_vocabulary: false
 智者千虑或有一失	zhi zhe qian lv huo you yi shi
 只争旦夕	zhi zheng dan xi
 只争来早与来迟	zhi zheng lai zao yu lai chi
-只争朝夕	zhi zheng zhao xi
 知止不殆	zhi zhi bu dai
 置之不顾	zhi zhi bu gu
 置之不理	zhi zhi bu li
@@ -62533,7 +62172,6 @@ use_preset_vocabulary: false
 置锥之地	zhi zhui zhi di
 只字不提	zhi zi bu ti
 知子莫若父	zhi zi mo ruo fu
-之子于归	zhi zi yu gui
 知子者莫若父	zhi zi zhe mo ruo fu
 知足不辱	zhi zu bu ru
 知足长安	zhi zu chang an
@@ -62568,7 +62206,6 @@ use_preset_vocabulary: false
 终非池中物	zhong fei chi zhong wu
 忠肝义胆	zhong gan yi dan
 忠肝义糁	zhong gan yi shen
-中冓之言	zhong gou zhi yan
 钟鼓之色	zhong gu zhi se
 钟鼓馔玉	zhong gu zhuan yu
 众寡不敌	zhong gua bu di
@@ -62627,7 +62264,6 @@ use_preset_vocabulary: false
 种麦得麦	zhong mai de mai
 众盲摸象	zhong mang mo xiang
 众毛攒裘	zhong mao cuan qiu
-众毛飞骨	zhong mao fei gu
 重门击柝	zhong men ji tuo
 钟鸣鼎列	zhong ming ding lie
 钟鸣鼎食	zhong ming ding shi
@@ -63744,166 +63380,93 @@ use_preset_vocabulary: false
 左支右调	zuo zhi you tiao
 左支右吾	zuo zhi you wu
 作作有芒	zuo zuo you mang
-哀而不伤	ai er bu shang
 哀公问	ai gong wen
 哀公问社于宰我	ai gong wen she yu zai wo
 哀公问于有若曰	ai gong wen yu you ruo yue
-哀公问曰	ai gong wen yue
 爱人	ai ren
 爱之	ai zhi
-爱之欲其生	ai zhi yu qi sheng
 安见方六七十	an jian fang liu qi shi
 安女安则为之	an nv an ze wei zhi
 安无倾	an wu qing
 奡荡舟	ao dang zhou
-八佾第三	ba yi di san
-八佾舞于庭	ba yi wu yu ting
 霸诸侯	ba zhu hou
-拜而受之	bai er shou zhi
 百工居肆以成其事	bai gong ju si yi cheng qi shi
-百官之富	bai guan zhi fu
 百官总己以听于冢宰	bai guan zong ji yi ting yu zhong zai
-百物生焉	bai wu sheng yan
 拜下	bai xia
-百姓不足	bai xing bu zu
-百姓有过	bai xing you guo
 百姓足	bai xing zu
 版者	ban zhe
 邦分崩离析	bang fen beng li xi
 邦君树塞门	bang jun shu sai men
 邦君为两君之好	bang jun wei liang jun zhi hao
-邦君之妻	bang jun zhi qi
 邦人称之曰君夫人	bang ren cheng zhi yue jun fu ren
 邦无道	bang wu dao
-邦无道如矢	bang wu dao ru shi
 邦无道则可卷而怀之	bang wu dao ze ke juan er huai zhi
 邦有道	bang you dao
-邦有道如矢	bang you dao ru shi
-邦有道则仕	bang you dao ze shi
 邦曰寡小君	bang yue gua xiao jun
-暴虎冯河	bao hu ping he
-饱食终日	bao shi zhong ri
 奔而殿	ben er dian
 本立而道生	ben li er dao sheng
-本之则无	ben zhi ze wu
 必变	bi bian
-必变色而作	bi bian se er zuo
-必表而出之	bi biao er chu zhi
-必不得已而去	bi bu de yi er qu
 必察焉	bi cha yan
 裨谌草创之	bi chen cao chuang zhi
 必畜之	bi chu zhi
 鄙夫可与事君也与哉	bi fu ke yu shi jun ye yu zai
 必复命曰	bi fu ming yue
-比干谏而死	bi gan jian er si
-比及三年	bi ji san nian
-必齐如也	bi qi ru ye
 必趋	bi qu
 必杀之	bi sha zhi
-必世而后仁	bi shi er hou ren
-必使反之	bi shi fan zhi
 必失之	bi shi zhi
-必熟而荐之	bi shu er jian zhi
 必文	bi wen
-必闻其政	bi wen qi zheng
-必先利其器	bi xian li qi qi
 必偃	bi yan
-必也狂狷乎	bi ye kuang juan hu
-必也临事而惧	bi ye lin shi er ju
 必也亲丧乎	bi ye qin sang hu
-必也射乎	bi ye she hu
-必也圣乎	bi ye sheng hu
-必也使无讼乎	bi ye shi wu song hu
 必也正名乎	bi ye zheng ming hu
 必以貌	bi yi mao
-必有近忧	bi you jin you
-必有可观者焉	bi you ke guan zhe yan
 必有邻	bi you lin
-必有明衣	bi you ming yi
-必有寝衣	bi you qin yi
 必有我师焉	bi you wo shi yan
 鄙哉	bi zai
 彼哉	bi zai
 必正立执绥	bi zheng li zhi sui
-必正席先尝之	bi zheng xi xian chang zhi
 必作	bi zuo
 便便言	bian bian yan
-笾豆之事	bian dou zhi shi
 辨惑	bian huo
 卞庄子之勇	bian zhuang zi zhi yong
-宾不顾矣	bin bu gu yi
 宾退	bin tui
 病间	bing jian
-屏气似不息者	bing qi si bu xi zhe
-伯牛有疾	bo niu you ji
-勃如战色	bo ru zhan se
 播鼗	bo tao
 博我以文	bo wo yi wen
 博学而笃志	bo xue er du zhi
-博学而无所成名	bo xue er wu suo cheng ming
-博学于文	bo xue yu wen
 伯夷叔	bo yi shu
 伯夷叔齐饿于首阳之下	bo yi shu qi e yu shou yang zhi xia
 伯夷叔齐与	bo yi shu qi yu
 不拜	bu bai
 不保其往也	bu bao qi wang ye
 不病人之不己知也	bu bing ren zhi bu ji zhi ye
-不撤姜食	bu che jiang shi
-不成人之恶	bu cheng ren zhi e
 不处也	bu chu ye
 不达	bu da
 不得	bu de
 不得大葬	bu de da zang
-不得其酱	bu de qi jiang
-不得其死然	bu de qi si ran
-不得与之言	bu de yu zhi yan
-不得中行而与之	bu de zhong hang er yu zhi
 不多也	bu duo ye
 不贰过	bu er guo
-不悱不发	bu fei bu fa
-不愤不启	bu fen bu qi
-不敢不告也	bu gan bu gao ye
 不敢尝	bu gan chang
 不好犯上	bu hao fan shang
-不恒其德	bu heng qi de
 不患寡	bu huan gua
-不患莫己知	bu huan mo ji zhi
-不患贫而患不安	bu huan pin er huan bu an
-不患人之不己知	bu huan ren zhi bu ji zhi
-不患无位	bu huan wu wei
 不几乎一言而	bu ji hu yi yan er
 不几乎一言而兴邦乎	bu ji hu yi yan er xing bang hu
 不及乱	bu ji luan
 不疾言	bu ji yan
 不践迹	bu jian ji
 不见宗庙之美	bu jian zong miao zhi mei
-不教而杀谓之虐	bu jiao er sha wei zhi nue
-不戒视成谓之暴	bu jie shi cheng wei zhi bao
 不敬	bu jing
 不可	bu ke
-不可不知也	bu ke bu zhi ye
 不可废也	bu ke fei ye
 不可好从事而亟失时	bu ke hao cong shi er ji shi shi
 不可弃也	bu ke qi ye
-不可使知之	bu ke shi zhi zhi
 不可徒行也	bu ke tu xing ye
-不可罔也	bu ke wang ye
-不可陷也	bu ke xian ye
-不可以长处乐	bu ke yi chang chu le
 不可以为滕薛大夫	bu ke yi wei teng xue dai fu
-不可以语上也	bu ke yi yu shang ye
 不可以作巫医	bu ke yi zuo wu yi
 不可与言而与之言	bu ke yu yan er yu zhi yan
-不可则止	bu ke ze zhi
 不令而行	bu ling er xing
-不谋其政	bu mou qi zheng
 不能	bu neng
 不能死	bu neng si
-不能以礼让为国	bu neng yi li rang wei guo
-不能用也	bu neng yong ye
 不能者止	bu neng zhe zhi
-不能正其身	bu neng zheng qi shen
-不能专对	bu neng zhuan dui
 不逆诈	bu ni zha
 不其	bu qi
 布齐必变食	bu qi bi bian shi
@@ -63913,70 +63476,35 @@ use_preset_vocabulary: false
 不去也	bu qu ye
 不然	bu ran
 不仁者不可以久处约	bu ren zhe bu ke yi jiu chu yue
-不仁者远矣	bu ren zhe yuan yi
 不如好之者	bu ru hao zhi zhe
 不辱君命	bu ru jun ming
 不如乐之者	bu ru le zhi zhe
-不辱其身	bu ru qi shen
-不如仁人	bu ru ren ren
-不如是之甚也	bu ru shi zhi shen ye
-不如学也	bu ru xue ye
 不如诸夏之亡也	bu ru zhu xia zhi wang ye
-不善不能改	bu shan bu neng gai
-不舍昼夜	bu she zhou ye
 不食	bu shi
 不时	bu shi
 不使不仁者加乎其身	bu shi bu ren zhe jia hu qi shen
 不使大臣怨乎不以	bu shi da chen yuan hu bu yi
-不使胜食气	bu shi sheng shi qi
-不仕无义	bu shi wu yi
-不食之矣	bu shi zhi yi
 不说也	bu shuo ye
-不俟驾行矣	bu si jia xing yi
 不宿肉	bu su rou
 不图为乐之至于斯也	bu tu wei le zhi zhi yu si ye
 不违	bu wei
-不为酒困	bu wei jiu kun
 不问马	bu wen ma
 不吾知也如或知尔	bu wu zhi ye ru huo zhi er
-不贤者识其小者	bu xian zhe shi qi xiao zhe
-不降其志	bu xiang qi zhi
-不相为谋	bu xiang wei mou
 不笑	bu xiao
-不幸短命死矣	bu xing duan ming si yi
 不行焉	bu xing yan
 不学礼	bu xue li
 不学诗	bu xue shi
-不以兵车	bu yi bing che
-不亿不信	bu yi bu xin
-不易得也	bu yi de ye
-不义而富且贵	bu yi er fu qie gui
 不亦君子乎	bu yi jun zi hu
-不亦可乎	bu yi ke hu
-不亦乐乎	bu yi le hu
-不以礼节之	bu yi li jie zhi
-不以其道得之	bu yi qi dao de zhi
-不以人废言	bu yi ren fei yan
-不亦善乎	bu yi shan hu
-不亦宜乎	bu yi yi hu
 不亦远乎	bu yi yuan hu
 不亦说乎	bu yi yue hu
 不亦重乎	bu yi zhong hu
-不有博弈者乎	bu you bo yi zhe hu
-不忧不惧	bu you bu ju
 不尤人	bu you ren
 不有祝鮀之佞	bu you zhu tuo zhi ning
 不逾矩	bu yu ju
 不与其退也	bu yu qi tui ye
 不怨天	bu yuan tian
 不远游	bu yuan you
-不曰白乎	bu yue bai hu
-不曰坚乎	bu yue jian hu
 不曰如之何	bu yue ru zhi he
-不在其位	bu zai qi wei
-不在颛臾	bu zai zhuan yu
-不占而已矣	bu zhan er yi yi
-不忮不求	bu zhi bu qiu
 不知老之将至云尔	bu zhi lao zhi jiang zhi yun er
 不知礼	bu zhi li
 不知命	bu zhi ming
@@ -63986,13 +63514,11 @@ use_preset_vocabulary: false
 不知也	bu zhi ye
 不至于谷	bu zhi yu gu
 不庄	bu zhuang
-不足以为士矣	bu zu yi wei shi yi
 不坐	bu zuo
 才不才	cai bu cai
 才难	cai nan
 参乎	can hu
 参也鲁	can ye lu
-草上之风	cao shang zhi feng
 策其马曰	ce qi ma yue
 曾是以为	ceng shi yi wei
 曾谓泰山不如林放乎	ceng wei tai shan bu ru lin fang hu
@@ -64000,33 +63526,24 @@ use_preset_vocabulary: false
 曾皙曰	ceng xi yue
 曾由	ceng you
 察其所安	cha qi suo an
-察言而观色	cha yan er guan se
 柴也愚	chai ye yu
 襜如也	chan ru ye
 谄也	chan ye
 尝独立	chang du li
-长而无述焉	chang er wu shu yan
 长沮桀溺耦而耕	chang ju jie ni ou er geng
 长沮曰	chang ju yue
 常师之有	chang shi zhi you
-长一身有半	chang yi shen you ban
 朝服而立于阼阶	chao fu er li yu zuo jie
 车中不内顾	che zhong bu nei gu
 陈成子弑简公	chen cheng zi shi jian gong
 陈恒弑其君	chen heng shi qi jun
-陈亢退而喜曰	chen kang tui er xi yue
 陈亢问于伯鱼曰	chen kang wen yu bo yu yue
-陈力就列	chen li jiu lie
 晨门曰	chen men yue
 臣事君	chen shi jun
 陈司败问	chen si bai wen
 陈子禽谓子贡曰	chen zi qin wei zi gong yue
-诚不以富	cheng bu yi fu
 乘肥马	cheng fei ma
-称其德也	cheng qi de ye
-成事不说	cheng shi bu shuo
 逞颜	cheng yan
-乘殷之辂	cheng yin zhi lu
 成于乐	cheng yu le
 诚哉是言也	cheng zai shi yan ye
 称诸异	cheng zhu yi
@@ -64034,58 +63551,40 @@ use_preset_vocabulary: false
 耻躬之不逮也	chi gong zhi bu dai ye
 耻也	chi ye
 赤也惑	chi ye huo
-赤也为之小	chi ye wei zhi xiao
-赤之适齐也	chi zhi shi qi ye
 崇德也	chong de ye
 臭恶	chou e
 出辞气	chu ci qi
 楚狂接舆歌而过孔子曰	chu kuang jie yu ge er guo kong zi yue
-出门如见大宾	chu men ru jian da bin
-出纳之吝	chu na zhi lin
 出三日	chu san ri
 出曰	chu yue
-出则事公卿	chu ze shi gong qing
 出则悌	chu ze ti
 传不习乎	chuan bu xi hu
-春服既成	chun fu ji cheng
 纯如也	chun ru ye
-赐不受命	ci bu shou ming
 辞达而已矣	ci da er yi yi
 辞毋	ci wu
 赐也	ci ye
 赐也达	ci ye da
 赐也可使从政也与	ci ye ke shi cong zheng ye yu
 次矣	ci yi
-赐之墙也及肩	ci zhi qiang ye ji jian
 从而不改	cong er bu gai
 从我于陈蔡者	cong wo yu chen cai zhe
-从吾所好	cong wu suo hao
 从者病	cong zhe bing
-从者见之	cong zhe jian zhi
 从者曰	cong zhe yue
 从之	cong zhi
 踧如也	cu ru ye
-大车无輗	da che wu ni
-大德不逾闲	da de bu yu xian
 大事不成	da shi bu cheng
 大师挚适齐	da shi zhi shi qi
 达巷党人曰	da xiang dang ren yue
-大哉孔子	da zai kong zi
 大哉问	da zai wen
 大哉尧之为君也	da zai yao zhi wei jun ye
 荡荡乎	dang dang hu
-当仁不让于师	dang ren bu rang yu shi
 当洒扫应对进退	dang sa sao ying dui jin tui
 当暑	dang shu
 道不同	dao bu tong
 道不忧贫	dao bu you pin
 祷尔于	dao er yu
-道千乘之国	dao qian sheng zhi guo
-道听而途说	dao ting er tu shuo
-道之不行	dao zhi bu xing
 道之将废也与	dao zhi jiang fei ye yu
 道之将行也与	dao zhi jiang xing ye yu
-道之斯行	dao zhi si xing
 道之以德	dao zhi yi de
 道之以政	dao zhi yi zheng
 德不孤	de bu gu
@@ -64093,27 +63592,14 @@ use_preset_vocabulary: false
 得见有恒者	de jian you heng zhe
 得其门者或寡矣	de qi men zhe huo gua yi
 德行	de xing
-德之不修	de zhi bu xiu
-德之弃也	de zhi qi ye
-德之贼也	de zhi zei ye
-帝臣不蔽	di chen bu bi
 弟也	di ye
-弟子服其劳	di zi fu qi lao
 禘自既灌而往者	di zi ji guan er wang zhe
-弟子入则孝	di zi ru ze xiao
-弟子孰为好学	di zi shu wei hao xue
-颠而不扶	dian er bu fu
 点尔何如	dian er he ru
-颠沛必于是	dian pei bi yu shi
 定公问	ding gong wen
-侗而不愿	dong er bu yuan
 东里子产润色	dong li zi chan run se
 动容貌	dong rong mao
 东首	dong shou
-动之不以礼	dong zhi bu yi li
 动之斯和	dong zhi si he
-斗筲之人	dou shao zhi ren
-笃信好学	du xin hao xue
 短右袂	duan you mei
 端章甫	duan zhang fu
 对曰	dui yue
@@ -64124,44 +63610,30 @@ use_preset_vocabulary: false
 多食	duo shi
 多识于鸟兽草木之名	duo shi yu niao shou cao mu zhi ming
 多闻	duo wen
-多闻阙疑	duo wen que yi
 多怨	duo yuan
-恶不仁者	e bu ren zhe
 恶不孙以为勇者	e bu sun yi wei yong zhe
-恶称人之恶者	e cheng ren zhi e zhe
 恶果敢而窒者	e guo gan er zhi zhe
-恶乎成名	e hu cheng ming
 恶徼以为知者	e jiao yi wei zhi zhe
 恶讦以为直	e jie yi wei zhi
 恶利口之覆邦家者	e li kou zhi fu bang jia zhe
 恶衣服而致美乎黻冕	e yi fu er zhi mei hu fu mian
-恶勇而无礼者	e yong er wu li zhe
 恶郑声之乱雅乐也	e zheng sheng zhi luan ya yue ye
-恶之欲其	e zhi yu qi
-恶紫之夺朱也	e zi zhi duo zhu ye
-尔爱其羊	er ai qi yang
 而不	er bu
 而不耻者	er bu chi zhe
 而不能守也	er bu neng shou ye
 而不三黜	er bu san chu
-而不与立也	er bu yu li ye
 而不愠	er bu yun
 而朝齐	er chao qi
-而耻恶衣恶食者	er chi e yi e shi zhe
 而犯之	er fan zhi
 而非邦也者	er fei bang ye zhe
 而好犯上者	er hao fan shang zhe
 而好作乱者	er hao zuo luan zhe
 而和	er he
 而后从之	er hou cong zhi
-而后和之	er hou he zhi
 而后其食	er hou qi shi
 而患不均	er huan bu jun
 而货殖焉	er huo zhi yan
-而今而后	er jin er hou
-而可大受也	er ke da shou ye
 而可小知也	er ke xiao zhi ye
-而乱大伦	er luan da lun
 而谋动干戈于邦内	er mou dong gan ge yu bang nei
 而岂徒哉	er qi tu zai
 而亲仁	er qin ren
@@ -64169,37 +63641,19 @@ use_preset_vocabulary: false
 二三子	er san zi
 二三子何患于丧乎	er san zi he huan yu sang hu
 二三子以我为隐乎	er san zi yi wo wei yin hu
-而谁以易之	er shui yi yi zhi
-尔所不知	er suo bu zhi
-尔所谓达者	er suo wei da zhe
-而往拜之	er wang bai zhi
 而行违	er xing wei
 而学诗	er xue shi
 而亦何	er yi he
-而由人乎哉	er you ren hu zai
-而有宋朝之美	er you song chao zhi mei
-而在萧墙之内也	er zai xiao qiang zhi nei ye
-迩之事父	er zhi shi fu
-而子证之	er zi zheng zhi
-发愤忘食	fa fen wang shi
-法语之言	fa yu zhi yan
 泛爱众	fan ai zhong
 樊迟出	fan chi chu
 樊迟从游于舞雩之下	fan chi cong you yu wu yu zhi xia
 樊迟请学稼	fan chi qing xue jia
 樊迟退	fan chi tui
 樊迟未达	fan chi wei da
-樊迟问仁	fan chi wen ren
-樊迟问知	fan chi wen zhi
 樊迟御	fan chi yu
 樊迟曰	fan chi yue
-犯而不校	fan er bu jiao
 饭疏食	fan shu shi
 樊须也	fan xu ye
-方六七十	fang liu qi shi
-放于利而行	fang yu li er xing
-非不说子之道	fei bu shuo zi zhi dao
-非崇德与	fei chong de yu
 非达也	fei da ye
 非道弘人	fei dao hong ren
 非夫人之为恸而	fei fu ren zhi wei tong er
@@ -64212,52 +63666,30 @@ use_preset_vocabulary: false
 非礼勿视	fei li wu shi
 非礼勿听	fei li wu ting
 非礼勿言	fei li wu yan
-非其鬼而祭之	fei qi gui er ji zhi
-非求益者也	fei qiu yi zhe ye
 非帷裳	fei wei shang
 非我也	fei wo ye
-非吾徒也	fei wu tu ye
 非修慝与	fei xiu te yu
 非也	fei ye
 菲饮食而致孝乎鬼神	fei yin shi er zhi xiao hu gui shen
-非曰能之	fei yue neng zhi
 废中权	fei zhong quan
 非诸侯而何	fei zhu hou er he
-非助我者也	fei zhu wo zhe ye
 忿思难	fen si nan
-风乎舞雩	feng hu wu yu
-凤鸟不至	feng niao bu zhi
 凤兮凤兮	feng xi feng xi
 佛肸以中牟畔	fo xi yi zhong mu pan
 佛肸召	fo xi zhao
-夫达也者	fu da ye zhe
-富而好礼者也	fu er hao li zhe ye
-富而可求也	fu er ke qiu ye
 夫二三	fu er san
 富而无骄	fu er wu jiao
-富而无骄易	fu er wu jiao yi
-富贵在天	fu gui zai tian
 夫何	fu he
-夫何为哉	fu he wei zai
-夫何忧何惧	fu he you he ju
 夫君	fu jun
 父没	fu mei
 父母唯其疾之忧	fu mu wei qi ji zhi you
 父母在	fu mu zai
-父母之年	fu mu zhi nian
 复其位	fu qi wei
-富且贵焉	fu qie gui yan
-夫然后行	fu ran hou xing
-夫人不言	fu ren bu yan
 夫仁者	fu ren zhe
 夫人自称曰小童	fu ren zi cheng yue xiao tong
 夫如是	fu ru shi
-夫三年之丧	fu san nian zhi sang
 夫三子者之言何如	fu san zi zhe zhi yan he ru
 肤受之愬	fu shou zhi shuo
-父为子隐	fu wei zi yin
-夫闻也者	fu wen ye zhe
-夫我则不暇	fu wo ze bu xia
 富有	fu you
 富与贵	fu yu gui
 富哉	fu zai
@@ -64265,18 +63697,13 @@ use_preset_vocabulary: false
 夫召我者	fu zhao wo zhe
 富之	fu zhi
 夫执舆者为谁	fu zhi yu zhe wei shui
-服周之冕	fu zhou zhi mian
 夫颛臾	fu zhuan yu
 夫子	fu zi
 夫子不答	fu zi bu da
 夫子不为也	fu zi bu wei ye
 夫子不言	fu zi bu yan
 夫子固有惑志于公伯寮	fu zi gu you huo zhi yu gong bo liao
-夫子何哂由也	fu zi he shen you ye
 夫子何为	fu zi he wei
-夫子喟然叹曰	fu zi kui ran tan yue
-夫子哂之	fu zi shen zhi
-夫子圣者与	fu zi sheng zhe yu
 夫子时然后言	fu zi shi ran hou yan
 夫子矢之曰	fu zi shi zhi yue
 夫子莞尔而笑	fu zi wan er er xiao
@@ -64284,60 +63711,32 @@ use_preset_vocabulary: false
 夫子温良恭俭让以得之	fu zi wen liang gong jian rang yi de zhi
 夫子怃然曰	fu zi wu ran yue
 夫子循循然	fu zi xun xun ran
-夫子焉不学	fu zi yan bu xue
-夫子欲之	fu zi yu zhi
-夫子之道	fu zi zhi dao
-夫子之得邦家者	fu zi zhi de bang jia zhe
-夫子之墙数仞	fu zi zhi qiang shu ren
 夫子之求之也	fu zi zhi qiu zhi ye
 夫子之说君子	fu zi zhi shuo jun zi
-夫子至于是邦也	fu zi zhi yu shi bang ye
-夫子之云	fu zi zhi yun
-夫子自道也	fu zi zi dao ye
-盖均无贫	gai jun wu pin
-盖阙如也	gai que ru ye
-盖十世希不失矣	gai shi shi xi bu shi yi
 盖有不知而作之者	gai you bu zhi er zuo zhi zhe
 盖有之	gai you zhi
-改之为贵	gai zhi wei gui
 敢问	gan wen
 敢问崇德	gan wen chong de
-敢问其次	gan wen qi ci
 敢问死	gan wen si
-敢用玄牡	gan yong xuan mu
 敢昭告于皇皇后帝	gan zhao gao yu huang huang hou di
-刚毅木讷	gang yi mu ne
-告夫三子	gao fu san zi
-羔裘	gao qiu
 羔裘玄冠不以吊	gao qiu xuan guan bu yi diao
 告于哀公曰	gao yu ai gong yue
-告诸往而知来者	gao zhu wang er zhi lai zhe
 高宗	gao zong
-高宗谅阴	gao zong liang yin
 割不正	ge bu zheng
-割鸡焉用牛刀	ge ji yan yong niu dao
-各于其党	ge yu qi dang
 耕也	geng ye
 更也人皆仰之	geng ye ren jie yang zhi
 公伯寮其如命何	gong bo liao qi ru ming he
 公伯寮愬子路于季孙	gong bo liao shuo zi lu yu ji sun
 公绰之不欲	gong chuo zhi bu yu
 恭而安	gong er an
-恭而无礼则劳	gong er wu li ze lao
 攻乎异端	gong hu yi duan
 恭己正南面而已矣	gong ji zheng nan mian er yi yi
-恭近于礼	gong jin yu li
-恭宽信敏惠	gong kuan xin min hui
 公明贾对曰	gong ming jia dui yue
 攻其恶	gong qi e
 公山弗扰以费畔召	gong shan fu rao yi fei pan zhao
 宫室而尽力乎沟洫	gong shi er jin li hu gou xu
 公叔文子之臣大夫僎	gong shu wen zi zhi chen dai fu zhuan
-公西华曰	gong xi hua yue
-躬行君子	gong xing jun zi
-工欲善其事	gong yu shan qi shi
 公曰	gong yue
-恭则不侮	gong ze bu wu
 公则说	gong ze shuo
 攻之	gong zhi
 躬自厚而薄责于人	gong zi hou er bo ze yu ren
@@ -64346,19 +63745,10 @@ use_preset_vocabulary: false
 苟完矣	gou wan yi
 苟无所不至矣	gou wu suo bu zhi yi
 苟有过	gou you guo
-苟有用我者	gou you yong wo zhe
-苟正其身矣	gou zheng qi shen yi
-苟志于仁矣	gou zhi yu ren yi
-苟子之不欲	gou zi zhi bu yu
 觚不觚	gu bu gu
-故不为也	gu bu wei ye
-故多能鄙事	gu duo neng bi shi
-固而近于费	gu er jin yu fei
 鼓方叔入于河	gu fang shu ru yu he
 故夫三桓之子孙微矣	gu fu san huan zhi zi sun wei yi
 故进之	gu jin zhi
-故旧不遗	gu jiu bu yi
-沽酒市脯不食	gu jiu shi pu bu shi
 故旧无大故	gu jiu wu da gu
 故君子名之必可言也	gu jun zi ming zhi bi ke yan ye
 谷克伐怨欲不行焉	gu ke fa yuan yu bu xing yan
@@ -64367,270 +63757,146 @@ use_preset_vocabulary: false
 故退之	gu tui zhi
 固相师之道也	gu xiang shi zhi dao ye
 故艺	gu yi
-故远人不服	gu yuan ren bu fu
 觚哉	gu zai
-古者民有三疾	gu zhe min you san ji
-古者言之不出	gu zhe yan zhi bu chu
 古之	gu zhi
-古之道也	gu zhi dao ye
 古之狂也肆	gu zhi kuang ye si
 古之人皆然	gu zhi ren jie ran
-古之贤人也	gu zhi xian ren ye
-古之学者为己	gu zhi xue zhe wei ji
-古之愚也直	gu zhi yu ye zhi
 沽之哉	gu zhi zai
 瓜祭	gua ji
 观过	guan guo
 关雎	guan ju
-关雎之乱	guan ju zhi luan
 观其所由	guan qi suo you
 观其行	guan qi xing
 观其志	guan qi zhi
-官事不摄	guan shi bu she
-管氏而知礼	guan shi er zhi li
 管氏亦树塞门	guan shi yi shu sai men
 管氏有三归	guan shi you san gui
-冠者五六人	guan zhe wu liu ren
-管仲不死	guan zhong bu si
 管仲非仁者与	guan zhong fei ren zhe yu
 管仲俭乎	guan zhong jian hu
-管仲之力也	guan zhong zhi li ye
 管仲之器小哉	guan zhong zhi qi xiao zai
-归孔子豚	gui kong zi tun
-龟玉毁于椟中	gui yu hui yu du zhong
-过而不改	guo er bu gai
 过位	guo wei
 过也人皆见之	guo ye ren jie jian zhi
-过犹不及	guo you bu ji
 果哉	guo zai
-过则勿惮改	guo ze wu dan gai
 过之	guo zhi
-好刚不好学	hao gang bu hao xue
 好古	hao gu
-好谋而成者也	hao mou er cheng zhe ye
-好仁不好学	hao ren bu hao xue
 好仁者	hao ren zhe
-好信不好学	hao xin bu hao xue
-好行小慧	hao xing xiao hui
 好学也已	hao xue ye yi
-好勇不好学	hao yong bu hao xue
-好勇疾贫	hao yong ji pin
-好直不好学	hao zhi bu hao xue
-好知不好学	hao zhi bu hao xue
 好之者	hao zhi zhe
 何必	he bi
-何必读书	he bi du shu
-何必改作	he bi gai zuo
 何必公山氏之之也	he bi gong shan shi zhi zhi ye
 何必去父母之邦	he bi qu fu mu zhi bang
-河不出图	he bu chu tu
 盍彻乎	he che hu
-何德之衰	he de zhi shuai
 何陋之有	he lou zhi you
-何莫由斯道也	he mo you si dao ye
-何其多能也	he qi duo neng ye
 何如	he ru
 何如斯可谓之士矣	he ru si ke wei zhi shi yi
 何如斯可以从政矣	he ru si ke yi cong zheng yi
 何伤乎	he shang hu
-何事于仁	he shi yu ren
 何为	he wei
 和为贵	he wei gui
 何谓惠而不费	he wei hui er bu fei
 何为其莫知子也	he wei qi mo zhi zi ye
-何谓四恶	he wei si e
-何谓五美	he wei wu mei
 何谓也	he wei ye
-何为则民服	he wei ze min fu
 和无寡	he wu gua
 何晏也	he yan ye
-何以报德	he yi bao de
-何以伐为	he yi fa wei
-何以文为	he yi wen wei
 何有	he you
-何有于我哉	he you yu wo zai
 何哉	he zai
-何足算也	he zu suan ye
 何足以臧	he zu yi zang
-红紫不以为亵服	hong zi bu yi wei xie fu
 后进于礼乐	hou jin yu li yue
-后生可畏	hou sheng ke wei
-后世必为子孙忧	hou shi bi wei zi sun you
 后死者不得与	hou si zhe bu de yu
 虎豹之鞟犹犬羊之鞟	hu bao zhi kuo you quan yang zhi kuo
 狐貉之厚以居	hu he zhi hou yi ju
 狐裘	hu qiu
-虎兕出于柙	hu si chu yu xia
 互乡难与言	hu xiang nan yu yan
-忽焉在后	hu yan zai hou
 怀其宝而迷其邦	huai qi bao er mi qi bang
-患不知人也	huan bu zhi ren ye
 患得之	huan de zhi
 桓公九合诸侯	huan gong jiu he zhu hou
-桓公杀公子纠	huan gong sha gong zi jiu
 焕乎其有文章	huan hu qi you wen zhang
-患其不能也	huan qi bu neng ye
 患失之	huan shi zhi
-患所以立	huan suo yi li
 桓魋其如予何	huan tui qi ru yu he
 黄衣	huang yi
 回何敢死	hui he gan si
 诲女知之乎	hui nv zhi zhi hu
-诲人不倦	hui ren bu juan
 惠人也	hui ren ye
 绘事后素	hui shi hou su
-回虽不敏	hui sui bu min
 回也	hui ye
-回也不改其乐	hui ye bu gai qi le
-回也不愚	hui ye bu yu
-回也其庶乎	hui ye qi shu hu
 回也视予犹父也	hui ye shi yu you fu ye
-惠则足以使人	hui ze zu yi shi ren
-或承之羞	huo cheng zhi xiu
-或谓孔子曰	huo wei kong zi yue
 或问禘之说	huo wen di zhi shuo
-或问之曰	huo wen zhi yue
-或问子产	huo wen zi chan
 或曰	huo yue
-获罪于天	huo zui yu tian
-骥不称其力	ji bu cheng qi li
 既得之	ji de zhi
 既而曰	ji er yue
 既富矣	ji fu yi
 疾固也	ji gu ye
-季桓子受之	ji huan zi shou zhi
 及阶	ji jie
-既竭吾才	ji jie wu cai
 继绝世	ji jue shi
 季康子患盗	ji kang zi huan dao
-季康子问	ji kang zi wen
 季康子问政于孔子	ji kang zi wen zheng yu kong zi
 季康子问政于孔子曰	ji kang zi wen zheng yu kong zi yue
 既来之	ji lai zhi
-季路问事鬼神	ji lu wen shi gui shen
-及其老也	ji qi lao ye
-及其使人也	ji qi shi ren ye
-及其壮也	ji qi zhuang ye
 击磬乎	ji qing hu
 祭肉不出三日	ji rou bu chu san ri
 祭如在	ji ru zai
 祭神如神在	ji shen ru shen zai
-季氏第十六	ji shi di shi liu
-季氏富于周公	ji shi fu yu zhou gong
-季氏将伐颛臾	ji shi jiang fa zhuan yu
 季氏将有事于颛臾	ji shi jiang you shi yu zhuan yu
-季氏旅于泰山	ji shi lv yu tai shan
 季氏使闵子骞为费宰	ji shi shi min zi qian wei fei zai
 既庶矣	ji shu yi
 祭思敬	ji si jing
-己所不欲	ji suo bu yu
-既往不咎	ji wang bu jiu
 及席	ji xi
-己欲达而达人	ji yu da er da ren
 祭于公	ji yu gong
 己欲立而立人	ji yu li er li ren
-既欲其生	ji yu qi sheng
 吉月必朝服	ji yue bi chao fu
-期月而已可也	ji yue er yi ke ye
-即之也温	ji zhi ye wen
-祭之以礼	ji zhi yi li
 疾之已甚	ji zhi yi shen
-棘子成曰	ji zi cheng yue
 季子然问	ji zi ran wen
 箕子为之奴	ji zi wei zhi nu
 加朝服	jia chao fu
-嘉善而矜不能	jia shan er jin bu neng
-加我数年	jia wo shu nian
-加之以师旅	jia zhi yi shi lv
-见不善如探汤	jian bu shan ru tan tang
 见不贤而内自省也	jian bu xian er nei zi xing ye
 见得思义	jian de si yi
-见利思义	jian li si yi
-见冕者与瞽者	jian mian zhe yu gu zhe
-见其二子焉	jian qi er zi yan
-见齐衰者	jian qi shuai zhe
 见其与	jian qi yu
 见善如不及	jian shan ru bu ji
 见危授	jian wei shou
 见贤思齐焉	jian xian si qi yan
 见小利则	jian xiao li ze
 见义不为	jian yi bu wei
-简在帝心	jian zai di xin
 俭则固	jian ze gu
 见之	jian zhi
-见志不从	jian zhi bu cong
-见子夏曰	jian zi xia yue
-将命者出户	jiang ming zhe chu hu
 将入门	jiang ru men
 降一等	jiang yi deng
-降志辱身矣	jiang zhi ru shen yi
 皦如也	jiao ru ye
 教之	jiao zhi
 皆不及门也	jie bu ji men ye
-皆能有养	jie neng you yang
 桀溺曰	jie ni yue
 借人乘之	jie ren cheng zhi
-皆雅言也	jie ya yan ye
 阶也	jie ye
-节用而爱人	jie yong er ai ren
 戒之在得	jie zhi zai de
 戒之在斗	jie zhi zai dou
 戒之在色	jie zhi zai se
 皆坐	jie zuo
-今拜乎上	jin bai hu shang
 今不取	jin bu qu
 谨而信	jin er xin
-今夫颛臾	jin fu zhuan yu
 尽美矣	jin mei yi
 今女安	jin nv an
 今女画	jin nv hua
 谨权量	jin quan liang
 近仁	jin ren
-浸润之谮	jin run zhi zen
-今亡矣夫	jin wang yi fu
 晋文公谲而不正	jin wen gong jue er bu zheng
 今也纯俭	jin ye chun jian
 今也或是之亡也	jin ye huo shi zhi wang ye
 矜也廉	jin ye lian
-今也则亡	jin ye ze wang
-今由与求也	jin you yu qiu ye
 近者说	jin zhe shuo
 今之成人者何必然	jin zhi cheng ren zhe he bi ran
-今之从政者殆而	jin zhi cong zheng zhe dai er
 今之从政者何如	jin zhi cong zheng zhe he ru
 今之矜也忿戾	jin zhi jin ye fen li
-今之狂也荡	jin zhi kuang ye dang
-今之孝者	jin zhi xiao zhe
-今之学者为人	jin zhi xue zhe wei ren
 今之愚也诈而已矣	jin zhi yu ye zha er yi yi
-近之则不孙	jin zhi ze bu sun
 敬鬼神而远之	jing gui shen er yuan zhi
-敬事而信	jing shi er xin
 敬虽州里行乎哉	jing sui zhou li xing hu zai
-井有仁焉	jing you ren yan
 厩焚	jiu fen
-旧谷既没	jiu gu ji mei
-九人而已	jiu ren er yi
 久要不忘平生之言	jiu yao bu wang ping sheng zhi yan
 久矣吾不复梦见周公	jiu yi wu bu fu meng jian zhou gong
 久矣哉	jiu yi zai
-就有道而正焉	jiu you dao er zheng yan
-居必迁坐	ju bi qian zuo
-俱不得其死然	ju bu de qi si ran
 居不容	ju bu rong
-居处不安	ju chu bu an
 居处恭	ju chu gong
-举尔所知	ju er suo zhi
 举皋陶	ju gao yao
-鞠躬如也	ju gong ru ye
-居简而行简	ju jian er xing jian
-居敬而行简	ju jing er xing jian
 居其所而众星共之	ju qi suo er zhong xing gong zhi
 举善而教不能	ju shan er jiao bu neng
-居上不宽	ju shang bu kuan
-居是邦也	ju shi bang ye
 举枉错诸	ju wang cuo zhu
-居无求安	ju wu qiu an
 居吾语女	ju wu yu nv
 举贤才	ju xian cai
 举逸民	ju yi min
@@ -64638,11 +63904,6 @@ use_preset_vocabulary: false
 举一隅不以三隅反	ju yi yu bu yi san yu fan
 据于德	ju yu de
 居则曰	ju ze yue
-居之不疑	ju zhi bu yi
-举直错诸枉	ju zhi cuo zhu wang
-居之无倦	ju zhi wu juan
-狷者有所不为也	juan zhe you suo bu wei ye
-君臣之义	jun chen zhi yi
 君称之曰夫人	jun cheng zhi yue fu ren
 君赐生	jun ci sheng
 君赐食	jun ci shi
@@ -64651,225 +63912,114 @@ use_preset_vocabulary: false
 君薨	jun hong
 君祭	jun ji
 君君臣臣父父子子	jun jun chen chen fu fu zi zi
-军旅之事	jun lv zhi shi
 君命召	jun ming zhao
 君取于吴	jun qu yu wu
 君使臣	jun shi chen
-君使臣以礼	jun shi chen yi li
 君视之	jun shi zhi
-君孰与不足	jun shu yu bu zu
-君孰与足	jun shu yu zu
 君曰告夫三子者	jun yue gao fu san zi zhe
 君在	jun zai
 君召使摈	jun zhao shi bin
 君子	jun zi
-君子病无能焉	jun zi bing wu neng yan
 君子博学于文	jun zi bo xue yu wen
-君子不可小知	jun zi bu ke xiao zhi
 君子不器	jun zi bu qi
 君子不入也	jun zi bu ru ye
 君子不施其亲	jun zi bu shi qi qin
 君子不以绀緅饰	jun zi bu yi gan zou shi
-君子不以言举人	jun zi bu yi yan ju ren
-君子不忧不惧	jun zi bu you bu ju
 君子不重	jun zi bu zhong
 君子成人之美	jun zi cheng ren zhi mei
 君子耻其言而过其行	jun zi chi qi yan er guo qi xing
-君子道者三	jun zi dao zhe san
-君子多乎哉	jun zi duo hu zai
 君子而不仁者有矣夫	jun zi er bu ren zhe you yi fu
-君子和而不同	jun zi he er bu tong
 君子何患乎无兄	jun zi he huan hu wu xiong
-君子怀德	jun zi huai de
 君子怀刑	jun zi huai xing
-君子惠而不费	jun zi hui er bu fei
 君子疾夫舍曰欲之而必为之辞	jun zi ji fu she yue yu zhi er bi wei zhi ci
 君子疾没世而名不称焉	jun zi ji mo shi er ming bu cheng yan
-君子矜而不争	jun zi jin er bu zheng
-君子敬而无失	jun zi jing er wu shi
-君子居之	jun zi ju zhi
-君子可逝也	jun zi ke shi ye
-君子谋道不谋食	jun zi mou dao bu mou shi
-君子求诸己	jun zi qiu zhu ji
-君子去仁	jun zi qu ren
 君子人	jun zi ren
 君子三年不为礼	jun zi san nian bu wei li
-君子上达	jun zi shang da
-君子尚勇乎	jun zi shang yong hu
-君子食无求饱	jun zi shi wu qiu bao
-君子思不出其位	jun zi si bu chu qi wei
 君子所贵乎道者三	jun zi suo gui hu dao zhe san
-君子泰而不骄	jun zi tai er bu jiao
 君子坦荡荡	jun zi tan dang dang
 君子务本	jun zi wu ben
-君子无所争	jun zi wu suo zheng
-君子无众寡	jun zi wu zhong gua
 君子无终食之间违仁	jun zi wu zhong shi zhi jian wei ren
 君子信而后劳其民	jun zi xin er hou lao qi min
-君子学道则爱人	jun zi xue dao ze ai ren
-君子学以致其道	jun zi xue yi zhi qi dao
 君子也	jun zi ye
 君子亦党乎	jun zi yi dang hu
 君子易事而难说也	jun zi yi shi er nan shuo ye
-君子以文会友	jun zi yi wen hui you
-君子一言以为知	jun zi yi yan yi wei zhi
-君子义以为上	jun zi yi yi wei shang
-君子义以为质	jun zi yi yi wei zhi
 君子亦有恶乎	jun zi yi you e hu
-君子亦有穷乎	jun zi yi you qiong hu
 君子忧	jun zi you
-君子有九思	jun zi you jiu si
-君子有三变	jun zi you san bian
-君子有三戒	jun zi you san jie
-君子有三畏	jun zi you san wei
 君子有勇而无义为乱	jun zi you yong er wu yi wei luan
 君子欲讷于言而敏于行	jun zi yu ne yu yan er min yu xing
-君子于其所不知	jun zi yu qi suo bu zhi
-君子于其言	jun zi yu qi yan
 君子喻于义	jun zi yu yu yi
 君子哉	jun zi zai
 君子哉蘧伯玉	jun zi zai qu bo yu
-君子哉若人	jun zi zai ruo ren
-君子者乎	jun zi zhe hu
-君子贞而不谅	jun zi zhen er bu liang
-君子之道	jun zi zhi dao
-君子之德风	jun zi zhi de feng
-君子质而已矣	jun zi zhi er yi yi
-君子之过也	jun zi zhi guo ye
-君子之仕也	jun zi zhi shi ye
-君子之于天下也	jun zi zhi yu tian xia ye
-君子之至于斯也	jun zi zhi zhi yu si ye
-君子周而不比	jun zi zhou er bu bi
-君子周急不继富	jun zi zhou ji bu ji fu
 君子尊贤而容众	jun zi zun xian er rong zhong
-侃侃如也	kan kan ru ye
-康子馈药	kang zi kui yao
 康子曰	kang zi yue
 可而为之者与	ke er wei zhi zhe yu
-克己复礼为仁	ke ji fu li wei ren
 可欺也	ke qi ye
 可使南面	ke shi nan mian
-可使有勇	ke shi you yong
-可使足民	ke shi zu min
 可谓	ke wei
 可谓大臣与	ke wei da chen yu
-可谓好学也已矣	ke wei hao xue ye yi yi
 可谓具臣矣	ke wei ju chen yi
 可谓明也已矣	ke wei ming ye yi yi
-可谓仁乎	ke wei ren hu
-可谓仁矣	ke wei ren yi
-可谓仁之方也已	ke wei ren zhi fang ye yi
 可谓士	ke wei shi
-可谓士矣	ke wei shi yi
-可谓孝矣	ke wei xiao yi
 可谓远也已矣	ke wei yuan ye yi yi
-可谓知乎	ke wei zhi hu
-可谓知矣	ke wei zhi yi
 可也	ke ye
 可以观	ke yi guan
-可以寄百里之命	ke yi ji bai li zhi ming
 可以群	ke yi qun
-可以托六尺之孤	ke yi tuo liu chi zhi gu
-可以为难矣	ke yi wei nan yi
 可以为仁矣	ke yi wei ren yi
 可以为师矣	ke yi wei shi yi
 可以为文矣	ke yi wei wen yi
-可以无大过矣	ke yi wu da guo yi
-可以语上也	ke yi yu shang ye
 可以怨	ke yi yuan
-可与共学	ke yu gong xue
 可与立	ke yu li
-可与适道	ke yu shi dao
 可与言而不与言	ke yu yan er bu yu yan
-可者与之	ke zhe yu zhi
 可知也	ke zhi ye
 铿尔	keng er
 硁硁乎	keng keng hu
 硁硁然	keng keng ran
 悾悾而不信	kong kong er bu xin
-空空如也	kong kong ru ye
-孔子不见	kong zi bu jian
-孔子辞以疾	kong zi ci yi ji
-孔子对曰	kong zi dui yue
-孔子过之	kong zi guo zhi
-孔子沐浴而朝	kong zi mu yu er chao
 孔子时其亡也	kong zi shi qi wang ye
 孔子退	kong zi tui
-孔子谓季氏	kong zi wei ji shi
 孔子下	kong zi xia
 孔子行	kong zi xing
 孔子以其兄之子妻之	kong zi yi qi xiong zhi zi qi zhi
-孔子于乡党	kong zi yu xiang dang
 孔子与之坐而问焉	kong zi yu zhi zuo er wen yan
 孔子曰	kong zi yue
 叩其胫	kou qi jing
-脍不厌细	kuai bu yan xi
 宽则得众	kuan ze de zhong
-狂而不直	kuang er bu zhi
 匡人其如予何	kuang ren qi ru yu he
-狂者进取	kuang zhe jin qu
-窥见室家之好	kui jian shi jia zhi hao
-困而不学	kun er bu xue
-困而学之	kun er xue zhi
 来予与尔言	lai yu yu er yan
 来者犹可追	lai zhe you ke zhui
-老而不死	lao er bu si
 劳而不怨	lao er bu yuan
 牢曰	lao yue
 乐必崩	le bi beng
-乐道人之善	le dao ren zhi shan
-乐多贤友	le duo xian you
-乐而不淫	le er bu yin
 乐骄乐	le jiao le
-乐其可知也	le qi ke zhi ye
-乐然后笑	le ran hou xiao
 乐宴乐	le yan le
-乐以忘忧	le yi wang you
 乐佚游	le yi you
-乐亦在其中矣	le yi zai qi zhong yi
-乐云乐云	le yun le yun
 乐则韶	le ze shao
 诔曰	lei yue
 礼必坏	li bi huai
-立不中门	li bu zhong men
-力不足也	li bu zu ye
-力不足者	li bu zu zhe
 礼后乎	li hou hu
 犁牛之子骍且角	li niu zhi zi xing qie jiao
-鲤趋而过庭	li qu er guo ting
-里仁第四	li ren di si
 里仁为美	li ren wei mei
 鲤退	li tui
-鲤退而学礼	li tui er xue li
 礼也	li ye
 鲤也死	li ye si
-礼以行之	li yi xing zhi
 立于礼	li yu li
 礼与其奢也	li yu qi she ye
 礼乐不兴	li yue bu xing
-礼云礼云	li yun li yun
 立则见其参于前也	li ze jian qi can yu qian ye
 礼之用	li zhi yong
 临大节而不可夺也	lin da jie er bu ke duo ye
-林放问礼之本	lin fang wen li zhi ben
-临丧不哀	lin sang bu ai
 临之以庄	lin zhi yi zhuang
 六十而耳顺	liu shi er er shun
 柳下惠为士师	liu xia hui wei shi shi
 鲁人为长府	lu ren wei zhang fu
-鲁卫之政	lu wei zhi zheng
 路文学	lu wen xue
 鲁一变	lu yi bian
-禄在其中矣	lu zai qi zhong yi
 禄之去公室五世矣	lu zhi qu gong shi wu shi yi
 乱邦不居	luan bang bu ju
 乱也	luan ye
 论笃是与	lun du shi yu
 屡空	lv kong
-虑以下人	lv yi xia ren
-马不进也	ma bu jin ye
 麻冕	ma mian
-慢令致期谓之贼	man ling zhi qi wei zhi zei
 貌思恭	mao si gong
 没阶	mei jie
 美目盼兮	mei mu pan xi
@@ -64877,91 +64027,57 @@ use_preset_vocabulary: false
 门人不敬子路	men ren bu jing zi lu
 门人厚葬之	men ren hou zang zhi
 门人惑	men ren huo
-门人问曰	men ren wen yue
 门人欲厚葬之	men ren yu hou zang zhi
 孟公绰为赵魏老则优	meng gong chuo wei zhao wei lao ze you
-孟敬子问之	meng jing zi wen zhi
 孟氏使阳肤为士师	meng shi shi yang fu wei shi shi
-孟孙问孝于我	meng sun wen xiao yu wo
-孟武伯问孝	meng wu bo wen xiao
-孟懿子问孝	meng yi zi wen xiao
-孟之反不伐	meng zhi fan bu fa
 孟庄子之孝也	meng zhuang zi zhi xiao ye
 苗而不秀者有矣夫	miao er bu xiu zhe you yi fu
 民到	min dao
 民到于今受其赐	min dao yu jin shou qi ci
-民德归厚矣	min de gui hou yi
 民可使由之	min ke shi you zhi
 民免而无耻	min mian er wu chi
-民散久矣	min san jiu yi
 民食丧祭	min shi sang ji
-民斯为下矣	min si wei xia yi
 民无得而称焉	min wu de er cheng yan
 民无德而称焉	min wu de er cheng yan
 民无能	min wu neng
-民无信不立	min wu xin bu li
-民鲜久矣	min xian jiu yi
 民信之矣	min xin zhi yi
-敏以求之者也	min yi qiu zhi zhe ye
-敏于事而慎于言	min yu shi er shen yu yan
-敏则有功	min ze you gong
 民之于仁也	min zhi yu ren ye
 闵子骞	min zi qian
 闵子骞曰	min zi qian yue
 闵子侍侧	min zi shi ce
 名不正	ming bu zheng
 明日	ming ri
-明日遂行	ming ri sui xing
 名焉	ming yan
 命也	ming ye
 命矣夫	ming yi fu
 莫不有文武之道焉	mo bu you wen wu zhi dao yan
 没齿无怨言	mo chi wu yuan yan
 莫春者	mo chun zhe
-磨而不磷	mo er bu lin
-默而识之	mo er shi zhi
 莫敢不服	mo gan bu fu
-莫己知也	mo ji zhi ye
 莫能兴	mo neng xing
-莫我知也夫	mo wo zhi ye fu
-莫吾犹人也	mo wu you ren ye
 末由也已	mo you ye yi
 莫予违也	mo yu wei ye
-末之难矣	mo zhi nan yi
 末之也	mo zhi ye
 某在斯	mou zai si
-南宫适出	nan gong shi chu
 南宫适问于孔子曰	nan gong shi wen yu kong zi yue
 难乎免于今之世矣	nan hu mian yu jin zhi shi yi
 难乎有恒矣	nan hu you heng yi
-南人有言曰	nan ren you yan yue
-南容三复白圭	nan rong san fu bai gui
 难矣哉	nan yi zai
 难与并为仁矣	nan yu bing wei ren yi
-内省不疚	nei xing bu jiu
-馁在其中矣	nei zai qi zhong yi
 能恶人	neng e ren
-能竭其力	neng jie qi li
-能近取譬	neng jin qu pi
 能来也	neng lai ye
 能使	neng shi
-能使枉者直	neng shi wang zhe zhi
 能无从乎	neng wu cong hu
 能勿诲乎	neng wu hui hu
 能勿劳乎	neng wu lao hu
 能无说乎	neng wu shuo hu
 能行五者于天下为仁矣	neng xing wu zhe yu tian xia wei ren yi
-能以礼让为国乎	neng yi li rang wei guo hu
-能致其身	neng zhi qi shen
 麑裘	ni qiu
 年饥	nian ji
 年四十而见恶焉	nian si shi er jian e yan
-鸟兽不可与同群	niao shou bu ke yu tong qun
 鸟之将死	niao zhi jiang si
-涅而不缁	nie er bu zi
 宁固	ning gu
 宁俭	ning jian
-宁媚于灶	ning mei yu zao
 宁戚	ning qi
 佞人殆	ning ren dai
 佞也	ning ye
@@ -64973,53 +64089,21 @@ use_preset_vocabulary: false
 女奚不曰	nv xi bu yue
 女以予为多学而识之者与	nv yi yu wei duo xue er shi zhi zhe yu
 匏瓜也哉	pao gua ye zai
-陪臣执国命	pei chen zhi guo ming
 朋友切切偲偲	peng you qie qie si si
 朋友数	peng you shu
 朋友死	peng you si
-朋友之馈	peng you zhi kui
 匹夫不可夺志也	pi fu bu ke duo zhi ye
-譬如北辰	pi ru bei chen
-譬如平地	pi ru ping di
-譬如为山	pi ru wei shan
-譬之宫墙	pi zhi gong qiang
-譬诸草木	pi zhu cao mu
-譬诸小人	pi zhu xiao ren
-偏其反而	pian qi fan er
-贫而无谄	pin er wu chan
-贫而无怨难	pin er wu yuan nan
-贫且贱焉	pin qie jian yan
 贫与贱	pin yu jian
 屏四恶	ping si e
-其蔽也荡	qi bi ye dang
-其蔽也绞	qi bi ye jiao
-其蔽也狂	qi bi ye kuang
-其蔽也乱	qi bi ye luan
-其蔽也愚	qi bi ye yu
-其蔽也贼	qi bi ye zei
-岂不尔思	qi bu er si
 其不改父之臣	qi bu gai fu zhi chen
-其不可者拒之	qi bu ke zhe ju zhi
-其不善者恶之	qi bu shan zhe e zhi
-其不善者而改之	qi bu shan zhe er gai zhi
-杞不足征也	qi bu zu zheng ye
-其次辟地	qi ci pi di
-其次辟色	qi ci pi se
-其次辟言	qi ci pi yan
-其从之也	qi cong zhi ye
-其父攘羊	qi fu rang yang
 齐何人也	qi he ren ye
-其何伤于日月乎	qi he shang yu ri yue hu
-其何以行之哉	qi he yi xing zhi zai
 齐桓公正而不谲	qi huan gong zheng er bu jue
 其回也与	qi hui ye yu
-其或继周者	qi huo ji zhou zhe
 齐景公待孔子曰	qi jing gong dai kong zi yue
 齐景公问政于孔子	qi jing gong wen zheng yu kong zi
 齐景公有马千驷	qi jing gong you ma qian si
 其可谓至德也已矣	qi ke wei zhi de ye yi yi
 其可已矣	qi ke yi yi
-期可已矣	qi ke yi yi
 其门而入	qi men er ru
 其鸣也哀	qi ming ye ai
 岂其然乎	qi qi ran hu
@@ -65032,68 +64116,39 @@ use_preset_vocabulary: false
 岂若匹夫匹妇之为谅也	qi ruo pi fu pi fu zhi wei liang ye
 其身不正	qi shen bu zheng
 其身正	qi shen zheng
-其生也荣	qi sheng ye rong
 七十而从心所欲	qi shi er cong xin suo yu
 其事也	qi shi ye
 其恕乎	qi shu hu
-其舜也与	qi shun ye yu
-其斯而已矣	qi si er yi yi
-其死也哀	qi si ye ai
-其斯之谓与	qi si zhi wei yu
-其他可能也	qi ta ke neng ye
 欺天乎	qi tian hu
-其未得之也	qi wei de zhi ye
 其为仁	qi wei ren
-其为人也	qi wei ren ye
 其为人也孝弟	qi wei ren ye xiao di
-其为仁之本与	qi wei ren zhi ben yu
-其惟圣人乎	qi wei sheng ren hu
 其心三月不违仁	qi xin san yue bu wei ren
-其言不让	qi yan bu rang
-其言似不足者	qi yan si bu zu zhe
 其言也讱	qi yan ye ren
-其言也善	qi yan ye shan
-其言之不怍	qi yan zhi bu zuo
 齐一变	qi yi bian
-期已久矣	qi yi jiu yi
 其犹穿窬之盗也与	qi you chuan yu zhi dao ye yu
-其有所试矣	qi you suo shi yi
-其由也与	qi you ye yu
 其犹正墙面而立也与	qi you zheng qiang mian er li ye yu
 其余不足观也已	qi yu bu zu guan ye yi
 启予手	qi yu shou
 其余则日月至焉而已矣	qi yu ze ri yue zhi yan er yi yi
-起予者商也	qi yu zhe shang ye
 启予足	qi yu zu
-其在宗庙朝廷	qi zai zong miao chao ting
-其争也君子	qi zheng ye jun zi
 器之	qi zhi
-其至矣乎	qi zhi yi hu
 齐之以礼	qi zhi yi li
 齐之以刑	qi zhi yi xing
-其终也已	qi zhong ye yi
 其诸异乎人之求之与	qi zhu yi hu ren zhi qiu zhi yu
 千乘之国	qian sheng zhi guo
-前言戏之耳	qian yan xi zhi er
-浅则揭	qian ze jie
 巧笑倩兮	qiao xiao qian xi
-巧言令色	qiao yan ling se
 巧言乱德	qiao yan luan de
 窃比于我老彭	qie bi yu wo lao peng
-且尔言过矣	qie er yan guo yi
 且而与其从辟人之士	qie er yu qi cong pi ren zhi shi
 切切偲偲	qie qie si si
 切问而近思	qie wen er jin si
 且予与其死于臣之手也	qie yu yu qi si yu chen zhi shou ye
 且予纵	qie yu zong
 且在邦域之	qie zai bang yu zhi
-且知方也	qie zhi fang ye
 寝不尸	qin bu shi
 寝不言	qin bu yan
 亲于其身为不善者	qin yu qi shen wei bu shan zhe
-请事斯语矣	qing shi si yu yi
 请讨之	qing tao zhi
-请问其目	qing wen qi mu
 请问之	qing wen zhi
 请学为圃	qing xue wei pu
 请益	qing yi
@@ -65103,14 +64158,11 @@ use_preset_vocabulary: false
 丘何为是栖栖者与	qiu he wei shi xi xi zhe yu
 丘陵	qiu ling
 求其志	qiu qi zhi
-求仁而得仁	qiu ren er de ren
 求善贾而沽诸	qiu shan jia er gu zhu
 丘未达	qiu wei da
-求为可知也	qiu wei ke zhi ye
 求无乃尔是过与	qiu wu nai er shi guo yu
 求也可使从政也与	qiu ye ke shi cong zheng ye yu
 求也退	qiu ye tui
-求也为之	qiu ye wei zhi
 求也问闻斯行诸	qiu ye wen wen si xing zhu
 丘也闻有国有家者	qiu ye wen you guo you jia zhe
 丘也幸	qiu ye xing
@@ -65120,18 +64172,11 @@ use_preset_vocabulary: false
 去兵	qu bing
 蘧伯玉使人于孔子	qu bo yu shi ren yu kong zi
 趋而辟之	qu er pi zhi
-曲肱而枕之	qu gong er zhen zhi
 趋进	qu jin
 去丧	qu sang
-取瑟而歌	qu se er ge
 去食	qu shi
-区以别矣	qu yi bie yi
 阙党童子将命	que dang tong zi jiang ming
-群而不党	qun er bu dang
-群居终日	qun ju zhong ri
-然而未仁	ran er wei ren
 然非与	ran fei yu
-然后君子	ran hou jun zi
 然后免于父母之怀	ran hou mian yu fu mu zhi huai
 然后为学	ran hou wei xue
 然后乐正	ran hou yue zheng
@@ -65146,249 +64191,138 @@ use_preset_vocabulary: false
 冉有子贡侃侃如也	ran you zi gong kan kan ru ye
 然则从之者与	ran ze cong zhi zhe yu
 然则管	ran ze guan
-然则师愈与	ran ze shi yu yu
 冉子退朝	ran zi tui chao
 冉子为其母请粟	ran zi wei qi mu qing su
 冉子与之粟五秉	ran zi yu zhi su wu bing
-人必知之	ren bi zhi zhi
 人不	ren bu
 人不间于其父母昆弟之言	ren bu jian yu qi fu mu kun di zhi yan
-人不堪其忧	ren bu kan qi you
-仁不能守之	ren bu neng shou zhi
-人不厌其取	ren bu yan qi qu
-人不厌其言	ren bu yan qi yan
 人不知	ren bu zhi
-人而不仁	ren er bu ren
 人而不为周南召南	ren er bu wei zhou nan zhao nan
-人而无恒	ren er wu heng
-人而无信	ren er wu xin
-人将拒我	ren jiang ju wo
 人洁己以进	ren jie ji yi jin
-人皆有兄弟	ren jie you xiong di
-人能弘道	ren neng hong dao
-仁能守之	ren neng shou zhi
-人其舍诸	ren qi she zhu
 人虽欲自绝	ren sui yu zi jue
 人未有自致者也	ren wei you zi zhi zhe ye
-人无远虑	ren wu yuan lv
-人焉廋哉	ren yan sou zai
 人也	ren ye
-人以为谄也	ren yi wei chan ye
 仁以为己任	ren yi wei ji ren
-仁远乎哉	ren yuan hu zai
 人曰	ren yue
-仁在其中矣	ren zai qi zhong yi
 仁则吾不	ren ze wu bu
 仁者	ren zhe
-仁者安仁	ren zhe an ren
-仁者必有勇	ren zhe bi you yong
 仁者不忧	ren zhe bu you
 仁者静	ren zhe jing
-仁者乐山	ren zhe le shan
 仁者寿	ren zhe shou
 仁者先难而后获	ren zhe xian nan er hou huo
-人之过也	ren zhi guo ye
-人之将死	ren zhi jiang si
-人之生也直	ren zhi sheng ye zhi
-人之言曰	ren zhi yan yue
 任重而道远	ren zhong er dao yuan
 仍旧贯	reng jiu guan
-日月逝矣	ri yue shi yi
 日月也	ri yue ye
-日知其所亡	ri zhi qi suo wang
 肉虽多	rou sui duo
 孺悲欲见孔子	ru bei yu jian kong zi
 如不祭	ru bu ji
-如不可求	ru bu ke qiu
 如不容	ru bu rong
 如不如乡人之善者好之	ru bu ru xiang ren zhi shan zhe hao zhi
 如不善而莫之违也	ru bu shan er mo zhi wei ye
 如不胜	ru bu sheng
-如得其情	ru de qi qing
 如浮云	ru fu yun
 入公门	ru gong men
 如会同	ru hui tong
 如乐何	ru le he
 如礼何	ru li he
 如临	ru lin
-如履薄冰	ru lv bo bing
-如其礼乐	ru qi li yue
 如其仁	ru qi ren
 如其善而莫之违也	ru qi shan er mo zhi wei ye
-如日月之食焉	ru ri yue zhi shi yan
-如杀无道	ru sha wu dao
-如斯而已乎	ru si er yi hu
 入太庙	ru tai miao
-如五六十	ru wu liu shi
 如也	ru ye
 如用之	ru yong zhi
 如有博施于民而能济众	ru you bo shi yu min er neng ji zhong
 如有所立卓尔	ru you suo li zhuo er
 如有所誉者	ru you suo yu zhe
-如有王者	ru you wang zhe
-如有用我者	ru you yong wo zhe
 如有政	ru you zheng
 如有周公之才之美	ru you zhou gong zhi cai zhi mei
 如愚	ru yu
 入曰	ru yue
-入则事父兄	ru ze shi fu xiong
-如正人何	ru zheng ren he
 如之何	ru zhi he
-如之何其彻也	ru zhi he qi che ye
-如之何其废之	ru zhi he qi fei zhi
 如之何其拒人也	ru zhi he qi ju ren ye
-如之何其可及也	ru zhi he qi ke ji ye
 如之何其闻斯行之	ru zhi he qi wen si xing zhi
 如之何者	ru zhi he zhe
-如知为君之难也	ru zhi wei jun zhi nan ye
 如琢如磨	ru zhuo ru mo
 若季氏则吾不能	ruo ji shi ze wu bu neng
-若圣与仁	ruo sheng yu ren
 若由也	ruo you ye
-若臧武仲之知	ruo zang wu zhong zhi zhi
 三黜	san chu
 三代	san dai
 三饭缭适蔡	san fan liao shi cai
-三分天下有其二	san fen tian xia you qi er
 三家者	san jia zhe
 三军可夺帅也	san jun ke duo shuai ye
 三年	san nian
-三年不为乐	san nian bu wei le
-三年不言	san nian bu yan
 三年无改于父之道	san nian wu gai yu fu zhi dao
 三年学	san nian xue
 三年有成	san nian you cheng
-三年之丧	san nian zhi sang
 三人行	san ren xing
-三日不朝	san ri bu chao
 三世	san shi
-三十而立	san shi er li
-三嗅而作	san xiu er zuo
-三以天下让	san yi tian xia rang
-三月不知肉味	san yue bu zhi rou wei
-三子者出	san zi zhe chu
 丧邦乎	sang bang hu
-丧事不敢不勉	sang shi bu gan bu mian
 丧思哀	sang si ai
 丧与其易也	sang yu qi yi ye
-丧致乎哀而止	sang zhi hu ai er zhi
-色勃如也	se bo ru ye
 色恶	se e
-色厉而内荏	se li er nei ren
 色难	se nan
 色取仁	se qu ren
-色斯举矣	se si ju yi
 色思温	se si wen
-色庄者乎	se zhuang zhe hu
-杀鸡为黍而食之	sha ji wei shu er shi zhi
-山川其舍诸	shan chuan qi she zhu
 善夫	shan fu
 善居室	shan ju shi
 山梁雌雉	shan liang ci zhi
 善人教民七年	shan ren jiao min qi nian
-善人是富	shan ren shi fu
-善人为邦百年	shan ren wei bang bai nian
 善人吾不得而见之矣	shan ren wu bu de er jian zhi yi
 善为我辞焉如有复我者	shan wei wo ci yan ru you fu wo zhe
 善诱人	shan you ren
 善哉	shan zai
 善哉问	shan zai wen
-尚德哉若人	shang de zai ruo ren
 上好礼	shang hao li
 上好信	shang hao xin
 上好义	shang hao yi
 伤人乎	shang ren hu
 上如揖	shang ru yi
-上失其道	shang shi qi dao
-商闻之矣	shang wen zhi yi
 上下神只	shang xia shen zhi
-商也不及	shang ye bu ji
 上矣	shang yi
 上者	shang zhe
 少师阳击磬襄入于海	shao shi yang ji qing xiang ru yu hai
 少有	shao you
 少之时	shao zhi shi
-射不主皮	she bu zhu pi
-摄乎大国之间	she hu da guo zhi jian
-摄齐升堂	she qi sheng tang
-舍瑟而作	she se er zuo
 赦小过	she xiao guo
-奢则不孙	she ze bu sun
-舍之则藏	she zhi ze cang
 慎而无礼则葸	shen er wu li ze xi
 审法度	shen fa du
-申申如也	shen shen ru ye
-慎行其余	shen xing qi yu
-慎言其余	shen yan qi yu
 甚矣吾衰也	shen yi wu shuai ye
-甚于水火	shen yu shui huo
 深渊	shen yuan
-深则厉	shen ze li
 身中清	shen zhong qing
-慎终追远	shen zhong zhui yuan
 升车	sheng che
-生而知之者上也	sheng er zhi zhi zhe shang ye
 圣人吾不得而见之矣	sheng ren wu bu de er jian zhi yi
 事不成	shi bu cheng
-士不可以不弘毅	shi bu ke yi bu hong yi
-食不厌精	shi bu yan jing
 食不语	shi bu yu
 是道也	shi dao ye
-士而怀居	shi er huai ju
-仕而优则学	shi er you ze xue
 式负	shi fu
 食夫稻	shi fu dao
 事父母	shi fu mu
-事父母几谏	shi fu mu ji jian
 弑父与君	shi fu yu jun
 是故恶夫佞者	shi gu e fu ning zhe
-是故哂之	shi gu shen zhi
 士何如斯可谓之达矣	shi he ru si ke wei zhi da yi
 使乎	shi hu
 是惑也	shi huo ye
 士见危致命	shi jian wei zhi ming
-使骄且吝	shi jiao qie lin
 事君	shi jun
-事君尽礼	shi jun jin li
 事君敬其事	shi jun jing qi shi
 事君数	shi jun shu
-是可忍也	shi ke ren ye
-诗可以兴	shi ke yi xing
-始可与言诗已矣	shi ke yu yan shi yi yi
 是礼也	shi li ye
-是鲁孔丘与	shi lu kong qiu yu
 是鲁孔丘之徒与	shi lu kong qiu zhi tu yu
 师冕出	shi mian chu
 师冕见	shi mian jian
-使民敬忠以劝	shi min jing zhong yi quan
-使民如承大祭	shi min ru cheng da ji
-使民以时	shi min yi shi
-使民战栗	shi min zhan li
-是难能也	shi nan neng ye
-事其大夫之贤者	shi qi dai fu zhi xian zhe
-视其所以	shi qi suo yi
 是丘也	shi qiu ye
 失饪	shi ren
 失人	shi ren
 是人之	shi ren zhi
-是人之所欲也	shi ren zhi suo yu ye
 实若虚	shi ruo xu
 诗三百	shi san bai
-是社稷之臣也	shi she ji zhi chen ye
-十世可知也	shi shi ke zhi ye
 侍食于君	shi shi yu jun
 室是远而	shi shi yuan er
-世叔讨论之	shi shu tao lun zhi
 诗书执礼	shi shu zhi li
-是谁之过与	shi shui zhi guo yu
 事思	shi si
 视思明	shi si ming
-是谓过矣	shi wei guo yi
-是谓能养	shi wei neng yang
-是谓弃之	shi wei qi zhi
 是为贼	shi wei zei
 是闻也	shi wen ye
-是吾忧也	shi wu you ye
 是贤乎	shi xian hu
 失言	shi yan
 是也	shi ye
@@ -65397,180 +64331,96 @@ use_preset_vocabulary: false
 食饐而餲	shi yi er ai
 是以君子不为也	shi yi jun zi bu wei ye
 是以君子恶居下流	shi yi jun zi wu ju xia liu
-是亦为政	shi yi wei zheng
 氏亦有反坫	shi yi you fan dian
 始有	shi you
 侍于君子有三愆	shi yu jun zi you san qian
-师与商也孰贤	shi yu shang ye shu xian
-使于四方	shi yu si fang
-施于有政	shi yu you zheng
 诗云	shi yun
 诗云如切如磋	shi yun ru qie ru cuo
-时哉时哉	shi zai shi zai
 使者出	shi zhe chu
-逝者如斯夫	shi zhe ru si fu
-食旨不甘	shi zhi bu gan
 是知津	shi zhi jin
 是知其不	shi zhi qi bu
-使之闻之	shi zhi wen zhi
 是知也	shi zhi ye
 事之以礼	shi zhi yi li
-士志于道	shi zhi yu dao
-师挚之始	shi zhi zhi shi
-使子路反见之	shi zi lu fan jian zhi
 使子路问津焉	shi zi lu wen jin yan
 始作	shi zuo
 守死善道	shou si shan dao
-授之以政	shou zhi yi zheng
-孰不可忍也	shu bu ke ren ye
-孰不知礼	shu bu zhi li
-述而不作	shu er bu zuo
-述而第七	shu er di qi
-孰敢不正	shu gan bu zheng
-孰后倦焉	shu hou juan yan
-孰能为之大	shu neng wei zhi da
 叔孙武叔毁仲尼	shu sun wu shu hui zhong ni
 叔孙武叔语大夫于朝	shu sun wu shu yu dai fu yu chao
-孰为夫子	shu wei fu zi
 孰谓鄹人之子知礼乎	shu wei zou ren zhi zi zhi li hu
-孰先传焉	shu xian chuan yan
 庶矣哉	shu yi zai
 书云	shu yun
-谁毁谁誉	shui hui shui yu
 水火	shui huo
-谁能出不由户	shui neng chu bu you hu
 谁为	shui wei
 舜亦以命禹	shun yi yi ming yu
 舜有臣五人而天下治	shun you chen wu ren er tian xia zhi
-舜有天下	shun you tian xia
 舜禹之有天下也而不与焉	shun yu zhi you tian xia ye er bu yu yan
 说而不绎	shuo er bu yi
 说也	shuo ye
 说之不以道	shuo zhi bu yi dao
-说之虽不以道	shuo zhi sui bu yi dao
-驷不及舌	si bu ji she
-似不能言者	si bu neng yan zhe
 斯不亦惠而不费乎	si bu yi hui er bu fei hu
 斯不亦泰而不骄乎	si bu yi tai er bu jiao hu
 斯不亦威而不猛乎	si bu yi wei er bu meng hu
 斯出矣	si chu yi
 私觌	si di
 思而不学	si er bu xue
-死而后已	si er hou yi
-死而无悔者	si er wu hui zhe
 四饭缺适秦	si fan que shi qin
-四方之政行焉	si fang zhi zheng xing yan
-四海困穷	si hai kun qiong
-斯害也已	si hai ye yi
 四海之内皆兄弟也	si hai zhi nei jie xiong di ye
 斯己而已矣	si ji er yi yi
-斯近信矣	si jin xin yi
 斯可矣	si ke yi
 斯可以从政矣	si ke yi cong zheng yi
-司马牛问君子	si ma niu wen jun zi
-司马牛问仁	si ma niu wen ren
-司马牛忧曰	si ma niu you yue
 斯民也	si min ye
 斯人也而有斯疾也	si ren ye er you si ji ye
-斯仁至矣	si ren zhi yi
 斯辱矣	si ru yi
 死生有命	si sheng you ming
 四十而不惑	si shi er bu huo
 四十五十而无闻焉	si shi wu shi er wu wen yan
-四时行焉	si shi xing yan
 斯疏矣	si shu yi
-四体不勤	si ti bu qin
-斯谓之君子已乎	si wei zhi jun zi yi hu
-斯谓之仁已乎	si wei zhi ren yi hu
 思无邪	si wu xie
 斯亦不足	si yi bu zu
-斯远暴慢矣	si yuan bao man yi
 斯远鄙倍矣	si yuan bi bei yi
-斯知仁矣	si zhi ren yi
 死之日	si zhi ri
-宋不足征也	song bu zu zheng ye
-诵诗三百	song shi san bai
 素衣	su yi
 素以为绚兮	su yi wei xuan xi
 虽百世	sui bai shi
-岁不我与	sui bu wo yu
-虽不吾以	sui bu wu yi
 虽车马	sui che ma
 虽得之	sui de zhi
 虽多	sui duo
-虽覆一篑	sui fu yi kui
 虽告之曰	sui gao zhi yue
 岁寒然后知松柏之后凋也	sui han ran hou zhi song bai zhi hou diao ye
 虽令不从	sui ling bu cong
 虽蛮貊之邦行矣	sui man mo zhi bang xing yi
-虽赏之不窃	sui shang zhi bu qie
 虽少	sui shao
-遂事不谏	sui shi bu jian
-虽疏食菜羹	sui shu shi cai geng
 虽违众	sui wei zhong
 虽狎	sui xia
 虽小道	sui xiao dao
 虽亵	sui xie
 虽有粟	sui you su
-虽有周亲	sui you zhou qin
 虽欲从之	sui yu cong zhi
-虽欲勿用	sui yu wu yong
 虽曰不要君	sui yue bu yao jun
-虽曰未学	sui yue wei xue
-虽执鞭之士	sui zhi bian zhi shi
-绥之斯来	sui zhi si lai
-虽之夷狄	sui zhi yi di
 损矣	sun yi
-孙以出之	sun yi chu zhi
-损者三乐	sun zhe san le
 损者三友	sun zhe san you
 所恶也	suo e ye
 所损益	suo sun yi
 所谓大臣者	suo wei da chen zhe
-所谓立之斯立	suo wei li zhi si li
 所重	suo zhong
-他人之贤者	ta ren zhi xian zhe
 他日又独立	ta ri you du li
 泰伯	tai bo
-泰伯第八	tai bo di ba
-泰而不骄	tai er bu jiao
 泰也	tai ye
 太宰问于子贡曰	tai zai wen yu zi gong yue
-太宰知我乎	tai zai zhi wo hu
-唐棣之华	tang di zhi hua
-堂堂乎张也	tang tang hu zhang ye
-汤有天下	tang you tian xia
 唐虞之际	tang yu zhi ji
 滔滔者	tao tao zhe
-天何言哉	tian he yan zai
 天将以夫子为木铎	tian jiang yi fu zi wei mu duo
-天禄永终	tian lu yong zhong
 天丧予	tian sang yu
-天生德于予	tian sheng de yu yu
 天下	tian xia
-天下归仁焉	tian xia gui ren yan
 天下皆是也	tian xia jie shi ye
-天下无道	tian xia wu dao
-天下有道	tian xia you dao
-天下有道则见	tian xia you dao ze jian
 天下之恶皆归焉	tian xia zhi e jie gui yan
 天下之通丧也	tian xia zhi tong sang ye
 天下之无道也久矣	tian xia zhi wu dao ye jiu yi
 天厌之	tian yan zhi
-天之将丧斯文也	tian zhi jiang sang si wen ye
-天之历数在尔躬	tian zhi li shu zai er gong
-天之未丧斯文也	tian zhi wei sang si wen ye
-天子穆穆	tian zi mu mu
-听其言也厉	ting qi yan ye li
 听思聪	ting si cong
 听讼	ting song
 童子见	tong zi jian
-童子六七人	tong zi liu qi ren
-退而省其私	tui er sheng qi si
 拖绅	tuo shen
-万方有罪	wan fang you zui
-枉道而事人	wang dao er shi ren
-亡而为有	wang er wei you
 忘其身以及	wang qi shen yi ji
 王孙贾问曰	wang sun jia wen yue
 王孙贾治军旅	wang sun jia zhi jun lv
@@ -65579,69 +64429,38 @@ use_preset_vocabulary: false
 枉者直	wang zhe zhi
 亡之	wang zhi
 罔之生也幸而免	wang zhi sheng ye xing er mian
-望之俨然	wang zhi yan ran
 危邦不入	wei bang bu ru
-未尝饱也	wei chang bao ye
 未尝至于偃之室也	wei chang zhi yu yan zhi shi ye
-为臣不易	wei chen bu yi
-未成一篑	wei cheng yi kui
-唯赤则非邦也与	wei chi ze fei bang ye yu
 畏大人	wei da ren
-危而不持	wei er bu chi
-威而不猛	wei er bu meng
 卫公孙朝问于子贡曰	wei gong sun chao wen yu zi gong yue
 微管仲	wei guan zhong
-为国以礼	wei guo yi li
 唯何甚	wei he shen
 未见蹈仁而死者也	wei jian dao ren er si zhe ye
 未见其人也	wei jian qi ren ye
-未见其止也	wei jian qi zhi ye
 未见颜色而言谓之瞽	wei jian yan shai er yan wei zhi gu
 唯谨尔	wei jin er
-未尽善也	wei jin shan ye
 唯酒无量	wei jiu wu liang
-卫君待子而为政	wei jun dai zi er wei zheng
 为君难	wei jun nan
 未可也	wei ke ye
 未可与	wei ke yu
-未可与立	wei ke yu li
-未可与适道	wei ke yu shi dao
 为孔丘	wei kong qiu
-谓孔子曰	wei kong zi yue
-为礼不敬	wei li bu jing
-为力不同科	wei li bu tong ke
-卫灵公第十五	wei ling gong di shi wu
 卫灵公问陈于孔子	wei ling gong wen chen yu kong zi
 谓柳下惠少连	wei liu xia hui shao lian
-谓门弟子曰	wei men di zi yue
 为命	wei ming
-为难能也	wei nan neng ye
-未能事人	wei neng shi ren
 唯女子与小人为难养也	wei nv zi yu xiao ren wei nan yang ye
 唯其言而	wei qi yan er
-唯求则非邦也与	wei qiu ze fei bang ye yu
 未仁乎	wei ren hu
-为人谋而不忠乎	wei ren mou er bu zhong hu
 为仁由己	wei ren you ji
-唯仁者能好人	wei ren zhe neng hao ren
-未入于室也	wei ru yu shi ye
-未若贫而乐	wei ruo pin er le
 未善也	wei shan ye
 唯上知与下愚不移	wei shang zhi yu xia yu bu yi
 微生亩谓孔子曰	wei sheng mu wei kong zi yue
-畏圣人之言	wei sheng ren zhi yan
 畏天命	wei tian ming
-唯天为大	wei tian wei da
 为同姓	wei tong xing
 巍巍乎	wei wei hu
 巍巍乎其有成功也	wei wei hu qi you cheng gong ye
-未闻好学者也	wei wen hao xue zhe ye
 唯我与尔有是夫	wei wo yu er you shi fu
 谓武	wei wu
 未信	wei xin
-危行言孙	wei xing yan sun
-危言危行	wei yan wei xing
-唯尧则之	wei yao ze zhi
 谓也	wei ye
 未也	wei ye
 畏也已	wei ye yi
@@ -65653,82 +64472,40 @@ use_preset_vocabulary: false
 未之	wei zhi
 为之难	wei zhi nan
 未知生	wei zhi sheng
-未之思也	wei zhi si ye
 谓之吴孟子	wei zhi wu meng zi
 谓之有司	wei zhi you si
 未之有也	wei zhi you ye
 为仲由	wei zhong you
 未坠于地	wei zhui yu di
 唯子出	wei zi chu
-微子第十八	wei zi di shi ba
-微子去之	wei zi qu zhi
-未足与议也	wei zu yu yi ye
-文不在兹乎	wen bu zai zi hu
 温故而知新	wen gu er zhi xin
 问管仲	wen guan zhong
-闻乐不乐	wen le bu le
 闻礼	wen li
 问仁	wen ren
-问人于他邦	wen ren yu ta bang
 闻韶	wen shao
-文胜质则史	wen sheng zhi ze shi
 闻诗	wen shi
-闻斯二者	wen si er zhe
-闻斯行之	wen si xing zhi
-闻斯行诸	wen si xing zhu
-文王既没	wen wang ji mei
-文武之道	wen wu zhi dao
-文献不足故也	wen xian bu zu gu ye
-闻弦歌之声	wen xian ge zhi sheng
-文行忠信	wen xing zhong xin
-闻义不能徙	wen yi bu neng xi
-问一得三	wen yi de san
 文犹质也	wen you zhi ye
-问于桀溺	wen yu jie ni
 问于孔子	wen yu kong zi
 问于曾子	wen yu zeng zi
 问政	wen zheng
 问知	wen zhi
-文质彬彬	wen zhi bin bin
 文之以礼乐	wen zhi yi li yue
 问子西	wen zi xi
-我爱其礼	wo ai qi li
-我待贾者也	wo dai jia zhe ye
 我独亡	wo du wang
 我对曰	wo dui yue
-我非生而知之者	wo fei sheng er zhi zhi zhe
 我叩其两端而竭	wo kou qi liang duan er jie
-我未见好仁者	wo wei jian hao ren zhe
-我未见力不足者	wo wei jian li bu zu zhe
-我未之见也	wo wei zhi jian ye
-我无能焉	wo wu neng yan
-我无是也	wo wu shi ye
 我欲仁	wo yu ren
 我则异于是	wo ze yi yu shi
-我之不贤与	wo zhi bu xian yu
-我之大贤与	wo zhi da xian yu
 毋必	wu bi
-吾必谓之学矣	wu bi wei zhi xue yi
-吾不如老农	wu bu ru lao nong
-吾不如老圃	wu bu ru lao pu
 吾不试	wu bu shi
 吾不徒行以为之椁	wu bu tu xing yi wei zhi guo
-吾不信也	wu bu xin ye
-吾不欲观之矣	wu bu yu guan zhi yi
-吾不与祭	wu bu yu ji
-吾不与也	wu bu yu ye
-吾不知之矣	wu bu zhi zhi yi
-吾尝终日不食	wu chang zhong ri bu shi
 无臣而为有	wu chen er wei you
 吾从下	wu cong xia
 吾从众	wu cong zhong
 吾从周	wu cong zhou
 吾党	wu dang
-吾党有直躬者	wu dang you zhi gong zhe
 无道	wu dao
-吾道一以贯之	wu dao yi yi guan zhi
 吾得而食	wu de er shi
-无得而逾焉	wu de er yu yan
 无恶也	wu e ye
 吾二臣者皆不欲也	wu er chen zhe jie bu yu ye
 舞放郑声	wu fang zheng sheng
@@ -65736,116 +64513,66 @@ use_preset_vocabulary: false
 无敢慢	wu gan man
 勿攻人之恶	wu gong ren zhi e
 毋固	wu gu
-五谷不分	wu gu bu fen
-吾何以观之哉	wu he yi guan zhi zai
 吾何执	wu he zhi
 呜呼	wu hu
 吾见蹈而死者矣	wu jian dao er si zhe yi
-吾见其进也	wu jian qi jin ye
 吾见其居于位也	wu jian qi ju yu wei ye
-吾见其人矣	wu jian qi ren yi
-无见小利	wu jian xiao li
-吾将仕矣	wu jiang shi yi
 吾将问之	wu jiang wen zhi
 恶居下流而讪	wu ju xia liu er shan
 无倦	wu juan
-无可无不可	wu ke wu bu ke
-吾恐季孙之忧	wu kong ji sun zhi you
 吾老矣	wu lao yi
 吾力	wu li
 巫马期以告	wu ma qi yi gao
-务民之义	wu min zhi yi
 吾末如之何也已矣	wu mo ru zhi he ye yi yi
 无莫也	wu mo ye
 无乃大简乎	wu nai da jian hu
-无乃为佞乎	wu nai wei ning hu
 吾能言之	wu neng yan zhi
 无宁死于二三子之手乎	wu ning si yu er san zi zhi shou hu
 吾岂	wu qi
 吾其被发左衽矣	wu qi pi fa zuo ren yi
-吾其为东周乎	wu qi wei dong zhou hu
 勿欺也	wu qi ye
-吾其与闻之	wu qi yu wen zhi
-无求备于一人	wu qiu bei yu yi ren
-无求生以害仁	wu qiu sheng yi hai ren
 吾日三省吾身	wu ri san xing wu shen
 武入于汉	wu ru yu han
 吾少也贱	wu shao ye jian
-侮圣人之言	wu sheng ren zhi yan
-五十而知天命	wu shi er zhi tian ming
-五世希不失矣	wu shi xi bu shi yi
 无适也	wu shi ye
-五十以学易	wu shi yi xue yi
 吾十有五而志于学	wu shi you wu er zhi yu xue
-勿施于人	wu shi yu ren
 吾谁欺	wu shui qi
 无所不佩	wu suo bu pei
-无所祷也	wu suo dao ye
 无所苟而已	wu suo gou er yi
 无所归	wu suo gui
-无所用心	wu suo yong xin
 武王曰	wu wang yue
 无违	wu wei
 吾未尝不得见也	wu wei chang bu de jian ye
-吾未尝无诲焉	wu wei chang wu hui yan
-无为而治者	wu wei er zhi zhe
 吾未见好德如好色者也	wu wei jian hao de ru hao se zhe ye
-无为小人儒	wu wei xiao ren ru
 吾闻君子不党	wu wen jun zi bu dang
-吾闻其语矣	wu wen qi yu yi
-吾闻之也	wu wen zhi ye
-吾闻诸夫子	wu wen zhu fu zi
 毋我	wu wo
-吾无间然矣	wu wu jian ran yi
 吾无行而不与二三子者	wu wu xing er bu yu er san zi zhe
-毋吾以也	wu wu yi ye
-吾无隐乎尔	wu wu yin hu er
 无小大	wu xiao da
 无益	wu yi
 毋意	wu yi
 无以立	wu yi li
-无以立也	wu yi li ye
 吾以女为死矣	wu yi nv wei si yi
 无以尚之	wu yi shang zhi
-无以万方	wu yi wan fang
 无以为君子也	wu yi wei jun zi ye
-无以为也	wu yi wei ye
 吾亦为之	wu yi wei zhi
 无以言	wu yi yan
-吾已矣夫	wu yi yi fu
-无以知人也	wu yi zhi ren ye
-吾以子为异之问	wu yi zi wei yi zhi wen
 无勇也	wu yong ye
-无友不如己者	wu you bu ru ji zhe
-毋友不如己者	wu you bu ru ji zhe
-吾犹不足	wu you bu zu
 吾友尝从事于斯矣	wu you chang cong shi yu si yi
 吾犹及史之阙文也	wu you ji shi zhi que wen ye
-吾犹人也	wu you ren ye
-吾友张也	wu you zhang ye
-吾有知乎哉	wu you zhi hu zai
 吾与点也	wu yu dian ye
-吾与回言终日	wu yu hui yan zhong ri
 无欲速	wu yu su
 吾知免夫小子	wu zhi mian fu xiao zi
 吾止也	wu zhi ye
 无知也	wu zhi ye
-吾之于人也	wu zhi yu ren ye
-吾执御矣	wu zhi yu yi
 毋自辱焉	wu zi ru yan
-吾自卫反鲁	wu zi wei fan lu
 希不失矣	xi bu shi yi
 席不正	xi bu zheng
-奚而不丧	xi er bu sang
 惜乎	xi hu
 奚其丧	xi qi sang
-奚其为为政	xi qi wei wei zheng
 奚其正	xi qi zheng
-奚取于三家之堂	xi qu yu san jia zhi tang
 翕如也	xi ru ye
 夕死可矣	xi si ke yi
 奚为于丘之门	xi wei yu qiu zhi men
-习相远也	xi xiang yuan ye
 席也	xi ye
 徙义	xi yi
 昔者	xi zhe
@@ -65858,148 +64585,83 @@ use_preset_vocabulary: false
 夏后氏以松	xia hou shi yi song
 夏礼	xia li
 下如授	xia ru shou
-下学而上达	xia xue er shang da
 先饭	xian fan
 贤乎哉	xian hu zai
-先进第十一	xian jin di shi yi
-先进于礼乐	xian jin yu li yue
 先生并行也	xian sheng bing xing ye
 先生馔	xian sheng zhuan
-先事后得	xian shi hou de
-先王之道斯为美	xian wang zhi dao si wei mei
 宪问耻	xian wen chi
-宪问第十四	xian wen di shi si
-贤贤易色	xian xian yi se
 先行其言	xian xing qi yan
 鲜矣	xian yi
 鲜矣仁	xian yi ren
 先有司	xian you si
-贤哉回也	xian zai hui ye
 贤者辟世	xian zhe pi shi
-贤者识其大者	xian zhe shi qi da zhe
 先之劳之	xian zhi lao zhi
 乡党称弟焉	xiang dang cheng di yan
-乡党第十	xiang dang di shi
-翔而后集	xiang er hou ji
 相夫子	xiang fu zi
 享礼	xiang li
-乡人皆恶之	xiang ren jie e zhi
-乡人皆好之	xiang ren jie hao zhi
 乡人傩	xiang ren nuo
-乡人饮酒	xiang ren yin jiu
-相维辟公	xiang wei pi gong
 乡也吾见于夫子而问知	xiang ye wu jian yu fu zi er wen zhi
 乡原	xiang yuan
-小不忍则乱大谋	xiao bu ren ze luan da mou
 小车无軏	xiao che wu yue
 孝慈	xiao ci
-小大由之	xiao da you zhi
 小德出入可也	xiao de chu ru ke ye
 孝弟也者	xiao di ye zhe
 孝乎	xiao hu
 孝乎惟孝	xiao hu wei xiao
-小人比而不周	xiao ren bi er bu zhou
 小人不可大受	xiao ren bu ke da shou
 小人不知天命而不畏也	xiao ren bu zhi tian ming er bu wei ye
 小人长戚戚	xiao ren chang qi qi
-小人反是	xiao ren fan shi
 小人怀惠	xiao ren huai hui
 小人怀土	xiao ren huai tu
-小人骄而不泰	xiao ren jiao er bu tai
 小人难事而易说也	xiao ren nan shi er yi shuo ye
-小人穷斯滥矣	xiao ren qiong si lan yi
-小人求诸人	xiao ren qiu zhu ren
-小人同而不和	xiao ren tong er bu he
-小人下达	xiao ren xia da
 小人学道则易使	xiao ren xue dao ze yi shi
 小人有勇而无义为盗	xiao ren you yong er wu yi wei dao
 小人喻于利	xiao ren yu yu li
 小人哉	xiao ren zai
-小人之德草	xiao ren zhi de cao
 小人之过也	xiao ren zhi guo ye
 孝哉	xiao zai
 小子何莫学夫诗	xiao zi he mo xue fu shi
 小子鸣鼓而	xiao zi ming gu er
 亵裘长	xie qiu chang
-信道不笃	xin dao bu du
-信而好古	xin er hao gu
-信而后谏	xin er hou jian
-新谷既升	xin gu ji sheng
 信乎	xin hu
-信近于义	xin jin yu yi
 信如君不君臣不臣父不父子不子	xin ru jun bu jun chen bu chen fu bu fu zi dun zi
-信以成之	xin yi cheng zhi
-信则民任焉	xin ze min ren yan
-信则人任焉	xin ze ren ren yan
 行必果	xing bi guo
 行不笃	xing bu du
-行不履阈	xing bu lv yu
-行不由径	xing bu you jing
 行笃敬	xing du jing
 刑罚不中	xing fa bu zhong
 行寡悔	xing gua hui
-行己有耻	xing ji you chi
 兴灭国	xing mie guo
-行其义也	xing qi yi ye
 行人子羽修饰之	xing ren zi yu xiu shi zhi
-行夏之时	xing xia zhi shi
-性相近也	xing xiang jin ye
-行行如也	xing xing ru ye
-行义以达其道	xing yi yi da qi dao
 行有馀力	xing you yu li
 兴于诗	xing yu shi
-行之以忠	xing zhi yi zhong
 行中虑	xing zhong lv
 兄弟也	xiong di ye
-兄弟怡怡	xiong di yi yi
 凶服者式之	xiong fu zhe shi zhi
 秀而不实者有矣夫	xiu er bu shi zhe you yi fu
 修废官	xiu fei guan
-修己以安百姓	xiu ji yi an bai xing
-修己以安人	xiu ji yi an ren
-修己以敬	xiu ji yi jing
 修慝	xiu te
-虚而为盈	xu er wei ying
 选于众	xuan yu zhong
 学而不思	xue er bu si
-学而不厌	xue er bu yan
 学而第一	xue er di yi
-学而时习之	xue er shi xi zhi
-学而优则仕	xue er you ze shi
-学而知之者次也	xue er zhi zhi zhe ci ye
 学礼乎	xue li hu
-血气方刚	xue qi fang gang
 血气既衰	xue qi ji shuai
-血气未定	xue qi wei ding
-学如不及	xue ru bu ji
 学诗乎	xue shi hu
 学也	xue ye
 学则不固	xue ze bu gu
-学之不讲	xue zhi bu jiang
 迅雷风烈必变	xun lei feng lie bi bian
-恂恂如也	xun xun ru ye
 巽与之言	xun yu zhi yan
-亚饭干适楚	ya fan gan shi chu
 雅颂各得其所	ya song ge de qi suo
 言必信	yan bi xin
-言必有中	yan bi you zhong
-言不及义	yan bu ji yi
 言不可不慎也夫子之不可及	yan bu ke bu shen ye fu zi zhi bu ke ji
 言不可以若是其几也	yan bu ke yi ruo shi qi ji ye
 言不顺	yan bu shun
-言不忠信	yan bu zhong xin
 焉得俭	yan de jian
 焉得知	yan de zhi
-言而有信	yan er you xin
 言寡尤	yan gua you
 言乎	yan hu
 言及之而不言谓之隐	yan ji zhi er bu yan wei zhi yin
-言可复也	yan ke fu ye
-焉可诬也	yan ke wu ye
 颜路请子之车以为之椁	yan lu qing zi zhi che yi wei zhi guo
-焉能事鬼	yan neng shi gui
 焉能为亡	yan neng wei wang
-焉能为有	yan neng wei you
 焉能系而不食	yan neng xi er bu shi
 厌其笑	yan qi xiao
 俨然人望而畏之	yan ran ren wang er wei zhi
@@ -66008,130 +64670,68 @@ use_preset_vocabulary: false
 言未及之而言谓之躁	yan wei ji zhi er yan wei zhi zao
 焉用稼	yan yong jia
 焉用杀	yan yong sha
-言游过矣	yan you guo yi
 言语	yan yu
-颜渊第十二	yan yuan di shi er
 颜渊后	yan yuan hou
-颜渊喟然叹曰	yan yuan kui ran tan yue
 颜渊闵子骞冉伯牛仲弓	yan yuan min zi qian ran bo niu zhong gong
 颜渊死	yan yuan si
-颜渊问仁	yan yuan wen ren
 颜渊问为邦	yan yuan wen wei bang
 颜渊曰	yan yuan yue
-言之必可行也	yan zhi bi ke xing ye
 言之得无讱乎	yan zhi de wu ren hu
 焉知来者之不如今也	yan zhi lai zhe zhi bu ru jin ye
 焉知死	yan zhi si
 焉知贤才而举之	yan zhi xian cai er ju zhi
-偃之言是也	yan zhi yan shi ye
 言中伦	yan zhong lun
 言忠信	yan zhong xin
-阳货第十七	yang huo di shi qi
-阳货欲见孔子	yang huo yu jian kong zi
 洋洋乎盈耳哉	yang yang hu ying er zai
-仰之弥高	yang zhi mi gao
 尧舜其犹病	yao shun qi you bing
-尧舜其犹病诸	yao shun qi you bing zhu
-夭夭如也	yao yao ru ye
 尧曰	yao yue
-尧曰第二十	yao yue di er shi
 叶公问孔子于子路	ye gong wen kong zi yu zi lu
-叶公问政	ye gong wen zheng
-叶公语孔子曰	ye gong yu kong zi yue
 野人也	ye ren ye
 野哉	ye zai
 异邦人称之亦曰君夫人	yi bang ren cheng zhi yi yue jun fu ren
 衣敝缊袍	yi bi yun pao
 以别乎	yi bie hu
 亦不从也	yi bu cong ye
-以不教民战	yi bu jiao min zhan
-亦不可行也	yi bu ke xing ye
-亦不入于室	yi bu ru yu shi
 弋不射宿	yi bu she su
-亦不失言	yi bu shi yan
 以成	yi cheng
 一箪食	yi dan shi
-以道事君	yi dao shi jun
-以德报德	yi de bao de
-以德报怨	yi de bao yuan
-夷狄之有君	yi di zhi you jun
-以多问于寡	yi duo wen yu gua
-已而已而	yi er yi er
-仪封人请见	yi feng ren qing jian
 衣夫锦	yi fu jin
-以服事殷	yi fu shi yin
-以告者过也	yi gao zhe guo ye
-亦各言其志也	yi ge yan qi zhi ye
 亦各言其志也已矣	yi ge yan qi zhi ye yi yi
 亦各言其子也	yi ge yan qi zi ye
-异乎三子者之撰	yi hu san zi zhe zhi zhuan
-异乎吾所闻	yi hu wu suo wen
 以季孟之间待之	yi ji meng zhi jian dai zhi
-以就有道	yi jiu you dao
 亦可	yi ke
-亦可以弗畔矣夫	yi ke yi fu pan yi fu
 亦可以即戎矣	yi ke yi ji rong yi
 亦可以胜残去杀矣	yi ke yi sheng can qu sha yi
-亦可以为成人矣	yi ke yi wei cheng ren yi
-一匡天下	yi kuang tian xia
 以莅之	yi li zhi
-以临其民	yi lin qi min
 逸民	yi min
 抑末也	yi mo ye
-以能问于不能	yi neng wen yu bu neng
 一瓢饮	yi piao yin
 衣前后	yi qian hou
 衣轻裘	yi qing qiu
-义然后取	yi ran hou qu
-揖让而升	yi rang er sheng
-一日克己复礼	yi ri ke ji fu li
 绎如也	yi ru ye
 翼如也	yi ru ye
 羿善射	yi shan she
 以思	yi si
-以俟君子	yi si jun zi
 疑思问	yi si wen
-揖所与立	yi suo yu li
 以为谤己也	yi wei bang ji ye
-抑为之不厌	yi wei zhi bu yan
 以吾从大夫之后	yi wu cong da fu zhi hou
-揖巫马期而进之	yi wu ma qi er jin zhi
 以吾一日长乎尔	yi wu yi ri chang hu er
-亦奚以为	yi xi yi wei
-一言而可以兴邦	yi yan er ke yi xing bang
-一言而丧邦	yi yan er sang bang
-一言以蔽之	yi yan yi bi zhi
-一言以为不知	yi yan yi wei bu zhi
 益矣	yi yi
 已矣乎	yi yi hu
 抑亦可以为	yi yi ke yi wei
-怡怡如也	yi yi ru ye
-抑亦先觉者	yi yi xian jue zhe
 以雍彻	yi yong che
 亦有恶乎	yi you e hu
-以友辅仁	yi you fu ren
 以与尔邻里乡党乎	yi yu er lin li xiang dang hu
 依于仁	yi yu ren
-抑与之与	yi yu zhi yu
-以约失之者鲜矣	yi yue shi zhi zhe xian yi
 亿则屡中	yi ze lv zhong
-一则以惧	yi ze yi ju
-一则以喜	yi ze yi xi
 以杖	yi zhang
 以杖荷	yi zhang he
-一朝之忿	yi zhao zhi fen
-益者三乐	yi zhe san le
 益者三友	yi zhe san you
 益者与	yi zhe yu
-以直报怨	yi zhi bao yuan
 绎之为贵	yi zhi wei gui
 亦只以异	yi zhi yi yi
 义之与比	yi zhi yu bi
-已知之矣	yi zhi zhi yi
 以忠	yi zhong
-亦足以发	yi zu yi fa
-因不失其亲	yin bu shi qi qin
-隐居放言	yin ju fang yan
 隐居以	yin ju yi
 殷礼	yin li
 因民之所利而利之	yin min zhi suo li er li zhi
@@ -66141,64 +64741,36 @@ use_preset_vocabulary: false
 殷因于夏礼	yin yin yu xia li
 殷有三仁焉	yin you san ren yan
 隐者也	yin zhe ye
-因之以饥馑	yin zhi yi ji jin
 用不臧	yong bu zang
 用不足	yong bu zu
 咏而归	yong er gui
-勇而无礼则乱	yong er wu li ze luan
-雍虽不敏	yong sui bu min
 雍也	yong ye
-雍也第六	yong ye di liu
-勇者不必有仁	yong zhe bu bi you ren
-勇者不惧	yong zhe bu ju
-雍之言然	yong zhi yan ran
-用之则行	yong zhi ze xing
-有鄙夫问于我	you bi fu wen yu wo
-游必有方	you bi you fang
 友便辟	you bian pi
-有耻且格	you chi qie ge
-有德者必有言	you de zhe bi you yan
-又多能也	you duo neng ye
 友多闻	you duo wen
 有恶	you e
 耰而不辍	you er bu chuo
 幼而不孙弟	you er bu sun di
 有反坫	you fan dian
 有妇人焉	you fu ren yan
-有父兄在	you fu xiong zai
 有棺而无椁	you guan er wu guo
-又何加焉	you he jia yan
 有荷蒉而过孔氏之门者	you he kuai er guo kong shi zhi men zhe
 又何怨	you he yuan
 有教无类	you jiao wu lei
-又尽善也	you jin shan ye
-又敬不违	you jing bu wei
 有酒食	you jiu shi
-犹可逾也	you ke yu ye
-犹恐失之	you kong shi zhi
 友谅	you liang
 有马者	you ma zhe
-有美玉于斯	you mei yu yu si
-有民人焉	you min ren yan
 犹能肆诸市朝	you neng si zhu shi chao
 有能一日用其力于仁矣乎	you neng yi ri yong qi li yu ren yi hu
 有朋自远方来	you peng zi yuan fang lai
 有便佞	you pian ning
-又其次也	you qi ci ye
-友其士之仁者	you qi shi zhi ren zhe
 有容色	you rong se
-有若对曰	you ruo dui yue
 有若无	you ruo wu
-有杀身以成仁	you sha shen yi cheng ren
 友善柔	you shan rou
 有社稷	you she ji
 有盛馔	you sheng zhuan
 有事	you shi
-有是言也	you shi yan ye
-有始有卒者	you shi you zu zhe
 有是哉	you shi zai
 又谁怨	you shui yuan
-有所不行	you suo bu xing
 有澹台灭明者	you tan tai mie ming zhe
 犹天之不可阶而升也	you tian zhi bu ke jie er sheng ye
 有恸乎	you tong hu
@@ -66206,18 +64778,12 @@ use_preset_vocabulary: false
 犹贤乎已	you xian hu yi
 又相之	you xiang zhi
 有心哉	you xin zai
-有颜回者好学	you yan hui zhe hao xue
 又焉贪	you yan tan
-有言者不必有德	you yan zhe bu bi you de
 由也	you ye
 由也果	you ye guo
-由也兼人	you ye jian ren
-由也升堂矣	you ye sheng tang yi
-由也为之	you ye wei zhi
 由也问闻斯行诸	you ye wen wen si xing zhu
 由也喭	you ye yan
 有一言而可以终身行之者乎	you yi yan er ke yi zhong shen xing zhi zhe hu
-又欲其死	you yu qi si
 友于兄弟	you yu xiong di
 游于艺	you yu yi
 有政	you zheng
@@ -66225,179 +64791,102 @@ use_preset_vocabulary: false
 有之	you zhi
 由之瑟	you zhi se
 由之行诈也	you zhi xing zha ye
-犹之与人也	you zhi yu ren ye
 有诸	you zhu
 有子曰	you zi yue
-有罪不敢赦	you zui bu gan she
-欲罢不能	yu ba bu neng
-玉帛云乎哉	yu bo yun hu zai
-予不得视犹子也	yu bu de shi you zi ye
-于从政乎何有	yu cong zheng hu he you
-欲而不贪	yu er bu tan
 与父	yu fu
 欲寡其过而未能也	yu gua qi guo er wei neng ye
 浴乎沂	yu hu yi
 禹稷躬稼而有天	yu ji gong jia er you tian
-欲洁其身	yu jie qi shen
 于今称之	yu jin cheng zhi
 与君子人也	yu jun zi ren ye
-鱼馁而肉败	yu nei er rou bai
 于女安乎	yu nv an hu
-与朋友交	yu peng you jiao
 与朋友交而不信乎	yu peng you jiao er bu xin hu
 与其不孙也	yu qi bu sun ye
 与其洁也	yu qi jie ye
-与其进也	yu qi jin ye
-与其媚于奥	yu qi mei yu ao
 与求之问	yu qiu zhi wen
 欲仁而得仁	yu ren er de ren
-与人恭而有礼	yu ren gong er you li
-于人何所不容	yu ren he suo bu rong
 与人忠	yu ren zhong
 与如也	yu ru ye
 与上大夫言	yu shang da fu yan
 与师言之道与	yu shi yan zhi dao yu
 于斯二者何先	yu si er zhe he xian
-于斯三者何先	yu si san zhe he xian
 于斯为盛	yu si wei sheng
 于斯文也	yu si wen ye
 予死于道路乎	yu si yu dao lu hu
-欲速成者也	yu su cheng zhe ye
-欲速则不达	yu su ze bu da
-予所否者	yu suo fou zhe
 与文子同升诸公	yu wen zi tong sheng zhu gong
 于我	yu wo
 于我殡	yu wo bin
-予无乐乎为君	yu wu le hu wei jun
 于吾言无所不说	yu wu yan wu suo bu shuo
 与下大夫言	yu xia dai fu yan
-予小子履	yu xiao zi lv
 予也有三年之爱于其父母乎	yu ye you san nian zhi ai yu qi fu mu hu
 与衣狐貉者立	yu yi hu he zhe li
 与易也	yu yi ye
-予一以贯之	yu yi yi guan zhi
 予有乱臣十人	yu you luan chen shi ren
-郁郁乎文哉	yu yu hu wen zai
-愉愉如也	yu yu ru ye
-予欲无言	yu yu wu yan
-欲与之言	yu yu zhi yan
 遇丈人	yu zhang ren
-予之不仁也	yu zhi bu ren ye
-语之而不惰者	yu zhi er bu duo zhe
 与之釜	yu zhi fu
 与之粟九百	yu zhi su jiu bai
 与之庾	yu zhi yu
 遇诸途	yu zhu tu
-远耻辱也	yuan chi ru ye
 怨乎	yuan hu
 远佞人	yuan ning ren
-原壤夷俟	yuan rang yi si
 远人不服	yuan ren bu fu
 原思为之宰	yuan si wei zhi zai
-愿为小相焉	yuan wei xiao xiang yan
 愿学焉	yuan xue yan
 远者来	yuan zhe lai
-远之事君	yuan zhi shi jun
 远之有	yuan zhi you
-远之则怨	yuan zhi ze yuan
-约而为泰	yue er wei tai
-乐节礼乐	yue jie li yue
 约我以礼	yue wo yi li
-月无忘其所能	yue wu wang qi suo neng
 约之以礼	yue zhi yi li
 韫椟而藏诸	yun du er cang zhu
-允执其中	yun zhi qi zhong
-再拜而送之	zai bai er song zhi
-在邦必达	zai bang bi da
-在邦必闻	zai bang bi wen
-在邦无怨	zai bang wu yuan
-在陈绝粮	zai chen jue liang
-在家必达	zai jia bi da
-在家必闻	zai jia bi wen
-在家无怨	zai jia wu yuan
 在陋巷	zai lou xiang
 在人	zai ren
 宰我出	zai wo chu
-宰我对曰	zai wo dui yue
 宰我问	zai wo wen
-宰我问曰	zai wo wen yue
 宰我子贡	zai wo zi gong
 在舆	zai yu
-在予一人	zai yu yi ren
 臧文仲其窃位者与	zang wen zhong qi qie wei zhe yu
 臧武仲以防求为后于鲁	zang wu zhong yi fang qiu wei hou yu lu
-葬之以礼	zang zhi yi li
-造次必于是	zao ci bi yu shi
-则哀矜而勿喜	ze ai jin er wu xi
 则安之	ze an zhi
-择不处仁	ze bu chu ren
 则不复也	ze bu fu ye
 则不歌	ze bu ge
 则不弃	ze bu qi
 则不威	ze bu wei
-则尝闻之矣	ze chang wen zhi yi
 则殆	ze dai
 则寡悔	ze gua hui
 则寡尤	ze gua you
-则何以哉	ze he yi zai
 则见其倚于衡也	ze jian qi yi yu heng ye
-则将焉用彼相矣	ze jiang yan yong bi xiang yi
 则敬	ze jing
 择可劳而劳之	ze ke lao er lao zhi
-则可谓云尔已矣	ze ke wei yun er yi yi
 则可矣	ze ke yi
 则礼乐不兴	ze li yue bu xing
 则礼乐征伐自天子出	ze li yue zheng fa zi tian zi chu
 则礼乐征伐自诸侯	ze li yue zheng fa zi zhu hou
 则民	ze min
-则民不敬	ze min bu jing
-则民不偷	ze min bu tou
 则民服	ze min fu
-则民莫敢不敬	ze min mo gan bu jing
-则民莫敢不用情	ze min mo gan bu yong qing
 则民无所错手足	ze min wu suo cuo shou zu
 则民兴于仁	ze min xing yu ren
-则民易使也	ze min yi shi ye
-择其善者而从之	ze qi shan zhe er cong zhi
 则劝	ze quan
 则谁与	ze shei yu
 则事不成	ze shi bu cheng
-则庶人不议	ze shu ren bu yi
 则四方之民襁负其子而至矣	ze si fang zhi min qiang fu qi zi er zhi yi
 则罔	ze wang
 则为之	ze wei zhi
-则为之也难	ze wei zhi ye nan
 则吾必在汶	ze wu bi zai wen
-则吾从先进	ze wu cong xian jin
-则吾岂敢	ze wu qi gan
 则吾未之有得	ze wu wei zhi you de
 则小子何述焉	ze xiao zi he shu yan
 则刑罚不中	ze xing fa bu zhong
-则修文德以来之	ze xiu wen de yi lai zhi
 则言不顺	ze yan bu shun
 则以为厉己也	ze yi wei li ji ye
-则以学文	ze yi xue wen
 则隐	ze yin
 则有司存	ze you si cun
-则远怨矣	ze yuan yuan yi
-则政不在大夫	ze zheng bu zai dai fu
 则忠	ze zhong
 贼夫人之子	zei fu ren zhi zi
-曾子言曰	zeng zi yan yue
-曾子有疾	zeng zi you ji
 曾子曰	zeng zi yue
 斋战疾	zhai zhan ji
-战战兢兢	zhan zhan jing jing
-瞻之在前	zhan zhi zai qian
 丈人曰	zhang ren yue
-长幼之节	zhang you zhi jie
 杖者出	zhang zhe chu
 昭公知礼乎	zhao gong zhi li hu
-召忽死之	zhao hu si zhi
-召门弟子曰	zhao men di zi yue
 朝闻道	zhao wen dao
 袗絺绤	zhen chi xi
-朕躬有罪	zhen gong you zui
 政逮于大夫四世矣	zheng dai yu dai fu si shi yi
 正其衣冠	zheng qi yi guan
 郑声淫	zheng sheng yin
@@ -66407,10 +64896,6 @@ use_preset_vocabulary: false
 正也	zheng ye
 政者	zheng zhe
 治宾客	zhi bin ke
-直道而事人	zhi dao er shi ren
-执德不弘	zhi de bu hong
-知德者鲜矣	zhi de zhe xian yi
-直而无礼则绞	zhi er wu li ze jiao
 执圭	zhi gui
 知和	zhi he
 知及之	zhi ji zhi
@@ -66421,76 +64906,48 @@ use_preset_vocabulary: false
 指其掌	zhi qi zhang
 植其杖而芸	zhi qi zhang er yun
 知人	zhi ren
-之三子告	zhi san zi gao
 执射乎	zhi she hu
-质胜文则野	zhi sheng wen ze ye
 执事敬	zhi shi jing
-志士仁人	zhi shi ren ren
 之所以直道而行也	zhi suo yi zhi dao er xing ye
-知我者其天乎	zhi wo zhe qi tian hu
 知也	zhi ye
 质犹文也	zhi you wen ye
 至于道	zhi yu dao
 志于道	zhi yu dao
 执御乎	zhi yu hu
 至于鲁	zhi yu lu
-至于犬马	zhi yu quan ma
-致远恐泥	zhi yuan kong ni
-直在其中矣	zhi zai qi zhong yi
-直哉史鱼	zhi zai shi yu
 直则民不服	zhi ze min bu fu
-至则行矣	zhi ze xing yi
 知者不惑	zhi zhe bu huo
-知者不失人	zhi zhe bu shi ren
 知者动	zhi zhe dong
 知者乐	zhi zhe le
-知者乐水	zhi zhe le shui
-知者利仁	zhi zhe li ren
 之政	zhi zheng
-知之次也	zhi zhi ci ye
-质直而好义	zhi zhi er hao yi
 知之为知之	zhi zhi wei zhi zhi
 知之者	zhi zhi zhe
 之直者异于是	zhi zhi zhe yi yu shi
-止子路宿	zhi zi lu su
-中道而废	zhong dao er fei
 众恶之	zhong e zhi
-忠告而善道之	zhong gao er shan dao zhi
 仲弓为季氏宰	zhong gong wei ji shi zai
-仲弓问仁	zhong gong wen ren
 仲弓问子桑伯子	zhong gong wen zi sang bo zi
 仲弓曰	zhong gong yue
-钟鼓云乎哉	zhong gu yun hu zai
 众好之	zhong hao zhi
 仲尼	zhong ni
 仲尼不可毁也	zhong ni bu ke hui ye
 仲尼岂贤于子乎	zhong ni qi xian yu zi hu
-仲尼焉学	zhong ni yan xue
-中人以上	zhong ren yi shang
-中人以下	zhong ren yi xia
-忠恕而已矣	zhong shu er yi yi
 仲叔圉	zhong shu yu
 仲相桓公	zhong xiang huan gong
 忠焉	zhong yan
 终夜不寝	zhong ye bu qin
 中矣	zhong yi
-中庸之为德也	zhong yong zhi wei de ye
 仲由可使从政也与	zhong you ke shi cong zheng ye yu
 仲由冉求	zhong you ran qiu
 仲知礼乎	zhong zhi li hu
 周公谓鲁公曰	zhou gong wei lu gong yue
-周监于二代	zhou jian yu er dai
 周人以栗	zhou ren yi li
-周任有言曰	zhou ren you yan yue
 周因于	zhou yin yu
 周有八士	zhou you ba shi
 周有大赉	zhou you da lai
-纣之不善	zhou zhi bu shan
 周之德	zhou zhi de
 诸片言可以折狱者	zhu pian yan ke yi zhe yu zhe
 祝鮀治宗庙	zhu tuo zhi zong miao
 主忠信	zhu zhong xin
-庄以莅之	zhuang yi li zhi
 子不语怪力乱神	zi bu yu guai li luan shen
 自大夫出	zi da fu chu
 子钓而不纲	zi diao er bu gang
@@ -66498,159 +64955,85 @@ use_preset_vocabulary: false
 咨尔舜	zi er shun
 子服景伯以告	zi fu jing bo yi gao
 子服景伯以告子贡	zi fu jing bo yi gao zi gong
-子告之曰	zi gao zhi yue
 子贡	zi gong
-子贡方人	zi gong fang ren
 子贡问	zi gong wen
-子贡问君子	zi gong wen jun zi
-子贡问为仁	zi gong wen wei ren
-子贡问友	zi gong wen you
 子贡问曰	zi gong wen yue
-子贡问政	zi gong wen zheng
 子贡贤于仲尼	zi gong xian yu zhong ni
 子贡欲去告朔之饩羊	zi gong yu qu gao shuo zhi xi yang
 子贡曰	zi gong yue
-自古皆有死	zi gu jie you si
 子固穷	zi gu qiong
-子罕第九	zi han di jiu
 子罕言利与命与仁	zi han yan li yu ming yu ren
-子华使于齐	zi hua shi yu qi
 子疾病	zi ji bing
-子击磬于卫	zi ji qing yu wei
-子见夫子乎	zi jian fu zi hu
-子见南子	zi jian nan zi
 子见齐衰者冕衣裳者与瞽者	zi jian qi shuai zhe mian yi shang zhe yu gu zhe
-子将奚先	zi jiang xi xian
 自经于沟渎而莫之知也	zi jing yu gou du er mo zhi zhi ye
 子绝四	zi jue si
 自孔氏	zi kong shi
 子哭之恸	zi ku zhi tong
 子乐	zi le
 子路	zi lu
-子路不对	zi lu bu dui
 子路不说	zi lu bu shuo
 子路曾皙冉有公西华侍坐	zi lu ceng xi ran you gong xi hua shi zuo
-子路从而后	zi lu cong er hou
-子路第十三	zi lu di shi san
 子路对曰	zi lu dui yue
-子路拱而立	zi lu gong er li
 子路共之	zi lu gong zhi
 子路请祷	zi lu qing dao
 子路使门人为臣	zi lu shi men ren wei chen
 子路使子羔为费宰	zi lu shi zi gao wei fei zai
 子路率尔而对曰	zi lu shuai er er dui yue
-子路宿于石门	zi lu su yu shi men
 子路问	zi lu wen
-子路问成人	zi lu wen cheng ren
-子路问君子	zi lu wen jun zi
-子路问事君	zi lu wen shi jun
-子路问曰	zi lu wen yue
-子路问政	zi lu wen zheng
-子路无宿诺	zi lu wu su nuo
-子路行以告	zi lu xing yi gao
 子路曰	zi lu yue
 子路愠见曰	zi lu yun jian yue
 子路终身诵之	zi lu zhong shen song zhi
-子禽问于子贡曰	zi qin wen yu zi gong yue
-子如不言	zi ru bu yan
-子入太庙	zi ru tai miao
-子生三年	zi sheng san nian
 子适卫	zi shi wei
 子食于有丧者之侧	zi shi yu you sang zhe zhi ce
-子帅以正	zi shuai yi zheng
-子所雅言	zi suo ya yan
 子恸矣	zi tong yi
 子退朝	zi tui chao
-子谓伯鱼曰	zi wei bo yu yue
-子为父隐	zi wei fu yin
-子为恭也	zi wei gong ye
-子未可以去乎	zi wei ke yi qu hu
-子谓冉有曰	zi wei ran you yue
 子谓韶	zi wei shao
 子为谁	zi wei shui
 子谓卫公子荆	zi wei wei gong zi jing
-子谓颜渊曰	zi wei yan yuan yue
-子畏于匡	zi wei yu kuang
 子为政	zi wei zheng
 子谓仲弓曰	zi wei zhong gong yue
-子谓子夏曰	zi wei zi xia yue
-子温而厉	zi wen er li
 子问公叔文子于公明贾曰	zi wen gong shu wen zi yu gong ming jia yue
 子问之	zi wen zhi
 子闻之	zi wen zhi
-子闻之曰	zi wen zhi yue
-子奚不为政	zi xi bu wei zheng
 子夏为莒父宰	zi xia wei ju fu zai
-子夏问孝	zi xia wen xiao
-子夏问曰	zi xia wen yue
 子夏闻之	zi xia wen zhi
 子夏曰	zi xia yue
-子夏云何	zi xia yun he
 子夏之门人问交于子张	zi xia zhi men ren wen jiao yu zi zhang
 子夏之门人小子	zi xia zhi men ren xiao zi
-子行三军	zi xing san jun
-自行束修以上	zi xing shu xiu yi shang
 子言卫灵公之无道也	zi yan wei ling gong zhi wu dao ye
 子也	zi ye
-缁衣	zi yi
-子以四教	zi yi si jiao
 子亦有异闻乎	zi yi you yi wen hu
-子游对曰	zi you dui yue
-子游为武城宰	zi you wei wu cheng zai
-子游问孝	zi you wen xiao
 子游曰	zi you yue
 自牖执其手	zi you zhi qi shou
 子游子夏	zi you zi xia
-子欲居九夷	zi yu ju jiu yi
 子语鲁大师乐	zi yu lu da shi le
-子与人歌而善	zi yu ren ge er shan
 子欲善而民善矣	zi yu shan er min shan yi
-子于是日哭	zi yu shi ri ku
 子欲往	zi yu wang
 子曰	zi yue
 子云	zi yun
 子在	zi zai
-子在川上曰	zi zai chuan shang yue
 子在齐	zi zai qi
-子张第十九	zi zhang di shi jiu
 子张对曰	zi zhang dui yue
-子张书诸绅	zi zhang shu zhu shen
 子张问	zi zhang wen
 子张问崇德辨惑	zi zhang wen chong de bian huo
 子张问明	zi zhang wen ming
-子张问仁于孔子	zi zhang wen ren yu kong zi
 子张问善人之道	zi zhang wen shan ren zhi dao
-子张问行	zi zhang wen xing
 子张问于孔子曰	zi zhang wen yu kong zi yue
-子张问曰	zi zhang wen yue
-子张问政	zi zhang wen zheng
-子张学干禄	zi zhang xue gan lu
 子张曰	zi zhang yue
 子之居丧	zi zhi ju sang
-子之所慎	zi zhi suo shen
 子之往也	zi zhi wang ye
-子之武城	zi zhi wu cheng
-子之燕居	zi zhi yan ju
-子之迂也	zi zhi yu ye
 自诸侯出	zi zhu hou chu
-宗庙会同	zong miao hui tong
-宗庙之事	zong miao zhi shi
 宗也	zong ye
 宗族称孝焉	zong zu cheng xiao yan
 足兵	zu bing
-俎豆之事	zu dou zhi shi
 足躩	zu jue
 足躩如也	zu jue ru ye
 足食	zu shi
 足蹜如有循	zu su ru you xun
 足则吾能征之矣	zu ze wu neng zheng zhi yi
-钻燧改火	zuan sui gai huo
 钻之弥坚	zuan zhi mi jian
-罪在朕躬	zui zai zhen gong
-尊其瞻视	zun qi zhan shi
 尊五美	zun wu mei
 左右手	zuo you shou
-作者七人矣	zuo zhe qi ren yi
 阿斗当皇帝	a dou dang huang di
 阿斗的江山	a dou de jiang shan
 阿公吃黄连	a gong chi huang lian
@@ -66678,7 +65061,6 @@ use_preset_vocabulary: false
 庵庙里的尼姑	an miao li de ni gu
 暗室里穿针	an shi li chuan zhen
 暗喜欢	an xi huan
-安营扎寨	an ying zha zhai
 按着葫芦挖籽	an zhe hu lu wa zi
 按着脑袋往火炕里钻	an zhe nao dai wang huo kang li zuan
 按着牛头喝水	an zhe niu tou he shui
@@ -66697,8 +65079,6 @@ use_preset_vocabulary: false
 把你往苦里引	ba ni wang ku li yin
 把人跌闪得好苦	ba ren die shan de hao ku
 八十老人吹灯	ba shi lao ren chui deng
-霸王别姬	ba wang bie ji
-八仙过海	ba xian guo hai
 八贤王进宫	ba xian wang jin gong
 八月十五吃元宵	ba yue shi wu chi yuan xiao
 八月十五的月亮	ba yue shi wu de yue liang
@@ -66717,14 +65097,12 @@ use_preset_vocabulary: false
 柏马屁拍到蹄子上	bai ma pi pai dao ti zi shang
 白娘子遇许仙	bai niang zi yu xu xian
 白跑	bai pao
-白日做梦	bai ri zuo meng
 白送	bai song
 白疼了一场	bai teng liao yi chang
 白天盼月亮	bai tian pan yue liang
 百万雄师下江南	bai wan xiong shi xia jiang nan
 白钻空子	bai zuan kong zi
 半道上捡个喇叭	ban dao shang jian ge la ba
-半斤对八两	ban jin dui ba liang
 半空中骑马	ban kong zhong qi ma
 斑马的脑袋	ban ma de nao dai
 搬菩萨洗澡	ban pu sa xi zao
@@ -66740,10 +65118,8 @@ use_preset_vocabulary: false
 本质太差	ben zhi tai cha
 蹦老高	beng lao gao
 甭想	beng xiang
-彼此彼此	bi ci bi ci
 彼此一样丑	bi ci yi yang chou
 必定有缘故	bi ding you yuan gu
-毕恭毕敬	bi gong bi jing
 比马大	bi ma da
 比上不足比下不余	bi shang bu zu bi xia bu yu
 变得真快	bian de zhen kuai
@@ -66757,10 +65133,7 @@ use_preset_vocabulary: false
 不安好心眼	bu an hao xin yan
 不必多言	bu bi duo yan
 不变色	bu bian se
-步步登高	bu bu deng gao
-步步高升	bu bu gao sheng
 不成	bu cheng
-不出所料	bu chu suo liao
 不得不低头	bu de bu di tou
 不得不老实	bu de bu lao shi
 不得己	bu de ji
@@ -66780,12 +65153,9 @@ use_preset_vocabulary: false
 不好提	bu hao ti
 不合算	bu he suan
 不合辙	bu he zhe
-不怀好意	bu huai hao yi
 不会套	bu hui tao
-不计其数	bu ji qi shu
 不记前仇俏媳妇戴凤冠	bu ji qian chou qiao xi fu dai feng guan
 不简单	bu jian dan
-不进则退	bu jin ze tui
 不可靠	bu ke kao
 不可能不受沾染	bu ke neng bu shou zhan ran
 不烂搞到烂	bu lan gao dao lan
@@ -66802,13 +65172,10 @@ use_preset_vocabulary: false
 不是好苗头	bu shi hao miao tou
 不是好人	bu shi hao ren
 不是好种	bu shi hao zhong
-不是路	bu shi lu
 不是门	bu shi men
 不是哪块香料	bu shi na kuai xiang liao
 不是闹着玩的	bu shi nao zhe wan de
 不是时候	bu shi shi hou
-不识时务	bu shi shi wu
-不识抬举	bu shi tai ju
 不是偷也是偷	bu shi tou ye shi tou
 不识相	bu shi xiang
 不是这块料	bu shi zhe kuai liao
@@ -66818,19 +65185,15 @@ use_preset_vocabulary: false
 不惜代价	bu xi dai jia
 不响	bu xiang
 不想给你吵	bu xiang gei ni chao
-不相上下	bu xiang shang xia
 不象样	bu xiang yang
 不晓得软硬	bu xiao de ruan ying
 不行了	bu xing le
 不要脸	bu yao lian
 不腰痛	bu yao tong
-不着边际	bu zhao bian ji
 不知吃力	bu zhi chi li
 不知底细	bu zhi di xi
 不知几品	bu zhi ji pin
-不知轻重	bu zhi qing zhong
 不值摔打	bu zhi shuai da
-不知死活	bu zhi si huo
 不知眼有多高	bu zhi yan you duo gao
 不阻力	bu zu li
 彩虹和白云谈情	cai hong he bai yun tan qing
@@ -66838,7 +65201,6 @@ use_preset_vocabulary: false
 采取主动	cai qu zhu dong
 财神爷戴乌纱帽	cai shen ye dai wu sha mao
 踩着肩头往头上拉屎	cai zhe jian tou wang tou shang la shi
-藏头露尾	cang tou lu wei
 苍蝇叮菩萨	cang ying ding pu sa
 苍蝇嘴巴狗鼻子	cang ying zui ba gou bi zi
 草包	cao bao
@@ -66867,15 +65229,9 @@ use_preset_vocabulary: false
 城隍娘娘有喜	cheng huang niang niang you xi
 城楼上亮相	cheng lou shang liang xiang
 成全好事	cheng quan hao shi
-成群结队	cheng qun jie dui
 逞什么	cheng shen me
-成双成对	cheng shuang cheng dui
-诚心实意	cheng xin shi yi
 吃亏的是自己	chi kui de shi zi ji
 吃了对门谢隔壁	chi le dui men xie ge bi
-痴人说梦	chi ren shuo meng
-吃软不吃硬	chi ruan bu chi ying
-痴心妄想	chi xin wang xiang
 吃鱼不吐骨头	chi yu bu tu gu tou
 迟早要飞	chi zao yao fei
 充人来了	chong ren lai le
@@ -66886,18 +65242,15 @@ use_preset_vocabulary: false
 楚霸王自刎乌江	chu ba wang zi wen wu jiang
 出不了格	chu bu liao ge
 出不了好主意	chu bu liao hao zhu yi
-出师不利	chu shi bu li
 出手不高	chu shou bu gao
 喘不上气	chuan bu shang qi
 吹不得	chui bu de
 吹不响	chui bu xiang
 吹的	chui de
 吹了	chui le
-垂头丧气	chui tou sang qi
 此路不通	ci lu bu tong
 葱头不开花	cong tou bu kai hua
 从头甜到脚	cong tou tian dao jiao
-粗中有细	cu zhong you xi
 催命鬼	cui ming gui
 存心害人	cun xin hai ren
 错了	cuo le
@@ -66905,10 +65258,8 @@ use_preset_vocabulary: false
 大摆布	da bai bu
 大不了	da bu liao
 搭不上手	da bu shang shou
-大材小用	da cai xiao yong
 大车初一打拼伙	da che chu yi da pin huo
 大处不算小处算	da chu bu suan xiao chu suan
-大吹大擂	da chui da lei
 打灯笼走亲戚一明去明来	da deng long zou qin qi yi ming qu ming lai
 大公鸡吃米	da gong ji chi mi
 大姑娘嫁太监	da gu niang jia tai jian
@@ -66925,14 +65276,12 @@ use_preset_vocabulary: false
 大年三十看黄历	da nian san shi kan huang li
 打鸟姿态	da niao zi tai
 打破脑袋叫扇子扇	da po nao dai jiao shan zi shan
-大起大落	da qi da luo
 搭起戏台卖豆腐	da qi xi tai mai dou fu
 搭起戏台卖螃蟹	da qi xi tai mai pang xie
 大热天穿皮袄	da re tian chuan pi ao
 打上黑脸照镜	da shang hei lian zhao jing
 大圣吃毫毛	da sheng chi hao mao
 大声叫喊	da sheng jiao han
-大水冲了龙王庙	da shui chong le long wang miao
 打死老鼠喂猫	da si lao shu wei mao
 打乌米的眼睛	da wu mi de yan jing
 大虾炒鸡爪儿	da xia chao ji zhua er
@@ -66940,8 +65289,6 @@ use_preset_vocabulary: false
 大象喝水	da xiang he shui
 大小各有用场	da xiao ge you yong chang
 大雁飞行	da yan fei xing
-大智若愚	da zhi ruo yu
-打肿脸充胖子	da zhong lian chong pang zi
 打足了气的皮球	da zu le qi de pi qiu
 打足气的气球	da zu qi de qi qiu
 带刺	dai ci
@@ -66949,9 +65296,6 @@ use_preset_vocabulary: false
 戴着面具进棺材	dai zhe mian ju jin guan cai
 戴着面具亲嘴	dai zhe mian ju qin zui
 呆子	dai zi
-担当不起	dan dang bu qi
-淡而无味	dan er wu wei
-胆小如鼠	dan xiao ru shu
 挡凤板做锅盖	dang feng ban zuo guo gai
 倒挨了一锥子	dao ai le yi zhui zi
 倒挨一脚	dao ai yi jiao
@@ -66961,25 +65305,18 @@ use_preset_vocabulary: false
 倒了大霉	dao le da mei
 盗马贼披袈裟	dao ma zei pi jia sha
 倒贴	dao tie
-道听途说	dao ting tu shuo
 倒着走	dao zhe zou
-得不偿失	de bu chang shi
-得心应手	de xin ying shou
 等不到老	deng bu dao lao
 等着挨刀	deng zhe ai dao
 登着耗子当成牛	deng zhe hao zi dang cheng niu
-低声下气	di sheng xia qi
 点不起火	dian bu qi huo
 点燃的蜡烛一长命不了	dian ran de la zhu yi zhang ming bu liao
 点着火的双响	dian zhe huo de shuang xiang
-吊儿郎当	diao er lang dang
 动不得	dong bu de
-东倒西歪	dong dao xi wai
 抖起来了	dou qi lai le
 抖什么威风	dou shen me wei feng
 都闲着	dou xian zhe
 堵不完的窟窿	du bu wan de ku long
-独具只眼	du ju zhi yan
 肚里有货倒不出	du li you huo dao bu chu
 独吞	du tun
 断了柄锄头安了把	duan le bing chu tou an le ba
@@ -66987,12 +65324,10 @@ use_preset_vocabulary: false
 短命的货	duan ming de huo
 对不上号	dui bu shang hao
 对天讲话	dui tian jiang hua
-多此一举	duo ci yi ju
 多一层比少一层好	duo yi ceng bi shao yi ceng hao
 多一股子气	duo yi gu zi qi
 多余	duo yu
 躲雨躲到城隍庙	duo yu duo dao cheng huang miao
-多嘴多舌	duo zui duo she
 鹅蛋石跌进刺蓬里	e dan shi die jin ci peng li
 恶鬼见钟旭	e gui jian zhong xu
 饿虎进宅	e hu jin zhai
@@ -67024,12 +65359,10 @@ use_preset_vocabulary: false
 二流子打鼓	er liu zi da gu
 二踢脚	er ti jiao
 二万五千里长征	er wan wu qian li chang zheng
-尔虞我诈	er yu wo zha
 儿子不养娘	er zi bu yang niang
 发啦	fa la
 乏味	fa wei
 翻不过身来	fan bu guo shen lai
-翻江倒海	fan jiang dao hai
 犯劲	fan jin
 反了	fan le
 飞不起来	fei bu qi lai
@@ -67040,7 +65373,6 @@ use_preset_vocabulary: false
 父子相认	fu zi xiang ren
 旮旯里藏毒蛇	ga la li cang du she
 嘎小子买烧鸡	ga xiao zi mai shao ji
-改朝换代	gai chao huan dai
 盖房请来箍桶匠	gai fang qing lai gu tong jiang
 盖了九床被子做美梦	gai le jiu chuang bei zi zuo mei meng
 该下台了	gai xia tai le
@@ -67048,7 +65380,6 @@ use_preset_vocabulary: false
 干草点灯	gan cao dian deng
 赶场带相亲	gan chang dai xiang qin
 赶场走进死胡同	gan chang zou jin si hu tong
-干打雷不下雨	gan da lei bu xia yu
 干干脆脆	gan gan cui cui
 干旱的庄稼	gan han de zhuang jia
 干河沟的鱼	gan he gou de yu
@@ -67089,7 +65420,6 @@ use_preset_vocabulary: false
 各人享各人福	ge ren xiang ge ren fu
 隔山打鸟	ge shan da niao
 割下鼻子换面吃	ge xia bi zi huan mian chi
-各显神通	ge xian shen tong
 各有各的打法	ge you ge de da fa
 各有一技之长	ge you yi ji zhi chang
 各于一行	ge yu yi hang
@@ -67102,9 +65432,7 @@ use_preset_vocabulary: false
 够不着	gou bu zhao
 够喘的了	gou chuan de le
 勾勾搭搭	gou gou da da
-狗眼看人	gou yan kan ren
 够硬	gou ying
-顾前不顾后	gu qian bu gu hou
 鼓足了劲	gu zu le jin
 挂个空名	gua ge kong ming
 怪事一桩	guai shi yi zhuang
@@ -67131,12 +65459,10 @@ use_preset_vocabulary: false
 好大的口气	hao da de kou qi
 好大的气	hao da de qi
 好大的胃口	hao da de wei kou
-好景不长	hao jing bu chang
 好看有限	hao kan you xian
 好厉害	hao li hai
 好难请	hao nan qing
 好捏	hao nie
-好色之徒	hao se zhi tu
 好上加好	hao shang jia hao
 好伟大	hao wei da
 合在一起干	he zai yi qi gan
@@ -67150,7 +65476,6 @@ use_preset_vocabulary: false
 黑旋风的本名	hei xuan feng de ben ming
 狠对狠	hen dui hen
 恨人不死	hen ren bu si
-横冲直撞	heng chong zhi zhuang
 横闯一个点儿	heng chuang yi ge dian er
 横杠竹子	heng gang zhu zi
 哼哈二将斗法	heng ha er jiang dou fa
@@ -67168,10 +65493,8 @@ use_preset_vocabulary: false
 红运将至	hong yun jiang zhi
 洪泽湖的鱼鹰	hong ze hu de yu ying
 后半截	hou ban jie
-后患无穷	hou huan wu qiong
 后悔已晚	hou hui yi wan
 后劲大	hou jin da
-后来居上	hou lai ju shang
 喉咙长刺口生疮	hou long zhang ci kou sheng chuang
 猴学样	hou xue yang
 猴子戴凉帽	hou zi dai liang mao
@@ -67181,7 +65504,6 @@ use_preset_vocabulary: false
 护城河的王八	hu cheng he de wang ba
 糊糊涂涂	hu hu tu tu
 胡砍	hu kan
-胡拉乱扯	hu la luan che
 狐狸吃不到的葡萄	hu li chi bu dao de pu tao
 狐狸吃刺猬	hu li chi ci wei
 狐狸钻罐子	hu li zuan guan zi
@@ -67196,7 +65518,6 @@ use_preset_vocabulary: false
 胡屠户的女婿	hu tu hu de nv xu
 互相照应	hu xiang zhao ying
 画笔敲敲	hua bi qiao qiao
-华而不实	hua er bu shi
 花岗岩下油锅	hua gang yan xia you guo
 花骨朵碰在屠刀上	hua gu duo peng zai tu dao shang
 花果山上没外姓	hua guo shan shang mei wai xing
@@ -67205,7 +65526,6 @@ use_preset_vocabulary: false
 花轿前的乐队	hua jiao qian de yue dui
 画面上的酒菜	hua mian shang de jiu cai
 花瓶里种树	hua ping li zhong shu
-话中带刺	hua zhong dai ci
 坏到一块了	huai dao yi kuai le
 怀的鬼胎	huai de gui tai
 怀儿婆的口粮	huai er po de kou liang
@@ -67222,7 +65542,6 @@ use_preset_vocabulary: false
 会唱会跳	hui chang hui tiao
 回头见高低	hui tou jian gao di
 回头难	hui tou nan
-悔之莫及	hui zhi mo ji
 会走不会飞	hui zou bu hui fei
 浑蛋	hun dan
 混蛋到底	hun dan dao di
@@ -67231,7 +65550,6 @@ use_preset_vocabulary: false
 浑身打哆哆	hun shen da duo duo
 浑身都软了	hun shen dou ruan le
 浑身是气	hun shen shi qi
-活蹦乱跳	huo beng luan tiao
 豁出来了	huo chu lai le
 豁出去了	huo chu qu le
 火气太大	huo qi tai da
@@ -67254,21 +65572,15 @@ use_preset_vocabulary: false
 假充鹰	jia chong ying
 假的	jia de
 贾府门前的狮子	jia fu men qian de shi zi
-嫁祸于人	jia huo yu ren
 贾家姑娘嫁贾家	jia jia gu niang jia jia jia
-假门假事	jia men jia shi
 家人不认识一家人	jia ren bu ren shi yi jia ren
-见不得人	jian bu de ren
 奸臣当道	jian chen dang dao
 煎过三遍的药渣	jian guo san bian de yao zha
 贱货	jian huo
 见窟窿就钻	jian ku long jiu zuan
 见面就崩	jian mian jiu beng
-见死不救	jian si bu jiu
 肩头上放花炮	jian tou shang fang hua pao
-见异思迁	jian yi si qian
 见者有份	jian zhe you fen
-讲风凉话	jiang feng liang hua
 蒋干盗书	jiang gan dao shu
 酱缸腌时子	jiang gang yan shi zi
 酱坛里装个鳖	jiang tan li zhuang ge bie
@@ -67280,22 +65592,18 @@ use_preset_vocabulary: false
 脚盆里撑船	jiao pen li cheng chuan
 教菩萨认字	jiao pu sa ren zi
 叫人眼饱肚饥	jiao ren yan bao du ji
-脚踏实地	jiao ta shi di
 狡兔撞鹰	jiao tu zhuang ying
 结果不好	jie guo bu hao
 街上卖笛	jie shang mai di
-借题发挥	jie ti fa hui
 街头的狗	jie tou de gou
 街头上耍把戏	jie tou shang shua ba xi
 进不得城	jin bu de cheng
 金不换	jin bu huan
 尽见鬼	jin jian gui
 尽讲风凉话	jin jiang feng liang hua
-斤斤计较	jin jin ji jiao
 进来容易出去难	jin lai rong yi chu qu nan
 浸湿的木头	jin shi de mu tou
 尽是老调	jin shi lao diao
-进退两难	jin tui liang nan
 尽往上看	jin wang shang kan
 紧往上爬	jin wang shang pa
 尽想好事	jin xiang hao shi
@@ -67305,7 +65613,6 @@ use_preset_vocabulary: false
 经不起风雨	jing bu qi feng yu
 经不起推敲	jing bu qi tui qiao
 经得起打击	jing de qi da ji
-惊弓之鸟	jing gong zhi niao
 京戏走台步	jing xi zou tai bu
 惊蛰后的蜈蚣	jing zhe hou de wu gong
 镜子里亲嘴	jing zi li qin zui
@@ -67382,7 +65689,6 @@ use_preset_vocabulary: false
 空手抓白鱼	kong shou zhua bai yu
 空想	kong xiang
 空心罗汉	kong xin luo han
-口蜜腹剑	kou mi fu jian
 窟窿套窟窿	ku long tao ku long
 苦苗苗	ku miao miao
 苦生苦长	ku sheng ku chang
@@ -67422,10 +65728,8 @@ use_preset_vocabulary: false
 榔头对锤子	lang tou dui chui zi
 狼惜猪娃	lang xi zhu wa
 浪中行船	lang zhong hang chuan
-浪子回头	lang zi hui tou
 老等	lao deng
 老调子	lao diao zi
-劳而无功	lao er wu gong
 牢房里赌博	lao fang li du bo
 老肥猪上屠场	lao fei zhu shang tu chang
 老坟头里的尸骨	lao fen tou li de shi gu
@@ -67437,7 +65741,6 @@ use_preset_vocabulary: false
 老虎和猪生的	lao hu he zhu sheng de
 老虎皮兔子胆	lao hu pi tu zi dan
 老糊涂	lao hu tu
-老奸巨猾	lao jian ju hua
 老来俏	lao lai qiao
 老驴打滚	lao lv da gun
 老母猪爬楼梯	lao mu zhu pa lou ti
@@ -67469,22 +65772,18 @@ use_preset_vocabulary: false
 立场不稳	li chang bu wen
 理亏	li kui
 里外发烧	li wai fa shao
-恋恋不舍	lian lian bu she
 脸上无光	lian shang wu guang
 两人一份	liang ren yi fen
 两想	liang xiang
-两袖清风	liang xiu qing feng
 两眼墨黑	liang yan mo hei
 亮月下耍大刀	liang yue xia shua da dao
 料不到	liao bu dao
 零比零	ling bi ling
-灵丹妙药	ling dan miao yao
 另搞一套	ling gao yi tao
 另有所图	ling you suo tu
 溜了	liu le
 留神	liu shen
 溜须不要命	liu xu bu yao ming
-溜须拍马	liu xu pai ma
 留一手	liu yi shou
 露底	lou di
 路不宽	lu bu kuan
@@ -67554,7 +65853,6 @@ use_preset_vocabulary: false
 麦田里的韭菜	mai tian li de jiu cai
 麦田里撒豌豆	mai tian li sa wan dou
 买眼药进了石灰店	mai yan yao jin le shi hui dian
-蛮不讲理	man bu jiang li
 满肚子熊点子	man du zi xiong dian zi
 慢工出细活	man gong chu xi huo
 慢慢挪	man man nuo
@@ -67598,11 +65896,9 @@ use_preset_vocabulary: false
 没指望	mei zhi wang
 没咒念	mei zhou nian
 没准儿	mei zhun er
-门当户对	men dang hu dui
 闷起来了	men qi lai le
 懵门了	meng men le
 迷迷糊糊	mi mi hu hu
-弥天大谎	mi tian da huang
 面面有用	mian mian you yong
 勉强不得	mian qiang bu de
 面生	mian sheng
@@ -67612,11 +65908,9 @@ use_preset_vocabulary: false
 明看不成器丢又舍不得	ming kan bu cheng qi diu you she bu de
 摸不着底	mo bu zhao di
 摸出来的	mo chu lai de
-莫名其妙	mo ming qi miao
 莫想	mo xiang
 莫须有	mo xu you
 木匠铺里拉大锯	mu jiang pu li la da ju
-目空一切	mu kong yi qie
 木偶流眼泪	mu ou liu yan lei
 牧人不刮胡子	mu ren bu gua hu zi
 木头人过河	mu tou ren guo he
@@ -67659,18 +65953,15 @@ use_preset_vocabulary: false
 内外勾结	nei wai gou jie
 泥巴捏的小人	ni ba nie de xiao ren
 你吃鸡鸭肉我啃窝窝头	ni chi ji ya rou wo ken wo wo tou
-你东我西	ni dong wo xi
 逆风点火	ni feng dian huo
 泥佛爷的眼珠儿	ni fo ye de yan zhu er
 尼姑生孩子	ni gu sheng hai zi
-你来我去	ni lai wo qu
 你卖门神我卖鬼	ni mai men shen wo mai gui
 泥菩萨洗脸	ni pu sa xi lian
 你去南极我去北极	ni qu nan ji wo qu bei ji
 泥人经不起雨打	ni ren jing bu qi yu da
 泥神笑菩萨	ni shen xiao pu sa
 逆水行船	ni shui xing chuan
-逆水行舟	ni shui xing zhou
 你算哪一路	ni suan na yi lu
 腻透了	ni tou le
 你行我也行	ni xing wo ye xing
@@ -67680,20 +65971,16 @@ use_preset_vocabulary: false
 你做生意我教书	ni zuo sheng yi wo jiao shu
 年年都一样	nian nian dou yi yang
 碾盘对碾盘	nian pan dui nian pan
-拈轻怕重	nian qing pa zhong
 念完了经打和尚	nian wan le jing da he shang
 撵走孤狸住上狼	nian zou gu li zhu shang lang
 鸟儿搬家	niao er ban jia
-鸟枪换炮	niao qiang huan pao
 捏死手中鸟	nie si shou zhong niao
 捏着鼻尖儿做梦	nie zhe bi jian er zuo meng
-宁折不弯	ning zhe bu wan
 牛背上翻踉头	niu bei shang fan liang tou
 牛犊子叫街	niu du zi jiao jie
 牛犊子上套	niu du zi shang tao
 牛皮鼓湿水	niu pi gu shi shui
 牛牵鼻子马抓鬃	niu qian bi zi ma zhua zong
-牛头不对马嘴	niu tou bu dui ma zui
 牛羊的肚腹	niu yang de du fu
 弄不多柴禾	nong bu duo chai he
 暖水瓶爆烈	nuan shui ping bao lie
@@ -67724,7 +66011,6 @@ use_preset_vocabulary: false
 跑马吃烤鸭	pao ma chi kao ya
 跑马使绊子	pao ma shi ban zi
 配得起你	pei de qi ni
-喷云吐雾	pen yun tu wu
 碰了一鼻灰	peng le yi bi hui
 捧着泥鳅玩	peng zhe ni qiu wan
 碰着啥咬啥	peng zhe sha yao sha
@@ -67763,12 +66049,9 @@ use_preset_vocabulary: false
 气不打一处来	qi bu da yi chu lai
 七尺汉子六尺门	qi chi han zi liu chi men
 气得嘣八丈高	qi de beng ba zhang gao
-七颠八倒	qi dian ba dao
 乞丐过日子	qi gai guo ri zi
 乞丐跳舞	qi gai tiao wu
-漆黑一团	qi hei yi tuan
 齐桓公用管仲	qi huan gong yong guan zhong
-气急败坏	qi ji bai huai
 起了心	qi le xin
 骑驴看唱本	qi lv kan chang ben
 骑驴望着坐轿的	qi lv wang zhe zuo jiao de
@@ -67778,7 +66061,6 @@ use_preset_vocabulary: false
 棋盘里的老将	qi pan li de lao jiang
 砌墙的砖头	qi qiang de zhuan tou
 七石缸里捞芝麻	qi shi gang li lao zhi ma
-七手八脚	qi shou ba jiao
 齐头并迸	qi tou bing beng
 七仙女嫁董永	qi xian nv jia dong yong
 骑着骆驼吃包子	qi zhe luo tuo chi bao zi
@@ -67786,7 +66068,6 @@ use_preset_vocabulary: false
 钱串子脑袋	qian chuan zi nao dai
 千斤顶干活	qian jin ding gan huo
 千里送客	qian li song ke
-千里姻缘一线牵	qian li yin yuan yi xian qian
 千年的大树	qian nian de da shu
 千年的铜钟	qian nian de tong zhong
 浅滩上放木排	qian tan shang fang mu pai
@@ -67795,12 +66076,10 @@ use_preset_vocabulary: false
 谦虚	qian xu
 钱也有权也有	qian ye you quan ye you
 前有强敌后有追兵	qian you qiang di hou you zhui bing
-千真万真	qian zhen wan zhen
 强盗发善心	qiang dao fa shan xin
 强盗碰着贼爷爷	qiang dao peng zhe zei ye ye
 强盗照镜子	qiang dao zhao jing zi
 强拉媳妇成亲	qiang la xi fu cheng qin
-强人所难	qiang ren suo nan
 墙头上的种白菜	qiang tou shang de zhong bai cai
 墙头上种菜	qiang tou shang zhong cai
 强装有本事	qiang zhuang you ben shi
@@ -67810,7 +66089,6 @@ use_preset_vocabulary: false
 亲肉一块	qin rou yi kuai
 秦叔宝的黄骡马	qin shu bao de huang luo ma
 亲员	qin yuan
-轻而易举	qing er yi ju
 清高	qing gao
 清了吧	qing le ba
 青石板上的青苔	qing shi ban shang de qing tai
@@ -67831,7 +66109,6 @@ use_preset_vocabulary: false
 穷快活	qiong kuai huo
 穷相毕露	qiong xiang bi lu
 穷壮胆	qiong zhuang dan
-求之不得	qiu zhi bu de
 全靠别人施舍	quan kao bie ren shi she
 全落空	quan luo kong
 全凭手快	quan ping shou kuai
@@ -67858,7 +66135,6 @@ use_preset_vocabulary: false
 饶舌的乌鸦	rao she de wu ya
 热锅爆米花	re guo bao mi hua
 热锅里的鸭子	re guo li de ya zi
-热锅上的蚂蚁	re guo shang de ma yi
 热锅上的蒸笼	re guo shang de zheng long
 热火盆里抽火炭	re huo pen li chou huo tan
 热炕头上的白面	re kang tou shang de bai mian
@@ -67874,7 +66150,6 @@ use_preset_vocabulary: false
 人才市场填个表	ren cai shi chang tian ge biao
 人到矮檐下	ren dao ai yan xia
 人到古稀穿花衣	ren dao gu xi chuan hua yi
-人各有志	ren ge you zhi
 人急跳窗户	ren ji tiao chuang hu
 人老心不老	ren lao xin bu lao
 人面鬼心	ren mian gui xin
@@ -67885,12 +66160,10 @@ use_preset_vocabulary: false
 人在屋檐下	ren zai wu yan xia
 人在心不在	ren zai xin bu zai
 人造牛黄	ren zao niu huang
-任重道远	ren zhong dao yuan
 人走家散	ren zou jia san
 扔下讨饭篮打乞丐	reng xia tao fan lan da qi gai
 扔下铁锤拿灯草	reng xia tie chui na deng cao
 日出西山水倒流	ri chu xi shan shui dao liu
-日落西山	ri luo xi shan
 日子难过	ri zi nan guo
 容不得半点火垦	rong bu de ban dian huo ken
 绒毛鸭子刚下水	rong mao ya zi gang xia shui
@@ -67908,7 +66181,6 @@ use_preset_vocabulary: false
 入伏的高梁	ru fu de gao liang
 如来佛的手心	ru lai fo de shou xin
 软面包饺子	ruan mian bao jiao zi
-软弱无能	ruan ruo wu neng
 软中有硬	ruan zhong you ying
 撒了谷子拾稻草	sa le gu zi shi dao cao
 仨钱买匹马	sa qian mai pi ma
@@ -67923,34 +66195,25 @@ use_preset_vocabulary: false
 三个鼻孔眼儿	san ge bi kong yan er
 三个醉汉撒酒疯	san ge zui han sa jiu feng
 三根缆绳拴两边	san gen lan sheng shuan liang bian
-三顾茅庐	san gu mao lu
 三合板上雕花	san he ban shang diao hua
 三间瓦房不开门	san jian wa fang bu kai men
 三角挫刀	san jiao cuo dao
 三角砖头	san jiao zhuan tou
 三斤半鸭子二斤半嘴	san jin ban ya zi er jin ban zui
 三九天吃梅子	san jiu tian chi mei zi
-三句话不离本行	san ju hua bu li ben hang
-三令五申	san ling wu shen
-三五成群	san wu cheng qun
-三心二意	san xin er yi
 丧胆	sang dan
-色厉内荏	se li nei ren
 煞风景	sha feng jing
 砂锅里的火药	sha guo li de huo yao
 扇阴风	shan yin feng
-上不着天下不着地	shang bu zhao tian xia bu zhao di
 上帝保佑	shang di bao you
 上晃下摇	shang huang xia yao
 上了大当	shang le da dang
 上脸	shang lian
-上梁不正下梁歪	shang liang bu zheng xia liang wai
 上气不接下气	shang qi bu jie xia qi
 上下两难	shang xia liang nan
 烧不成个东西	shao bu cheng ge dong xi
 少不了挨一刀	shao bu liao ai yi dao
 少见	shao jian
-少有	shao you
 设底儿	she di er
 神气来了	shen qi lai le
 身子烂了踊头还硬	shen zi lan le yong tou hai ying
@@ -67961,11 +66224,9 @@ use_preset_vocabulary: false
 屎壳郎打喷嚏	shi ke lang da pen ti
 屎壳郎戴面具	shi ke lang dai mian ju
 失面子	shi mian zi
-十拿九稳	shi na jiu wen
 屎尿多	shi niao duo
 使偏劲	shi pian jin
 十五只小船出海	shi wu zhi xiao chuan chu hai
-实心实意	shi xin shi yi
 实心竹竿做笛子	shi xin zhu gan zuo di zi
 实心竹子做笛子	shi xin zhu zi zuo di zi
 十有九空	shi you jiu kong
@@ -67999,7 +66260,6 @@ use_preset_vocabulary: false
 双胞胎比长相	shuang bao tai bi chang xiang
 霜打的黄瓜	shuang da di huang gua
 霜打的麻叶	shuang da di ma ye
-双喜临门	shuang xi lin men
 水壶里盛汤圆	shui hu li cheng tang yuan
 水浸菩萨	shui jin pu sa
 水里的蛤蟆	shui li de ha ma
@@ -68030,8 +66290,6 @@ use_preset_vocabulary: false
 死心眼儿	si xin yan er
 送福	song fu
 送来一口肉	song lai yi kou rou
-素不相识	su bu xiang shi
-随波逐流	sui bo zhu liu
 塌鼻子嫁个斜眼	ta bi zi jia ge xie yan
 塔顶散步	ta ding san bu
 塌锅干饭	ta guo gan fan
@@ -68071,17 +66329,14 @@ use_preset_vocabulary: false
 陶工手里的粘上	tao gong shou li de zhan shang
 讨媳妇嫁女儿	tao xi fu jia nv er
 套袖改袜子	tao xiu gai wa zi
-腾云驾雾	teng yun jia wu
 替狗忙	ti gou mang
 剃头的动手	ti tou de dong shou
 剃头匠发火	ti tou jiang fa huo
-提心吊胆	ti xin diao dan
 提着灯笼打柴	ti zhe deng long da chai
 提着口袋倒核桃	ti zhe kou dai dao he tao
 田埂上搭桥	tian geng shang da qiao
 甜果都从苦根来	tian guo dou cong ku gen lai
 天黑敬菩萨	tian hei jing pu sa
-天花乱坠	tian hua luan zhui
 天降良缘	tian jiang liang yuan
 田里的庄稼	tian li de zhuang jia
 填满肚子算事	tian man du zi suan shi
@@ -68093,7 +66348,6 @@ use_preset_vocabulary: false
 天下奇闻	tian xia qi wen
 挑灯草走路	tiao deng cao zou lu
 挑水骑单车	tiao shui qi dan che
-铁面无私	tie mian wu si
 铁蛇掉井里	tie she diao jing li
 听见猫叫骨头酥	ting jian mao jiao gu tou su
 听哑巴唱戏	ting ya ba chang xi
@@ -68106,15 +66360,12 @@ use_preset_vocabulary: false
 偷鸡不成蚀把米	tou ji bu cheng shi ba mi
 偷鸡摸蛋	tou ji mo dan
 偷来的喇叭	tou lai de la ba
-头破血流	tou po xue liu
 头挑	tou tiao
-头头是道	tou tou shi dao
 突出	tu chu
 屠夫说猪农夫说谷	tu fu shuo zhu nong fu shuo gu
 屠夫送礼	tu fu song li
 图个干脆	tu ge gan cui
 土里来泥里去	tu li lai ni li qu
-土生土长	tu sheng tu zhang
 土腥味	tu xing wei
 秃子脑袋当玩具	tu zi nao dai dang wan ju
 秃子揍和尚	tu zi zou he shang
@@ -68128,38 +66379,27 @@ use_preset_vocabulary: false
 晚了迟了	wan le chi le
 玩心不退	wan xin bu tui
 忘本	wang ben
-枉费心机	wang fei xin ji
 忘了自己从哪来了	wang le zi ji cong na lai le
-望洋兴叹	wang yang xing tan
 往最坏处想	wang zui huai chu xiang
 尾巴翘上天	wei ba qiao shang tian
 为的是嘴	wei de shi zui
-威风扫地	wei feng sao di
-为民请命	wei min qing ming
 未知经过多少风雨	wei zhi jing guo duo shao feng yu
 蚊龙困在沙滩上	wen long kun zai sha tan shang
 文明人不做文明事	wen ming ren bu zuo wen ming shi
 闻声不见人	wen sheng bu jian ren
-纹丝不动	wen si bu dong
 窝脖	wo bo
 握不住	wo bu zhu
 无不识货	wu bu shi huo
 无耻下流	wu chi xia liu
 无出路	wu chu lu
 无痕迹	wu hen ji
-无可奈何	wu ke nai he
-无奇不有	wu qi bu you
-无牵无挂	wu qian wu gua
 无情	wu qing
 无人买	wu ren mai
 无伤痕	wu shang hen
 无事不来	wu shi bu lai
-无事生非	wu shi sheng fei
 武艺高	wu yi gao
-无依无靠	wu yi wu kao
 无用	wu yong
 吸饱风的帆	xi bao feng de fan
-喜出望外	xi chu wang wai
 细吹细打	xi chui xi da
 稀饭锅里扔铁砣	xi fan guo li reng tie tuo
 膝盖头套袜子	xi gai tou tao wa zi
@@ -68230,7 +66470,6 @@ use_preset_vocabulary: false
 鞋壳篓里跑马	xie ke lou li pao ma
 泄气	xie qi
 鞋上绣金夙	xie shang xiu jin su
-心到神知	xin dao shen zhi
 新郎官戴孝	xin lang guan dai xiao
 新郎官揭盖头	xin lang guan jie gai tou
 新女婿请接生婆	xin nv xu qing jie sheng po
@@ -68246,11 +66485,8 @@ use_preset_vocabulary: false
 行不通	xing bu tong
 行不通走不通	xing bu tong zou bu tong
 杏花村的酒	xing hua cun de jiu
-兴师动众	xing shi dong zhong
 星星跟着月亮走	xing xing gen zhe yue liang zou
-凶多吉少	xiong duo ji shao
 胸前划十字	xiong qian hua shi zi
-凶神恶煞	xiong shen e sha
 熊耍把戏狗叫唤	xiong shua ba xi gou jiao huan
 秀才的手中	xiu cai de shou zhong
 秀才偷笔	xiu cai tou bi
@@ -68259,11 +66495,8 @@ use_preset_vocabulary: false
 羞死人	xiu si ren
 休想	xiu xiang
 许不下羊羔许骆驼	xu bu xia yang gao xu luo tuo
-虚度年华	xu du nian hua
 虚情当成真意	xu qing dang cheng zhen yi
-虚情假意	xu qing jia yi
 许仙碰着白娘子	xu xian peng zhe bai niang zi
-虚张声势	xu zhang sheng shi
 宣统坐江山	xuan tong zuo jiang shan
 雪堆的假山	xue dui de jia shan
 薛仁贵的行头	xue ren gui de xing tou
@@ -68271,7 +66504,6 @@ use_preset_vocabulary: false
 学人样	xue ren yang
 鸭棚的老汉睡懒觉	ya peng de lao han shui lan jiao
 眼馋	yan chan
-言传身教	yan chuan shen jiao
 烟袋锅烤手	yan dai guo kao shou
 烟袋锅里煮饭	yan dai guo li zhu fan
 盐堆里爬出来的人	yan dui li pa chu lai de ren
@@ -68284,7 +66516,6 @@ use_preset_vocabulary: false
 阎王爷做的芝麻饼	yan wang ye zuo de zhi ma bing
 唁闲嗑	yan xian ke
 演员谢幕	yan yuan xie mu
-严阵以待	yan zhen yi dai
 杨继业数儿子	yang ji ye shu er zi
 养麦地里藏秃子	yang mai di li cang tu zi
 养麦地里抓王八	yang mai di li zhua wang ba
@@ -68301,11 +66532,9 @@ use_preset_vocabulary: false
 腰里别镰刀	yao li bie lian dao
 腰里掖着个扁担	yao li ye zhe ge bian dan
 药铺里卖棺材	yao pu li mai guan cai
-妖言惑众	yao yan huo zhong
 要也不是不要也不是	yao ye bu shi bu yao ye bu shi
 咬着铁棍还说牙齿硬	yao zhe tie gun hai shuo ya chi ying
 夜不关门	ye bu guan men
-叶公好龙	ye gong hao long
 夜壶打了把	ye hu da le ba
 夜壶里洗澡	ye hu li xi zao
 爷见孙猫见窜	ye jian sun mao jian cuan
@@ -68315,13 +66544,9 @@ use_preset_vocabulary: false
 夜莺配鹦鹉	ye ying pei ying wu
 掖着个孙悟空	ye zhe ge sun wu kong
 一辈子出不了头	yi bei zi chu bu liao tou
-一本正经	yi ben zheng jing
-一步登天	yi bu deng tian
-一触即发	yi chu ji fa
 一触即跳	yi chu ji tiao
 一吹就散	yi chui jiu san
 一错再错	yi cuo zai cuo
-一对丑	yi dui chou
 一付坏心肠	yi fu huai xin chang
 一个比一个难看	yi ge bi yi ge nan kan
 一个比一个凶	yi ge bi yi ge xiong
@@ -68331,20 +66556,14 @@ use_preset_vocabulary: false
 一个师父一路拳	yi ge shi fu yi lu quan
 一个样	yi ge yang
 一个愿打一个愿挨	yi ge yuan da yi ge yuan ai
-以功为守	yi gong wei shou
-一鼓作气	yi gu zuo qi
-一哄而散	yi hong er san
+以攻为守	yi gong wei shou
 一伙更比一伙凶	yi huo geng bi yi huo xiong
 一节也不通	yi jie ye bu tong
 一进一出	yi jin yi chu
-一举两得	yi ju liang de
 一溜二抹	yi liu er mo
-一马当先	yi ma dang xian
 一模一样	yi mo yi yang
 姨奶奶的枕头凤	yi nai nai de zhen tou feng
-一年不如一年	yi nian bu ru yi nian
 一篇大道理	yi pian da dao li
-一窍不通	yi qiao bu tong
 一去不回头	yi qu bu hui tou
 一时光	yi shi guang
 一双脚踏两只船	yi shuang jiao ta liang zhi chuan
@@ -68356,8 +66575,6 @@ use_preset_vocabulary: false
 一拖再拖	yi tuo zai tuo
 一窝不如一窝	yi wo bu ru yi wo
 一窝孙	yi wo sun
-一泻千里	yi xie qian li
-以怨报德	yi yuan bao de
 引火上身	yin huo shang shen
 硬按公鸡下蛋	ying an gong ji xia dan
 硬棒槌弹棉花	ying bang chui tan mian hua
@@ -68386,20 +66603,14 @@ use_preset_vocabulary: false
 有货倒不出	you huo dao bu chu
 有假无真	you jia wu zhen
 有劲使不上	you jin shi bu shang
-有来有往	you lai you wang
 有了把柄	you le ba bing
 有力无处使	you li wu chu shi
 有命没毛	you ming mei mao
-有你不多没你不少	you ni bu duo mei ni bu shao
 有去无回	you qu wu hui
 由人摆布	you ren bai bu
 有日子的人了	you ri zi de ren le
-有声有色	you sheng you se
 又属百灵鸟又属袋鼠	you shu bai ling niao you shu dai shu
 有无地之别	you wu di zhi bie
-有眼不识泰山	you yan bu shi tai shan
-有眼无珠	you yan wu zhu
-有言在先	you yan zai xian
 有也不多	you ye bu duo
 有用是亲无用是仇	you yong shi qin wu yong shi chou
 玉皇大帝拜财神一有钱大三辈	yu huang da di bai cai shen yi you qian da san bei
@@ -68409,13 +66620,11 @@ use_preset_vocabulary: false
 渔网当伞	yu wang dang san
 与我无关	yu wo wu guan
 雨夜打灯笼	yu ye da deng long
-与众不同	yu zhong bu tong
 远处有灯	yuan chu you deng
 袁世凯当皇帝	yuan shi kai dang huang di
 冤枉死人	yuan wang si ren
 圆珠笔蘸墨水一多事	yuan zhu bi zhan mo shui yi duo shi
 圆桌会议	yuan zhuo hui yi
-远走高飞	yuan zou gao fei
 越吃越糟	yue chi yue zao
 越打越下	yue da yue xia
 越弹越乱	yue dan yue luan
@@ -68432,11 +66641,9 @@ use_preset_vocabulary: false
 越选越差	yue xuan yue cha
 云里张口袋	yun li zhang kou dai
 云南老虎蒙古骆驼	yun nan lao hu meng gu luo tuo
-砸锅卖铁	za guo mai tie
 杂货铺卸货	za huo pu xie huo
 杂种	za zhong
 宰个鸽鸽也要请屠夫提刀	zai ge ge ge ye yao qing tu fu ti dao
-在劫难逃	zai jie nan tao
 宰相的千金皇帝的女	zai xiang de qian jin huang di de nv
 再也洗不清	zai ye xi bu qing
 再吟诗也跑不脱	zai yin shi ye pao bu tuo
@@ -68451,7 +66658,6 @@ use_preset_vocabulary: false
 灶王爷上尺	zao wang ye shang chi
 灶王爷贴在腿肚上	zao wang ye tie zai tui du shang
 贼过才张弓	zei guo cai zhang gong
-贼头贼脑	zei tou zei nao
 贼娃子拾东西	zei wa zi shi dong xi
 扎不下根	zha bu xia gen
 蚱蜢碰上鸡	zha meng peng shang ji
@@ -68468,7 +66674,6 @@ use_preset_vocabulary: false
 站在岸边看翻船	zhan zai an bian kan fan chuan
 站在海边打咳声	zhan zai hai bian da ke sheng
 站在河岸捞月亮	zhan zai he an lao yue liang
-沾沾自喜	zhan zhan zi xi
 站着身子正	zhan zhe shen zi zheng
 战争贩子唱和平	zhan zheng fan zi chang he ping
 张飞摆屠案	zhang fei bai tu an
@@ -68485,20 +66690,17 @@ use_preset_vocabulary: false
 赵匡胤穿龙袍	zhao kuang yin chuan long pao
 照明弹上天	zhao ming dan shang tian
 找死	zhao si
-赵云大战长板坡	zhao yun da zhan chang ban po
+赵云大战长坂坡	zhao yun da zhan chang ban po
 照住屁股蹬一脚	zhao zhu pi gu deng yi jiao
 这把骨头不知往哪	zhe ba gu tou bu zhi wang na
 遮不住阳光	zhe bu zhu yang guang
 这山看着那山高	zhe shan kan zhe na shan gao
 砧板上的鱼	zhen ban shang de yu
 侦察员破案	zhen cha yuan po an
-针锋相对	zhen feng xiang dui
 真好	zhen hao
 真灵	zhen ling
 针挑黄连	zhen tiao huang lian
-真相大白	zhen xiang da bai
 枕着扁担睡觉	zhen zhe bian dan shui jiao
-正大光明	zheng da guang ming
 正合适	zheng he shi
 整筐丢西瓜	zheng kuang diu xi gua
 正是时候	zheng shi shi hou
@@ -68507,7 +66709,6 @@ use_preset_vocabulary: false
 直尺量曲线	zhi chi liang qu xian
 知道迟到了	zhi dao chi dao le
 知道你是哪块地里有呢	zhi dao ni shi na kuai di li you ne
-趾高气扬	zhi gao qi yang
 纸糊的老虎	zhi hu de lao hu
 只可远看不能近瞧	zhi ke yuan kan bu neng jin qiao
 肢皮人烤火	zhi pi ren kao huo
@@ -68519,7 +66720,6 @@ use_preset_vocabulary: false
 只有三年	zhi you san nian
 只有一个心眼	zhi you yi ge xin yan
 指着秃子骂和尚	zhi zhe tu zi ma he shang
-置之不理	zhi zhi bu li
 周瑜打黄盖	zhou yu da huang gai
 皱皱巴巴的	zhou zhou ba ba de
 主次不分	zhu ci bu fen
@@ -68540,18 +66740,13 @@ use_preset_vocabulary: false
 追查到底	zhui cha dao di
 桌子缝里舔芝麻	zhuo zi feng li tian zhi ma
 桌子上唱大戏	zhuo zi shang chang da xi
-自暴自弃	zi bao zi qi
 自吹	zi chui
 自大	zi da
 自焚	zi fen
-自顾不暇	zi gu bu xia
 自己跟自己过不去	zi ji gen zi ji guo bu qu
 自己吓唬自己	zi ji xia hu zi ji
 自来红	zi lai hong
-自鸣得意	zi ming de yi
 自骑自夸	zi qi zi kua
-自身难保	zi shen nan bao
-自讨苦吃	zi tao ku chi
 自我膨胀	zi wo peng zhang
 自我推销	zi wo tui xiao
 自找苦吃	zi zhao ku chi
@@ -68565,231 +66760,31 @@ use_preset_vocabulary: false
 走的是一个方向	zou de shi yi ge fang xiang
 走对了路子	zou dui le lu zi
 走路算账	zou lu suan zhang
-走投无路	zou tou wu lu
 钻不进	zuan bu jin
 钻进鸟笼里的猫	zuan jin niao long li de mao
 钻子头上加钢针	zuan zi tou shang jia gang zhen
 嘴馋上了当	zui chan shang le dang
 醉汉过铁索桥	zui han guo tie suo qiao
-醉翁之意不在酒	zui weng zhi yi bu zai jiu
 坐不稳	zuo bu wen
 坐不住	zuo bu zhu
 坐等	zuo deng
 作用不全	zuo yong bu quan
-左右为难	zuo you wei nan
-哀鸿遍野	ai hong bian ye
-安步当车	an bu dang che
 安土重还	an tu zhong hai
-嗷嗷待哺	ao ao dai bu
-白驹过隙	bai ju guo xi
-抱残守缺	bao can shou que
-杯弓蛇影	bei gong she ying
-杯水车薪	bei shui che xin
-筚路蓝缕	bi lu lan lv
-别无长物	bie wu chang wu
-不卑不亢	bu bei bu kang
-不孚众望	bu fu zhong wang
-不负众望	bu fu zhong wang
-不即不离	bu ji bu li
-不胫而走	bu jing er zou
-不刊之论	bu kan zhi lun
-不可开交	bu ke kai jiao
-不可理喻	bu ke li yu
-不可收拾	bu ke shou shi
-不可思议	bu ke si yi
-不可向迩	bu ke xiang er
-不可终日	bu ke zhong ri
-不稂不莠	bu lang bu you
-不落窠臼	bu luo ke jiu
-不容置喙	bu rong zhi hui
-不塞不流不止不行	bu sai bu liu bu zhi bu xing
-不为已甚	bu wei yi shen
 不瘟不火	bu wen bu huo
-不亦乐乎	bu yi le hu
-不以为然	bu yi wei ran
-不以为意	bu yi wei yi
-不足挂齿	bu zu gua chi
-不足为训	bu zu wei xun
-蚕食鲸吞	can shi jing tun
-沧海一粟	cang hai yi su
-侧目而视	ce mu er shi
-曾几何时	ceng ji he shi
 曾经沧桑	ceng jing cang sang
-差强人意	cha qiang ren yi
-诚惶诚恐	cheng huang cheng kong
-城下之盟	cheng xia zhi meng
-出奇制胜	chu qi zhi sheng
-出神入化	chu shen ru hua
-处心积虑	chu xin ji lv
-从善如流	cong shan ru liu
-大而无当	da er wu dang
-大快人心	da kuai ren xin
-大器晚成	da qi wan cheng
-大智若愚	da zhi ruo yu
-当仁不让	dang ren bu rang
-得陇望蜀	de long wang shu
-登堂入室	deng tang ru shi
-顶礼膜拜	ding li mo bai
-鼎力相助	ding li xiang zhu
-东山再起	dong shan zai qi
-豆蔻年华	dou kou nian hua
-对簿公堂	dui bu gong tang
-多事之秋	duo shi zhi qiu
-耳濡目染	er ru mu ran
-耳熟能详	er shu neng xiang
-耳提面命	er ti mian ming
 耳提在命	er ti zai ming
-繁文缛节	fan wen ru jie
-翻云覆雨	fan yun fu yu
-匪夷所思	fei yi suo si
-粉墨登场	fen mo deng chang
-分庭抗礼	fen ting kang li
-纷至沓来	fen zhi ta lai
-风声鹤唳	feng sheng he li
-俯拾皆是	fu shi jie shi
-感同身受	gan tong shen shou
-高屋建瓴	gao wu jian ling
-革故鼎新	ge gu ding xin
-各行其是	ge xing qi shi
-耿耿于怀	geng geng yu huai
-功亏一篑	gong kui yi kui
-狗尾续貂	gou wei xu diao
-故步自封	gu bu zi feng
-管窥蠡测	guan kui li ce
-光怪陆离	guang guai lu li
-鬼斧神工	gui fu shen gong
-过眼云烟	guo yan yun yan
-骇人听闻	hai ren ting wen
-海市蜃楼	hai shi shen lou
-邯郸学步	han dan xue bu
-汗牛充栋	han niu chong dong
-好为人师	hao wei ren shi
-鹤发童颜	he fa tong yan
-怙恶不悛	hu e bu quan
-涣然冰释	huan ran bing shi
-讳莫如深	hui mo ru shen
-绘声绘色	hui sheng hui se
-祸起萧墙	huo qi xiao qiang
-火中取栗	huo zhong qu li
-济济一堂	ji ji yi tang
-计日程功	ji ri cheng gong
-集腋成裘	ji ye cheng qiu
-间不容发	jian bu rong fa
-见微知著	jian wei zhi zhu
-江河日下	jiang he ri xia
-江郎才尽	jiang lang cai jin
-胶柱鼓瑟	jiao zhu gu se
-金科玉律	jin ke yu lv
-开门揖盗	kai men yi dao
-侃侃而谈	kan kan er tan
-空穴来风	kong xue lai feng
-梁上君子	liang shang jun zi
-两小无猜	liang xiao wu cai
-良莠不齐	liang you bu qi
 廖若晨星	liao ruo chen xing
-鳞次栉比	lin ci zhi bi
-林林总总	lin lin zong zong
-令人发指	ling ren fa zhi
-令行禁止	ling xing jin zhi
-炉火纯青	lu huo chun qing
-屡试不爽	lv shi bu shuang
-买椟还珠	mai du huan zhu
-满目疮痍	man mu chuang yi
-美轮美奂	mei lun mei huan
-明日黄花	ming ri huang hua
-抛砖引玉	pao zhuan yin yu
-蓬荜生辉	peng bi sheng hui
 蓬荜增辉	peng bi zeng hui
-披肝沥胆	pi gan li dan
-否极泰来	pi ji tai lai
-评头品足	ping tou pin zu
-期期艾艾	qi qi ai ai
-七手八脚	qi shou ba jiao
-罄竹难书	qing zhu nan shu
-茕茕孑立	qiong qiong jie li
 趋之如鹜	qu zhi ru wu
-人满为患	ren man wei huan
 忍痛割爱	ren tong ge ai
-如履薄冰	ru lv bo bing
-如数家珍	ru shu jia zhen
-三缄其口	san jian qi kou
-三人成虎	san ren cheng hu
-色厉内荏	se li nei ren
 闪烁其辞	shan shuo qi ci
-赏心悦目	shang xin yue mu
-身临其境	shen lin qi jing
 身体力行亲身经验努力实行	shen ti li xing qin shen jing yan nu li shi xing
-身无长物	shen wu chang wu
-生灵涂炭	sheng ling tu tan
 石破天惊	shi po tian jing
-拾人牙慧	shi ren ya hui
-豕突狼奔	shi tu lang ben
-尸位素餐	shi wei su can
-矢志不移	shi zhi bu yi
-失之东隅收之桑榆	shi zhi dong yu shou zhi sang yu
-始作俑者	shi zuo yong zhe
-首当其冲	shou dang qi chong
-首鼠两端	shou shu liang duan
-耸人听闻	song ren ting wen
-弹冠相庆	tan guan xiang qing
-叹为观止	tan wei guan zhi
-韬光养晦	tao guang yang hui
-桃李不言下自成蹊	tao li bu yan xia zi cheng xi
-醍醐灌顶	ti hu guan ding
-天网恢恢	tian wang hui hui
-投鼠忌器	tou shu ji qi
-脱颖而出	tuo ying er chu
-万人空巷	wan ren kong xiang
-玩物丧志	wan wu sang zhi
-望其项背	wang qi xiang bei
-为虎傅翼	wei hu fu yi
-微言大义	wei yan da yi
-危言危行	wei yan wei xing
-未雨绸缪	wei yu chou mou
-为渊驱鱼为丛驱雀	wei yuan qu yu wei cong qu que
-文不加点	wen bu jia dian
-五风十雨	wu feng shi yu
-无可厚非	wu ke hou fei
-无所不至	wu suo bu zhi
 喜结金兰	xi jie jin lan
-息息相关	xi xi xiang guan
-相敬如宾	xiang jing ru bin
-相濡以沫	xiang ru yi mo
-宵衣旰食	xiao yi gan shi
-胸无城府	xiong wu cheng fu
-休戚相关	xiu qi xiang guan
-休戚与共	xiu qi yu gong
-烜赫一时	xuan he yi shi
-仰事俯畜	yang shi fu xu
-养尊处优	yang zun chu you
-杳如黄鹤	yao ru huang he
-咬文嚼字	yao wen jiao zi
-以耳代目	yi er dai mu
 一发不可收拾	yi fa bu ke shou shi
 一发而不可收	yi fa er bu ke shou
-一傅众咻	yi fu zhong xiu
-一鳞半爪	yi lin ban zhao
-以邻为壑	yi lin wei he
 溢美之词	yi mei zhi ci
-义无反顾	yi wu fan gu
-贻笑大方	yi xiao da fang
 意兴阑珊	yi xing lan shan
-一言九鼎	yi yan jiu ding
-颐指气使	yi zhi qi shi
-寅吃卯粮	yin chi mao liang
-因人成事	yin ren cheng shi
-饮鸩止渴	yin zhen zhi ke
-影影绰绰	ying ying chuo chuo
 余能可贾	yu neng ke gu
 越俎代疱	yue zu dai pao
-在劫难逃	zai jie nan tao
-责无旁贷	ze wu pang dai
-昭然若揭	zhao ran ruo jie
-振聋发聩	zhen long fa kui
-炙手可热	zhi shou ke re
-置之度外	zhi zhi du wai
-捉襟见肘	zhuo jin jian zhou
 濯濯童山	zhuo zhuo tong shan
-紫气东来	zi qi dong lai
-自怨自艾	zi yuan zi yi
-罪不容诛	zui bu rong zhu
