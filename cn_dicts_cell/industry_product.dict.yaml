@@ -62,7 +62,6 @@ use_preset_vocabulary: false
 水辊	shui gun
 水印纸	shui yin zhi
 丝印机	si yin ji
-塑料薄膜	su liao bao mo
 塑料类印刷	su liao lei yin shua
 塑料油墨	su liao you mo
 台历印刷	tai li yin shua
@@ -149,12 +148,9 @@ use_preset_vocabulary: false
 塑料包装制品	su liao bao zhuang zhi pin
 塑料表面处理	su liao biao mian chu li
 塑料成型机	su liao cheng xing ji
-塑料盖	su liao gai
 塑料工艺品	su liao gong yi pin
 塑料挤出机	su liao ji chu ji
 塑料桶罐	su liao tong guan
-塑料网	su liao wang
-塑料箱	su liao xiang
 塑料压延机	su liao ya yan ji
 塑料造粒机	su liao zao li ji
 特种塑料	te zhong su liao
@@ -163,7 +159,6 @@ use_preset_vocabulary: false
 脱模剂	tuo mo ji
 文教用橡胶制品	wen jiao yong xiang jiao zhi pin
 吸塑加工	xi su jia gong
-橡胶板	xiang jiao ban
 橡胶裁断机	xiang jiao cai duan ji
 橡胶成型机	xiang jiao cheng xing ji
 橡胶成型加工	xiang jiao cheng xing jia gong
@@ -194,7 +189,6 @@ use_preset_vocabulary: false
 爆破设备	bao po she bei
 不锈钢板卷	bu xiu gang ban juan
 不锈钢棒材	bu xiu gang bang cai
-不锈钢材	bu xiu gang cai
 不锈钢坯	bu xiu gang pi
 不锈钢线材不锈钢圆钢	bu xiu gang xian cai bu xiu gang yuan gang
 彩涂板卷	cai tu ban juan
@@ -236,7 +230,6 @@ use_preset_vocabulary: false
 合金粉末	he jin fen mo
 合金钢管	he jin gang guan
 黑色金属矿产	hei se jin shu kuang chan
-红柱石	hong zhu shi
 花纹板卷	hua wen ban juan
 焦化设备	jiao hua she bei
 结构钢管	jie gou gang guan
@@ -260,7 +253,6 @@ use_preset_vocabulary: false
 冷拉钢	leng la gang
 冷弯型钢	leng wan xing gang
 冷轧板卷	leng zha ban juan
-锂辉石	li hui shi
 炼钢设备	lian gang she bei
 炼铁设备	lian tie she bei
 硫矿	liu kuang
@@ -313,7 +305,6 @@ use_preset_vocabulary: false
 筛分设备	shai fen she bei
 石墨及碳素产品	shi mo ji tan su chan pin
 水力选矿设备	shui li xuan kuang she bei
-水镁石	shui mei shi
 酸洗板卷	suan xi ban juan
 碳结钢	tan jie gang
 铜及铜锭	tong ji tong ding
@@ -354,7 +345,6 @@ use_preset_vocabulary: false
 铸造设备	zhu zao she bei
 钻采设备	zuan cai she bei
 白灵菇	bai ling gu
-保健酒	bao jian jiu
 鳖类	bie lei
 饼干糕点	bing gan gao dian
 炒货类	chao huo lei
@@ -425,7 +415,6 @@ use_preset_vocabulary: false
 食品饮料项目合作	shi pin yin liao xiang mu he zuo
 食用菌罐头	shi yong jun guan tou
 蔬菜罐头	shu cai guan tou
-蔬菜制品	shu cai zhi pin
 水产罐头	shui chan guan tou
 水生菜类	shui sheng cai lei
 速冻面点	su dong mian dian
@@ -571,14 +560,12 @@ use_preset_vocabulary: false
 宠物链圈	chong wu lian quan
 宠物清洁用品	chong wu qing jie yong pin
 宠物食具	chong wu shi ju
-宠物食品	chong wu shi pin
 宠物玩具	chong wu wan ju
 宠物窝	chong wu wo
 垂钓用品	chui diao yong pin
 吹奏类乐器	chui zou lei yue qi
 打击类乐器	da ji lei yue qi
 大型游艺机	da xing you yi ji
-登山扣	deng shan kou
 电动滑板车	dian dong hua ban che
 钓鱼帽	diao yu mao
 多功能鞋	duo gong neng xie
@@ -607,9 +594,7 @@ use_preset_vocabulary: false
 极限运动用品	ji xian yun dong yong pin
 健腹器	jian fu qi
 键盘类乐器	jian pan lei yue qi
-健身车	jian shen che
 健身路径	jian shen lu jing
-健身椅	jian shen yi
 脚踏滑板车	jiao ta hua ban che
 酒店茶几	jiu dian cha ji
 酒店成套家具	jiu dian cheng tao jia ju
@@ -632,7 +617,6 @@ use_preset_vocabulary: false
 垒球用品	lei qiu yong pin
 练功鞋	lian gong xie
 马术用具	ma shu yong ju
-慢跑鞋	man pao xie
 排球用品	pai qiu yong pin
 攀岩用品	pan yan yong pin
 漂流用品	piao liu yong pin
@@ -670,13 +654,11 @@ use_preset_vocabulary: false
 射箭用品	she jian yong pin
 室内健身服装	shi nei jian shen fu zhuang
 手球用品	shou qiu yong pin
-甩脂机	shuai zhi ji
 水上游艺设施	shui shang you yi she shi
 水上运动用品	shui shang yun dong yong pin
 水族器材	shui zu qi cai
 台球用品	tai qiu yong pin
 弹拨类乐器	tan bo lei yue qi
-淘气堡	tao qi bao
 体操用品	ti cao yong pin
 体育运动产品代理	ti yu yun dong chan pin dai li
 体育运动产品加工	ti yu yun dong chan pin jia gong
@@ -812,7 +794,6 @@ use_preset_vocabulary: false
 空气处理化学品	kong qi chu li hua xue pin
 空气净化装置	kong qi jing hua zhuang zhi
 垃圾处理机	la ji chu li ji
-垃圾焚烧炉	la ji fen shao lu
 离子风机	li zi feng ji
 离子交换设备	li zi jiao huan she bei
 滤板	lv ban
@@ -876,7 +857,6 @@ use_preset_vocabulary: false
 超市购物车	chao shi gou wu che
 厨卫设施	chu wei she shi
 窗轨	chuang gui
-窗帘杆	chuang lian gan
 窗锁	chuang suo
 炊具挂盘	chui ju gua pan
 磁卡锁	ci ka suo
@@ -892,7 +872,6 @@ use_preset_vocabulary: false
 防护面罩面具	fang hu mian zhao mian ju
 防护鞋	fang hu xie
 防护眼镜眼罩	fang hu yan jing yan zhao
-防滑砖	fang hua zhuan
 肥皂架	fei zao jia
 复合窗	fu he chuang
 钢筋和预应力机械	gang jin he yu ying li ji xie
@@ -986,7 +965,6 @@ use_preset_vocabulary: false
 其他卫浴用五金件	qi ta wei yu yong wu jin jian
 其他装饰线板	qi ta zhuang shi xian ban
 其他作业保护	qi ta zuo ye bao hu
-墙面砖	qiang mian zhuan
 墙纸胶	qiang zhi jiao
 燃气系统	ran qi xi tong
 三角阀	san jiao fa
@@ -1073,7 +1051,6 @@ use_preset_vocabulary: false
 消毒防腐药剂	xiao du fang fu yao ji
 消毒灭菌设备	xiao du mie jun she bei
 血压调节用品	xue ya tiao jie yong pin
-血液制品	xue ye zhi pin
 药品包装机械	yao pin bao zhuang ji xie
 药品加工	yao pin jia gong
 药用包装材料	yao yong bao zhuang cai liao
@@ -1242,7 +1219,6 @@ use_preset_vocabulary: false
 隧道灯具	sui dao deng ju
 太阳能手电筒	tai yang neng shou dian tong
 贴片加工	tie pian jia gong
-投射灯	tou she deng
 微型灯泡	wei xing deng pao
 无电源手电筒	wu dian yuan shou dian tong
 舞台灯具	wu tai deng ju
@@ -1322,7 +1298,6 @@ use_preset_vocabulary: false
 库存手套	ku cun shou tao
 库存袜子	ku cun wa zi
 库存围巾	ku cun wei jin
-库存鞋	ku cun xie
 库存鞋材	ku cun xie cai
 库存腰带	ku cun yao dai
 烂花绒围巾	lan hua rong wei jin
@@ -1441,7 +1416,6 @@ use_preset_vocabulary: false
 脱灰剂	tuo hui ji
 围巾帽子手套套件	wei jin mao zi shou tao tao jian
 围巾手套二件套	wei jin shou tao er jian tao
-五趾袜	wu zhi wa
 橡胶鞋底	xiang jiao xie di
 鞋材化工	xie cai hua gong
 鞋材鞋件	xie cai xie jian
@@ -1479,7 +1453,6 @@ use_preset_vocabulary: false
 真丝印花领带	zhen si yin hua ling dai
 针织工作手套	zhen zhi gong zuo shou tao
 针织线帽	zhen zhi xian mao
-正装鞋	zheng zhuang xie
 织布腰带	zhi bu yao dai
 制鞋机械	zhi xie ji xie
 制鞋设备	zhi xie she bei
@@ -1492,7 +1465,6 @@ use_preset_vocabulary: false
 动物提取物	dong wu ti qu wu
 动物种苗	dong wu zhong miao
 二手农业机械	er shou nong ye ji xie
-防虫网	fang chong wang
 肥料加工设备	fei liao jia gong she bei
 工业用动植物油	gong ye yong dong zhi wu you
 灌溉工具	guan gai gong ju
@@ -1637,7 +1609,6 @@ use_preset_vocabulary: false
 冰袋布	bing dai bu
 朝阳格	chao yang ge
 车用面料	che yong mian liao
-衬衫面料	chen shan mian liao
 绸类	chou lei
 厨房用纺织品	chu fang yong fang zhi pin
 春秋丁	chun qiu ding
@@ -1731,7 +1702,6 @@ use_preset_vocabulary: false
 纳米面料	na mi mian liao
 呢类系列	ne lei xi lie
 尼丝纺	ni si fang
-牛津纺	niu jin fang
 牛奶纤维	niu nai xian wei
 皮革加工	pi ge jia gong
 皮革制品代理	pi ge zhi pin dai li
@@ -1756,7 +1726,6 @@ use_preset_vocabulary: false
 其他天然纺织原料	qi ta tian ran fang zhi yuan liao
 其他纬编	qi ta wei bian
 青年布	qing nian bu
-染色布	ran se bu
 染整加工	ran zheng jia gong
 色丁	se ding
 沙滩巾	sha tan jin
@@ -1796,7 +1765,6 @@ use_preset_vocabulary: false
 绣花面料	xiu hua mian liao
 休闲面料	xiu xian mian liao
 亚麻系列面料	ya ma xi lie mian liao
-印染布	yin ran bu
 应墩布	ying dun bu
 泳装面料	yong zhuang mian liao
 玉米纤维	yu mi xian wei
@@ -1988,7 +1956,6 @@ use_preset_vocabulary: false
 其他通信线缆	qi ta tong xin xian lan
 其他移动电话	qi ta yi dong dian hua
 其他移动电话配附件	qi ta yi dong dian hua pei fu jian
-切换器	qie huan qi
 声讯系统	sheng xun xi tong
 手机按键	shou ji an jian
 手机充电器	shou ji chong dian qi
@@ -2015,7 +1982,6 @@ use_preset_vocabulary: false
 网络测试设备	wang luo ce shi she bei
 网络电话机	wang luo dian hua ji
 网络机柜	wang luo ji gui
-网络线	wang luo xian
 卫星移动电话	wei xing yi dong dian hua
 无线固话	wu xian gu hua
 无线网络设备	wu xian wang luo she bei
@@ -2029,7 +1995,6 @@ use_preset_vocabulary: false
 边三轮摩托车	bian san lun mo tuo che
 仓储货架	cang chu huo jia
 仓储笼	cang chu long
-充气袋	chong qi dai
 船舶专用配件	chuan bo zhuan yong pei jian
 船用发动机配件	chuan yong fa dong ji pei jian
 船用五金配件	chuan yong wu jin pei jian
@@ -2084,7 +2049,6 @@ use_preset_vocabulary: false
 物流管理软件	wu liu guan li ruan jian
 物流手推车	wu liu shou tui che
 物流台车	wu liu tai che
-吸污车	xi wu che
 液罐车	ye guan che
 液化气运输车	ye hua qi yun shu che
 运输搬运设备	yun shu ban yun she bei
@@ -2099,7 +2063,6 @@ use_preset_vocabulary: false
 电容器纸	dian rong qi zhi
 二手造纸设备	er shou zao zhi she bei
 二手纸加工设备	er shou zhi jia gong she bei
-防潮纸	fang chao zhi
 防锈纸	fang xiu zhi
 废纸浆	fei zhi jiang
 分纸机	fen zhi ji
@@ -2184,7 +2147,6 @@ use_preset_vocabulary: false
 钢号码	gang hao ma
 钢锯架	gang ju jia
 钢丝轮	gang si lun
-钢丝钳	gang si qian
 割炬	ge ju
 工装夹具	gong zhuang jia ju
 钩形扳手	gou xing ban shou
@@ -2301,7 +2263,6 @@ use_preset_vocabulary: false
 人造磨料	ren zao mo liao
 砂带	sha dai
 砂带机	sha dai ji
-砂光机	sha guang ji
 石材切割机	shi cai qie ge ji
 十字扳手	shi zi ban shou
 十字螺丝刀	shi zi luo si dao
@@ -2362,12 +2323,10 @@ use_preset_vocabulary: false
 钻套	zuan tao
 座钻	zuo zuan
 伴热设备	ban re she bei
-薄膜开关	bao mo kai guan
 波段开关	bo duan kai guan
 触控产品	chu kong chan pin
 船型开关	chuan xing kai guan
 伺服定位系统	ci fu ding wei xi tong
-刀开关	dao kai guan
 倒顺开关	dao shun kai guan
 低压接触器	di ya jie chu qi
 低压开关柜	di ya kai guan gui
@@ -2396,7 +2355,6 @@ use_preset_vocabulary: false
 电子工业用助剂	dian zi gong ye yong zhu ji
 端子台	duan zi tai
 二手电工电气产品	er shou dian gong dian qi chan pin
-发热管	fa re guan
 发热盘	fa re pan
 发热芯	fa re xin
 浮球开关	fu qiu kai guan
@@ -2460,15 +2418,11 @@ use_preset_vocabulary: false
 厨房清洁剂	chu fang qing jie ji
 除毛	chu mao
 炊具配件	chui ju pei jian
-大班桌	da ban zhuo
 打火机及烟具	da huo ji ji yan ju
 打火机配件	da huo ji pei jian
 地柜	di gui
-电脑包	dian nao bao
-电热壶	dian re hu
 电灶具	dian zao ju
 定型水	ding xing shui
-多士炉	duo shi lu
 儿童护肤品	er tong hu fu pin
 儿童家具	er tong jia ju
 防蛀用品	fang zhu yong pin
@@ -2493,7 +2447,6 @@ use_preset_vocabulary: false
 金属打火机	jin shu da huo ji
 揩布	kai bu
 客厅茶几	ke ting cha ji
-客厅家具	ke ting jia ju
 口腔清爽剂	kou qiang qing shuang ji
 口腔用化学品	kou qiang yong hua xue pin
 口腔用具	kou qiang yong ju
@@ -2549,7 +2502,6 @@ use_preset_vocabulary: false
 瘦身化学品	shou shen hua xue pin
 书房家具	shu fang jia ju
 塑料打火机	su liao da huo ji
-搪瓷制品	tang ci zhi pin
 烫发剂	tang fa ji
 剃须膏	ti xu gao
 童椅	tong yi
@@ -2558,7 +2510,6 @@ use_preset_vocabulary: false
 围兜	wei dou
 卫生间清洁剂	wei sheng jian qing jie ji
 卫浴用具	wei yu yong ju
-卧室家具	wo shi jia ju
 西餐刀叉	xi can dao cha
 洗衣刷	xi yi shua
 箱包配件	xiang bao pei jian
@@ -2769,7 +2720,6 @@ use_preset_vocabulary: false
 板式塔	ban shi ta
 钡氧化物	bei yang hua wu
 苯醌	ben kun
-比色皿	bi se min
 玻璃机械	bo li ji xie
 玻璃加工	bo li jia gong
 不饱和聚酯树脂	bu bao he ju zhi shu zhi
@@ -2814,7 +2764,6 @@ use_preset_vocabulary: false
 化工实验设备	hua gong shi yan she bei
 化工项目合作	hua gong xiang mu he zuo
 化工原料代理	hua gong yuan liao dai li
-换向阀	huan xiang fa
 磺酸衍生物	huang suan yan sheng wu
 混流泵	hun liu beng
 火工产品	huo gong chan pin
@@ -2892,13 +2841,11 @@ use_preset_vocabulary: false
 实验室用品	shi yan shi yong pin
 手动阀	shou dong fa
 疏水阀	shu shui fa
-四氧化二氮	si yang hua er dan
 羧酸盐	suo suan yan
 羧酸衍生物	suo suan yan sheng wu
 塔式反应器	ta shi fan ying qi
 钛氧化物	tai yang hua wu
 陶瓷加工	tao ci jia gong
-特种玻璃	te zhong bo li
 锑氧化物	ti yang hua wu
 填料塔	tian liao ta
 铁氧化物	tie yang hua wu
@@ -2933,7 +2880,6 @@ use_preset_vocabulary: false
 自吸泵	zi xi beng
 邦定机	bang ding ji
 泵配件	beng pei jian
-变速机	bian su ji
 标价机	biao jia ji
 剥线机	bo xian ji
 插床	cha chuang

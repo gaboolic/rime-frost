@@ -9,6 +9,7 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
+仲丁胺	zhong ding an
 船钓	chuan diao
 矶钓	ji diao
 硫化条件	liu hua tiao jian
@@ -390,7 +391,6 @@ use_preset_vocabulary: false
 亚硝酸钠法	ya xiao suan na fa
 氧化还原滴定法	yang hua huan yuan di ding fa
 液接界面	ye jie jie mian
-乙二胺四乙酸	yi er an si yi suan
 一级参比电极	yi ji can bi dian ji
 仪器分析法	yi qi fen xi fa
 银量法	yin liang fa
@@ -466,7 +466,6 @@ use_preset_vocabulary: false
 菲涅耳镜面	fei nie er jing mian
 菲涅耳棱镜	fei nie er leng jing
 菲涅耳衍射	fei nie er yan she
-非球面	fei qiu mian
 夫琅禾费衍射	fu lang he fei yan she
 干涉图	gan she tu
 高级像差	gao ji xiang cha
@@ -615,7 +614,6 @@ use_preset_vocabulary: false
 霍夫曼规则	huo fu man gui ze
 霍夫曼降解	huo fu man jiang jie
 霍夫曼消除	huo fu man xiao chu
-吉布斯	ji bu si
 吉布斯亥姆霍兹方程	ji bu si hai mu huo zi fang cheng
 吉布斯函数	ji bu si han shu
 康尼扎罗反应	kang ni zha luo fan ying
@@ -657,7 +655,6 @@ use_preset_vocabulary: false
 普朗克量子论	pu lang ke liang zi lun
 琼斯试剂	qiong si shi ji
 瑞福马斯基反应	rui fu ma si ji fan ying
-瑞利散射	rui li san she
 瑞姆梯曼反应	rui mu ti man fan ying
 萨瑞特试剂	sa rui te shi ji
 桑德迈尔反应	sang de mai er fan ying
@@ -977,7 +974,6 @@ use_preset_vocabulary: false
 白屈菜红碱	bai qu cai hong jian
 白屈菜碱	bai qu cai jian
 白屈菜酸	bai qu cai suan
-白炭黑	bai tan hei
 白鲜碱	bai xian jian
 白杨素	bai yang su
 白芷属脑	bai zhi shu nao
@@ -1325,7 +1321,6 @@ use_preset_vocabulary: false
 铋试剂	bi shi ji
 铋酸钠二水合物	bi suan na er shui he wu
 比索洛尔富马酸盐	bi suo luo er fu ma suan yan
-避蚊胺	bi wen an
 彼西丹醇	bi xi dan chun
 吡蚜酮	bi ya tong
 吡唑	bi zuo
@@ -1592,16 +1587,13 @@ use_preset_vocabulary: false
 丙酰乙酸乙酯	bing xian yi suan yi zhi
 丙溴磷	bing xiu lin
 丙氧基苯	bing yang ji ben
-冰乙酸	bing yi suan
 铂标准溶液	bo biao zhun rong ye
 铂掺杂石墨烯粉末	bo chan za shi mo xi fen mo
 铂催化剂	bo cui hua ji
 铂钉黑	bo ding hei
 铂粉	bo fen
-薄荷醇	bo he chun
 薄荷酮	bo he tong
 薄荷酰胺	bo he xian an
-薄荷油	bo he you
 铂黑	bo hei
 伯吉斯试剂	bo ji si shi ji
 波来瑞斯	bo lai rui si
@@ -1697,7 +1689,6 @@ use_preset_vocabulary: false
 茶酚	cha fen
 茶黄素	cha huang su
 茶螺烷	cha luo wan
-茶树油	cha shu you
 查斯马宁	cha si ma ning
 茶香酮	cha xiang tong
 茶渍酸	cha zi suan
@@ -1863,7 +1854,6 @@ use_preset_vocabulary: false
 达沙替尼	da sha ti ni
 达托霉素	da tuo mei su
 大子五层龙酸	da zi wu ceng long suan
-代森锌	dai sen xin
 代他考昔	dai ta kao xi
 蛋氨酸脑啡肽	dan an suan nao fei tai
 蛋白胨	dan bai dong
@@ -1906,9 +1896,7 @@ use_preset_vocabulary: false
 氮化锂	dan hua li
 氮化铝	dan hua lv
 氮化锰	dan hua meng
-氮化硼	dan hua peng
 氮化锶	dan hua si
-氮化钛	dan hua tai
 氮化钽	dan hua tan
 丹磺酰氟	dan huang xian fu
 丹磺酰甘氨酸	dan huang xian gan an suan
@@ -1994,7 +1982,6 @@ use_preset_vocabulary: false
 低纯单壁碳纳米管	di chun dan bi tan na mi guan
 地丹诺辛	di dan nuo xin
 碲粉	di fen
-碲化镉	di hua ge
 碲化锰	di hua meng
 碲化铅	di hua qian
 碲化锌	di hua xin
@@ -2263,7 +2250,6 @@ use_preset_vocabulary: false
 对氨基偶氮苯	dui an ji ou dan ben
 对氨基水杨酸	dui an ji shui yang suan
 对氨基水杨酸钠	dui an ji shui yang suan na
-对苯二胺	dui ben er an
 对苯二胺硫酸盐	dui ben er an liu suan yan
 对苯二胺盐酸盐	dui ben er an yan suan yan
 对苯二酚标准溶液	dui ben er fen biao zhun rong ye
@@ -2580,7 +2566,6 @@ use_preset_vocabulary: false
 恩格列嗪	en ge lie qin
 蒽记山	en ji shan
 蒽绛酚	en jiang fen
-恩诺沙星	en nuo sha xing
 恩他卡朋	en ta ka peng
 恩替卡韦一水合物	en ti ka wei yi shui he wu
 蒽酮	en tong
@@ -2927,7 +2912,6 @@ use_preset_vocabulary: false
 二氯乙酸乙酯	er lv yi suan yi zhi
 二氯乙酰氯	er lv yi xian lv
 二茂饿二氯化钯	er mao e er lv hua ba
-二茂铁	er mao tie
 二茂铁二氯合钯	er mao tie er lv he ba
 二茂铁二氯化钯	er mao tie er lv hua ba
 二茂铁二氯化铠	er mao tie er lv hua kai
@@ -3270,12 +3254,10 @@ use_preset_vocabulary: false
 氟胺氰菊酯标准溶液	fu an qing ju zhi biao zhun rong ye
 氟胞中啶核苷	fu bao zhong ding he gan
 氟苯	fu ben
-氟苯尼考	fu ben ni kao
 氟比洛芬	fu bi luo fen
 氟比洛芬酯	fu bi luo fen zhi
 复壁碳纳米管	fu bi tan na mi guan
 腐草霉素	fu cao mei su
-呋虫胺	fu chong an
 氟虫隆	fu chong long
 氟虫双酰胺	fu chong shuang xian an
 复达欣	fu da xin
@@ -3990,11 +3972,9 @@ use_preset_vocabulary: false
 环辛烷	huan xin wan
 环辛烯	huan xin xi
 环氧丙基甲基醚	huan yang bing ji jia ji mi
-环氧丙烷	huan yang bing wan
 环氧大豆油	huan yang da dou you
 环氧环己烷	huan yang huan ji wan
 环氧己烷	huan yang ji wan
-环氧氯丙烷	huan yang lv bing wan
 环氧氯丙烷标准溶液	huan yang lv bing wan biao zhun rong ye
 环氧酶素	huan yang mei su
 环氧七氯标准溶液	huan yang qi lv biao zhun rong ye
@@ -4038,7 +4018,6 @@ use_preset_vocabulary: false
 黄凡士林	huang fan shi lin
 黄菲灵	huang fei ling
 黄腐酚	huang fu fen
-黄腐酸	huang fu suan
 黄花夹竹桃黄酮	huang hua jia zhu tao huang tong
 磺基丁二酸钠	huang ji ding er suan na
 磺基水杨酸钠	huang ji shui yang suan na
@@ -4208,7 +4187,6 @@ use_preset_vocabulary: false
 甲醇钙	jia chun gai
 甲醇钾	jia chun jia
 甲醇锂	jia chun li
-甲醇钠	jia chun na
 甲醇钠溶液	jia chun na rong ye
 甲醇溶液标准物质	jia chun rong ye biao zhun wu zhi
 甲醇中勃地龙	jia chun zhong bo di long
@@ -4269,7 +4247,6 @@ use_preset_vocabulary: false
 甲基丙烯酸酐	jia ji bing xi suan gan
 甲基丙烯酸环己酯	jia ji bing xi suan huan ji zhi
 甲基丙烯酸己酯	jia ji bing xi suan ji zhi
-甲基丙烯酸甲酯	jia ji bing xi suan jia zhi
 甲基丙烯酸糠酯	jia ji bing xi suan kang zhi
 甲基丙烯酸六氟丁酯	jia ji bing xi suan liu fu ding zhi
 甲基丙烯酸钠	jia ji bing xi suan na
@@ -4418,7 +4395,6 @@ use_preset_vocabulary: false
 假尿苷	jia niao gan
 甲哌卡因	jia pai ka yin
 甲羟孕酮	jia qiang yun tong
-甲壳素	jia qiao su
 镓球	jia qiu
 甲巯基甲基对甲苯砜	jia qiu ji jia ji dui jia ben feng
 甲醛标准溶液	jia quan biao zhun rong ye
@@ -4501,7 +4477,6 @@ use_preset_vocabulary: false
 间氨基苯甲酸	jian an ji ben jia suan
 间氨基苯甲酰苯胺	jian an ji ben jia xian ben an
 间氨基乙酰苯胺	jian an ji yi xian ben an
-间苯二胺	jian ben er an
 间苯二胺硫酸盐	jian ben er an liu suan yan
 间苯二酚标准溶液	jian ben er fen biao zhun rong ye
 间苯二酚蓝	jian ben er fen lan
@@ -4525,7 +4500,6 @@ use_preset_vocabulary: false
 间二苄硫醇	jian er bian liu chun
 间二甲氨基苯甲醛	jian er jia an ji ben jia quan
 间二甲氨基苯甲酸	jian er jia an ji ben jia suan
-间二甲苯	jian er jia ben
 间二甲苯标准溶液	jian er jia ben biao zhun rong ye
 间二甲苯二膦酸	jian er jia ben er lin suan
 间二氯苯	jian er lv ben
@@ -4771,7 +4745,6 @@ use_preset_vocabulary: false
 九乙二醇一苯甲醚	jiu yi er chun yi ben jia mi
 酒渣碱	jiu zha jian
 聚半乳糖醛酸	ju ban ru tang quan suan
-聚苯胺	ju ben an
 聚苯砜	ju ben feng
 聚苯乙烯微球	ju ben yi xi wei qiu
 聚吡咯	ju bi luo
@@ -5016,11 +4989,9 @@ use_preset_vocabulary: false
 铼粉	lai fen
 铼离子标准溶液	lai li zi biao zhun rong ye
 赖诺普利二水合物	lai nuo pu li er shui he wu
-来曲唑	lai qu zuo
 蓝桉醇	lan an chun
 镧离子标准溶液	lan li zi biao zhun rong ye
 蓝色染料	lan se ran liao
-兰索拉唑	lan suo la zuo
 兰索拉唑硫醚	lan suo la zuo liu mi
 榄香酮酸	lan xiang tong suan
 兰雪醌	lan xue kun
@@ -5063,7 +5034,6 @@ use_preset_vocabulary: false
 利奥西呱	li ao xi gua
 利贝特	li bei te
 利波腺苷	li bo xian gan
-利伐沙班	li fa sha ban
 利伐沙班胺	li fa sha ban an
 利凡诺	li fan nuo
 利凡斯的明	li fan si de ming
@@ -5071,7 +5041,6 @@ use_preset_vocabulary: false
 利福昔明	li fu xi ming
 利克飞龙	li ke fei long
 利拉利汀	li la li ting
-利拉鲁肽	li la lu tai
 锂离子标准溶液	li li zi biao zhun rong ye
 锂硫电解液	li liu dian jie ye
 黎芦碱	li lu jian
@@ -5080,7 +5049,6 @@ use_preset_vocabulary: false
 利莫那班	li mo na ban
 里莫那班羧酸	li mo na ban suo suan
 里哪醇氧化物	li na chun yang hua wu
-利奈唑胺	li nai zuo an
 利尿酸	li niao suan
 利诺安	li nuo an
 利匹韦林	li pi wei lin
@@ -5090,7 +5058,6 @@ use_preset_vocabulary: false
 利托君盐酸盐	li tuo jun yan suan yan
 利妥昔单抗	li tuo xi dan kang
 利西拉肽	li xi la tai
-利血平	li xue ping
 利英钠克盐	li ying na ke yan
 粒状镀银铜	li zhuang du yin tong
 李子汁浓缩物	li zi zhi nong suo wu
@@ -5163,7 +5130,6 @@ use_preset_vocabulary: false
 邻苯二甲醚	lin ben er jia mi
 邻苯二甲醛	lin ben er jia quan
 邻苯二甲醛试剂	lin ben er jia quan shi ji
-邻苯二甲酸	lin ben er jia suan
 邻苯二甲酸单苄酯	lin ben er jia suan dan bian zhi
 邻苯二甲酸单丁酯	lin ben er jia suan dan ding zhi
 邻苯二甲酸单己酯	lin ben er jia suan dan ji zhi
@@ -5209,7 +5175,6 @@ use_preset_vocabulary: false
 邻碘甲苯	lin dian jia ben
 邻碘氯苄	lin dian lv bian
 邻碘溴苄	lin dian xiu bian
-邻二甲苯	lin er jia ben
 邻二甲苯标准溶液	lin er jia ben biao zhun rong ye
 邻二甲苯二膦酸	lin er jia ben er lin suan
 邻二氯苯	lin er lv ben
@@ -5229,7 +5194,6 @@ use_preset_vocabulary: false
 邻氟氯苄	lin fu lv bian
 磷化镓	lin hua jia
 磷化锰	lin hua meng
-磷化铟	lin hua yin
 邻茴香胺盐酸盐	lin hui xiang an yan suan yan
 膦记山	lin ji shan
 邻甲氨基苯甲酸甲酯	lin jia an ji ben jia suan jia zhi
@@ -5327,7 +5291,6 @@ use_preset_vocabulary: false
 磷酸二甲啡烷	lin suan er jia fei wan
 磷酸二甲酯	lin suan er jia zhi
 磷酸二鲸蜡酯	lin suan er jing la zhi
-磷酸二氢铵	lin suan er qing an
 磷酸二氢锂	lin suan er qing li
 磷酸二氢铝	lin suan er qing lv
 磷酸二氢锰	lin suan er qing meng
@@ -5713,7 +5676,6 @@ use_preset_vocabulary: false
 卢立康唑	lu li kang zuo
 镥离子标准溶液	lu li zi biao zhun rong ye
 路路通酸	lu lu tong suan
-鲁米诺	lu mi nuo
 鲁米诺单钠盐	lu mi nuo dan na yan
 鲁米诺钠盐	lu mi nuo na yan
 鲁三叔丁基膦	lu san shu ding ji lin
@@ -5821,7 +5783,6 @@ use_preset_vocabulary: false
 氯谷胺	lv gu an
 氯化矮牵牛素	lv hua ai qian niu su
 氯化铵溶液	lv hua an rong ye
-氯化钯	lv hua ba
 氯化钯山二聚体	lv hua ba shan er ju ti
 氯化钡标准溶液	lv hua bei biao zhun rong ye
 氯化钡二水合物	lv hua bei er shui he wu
@@ -6016,7 +5977,6 @@ use_preset_vocabulary: false
 氯乙醛	lv yi quan
 氯乙醛缩二乙醇	lv yi quan suo er yi chun
 氯乙醛亚硫酸氢钠	lv yi quan ya liu suan qing na
-氯乙酸	lv yi suan
 氯铱酸	lv yi suan
 氯铱酸铵	lv yi suan an
 氯乙酸苄酯	lv yi suan bian zhi
@@ -6476,7 +6436,6 @@ use_preset_vocabulary: false
 柠檬酸盐缓冲液	ning meng suan yan huan chong ye
 柠檬酸异丙酯	ning meng suan yi bing zhi
 柠檬酸一水合物	ning meng suan yi shui he wu
-凝血酶	ning xue mei
 凝血酶缓冲液	ning xue mei huan chong ye
 凝血酶受体兴奋剂	ning xue mei shou ti xing fen ji
 牛蒡子苷	niu bang zi gan
@@ -6677,7 +6636,6 @@ use_preset_vocabulary: false
 葡萄糖酸镁	pu tao tang suan mei
 葡萄糖酸铜	pu tao tang suan tong
 葡萄糖酸亚铁盐	pu tao tang suan ya tie yan
-葡萄糖氧化酶	pu tao tang yang hua mei
 葡萄糖一水合物	pu tao tang yi shui he wu
 普乐沙福	pu yue sha fu
 普乐沙福八盐酸盐	pu yue sha fu ba yan suan yan
@@ -6791,7 +6749,6 @@ use_preset_vocabulary: false
 氰苯	qing ben
 氰草津	qing cao jin
 氰虫酰胺	qing chong xian an
-氢碘酸	qing dian suan
 氰氟草酯	qing fu cao zhi
 青蒿琥酯	qing hao hu zhi
 青蒿酸	qing hao suan
@@ -6854,7 +6811,6 @@ use_preset_vocabulary: false
 氢氧化钠标准溶液	qing yang hua na biao zhun rong ye
 氢氧化钠溶液	qing yang hua na rong ye
 氢氧化铌	qing yang hua ni
-氢氧化镍	qing yang hua nie
 氢氧化铅	qing yang hua qian
 氢氧化铯一水合物	qing yang hua se yi shui he wu
 氢氧化铈	qing yang hua shi
@@ -7066,7 +7022,6 @@ use_preset_vocabulary: false
 肉桂酸乙酯	rou gui suan yi zhi
 肉桂酰胺	rou gui xian an
 肉桂酰氯	rou gui xian lv
-鞣花酸	rou hua suan
 鞣花酸二水合物	rou hua suan er shui he wu
 铷离子标准溶液	ru li zi biao zhun rong ye
 乳清酸甲酯	ru qing suan jia zhi
@@ -7109,7 +7064,6 @@ use_preset_vocabulary: false
 瑞替加滨	rui ti jia bin
 瑞香素	rui xiang su
 噻苯隆	sai ben long
-噻虫嗪	sai chong qin
 噻蒽	sai en
 噻呋酰胺	sai fu xian an
 噻菌灵	sai jun ling
@@ -7501,7 +7455,6 @@ use_preset_vocabulary: false
 三叶豆苷	san ye dou gan
 三叶豆紫檀苷	san ye dou zi tan gan
 三叶苷	san ye gan
-三乙胺	san yi an
 三乙胺氢溴酸盐	san yi an qing xiu suan yan
 三乙胺三氢氟酸盐	san yi an san qing fu suan yan
 三乙胺盐酸盐	san yi an yan suan yan
@@ -7610,7 +7563,6 @@ use_preset_vocabulary: false
 山梨酸乙酯	shan li suan yi zhi
 钐离子标准溶液	shan li zi biao zhun rong ye
 山氯化物	shan lv hua wu
-山奈酚	shan nai fen
 山奈酚乙酸酯	shan nai fen yi suan zhi
 山奈苷	shan nai gan
 山奈素	shan nai su
@@ -8293,7 +8245,6 @@ use_preset_vocabulary: false
 四氯合铜酸二锂	si lv he tong suan er li
 四氯化铂	si lv hua bo
 四氯化碲	si lv hua di
-四氯化钛	si lv hua tai
 四氯化碳标准溶液	si lv hua tan biao zhun rong ye
 四氯化五烯	si lv hua wu xi
 四氯化硒	si lv hua xi
@@ -8466,7 +8417,6 @@ use_preset_vocabulary: false
 羧甲基葡聚糖钠盐	suo jia ji pu ju tang na yan
 羧甲氧基胺半盐酸盐	suo jia yang ji an ban yan suan yan
 缩节胺	suo jie an
-索拉非尼	suo la fei ni
 索利霉素	suo li mei su
 索玛鲁肽	suo ma lu tai
 缩水二丙二醇	suo shui er bing er chun
@@ -8520,7 +8470,6 @@ use_preset_vocabulary: false
 碳化铪	tan hua ha
 碳化钼	tan hua mu
 碳化铌	tan hua ni
-碳化硼	tan hua peng
 碳化钽	tan hua tan
 痰基二三氮唑	tan ji er san dan zuo
 钽离子标准溶液	tan li zi biao zhun rong ye
@@ -8550,13 +8499,11 @@ use_preset_vocabulary: false
 碳酸镍	tan suan nie
 碳酸钕	tan suan nv
 碳酸铅	tan suan qian
-碳酸氢钙	tan suan qing gai
 碳酸氢钾	tan suan qing jia
 碳酸氢钠缓冲液	tan suan qing na huan chong ye
 碳酸氢盐缓冲液	tan suan qing yan huan chong ye
 碳酸铷	tan suan ru
 碳酸铈	tan suan shi
-碳酸锶	tan suan si
 碳酸司维拉姆	tan suan si wei la mu
 碳酸烯丙基苯酯	tan suan xi bing ji ben zhi
 碳酸烯丙基乙酯	tan suan xi bing ji yi zhi
@@ -8675,7 +8622,6 @@ use_preset_vocabulary: false
 头孢洛林酯	tou bao luo lin zhi
 头孢米诺钠	tou bao mi nuo na
 头孢尼西钠	tou bao ni xi na
-头孢哌酮	tou bao pai tong
 头孢匹林钠	tou bao pi lin na
 头孢羟氨苄水合物	tou bao qiang an bian shui he wu
 头孢噻呋钠	tou bao sai fu na
@@ -8706,7 +8652,6 @@ use_preset_vocabulary: false
 吐叶醇	tu ye chun
 褪黑素溶液标准物质	tui hei su rong ye biao zhun wu zhi
 蜕皮激素	tui pi ji su
-托吡酯	tuo bi zhi
 托彻普	tuo che pu
 托法替尼	tuo fa ti ni
 托非所泮	tuo fei suo pan
@@ -9426,7 +9371,6 @@ use_preset_vocabulary: false
 雪胆素乙	xue dan su yi
 血根碱	xue gen jian
 血管紧张素转换酶	xue guan jin zhang su zhuan huan mei
-血红蛋白	xue hong dan bai
 血蓝蛋白	xue lan dan bai
 血清胺盐酸盐	xue qing an yan suan yan
 雪松素	xue song su
@@ -9832,7 +9776,6 @@ use_preset_vocabulary: false
 氧化石墨烯粉末	yang hua shi mo xi fen mo
 氧化石蒜碱	yang hua shi suan jian
 氧化锶	yang hua si
-氧化钛	yang hua tai
 氧化锑	yang hua ti
 氧化铁黄	yang hua tie huang
 氧化烯丙基钯	yang hua xi bing ji ba
@@ -9957,7 +9900,6 @@ use_preset_vocabulary: false
 乙醇钾	yi chun jia
 乙醇锂	yi chun li
 乙醇镁	yi chun mei
-乙醇钠	yi chun na
 乙醇钠溶液	yi chun na rong ye
 乙醇醛缩二乙醇	yi chun quan suo er yi chun
 乙醇酸钙	yi chun suan gai
@@ -10168,7 +10110,6 @@ use_preset_vocabulary: false
 异菌脲	yi jun niao
 异菌脲标准溶液	yi jun niao biao zhun rong ye
 伊卡倍特钠	yi ka bei te na
-异抗坏血酸钠	yi kang huai xue suan na
 衣康酸	yi kang suan
 衣康酸单丁酯	yi kang suan dan ding zhi
 衣康酸单甲酯	yi kang suan dan jia zhi
@@ -10489,7 +10430,6 @@ use_preset_vocabulary: false
 乙烯硫脲	yi xi liu niao
 乙烯三氟硼酸钾	yi xi san fu peng suan jia
 铱线	yi xian
-乙酰胺	yi xian an
 乙酰氨基甲醇	yi xian an ji jia chun
 乙酰氨基氯嘌呤核苷	yi xian an ji lv piao ling he gan
 乙酰氨基亚胺乙酸	yi xian an ji ya an yi suan
@@ -10637,7 +10577,6 @@ use_preset_vocabulary: false
 依泽替米贝	yi ze ti mi bei
 一正丁胺	yi zheng ding an
 易制爆	yi zhi bao
-易制毒	yi zhi du
 异植物醇	yi zhi wu chun
 异紫花前胡苷	yi zi hua qian hu gan
 铟标准溶液	yin biao zhun rong ye
@@ -10743,7 +10682,6 @@ use_preset_vocabulary: false
 右美托嘧啶	you mei tuo mi ding
 右美托咪定盐酸盐	you mei tuo mi ding yan suan yan
 柚皮苷二氢查尔酮	you pi gan er qing cha er tong
-柚皮素	you pi su
 铕片	you pian
 油溶苯胺黑	you rong ben an hei
 油酸丁酯	you suan ding zhi
@@ -11157,7 +11095,6 @@ use_preset_vocabulary: false
 醋酸環己酯	cu suan huan ji zhi
 醋酸鉛	cu suan qian
 醋酸異丙烯酯	cu suan yi bing xi zhi
-醋酸乙烯酯	cu suan yi xi zhi
 大克松	da ke song
 得恩地	de en di
 第三丁醇	di san ding chun
@@ -11419,7 +11356,6 @@ use_preset_vocabulary: false
 三氟化氯	san fu hua lv
 三氟化溴	san fu hua xiu
 三氟溴甲烷	san fu xiu jia wan
-三甲胺	san jia an
 三甲基硼酸酯	san jia ji peng suan zhi
 三氯	san lv
 三氯苯	san lv ben
@@ -11589,7 +11525,6 @@ use_preset_vocabulary: false
 纯金属	chun jin shu
 灯帽	deng mao
 发生装置	fa sheng zhuang zhi
-发烟硫酸	fa yan liu suan
 反应板	fan ying ban
 反应容器	fan ying rong qi
 反应装置	fan ying zhuang zhi
@@ -11649,7 +11584,6 @@ use_preset_vocabulary: false
 洗气	xi qi
 洗气装置	xi qi zhuang zhi
 吸收装置	xi shou zhuang zhi
-细铁丝	xi tie si
 橡胶胶帽	xiang jiao jiao mao
 橡胶乳头	xiang jiao ru tou
 硝酸钡溶液	xiao suan bei rong ye
@@ -12340,7 +12274,6 @@ use_preset_vocabulary: false
 边界表现	bian jie biao xian
 边界带	bian jie dai
 边界单形	bian jie dan xing
-边界点	bian jie dian
 边界对应	bian jie dui ying
 边界法	bian jie fa
 边界格点	bian jie ge dian
@@ -12358,7 +12291,6 @@ use_preset_vocabulary: false
 边界型积分公式	bian jie xing ji fen gong shi
 边界元	bian jie yuan
 边界元法	bian jie yuan fa
-边界值	bian jie zhi
 遍历变换	bian li bian huan
 遍历定理	bian li ding li
 遍历过程	bian li guo cheng
@@ -13120,7 +13052,6 @@ use_preset_vocabulary: false
 处处稠密	chu chu chou mi
 处处收敛序列	chu chu shou lian xu lie
 出次数	chu ci shu
-初等变换	chu deng bian huan
 初等重分	chu deng chong fen
 初等对称多项式	chu deng dui chen duo xiang shi
 初等对称函数	chu deng dui chen han shu
@@ -13162,7 +13093,6 @@ use_preset_vocabulary: false
 初始近似	chu shi jin si
 初始廖	chu shi liao
 初始流形	chu shi liu xing
-初始条件	chu shi tiao jian
 初始位置	chu shi wei zhi
 初始误差	chu shi wu cha
 初始序数	chu shi xu shu
@@ -13240,7 +13170,6 @@ use_preset_vocabulary: false
 次法线	ci fa xian
 次根	ci gen
 次共变张量	ci gong bian zhang liang
-次极大	ci ji da
 次极小	ci ji xiao
 次级样本	ci ji yang ben
 次加性泛函	ci jia xing fan han
@@ -13680,7 +13609,6 @@ use_preset_vocabulary: false
 道路连通区	dao lu lian tong qu
 刀切法	dao qie fa
 倒三角算子	dao san jiao suan zi
-倒三角形	dao san jiao xing
 导数与微分	dao shu yu wei fen
 倒数纸	dao shu zhi
 导网	dao wang
@@ -13965,7 +13893,6 @@ use_preset_vocabulary: false
 点方程	dian fang cheng
 点覆盖数	dian fu gai shu
 点割集	dian ge ji
-点估计	dian gu ji
 点估计和区间估计	dian gu ji he qu jian gu ji
 点过程	dian guo cheng
 点函数	dian han shu
@@ -15119,7 +15046,6 @@ use_preset_vocabulary: false
 分块码	fen kuai ma
 分类定理	fen lei ding li
 分类空间	fen lei kong jian
-分类器	fen lei qi
 分类样本单位	fen lei yang ben dan wei
 分类映射	fen lei ying she
 分类资料	fen lei zi liao
@@ -15528,7 +15454,6 @@ use_preset_vocabulary: false
 格根包尔多项式	ge gen bao er duo xiang shi
 割集	ge ji
 割集矩阵	ge ji ju zhen
-格拉姆	ge la mu
 格拉姆行列式	ge la mu hang lie shi
 格拉姆矩阵	ge la mu ju zhen
 格拉斯曼簇	ge la si man cu
@@ -16529,7 +16454,6 @@ use_preset_vocabulary: false
 计算电路	ji suan dian lu
 计算寄存器	ji suan ji cun qi
 计算机语	ji suan ji yu
-计算误差	ji suan wu cha
 计算装置	ji suan zhuang zhi
 计算自动机	ji suan zi dong ji
 集团蒙特卡罗方法	ji tuan meng te ka luo fang fa
@@ -16538,7 +16462,6 @@ use_preset_vocabulary: false
 极系	ji xi
 极线	ji xian
 极限策略	ji xian ce lue
-极限点	ji xian dian
 极限点型	ji xian dian xing
 极限定理	ji xian ding li
 极限分布	ji xian fen bu
@@ -16954,7 +16877,6 @@ use_preset_vocabulary: false
 阶反变张量	jie fan bian zhang liang
 阶共变张量	jie gong bian zhang liang
 解公式	jie gong shi
-结构层	jie gou ceng
 结构常数	jie gou chang shu
 结构定理	jie gou ding li
 结构方程	jie gou fang cheng
@@ -17385,7 +17307,6 @@ use_preset_vocabulary: false
 均值函数	jun zhi han shu
 均值向量	jun zhi xiang liang
 卡茨	ka ci
-卡尔曼	ka er man
 卡尔曼滤波器	ka er man lv bo qi
 卡尔松测度	ka er song ce du
 卡方分布	ka fang fen bu
@@ -17590,7 +17511,6 @@ use_preset_vocabulary: false
 可控子空间	ke kong zi kong jian
 可扩映射	ke kuo ying she
 克拉恩不等式	ke la en bu deng shi
-克拉默	ke la mo
 克拉默定理	ke la mo ding li
 克拉默法则	ke la mo fa ze
 克莱罗方程	ke lai luo fang cheng
@@ -18399,7 +18319,6 @@ use_preset_vocabulary: false
 逻辑斯谛分布	luo ji si di fen bu
 逻辑斯谛回归	luo ji si di hui gui
 逻辑斯谛曲线	luo ji si di qu xian
-逻辑图	luo ji tu
 逻辑移位	luo ji yi wei
 逻辑元件	luo ji yuan jian
 逻辑蕴涵	luo ji yun han
@@ -18546,7 +18465,6 @@ use_preset_vocabulary: false
 幂函子	mi han zi
 幂互反律	mi hu fan lv
 幂集	mi ji
-密集点	mi ji dian
 幂集公理	mi ji gong li
 幂级数法	mi ji shu fa
 幂级数环	mi ji shu huan
@@ -18809,7 +18727,6 @@ use_preset_vocabulary: false
 拟仿射簇	ni fang she cu
 拟仿射映射	ni fang she ying she
 拟分量	ni fen liang
-逆否命题	ni fou ming ti
 拟赋范	ni fu fan
 拟赋范空间	ni fu fan kong jian
 拟赋范线性空间	ni fu fan xian xing kong jian
@@ -19014,7 +18931,6 @@ use_preset_vocabulary: false
 欧拉折线法	ou la zhe xian fa
 欧拉总和公式	ou la zong he gong shi
 偶然符合	ou ran fu he
-偶然事故	ou ran shi gu
 偶然误差	ou ran wu cha
 欧氏变换	ou shi bian huan
 欧氏变换群	ou shi bian huan qun
@@ -19238,7 +19154,6 @@ use_preset_vocabulary: false
 平均数指数	ping jun shu zhi shu
 平均算子	ping jun suan zi
 平均微商	ping jun wei shang
-平均误差	ping jun wu cha
 平均型	ping jun xing
 平均样本量	ping jun yang ben liang
 平均样本数	ping jun yang ben shu
@@ -19760,7 +19675,6 @@ use_preset_vocabulary: false
 全局最优化	quan ju zui you hua
 全局最优值	quan ju zui you zhi
 全可迁群	quan ke qian qun
-全空间	quan kong jian
 圈空间	quan kong jian
 圈括弧	quan kuo hu
 全类	quan lei
@@ -20039,7 +19953,6 @@ use_preset_vocabulary: false
 三次样条	san ci yang tiao
 三次样条函数	san ci yang tiao han shu
 三等分角线	san deng fen jiao xian
-散点图	san dian tu
 三点问题	san dian wen ti
 散度	san du
 三度割线	san du ge xian
@@ -20066,7 +19979,6 @@ use_preset_vocabulary: false
 三角内插法	san jiao nei cha fa
 三角曲面	san jiao qu mian
 三角数	san jiao shu
-三角型	san jiao xing
 三角形公理	san jiao xing gong li
 三角形行列式	san jiao xing hang lie shi
 三角形化	san jiao xing hua
@@ -20347,7 +20259,6 @@ use_preset_vocabulary: false
 生灭过程	sheng mie guo cheng
 生物数学	sheng wu shu xue
 剩余变量	sheng yu bian liang
-剩余次数	sheng yu ci shu
 剩余方差	sheng yu fang cha
 剩余集	sheng yu ji
 剩余校验	sheng yu jiao yan
@@ -20788,7 +20699,6 @@ use_preset_vocabulary: false
 斯莱特约束规格	si lai te yue shu gui ge
 斯莱特约束品性	si lai te yue shu pin xing
 似棱体公式	si leng ti gong shi
-四棱柱	si leng zhu
 斯梅尔微分同胚	si mei er wei fen tong pei
 斯梅尔系统	si mei er xi tong
 斯梅尔向量场	si mei er xiang liang chang
@@ -20950,7 +20860,6 @@ use_preset_vocabulary: false
 随机滤波	sui ji lv bo
 随机密码	sui ji mi ma
 随机偏差	sui ji pian cha
-随机取样	sui ji qu yang
 随机区组设计	sui ji qu zu she ji
 随机数表	sui ji shu biao
 随机输入	sui ji shu ru
@@ -21231,7 +21140,6 @@ use_preset_vocabulary: false
 统计精确度	tong ji jing que du
 统计决策论	tong ji jue ce lun
 统计空间	tong ji kong jian
-统计力学	tong ji li xue
 统计判决过程	tong ji pan jue guo cheng
 统计判决函数	tong ji pan jue han shu
 统计判决问题	tong ji pan jue wen ti
@@ -21360,7 +21268,6 @@ use_preset_vocabulary: false
 凸分析	tu fen xi
 凸规划	tu gui hua
 凸过程	tu guo cheng
-凸函数	tu han shu
 凸函数闭包	tu han shu bi bao
 凸合作对策	tu he zuo dui ce
 凸集	tu ji
@@ -21498,7 +21405,6 @@ use_preset_vocabulary: false
 椭圆曲面	tuo yuan qu mian
 椭圆四次曲线	tuo yuan si ci qu xian
 椭圆无理函数	tuo yuan wu li han shu
-椭圆型	tuo yuan xing
 椭圆性	tuo yuan xing
 椭圆性常数	tuo yuan xing chang shu
 椭圆型方程组	tuo yuan xing fang cheng zu
@@ -21992,7 +21898,6 @@ use_preset_vocabulary: false
 无界函数	wu jie han shu
 无界集	wu jie ji
 无界解	wu jie jie
-无界空间	wu jie kong jian
 无界量词	wu jie liang ci
 无界区间	wu jie qu jian
 无界算子	wu jie suan zi
@@ -22735,7 +22640,6 @@ use_preset_vocabulary: false
 旋转公式	xuan zhuan gong shi
 旋转面	xuan zhuan mian
 旋转群	xuan zhuan qun
-旋转设计	xuan zhuan she ji
 旋转数	xuan zhuan shu
 旋转双曲面	xuan zhuan shuang qu mian
 旋转指向	xuan zhuan zhi xiang
@@ -23498,7 +23402,6 @@ use_preset_vocabulary: false
 余标架	yu biao jia
 余并集	yu bing ji
 预测区间	yu ce qu jian
-预测值	yu ce zhi
 预层	yu ceng
 余乘法	yu cheng fa
 余次数	yu ci shu
@@ -23726,7 +23629,6 @@ use_preset_vocabulary: false
 增广相空间	zeng guang xiang kong jian
 增广映射	zeng guang ying she
 增过程	zeng guo cheng
-增函数	zeng han shu
 增生算子	zeng sheng suan zi
 增算子	zeng suan zi
 增序列	zeng xu lie
@@ -24295,7 +24197,6 @@ use_preset_vocabulary: false
 重对数律	zhong dui shu lv
 重对数坐标纸	zhong dui shu zuo biao zhi
 终对象	zhong dui xiang
-中国数学会	zhong guo shu xue hui
 中国统计学会	zhong guo tong ji xue hui
 中国邮递员问题	zhong guo you di yuan wen ti
 钟行列式	zhong hang lie shi
@@ -24398,7 +24299,6 @@ use_preset_vocabulary: false
 周转圆	zhou zhuan yuan
 周坐标	zhou zuo biao
 主部	zhu bu
-逐步回归	zhu bu hui gui
 逐步积分	zhu bu ji fen
 主猜测	zhu cai ce
 柱测度	zhu ce du
@@ -24477,7 +24377,6 @@ use_preset_vocabulary: false
 转置映射	zhuan zhi ying she
 转置阵	zhuan zhi zhen
 状态变换	zhuang tai bian huan
-状态变量	zhuang tai bian liang
 状态变数	zhuang tai bian shu
 状态反馈	zhuang tai fan kui
 状态估计	zhuang tai gu ji
@@ -25514,7 +25413,6 @@ use_preset_vocabulary: false
 苯肽	ben tai
 贲亭酸甲酯	ben ting suan jia zhi
 苯妥美钠	ben tuo mei na
-苯妥英	ben tuo ying
 本芴醇	ben wu chun
 苯酰苯羟胺	ben xian ben qiang an
 苯酰基哌啶酮	ben xian ji pai ding tong
@@ -25588,7 +25486,6 @@ use_preset_vocabulary: false
 吡嗪二羧酸	bi qin er suo suan
 吡嗪肼	bi qin jing
 吡嗪羧酸	bi qin suo suan
-比色法	bi se fa
 比色管	bi se guan
 铋试剂钾盐	bi shi ji jia yan
 俾士麦棕	bi shi mai zong
@@ -25666,14 +25563,12 @@ use_preset_vocabulary: false
 表面电势	biao mian dian shi
 表面反应	biao mian fan ying
 表面结构分析	biao mian jie gou fen xi
-表面膜	biao mian mo
 表面膜势	biao mian mo shi
 表面迁移率	biao mian qian yi lv
 标准苯甲酸	biao zhun ben jia suan
 标准蛋白	biao zhun dan bai
 标准燃烧热	biao zhun ran shao re
 别胱硫醚	bie guang liu mi
-别嘌呤醇	bie piao ling chun
 别苏氨酸	bie su an suan
 鳖酸	bie suan
 别异白氨酸	bie yi bai an suan
@@ -25782,7 +25677,6 @@ use_preset_vocabulary: false
 玻璃微珠载体	bo li wei zhu zai ti
 玻璃纤维滤片	bo li xian wei lv pian
 玻璃纤维滤纸	bo li xian wei lv zhi
-玻璃仪器	bo li yi qi
 泊洛沙姆	bo luo sha mu
 菠萝香精	bo luo xiang jing
 薄膜树脂	bo mo shu zhi
@@ -25823,7 +25717,6 @@ use_preset_vocabulary: false
 苍术苷钾盐	cang zhu gan jia yan
 草丙酸二乙酯	cao bing suan er yi zhi
 槽电压	cao dian ya
-草甘膦	cao gan lin
 草甘膦助剂	cao gan lin zhu ji
 草枯醚	cao ku mi
 草莓香精	cao mei xiang jing
@@ -25937,7 +25830,6 @@ use_preset_vocabulary: false
 驰放气分离器	chi fang qi fen li qi
 驰放气加热器	chi fang qi jia re qi
 驰肌碘	chi ji dian
-赤霉酸	chi mei suan
 赤糖酸内酯	chi tang suan nei zhi
 赤藓酮糖水合	chi xian tong tang shui he
 赤型双全同立构聚合物	chi xing shuang quan tong li gou ju he wu
@@ -25950,7 +25842,6 @@ use_preset_vocabulary: false
 充气吹胀	chong qi chui zhang
 充液	chong ye
 稠厚器	chou hou qi
-抽滤瓶	chou lv ping
 臭氧分析盒	chou yang fen xi he
 臭氧解	chou yang jie
 除虫脲	chu chong niao
@@ -25995,7 +25886,6 @@ use_preset_vocabulary: false
 次硫酸	ci liu suan
 次硫酸铋	ci liu suan bi
 次氯酸钾	ci lv suan jia
-次氯酸盐	ci lv suan yan
 雌三醇甲醚	ci san chun jia mi
 雌酮甲醚	ci tong jia mi
 刺形分馏烧瓶	ci xing fen liu shao ping
@@ -26039,7 +25929,6 @@ use_preset_vocabulary: false
 醋酸异丙烯酯	cu suan yi bing xi zhi
 醋酸异丁酯	cu suan yi ding zhi
 醋酸异戊酯	cu suan yi wu zhi
-醋酸乙烯	cu suan yi xi
 醋酸银	cu suan yin
 醋酸铀镍	cu suan you nie
 醋酸铀酰锌	cu suan you xian xin
@@ -26060,7 +25949,6 @@ use_preset_vocabulary: false
 催乳素人	cui ru su ren
 催胃液素人	cui wei ye su ren
 催胃液素小鼠	cui wei ye su xiao shu
-脆性断裂	cui xing duan lie
 错位原子	cuo wei yuan zi
 大风子油酸	da feng zi you suan
 大红粉	da hong fen
@@ -26308,7 +26196,6 @@ use_preset_vocabulary: false
 碘甲基丙烷	dian jia ji bing wan
 碘甲烷	dian jia wan
 电解腐蚀	dian jie fu shi
-电解锰	dian jie meng
 电解提取	dian jie ti qu
 电解银	dian jie yin
 靛菁绿	dian jing lv
@@ -26329,7 +26216,6 @@ use_preset_vocabulary: false
 碘瓶	dian ping
 电谱法	dian pu fa
 电气车间	dian qi che jian
-点缺陷	dian que xian
 碘乳清酸	dian ru qing suan
 碘三甲氧基苯	dian san jia yang ji ben
 碘十六烷	dian shi liu wan
@@ -26474,8 +26360,6 @@ use_preset_vocabulary: false
 杜瓦苯	du wa ben
 毒性元素	du xing yuan su
 短杆菌肽	duan gan jun tai
-断裂力学	duan lie li xue
-断裂韧性	duan lie ren xing
 锻烧高岭土	duan shao gao ling tu
 煅烧楼	duan shao lou
 端子板柜	duan zi ban gui
@@ -26892,7 +26776,6 @@ use_preset_vocabulary: false
 二环己基冠醚	er huan ji ji guan mi
 二环己烷	er huan ji wan
 二己胺	er ji an
-二级标准	er ji biao zhun
 二级同位素效应	er ji tong wei su xiao ying
 二级图谱	er ji tu pu
 二甲胺醇溶液	er jia an chun rong ye
@@ -27559,7 +27442,6 @@ use_preset_vocabulary: false
 放射药物治疗	fang she yao wu zhi liao
 放水瓶	fang shui ping
 芳香卤代烃	fang xiang lu dai ting
-芳香性	fang xiang xing
 飞布达	fei bu da
 废氮液	fei dan ye
 废氮液泵	fei dan ye beng
@@ -27636,7 +27518,6 @@ use_preset_vocabulary: false
 酚水	fen shui
 酚酞啉	fen tai lin
 酚酞试纸	fen tai shi zhi
-分析线	fen xi xian
 分液装置	fen ye zhuang zhi
 酚紫	fen zi
 分子重排	fen zi chong pai
@@ -28069,7 +27950,6 @@ use_preset_vocabulary: false
 工业水	gong ye shui
 工业水泵	gong ye shui beng
 工业水箱	gong ye shui xiang
-工业盐	gong ye yan
 工业制氧	gong ye zhi yang
 工艺空气	gong yi kong qi
 工艺冷凝液	gong yi leng ning ye
@@ -28205,7 +28085,6 @@ use_preset_vocabulary: false
 过碘酸钡	guo dian suan bei
 过碘酸钾	guo dian suan jia
 过渡金属元素	guo du jin shu yuan su
-过渡态	guo du tai
 过二硫酸	guo er liu suan
 过二碳酸	guo er tan suan
 过铬酸	guo ge suan
@@ -28493,7 +28372,6 @@ use_preset_vocabulary: false
 环烷酸稀土	huan wan suan xi tu
 环烷酸锌	huan wan suan xin
 环戊二酮	huan wu er tong
-环戊二烯	huan wu er xi
 环戊基丙酸	huan wu ji bing suan
 环戊基哌嗪	huan wu ji pai qin
 环戊烷羧酸	huan wu wan suo suan
@@ -28556,7 +28434,6 @@ use_preset_vocabulary: false
 黄血盐	huang xue yan
 黄血盐钾	huang xue yan jia
 黄樟脑	huang zhang nao
-黄樟素	huang zhang su
 黄樟油素	huang zhang you su
 挥发法	hui fa fa
 挥发顺序	hui fa shun xu
@@ -29012,7 +28889,6 @@ use_preset_vocabulary: false
 甲氧氨基酸	jia yang an ji suan
 甲氧苯胺	jia yang ben an
 甲氧苄喹酯	jia yang bian kui zhi
-甲氧基	jia yang ji
 甲氧基苯胺	jia yang ji ben an
 甲氧基苯甲醇	jia yang ji ben jia chun
 甲氧基苯甲腈	jia yang ji ben jia jing
@@ -29091,7 +28967,6 @@ use_preset_vocabulary: false
 碱仓	jian cang
 碱车	jian che
 碱尘	jian chen
-检出限	jian chu xian
 碱催化剂	jian cui hua ji
 简单化和物	jian dan hua he wu
 间叨甲腈	jian dao jia jing
@@ -29149,7 +29024,6 @@ use_preset_vocabulary: false
 健那黑	jian na hei
 健那蓝	jian na lan
 碱皮带	jian pi dai
-剪切应力	jian qie ying li
 间氰氯苄	jian qing lv bian
 间三氟甲苯	jian san fu jia ben
 碱筛	jian shai
@@ -29215,7 +29089,6 @@ use_preset_vocabulary: false
 浆果赤霉素	jiang guo chi mei su
 姜黄二酮	jiang huang er tong
 降血钙素	jiang xue gai su
-搅拌棒	jiao ban bang
 交叉共轭	jiao cha gong e
 焦钒酸钠	jiao fan suan na
 焦铬酸	jiao ge suan
@@ -29300,7 +29173,6 @@ use_preset_vocabulary: false
 紧束缚近似	jin shu fu jin si
 金属钴	jin shu gu
 金属含氧酸	jin shu han yang suan
-金属锂	jin shu li
 金属离子激活酶	jin shu li zi ji huo mei
 金属硫因兔肝	jin shu liu yin tu gan
 金属清洗液	jin shu qing xi ye
@@ -29370,7 +29242,6 @@ use_preset_vocabulary: false
 聚丙烯车间	ju bing xi che jian
 聚丙烯酸树脂	ju bing xi suan shu zhi
 聚丙酰烯胺	ju bing xian xi an
-局部优化	ju bu you hua
 菊醇	ju chun
 聚蛋白胨	ju dan bai dong
 聚丁烯	ju ding xi
@@ -29398,7 +29269,6 @@ use_preset_vocabulary: false
 聚氯化铝	ju lv hua lv
 聚氯乙烯树脂	ju lv yi xi shu zhi
 聚醚多元醇	ju mi duo yuan chun
-聚醚醚酮	ju mi mi tong
 聚尿苷酸钾盐	ju niao gan suan jia yan
 桔皮苷	ju pi gan
 巨青	ju qing
@@ -29872,7 +29742,6 @@ use_preset_vocabulary: false
 磷酸铁铵	lin suan tie an
 磷酸腺苷二钠	lin suan xian gan er na
 磷酸纤维素	lin suan xian wei su
-磷酸锌	lin suan xin
 磷酸锌锶	lin suan xin si
 磷酸亚铊	lin suan ya ta
 磷酸盐泵	lin suan yan beng
@@ -29920,7 +29789,6 @@ use_preset_vocabulary: false
 邻仲丁基酚	lin zhong ding ji fen
 零电荷点	ling dian he dian
 铃兰毒苷	ling lan du gan
-菱锰矿	ling meng kuang
 另戊基溴	ling wu ji xiu
 零族元素	ling zu yuan su
 硫铵	liu an
@@ -30050,7 +29918,6 @@ use_preset_vocabulary: false
 硫酸铬钾	liu suan ge jia
 硫酸铬水合物	liu suan ge shui he wu
 硫酸镉无水	liu suan ge wu shui
-硫酸根	liu suan gen
 硫酸艮他霉素	liu suan gen ta mei su
 柳酸汞	liu suan gong
 硫酸钴铵	liu suan gu an
@@ -30561,7 +30428,6 @@ use_preset_vocabulary: false
 马歇尔红	ma xie er hong
 马血清	ma xue qing
 马血清球蛋白	ma xue qing qiu dan bai
-脉冲序列	mai chong xu lie
 麦角苄酯	mai jiao bian zhi
 麦角酸	mai jiao suan
 麦角乙二胺	mai jiao yi er an
@@ -30693,7 +30559,6 @@ use_preset_vocabulary: false
 钠汞齐	na gong qi
 钠碱石灰	na jian shi hui
 那可汀	na ke ting
-钠硫电池	na liu dian chi
 钠铁	na tie
 钠盐矿	na yan kuang
 萘胺二磺酸	nai an er huang suan
@@ -30773,7 +30638,6 @@ use_preset_vocabulary: false
 萘乙胺	nai yi an
 萘乙腈	nai yi jing
 萘乙醚	nai yi mi
-萘乙酸	nai yi suan
 萘乙酸甲酯	nai yi suan jia zhi
 萘乙酸钠盐	nai yi suan na yan
 萘乙酸乙酯	nai yi suan yi zhi
@@ -30951,7 +30815,6 @@ use_preset_vocabulary: false
 配气站	pei qi zhan
 配体场稳定化能	pei ti chang wen ding hua neng
 配位多面体	pei wei duo mian ti
-配位键	pei wei jian
 配位聚合	pei wei ju he
 配位体	pei wei ti
 配位阴离子	pei wei yin li zi
@@ -30970,7 +30833,6 @@ use_preset_vocabulary: false
 硼氢化反应	peng qing hua fan ying
 硼氢化钾	peng qing hua jia
 硼氢化锂	peng qing hua li
-硼氢化钠	peng qing hua na
 硼砂缓冲溶液	peng sha huan chong rong ye
 硼砂碳酸钠	peng sha tan suan na
 硼砂亚甲基蓝	peng sha ya jia ji lan
@@ -31093,7 +30955,6 @@ use_preset_vocabulary: false
 气关阀	qi guan fa
 气化厂	qi hua chang
 气化剂	qi hua ji
-气化炉	qi hua lu
 气化室	qi hua shi
 歧化松雪	qi hua song xue
 歧化终止	qi hua zhong zhi
@@ -31285,7 +31146,6 @@ use_preset_vocabulary: false
 亲核取代	qin he qu dai
 亲核试剂	qin he shi ji
 亲合素	qin he su
-亲和素	qin he su
 嗪蓝	qin lan
 氰胺化钙	qing an hua gai
 氰苯基环己酮	qing ben ji huan ji tong
@@ -31503,7 +31363,6 @@ use_preset_vocabulary: false
 燃料天然气	ran liao tian ran qi
 燃烧半岛	ran shao ban dao
 燃烧匙	ran shao chi
-燃烧热	ran shao re
 燃烧现象	ran shao xian xiang
 热猝灭	re cu mie
 热氮干燥	re dan gan zao
@@ -31536,7 +31395,6 @@ use_preset_vocabulary: false
 人造物质	ren zao wu zhi
 日本木蜡	ri ben mu la
 熔剂	rong ji
-溶剂萃取	rong ji cui qu
 溶剂峰消除技术	rong ji feng xiao chu ji shu
 溶剂解	rong ji jie
 溶剂空白	rong ji kong bai
@@ -31885,7 +31743,6 @@ use_preset_vocabulary: false
 三氧六环	san yang liu huan
 三氧杂环已烷	san yang za huan yi wan
 三异丙苯	san yi bing ben
-三乙醇胺	san yi chun an
 三乙二醇醚	san yi er chun mi
 三乙基胺	san yi ji an
 三乙基铋	san yi ji bi
@@ -32405,7 +32262,6 @@ use_preset_vocabulary: false
 四氧氟乙烷	si yang fu yi wan
 四氧化锇	si yang hua e
 四氧化二铋	si yang hua er bi
-四氧化二氮	si yang hua er dan
 四氧化二钒	si yang hua er fan
 四氧化二锑	si yang hua er ti
 四氧化钾	si yang hua jia
@@ -32481,7 +32337,6 @@ use_preset_vocabulary: false
 酸性紫	suan xing zi
 酸腙	suan zong
 酸棕	suan zong
-随机因素	sui ji yin su
 损耗模量	sun hao mo liang
 锁定螺母	suo ding luo mu
 索尔维制碱法	suo er wei zhi jian fa
@@ -32534,7 +32389,6 @@ use_preset_vocabulary: false
 碳化锆	tan hua gao
 碳化铝	tan hua lv
 碳化塔	tan hua ta
-碳化钛	tan hua tai
 碳化银	tan hua yin
 碳硼烷酸	tan peng wan suan
 钽片	tan pian
@@ -32563,7 +32417,6 @@ use_preset_vocabulary: false
 碳酸内二酯	tan suan nei er zhi
 碳酸铍	tan suan pi
 碳酸铊	tan suan ta
-碳酸锌	tan suan xin
 碳酸亚铊	tan suan ya ta
 碳酸亚铁	tan suan ya tie
 碳酸亚乙酯	tan suan ya yi zhi
@@ -32636,7 +32489,6 @@ use_preset_vocabulary: false
 天然气压力	tian ran qi ya li
 天然桃胶	tian ran tao jiao
 天然樟脑粉	tian ran zhang nao fen
-甜味素	tian wei su
 天一段	tian yi duan
 天原化工	tian yuan hua gong
 天竺牡丹紫	tian zhu mu dan zi
@@ -33044,7 +32896,6 @@ use_preset_vocabulary: false
 硒标准溶液	xi biao zhun rong ye
 烯丙胺	xi bing an
 烯丙醇	xi bing chun
-烯丙基	xi bing ji
 烯丙基苯	xi bing ji ben
 烯丙基苯基醚	xi bing ji ben ji mi
 烯丙基苯甲醚	xi bing ji ben jia mi
@@ -33151,7 +33002,6 @@ use_preset_vocabulary: false
 相对介电常数	xiang dui jie dian chang shu
 相对灵敏度系数	xiang dui ling min du xi shu
 相对粘度增量	xiang dui nian du zeng liang
-相对偏差	xiang dui pian cha
 相干激发	xiang gan ji fa
 向红基	xiang hong ji
 向后散射	xiang hou san she
@@ -33175,7 +33025,6 @@ use_preset_vocabulary: false
 向心法则	xiang xin fa ze
 象牙酮宁	xiang ya tong ning
 香叶乙酸酯	xiang ye yi suan zhi
-响应值	xiang ying zhi
 像质计	xiang zhi ji
 镶铸	xiang zhu
 相转移催化剂	xiang zhuan yi cui hua ji
@@ -34033,7 +33882,6 @@ use_preset_vocabulary: false
 异丙苯胺	yi bing ben an
 异丙醇钠	yi bing chun na
 异丙黄原酸钠	yi bing huang yuan suan na
-异丙基	yi bing ji
 异丙基苯胺	yi bing ji ben an
 异丙基苯硫酚	yi bing ji ben liu fen
 异丙基苯硼酸	yi bing ji ben peng suan
@@ -34104,7 +33952,6 @@ use_preset_vocabulary: false
 乙二磺酸	yi er huang suan
 乙二磺酸钠	yi er huang suan na
 一二四零	yi er si ling
-乙二酸	yi er suan
 乙二酸二苄酯	yi er suan er bian zhi
 乙二酸铁	yi er suan tie
 乙二酸亚铁	yi er suan ya tie
@@ -34582,7 +34429,6 @@ use_preset_vocabulary: false
 应接管	ying jie guan
 应力致白	ying li zhi bai
 硬泡聚醚	ying pao ju mi
-罂粟碱	ying su jian
 樱桃红色素	ying tao hong se su
 迎头法	ying tou fa
 荧虾黄二锂盐	ying xia huang er li yan
@@ -34678,7 +34524,6 @@ use_preset_vocabulary: false
 原亚砷酸锶	yuan ya shen suan si
 原亚砷酸银	yuan ya shen suan yin
 原子分子学说	yuan zi fen zi xue shuo
-原子轨道	yuan zi gui dao
 原子化效率	yuan zi hua xiao lv
 原子角分布函数	yuan zi jiao fen bu han shu
 原子芯	yuan zi xin
@@ -34723,7 +34568,6 @@ use_preset_vocabulary: false
 粘蛋白胃	zhan dan bai wei
 粘蛋白胭脂红	zhan dan bai yan zhi hong
 粘均分子量	zhan jun fen zi liang
-展开剂	zhan kai ji
 詹纳斯绿	zhan na si lv
 展青霉素	zhan qing mei su
 粘酸	zhan suan
@@ -34797,7 +34641,6 @@ use_preset_vocabulary: false
 正则分子轨道	zheng ze fen zi gui dao
 正则配分函数	zheng ze pei fen han shu
 郑州锅炉	zheng zhou guo lu
-指标化	zhi biao hua
 纸电泳	zhi dian yong
 制动风机	zhi dong feng ji
 脂肪酶猪胰	zhi fang mei zhu yi
@@ -34822,7 +34665,6 @@ use_preset_vocabulary: false
 直形冷凝管	zhi xing leng ning guan
 止血素	zhi xue su
 脂质体试剂	zhi zhi ti shi ji
-质子化	zhi zi hua
 质子碱	zhi zi jian
 质子亲合力	zhi zi qin he li
 质子守恒	zhi zi shou heng
@@ -34897,7 +34739,6 @@ use_preset_vocabulary: false
 仲钨酸铵	zhong wu suan an
 仲钨酸钾	zhong wu suan jia
 仲辛酮	zhong xin tong
-中心原子	zhong xin yuan zi
 中性红琼脂	zhong xing hong qiong zhi
 中性红试纸	zhong xing hong shi zhi
 中性滤光片	zhong xing lv guang pian
@@ -35016,11 +34857,9 @@ use_preset_vocabulary: false
 桉叶油素	an ye you su
 白口铸铁	bai kou zhu tie
 白铅粉	bai qian fen
-保险粉	bao xian fen
 焙碱	bei jian
 苯并噻唑次磺酰胺	ben bing sai zuo ci huang xian an
 苯醋酸	ben cu suan
-苯二胺	ben er an
 苯酐	ben gan
 苯基醋酸	ben ji cu suan
 苯基腈	ben ji jing
@@ -35071,9 +34910,7 @@ use_preset_vocabulary: false
 电木粉	dian mu fen
 电气药粉	dian qi yao fen
 电盐	dian yan
-吊白块	diao bai kuai
 丁苯胶	ding ben jiao
-丁基胶	ding ji jiao
 丁酸纤维素	ding suan xian wei su
 丁烯醛	ding xi quan
 动力苯	dong li ben
@@ -35093,7 +34930,6 @@ use_preset_vocabulary: false
 二甲基苯醚	er jia ji ben mi
 二甲基苕甲酰胺	er jia ji shao jia xian an
 二甲基替苯胺	er jia ji ti ben an
-二甲酸	er jia suan
 二甲酮	er jia tong
 二硫代二苯并噻唑	er liu dai er ben bing sai zuo
 二硫化亚铁	er liu hua ya tie
@@ -35126,7 +34962,6 @@ use_preset_vocabulary: false
 分散型阳离子艳蓝	fen san xing yang li zi yan lan
 分散藏青	fen san zang qing
 佛手甘油	fo shou gan you
-氟里昂	fu li ang
 福马林	fu ma lin
 福美林	fu mei lin
 氟石	fu shi
@@ -35202,7 +35037,6 @@ use_preset_vocabulary: false
 金属钙	jin shu gai
 金属钾	jin shu jia
 鲸油	jing you
-聚氨脂	ju an zhi
 聚氨酯塑料	ju an zhi su liao
 聚苯撑氧	ju ben cheng yang
 聚苯矾	ju ben fan
@@ -35217,7 +35051,6 @@ use_preset_vocabulary: false
 聚矾	ju fan
 聚酚氧树脂	ju fen yang shu zhi
 聚氟乙烯	ju fu yi xi
-聚硅氧烷	ju gui yang wan
 桔黄	ju huang
 聚甲基丙烯酸甲脂	ju jia ji bing xi suan jia zhi
 聚甲基丙烯酰亚胺	ju jia ji bing xi xian ya an
@@ -35228,7 +35061,6 @@ use_preset_vocabulary: false
 聚醚	ju mi
 聚羟基醚	ju qiang ji mi
 聚全氟乙烯树脂	ju quan fu yi xi shu zhi
-聚四氟	ju si fu
 聚四氯乙烯	ju si lv yi xi
 聚四氯乙烯树脂	ju si lv yi xi shu zhi
 聚碳酸脂	ju tan suan zhi
@@ -35361,7 +35193,6 @@ use_preset_vocabulary: false
 顺式十八碳	shun shi shi ba tan
 四飞粉	si fei fen
 四氟代膦烷	si fu dai lin wan
-四氟乙烯	si fu yi xi
 四氟乙烯六氟丙烯	si fu yi xi liu fu bing xi
 四氯乙烯共聚物	si lv yi xi gong ju wu
 四硼钠	si peng na
@@ -35391,7 +35222,6 @@ use_preset_vocabulary: false
 碳氮化钙	tan dan hua gai
 碳化氨水	tan hua an shui
 提取松节油	ti qu song jie you
-天然胶	tian ran jiao
 铁矾	tie fan
 铁氢化钾	tie qing hua jia
 通用聚氯乙烯	tong yong ju lv yi xi
@@ -35520,7 +35350,6 @@ use_preset_vocabulary: false
 硬脂酸聚氧乙烯酯	ying zhi suan ju yang yi xi zhi
 愚人金	yu ren jin
 原醇	yuan chun
-元明粉	yuan ming fen
 月石砂	yue shi sha
 皂矾	zao fan
 皂用酸	zao yong suan
@@ -35577,7 +35406,6 @@ use_preset_vocabulary: false
 疏液的	shu ye de
 双晶	shuang jing
 调整保留时间	tiao zheng bao liu shi jian
-增益值	zeng yi zhi
 张力峰	zhang li feng
 质量选择性检测器	zhi liang xuan ze xing jian ce qi
 质子激发射线光谱法	zhi zi ji fa she xian guang pu fa
@@ -35623,7 +35451,6 @@ use_preset_vocabulary: false
 磁化曲线	ci hua qu xian
 磁化学效应	ci hua xue xiao ying
 磁极化强度	ci ji hua qiang du
-磁记录	ci ji lu
 磁记录介质	ci ji lu jie zhi
 磁结构	ci jie gou
 磁卡效应	ci ka xiao ying
@@ -35672,7 +35499,6 @@ use_preset_vocabulary: false
 肌磁图	ji ci tu
 机电耦合系数	ji dian ou he xi shu
 交换耦合	jiao huan ou he
-矫顽力	jiao wan li
 静态磁化曲线	jing tai ci hua qu xian
 晶体磁各向异性	jing ti ci ge xiang yi xing
 矩磁材料	ju ci cai liao
@@ -35720,7 +35546,6 @@ use_preset_vocabulary: false
 退磁因子	tui ci yin zi
 微分磁导率	wei fen ci dao lv
 温度因子	wen du yin zi
-涡流损耗	wo liu sun hao
 无定向磁强计	wu ding xiang ci qiang ji
 下临界场强	xia lin jie chang qiang
 相对磁导率	xiang dui ci dao lv
@@ -35878,10 +35703,8 @@ use_preset_vocabulary: false
 甲壳素	jia ke su
 茄尼醇	jia ni chun
 茄替胶	jia ti jiao
-减水剂	jian shui ji
 姜黄试纸	jiang huang shi zhi
 降凝剂	jiang ning ji
-酵母粉	jiao mu fen
 结晶紫重号	jie jing zi zhong hao
 金棒	jin bang
 鲸蜡	jing la
@@ -35892,7 +35715,6 @@ use_preset_vocabulary: false
 聚氧乙烯	ju yang yi xi
 开乐散	kai le san
 蒈烯	kai xi
-抗坏血酸	kang huai xue suan
 栲胶	kao jiao
 克菌丹	ke jun dan
 喹啉羧酸	kui lin suo suan
@@ -36037,7 +35859,6 @@ use_preset_vocabulary: false
 钽粒	tan li
 碳酸氢铯	tan suan qing se
 碳酸钇	tan suan yi
-糖化酶	tang hua mei
 锑弹	ti tan
 天仙子胺	tian xian zi an
 铁传递蛋白人	tie chuan di dan bai ren
@@ -36094,7 +35915,6 @@ use_preset_vocabulary: false
 夜蓝	ye lan
 异稻瘟净	yi dao wen jing
 异狄氏剂	yi di shi ji
-伊利石	yi li shi
 异嗪皮啶	yi qin pi ding
 乙醛合氨	yi quan he an
 乙酰氨基芴	yi xian an ji wu
@@ -36134,7 +35954,6 @@ use_preset_vocabulary: false
 阿尔法磁谱仪	a er fa ci pu yi
 阿拉斯加上空	a la si jia shang kong
 安装于	an zhuang yu
-百平方公里	bai ping fang gong li
 爆发的能量也大得多	bao fa de neng liang ye da de duo
 爆炸的威力	bao zha de wei li
 爆炸的原因	bao zha de yuan yin
@@ -36682,7 +36501,6 @@ use_preset_vocabulary: false
 五角大楼高官惊叹	wu jiao da lou gao guan jing tan
 无可避免地	wu ke bi mian di
 物理猜想	wu li cai xiang
-物理奖	wu li jiang
 物理试验设备	wu li shi yan she bei
 物理学博士学位	wu li xue bo shi xue wei
 物理研究	wu li yan jiu

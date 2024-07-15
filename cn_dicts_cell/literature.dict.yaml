@@ -398,7 +398,6 @@ use_preset_vocabulary: false
 不似去年时	bu si qu nian shi
 不似相逢好	bu si xiang feng hao
 不算飘零	bu suan piao ling
-补天裂	bu tian lie
 不听清歌也垂泪	bu ting qing ge ye chui lei
 不枉东风吹客泪	bu wang dong feng chui ke lei
 不消红蜡	bu xiao hong la
@@ -595,7 +594,6 @@ use_preset_vocabulary: false
 郴阳和雁无	chen yang he yan wu
 沉腰潘鬓消磨	chen yao pan bin xiao mo
 沉吟久	chen yin jiu
-陈与义	chen yu yi
 臣子憾	chen zi han
 臣子恨	chen zi hen
 乘风好去	cheng feng hao qu
@@ -1997,7 +1995,6 @@ use_preset_vocabulary: false
 恍然惊散	huang ran jing san
 恍如一瞬星霜换	huang ru yi shun xing shuang huan
 黄衫飞白马	huang shan fei bai ma
-黄藤酒	huang teng jiu
 黄孝迈	huang xiao mai
 黄云堆雪	huang yun dui xue
 黄州定惠院寓居作	huang zhou ding hui yuan yu ju zuo
@@ -2473,7 +2470,6 @@ use_preset_vocabulary: false
 君思我	jun si wo
 君王得意	jun wang de yi
 君休滴	jun xiu di
-君知否	jun zhi fou
 开朱户	kai zhu hu
 看白发尊前	kan bai fa zun qian
 看乘空	kan cheng kong
@@ -2719,7 +2715,6 @@ use_preset_vocabulary: false
 离亭黯黯	li ting an an
 李玉	li yu
 李元膺	li yuan ying
-李之仪	li zhi yi
 李重元	li zhong yuan
 敛兵卫	lian bing wei
 敛步随音	lian bu sui yin
@@ -2848,7 +2843,6 @@ use_preset_vocabulary: false
 留取西楼残月	liu qu xi lou can yue
 留人不住	liu ren bu zhu
 流觞浅醉	liu shang qian zui
-柳梢青	liu shao qing
 留十日	liu shi ri
 流水暗随红粉去	liu shui an sui hong fen qu
 柳丝千万缕	liu si qian wan lv
@@ -3414,7 +3408,6 @@ use_preset_vocabulary: false
 苹花渐老	ping hua jian lao
 凭寄离恨重重	ping ji li hen chong chong
 凭阑半日独无言	ping lan ban ri du wu yan
-凭栏处	ping lan chu
 凭阑处	ping lan chu
 凭阑怀古	ping lan huai gu
 凭阑久	ping lan jiu
@@ -3531,8 +3524,6 @@ use_preset_vocabulary: false
 千丝怨碧	qian si yuan bi
 铅素浅	qian su qian
 潜通南浦	qian tong nan pu
-千万缕	qian wan lv
-钱惟演	qian wei yan
 倩五湖倦客	qian wu hu juan ke
 前宵正恁时候	qian xiao zheng nen shi hou
 千崖秋色	qian ya qiu se
@@ -3650,7 +3641,6 @@ use_preset_vocabulary: false
 青钱换酒日无何	qing qian huan jiu ri wu he
 清浅小溪如练	qing qian xiao xi ru lian
 情切	qing qie
-青青草	qing qing cao
 轻轻细说与	qing qing xi shuo yu
 青裙缟袂谁家女	qing qun gao mei shui jia nv
 情人不见	qing ren bu jian
@@ -4059,7 +4049,6 @@ use_preset_vocabulary: false
 是处人家	shi chu ren jia
 世传顷年都下市肆中	shi chuan qing nian dou xia shi si zhong
 时传音信	shi chuan yin xin
-史达祖	shi da zu
 试待他窥户端正	shi dai ta kui hu duan zheng
 是当初	shi dang chu
 试灯夜初晴	shi deng ye chu qing
@@ -4399,7 +4388,6 @@ use_preset_vocabulary: false
 叹夷甫	tan yi fu
 叹一笑论文	tan yi xiao lun wen
 檀樱倚扇	tan ying yi shan
-唐多令	tang duo ling
 汤沐烟江万顷	tang mu yan jiang wan qing
 堂深昼永	tang shen zhou yong
 唐婉	tang wan
@@ -4428,7 +4416,6 @@ use_preset_vocabulary: false
 啼莺散余花乱	ti ying san yu hua luan
 天便教人	tian bian jiao ren
 天边金掌露成霜	tian bian jin zhang lu cheng shuang
-天不老	tian bu lao
 天长漏永	tian chang lou yong
 天长梦短	tian chang meng duan
 天淡一帘秋	tian dan yi lian qiu
@@ -4628,7 +4615,6 @@ use_preset_vocabulary: false
 望湘人	wang xiang ren
 王谢邻里	wang xie lin li
 望一成消减	wang yi cheng xiao jian
-王沂孙	wang yi sun
 望玉壶天近	wang yu hu tian jin
 汪藻	wang zao
 忘则怎生便忘得	wang ze zen sheng bian wang de
@@ -4829,7 +4815,6 @@ use_preset_vocabulary: false
 无说处	wu shuo chu
 梧桐半死清霜后	wu tong ban si qing shuang hou
 梧桐叶上三更雨	wu tong ye shang san geng yu
-吴文英	wu wen ying
 物无美恶	wu wu mei e
 无物似情浓	wu wu si qing nong
 无限佳丽	wu xian jia li
@@ -5583,7 +5568,6 @@ use_preset_vocabulary: false
 依旧归期未定	yi jiu gui qi wei ding
 依旧赏新晴	yi jiu shang xin qing
 依旧衔泥入杏梁	yi jiu xian ni ru xing liang
-忆旧游	yi jiu you
 依旧竹声新月似当年	yi jiu zhu sheng xin yue si dang nian
 意倦须还	yi juan xu hai
 倚阑干处	yi lan gan chu
@@ -5902,7 +5886,6 @@ use_preset_vocabulary: false
 邮亭深静	you ting shen jing
 邮亭无人处	you ting wu ren chu
 有万般千种	you wan ban qian zhong
-犹未雪	you wei xue
 又闻空阶夜雨频滴	you wen kong jie ye yu pin di
 犹喜洞天自乐	you xi dong tian zi le
 又相对落梅如雨	you xiang dui luo mei ru yu
@@ -7369,7 +7352,6 @@ use_preset_vocabulary: false
 采莲从小惯	cai lian cong xiao guan
 采莲归	cai lian gui
 采莲花	cai lian hua
-采莲女	cai lian nv
 采莲舟	cai lian zhou
 采莲子	cai lian zi
 采苓	cai ling
@@ -7643,7 +7625,6 @@ use_preset_vocabulary: false
 臣生当陨首	chen sheng dang yun shou
 陈师鞠旅	chen shi ju lv
 臣弑其君者有之	chen shi qi jun zhe you zhi
-陈叔达	chen shu da
 臣虽下愚	chen sui xia yu
 陈孙	chen sun
 陈陶	chen tao
@@ -7651,7 +7632,6 @@ use_preset_vocabulary: false
 臣未之闻也	chen wei zhi wen ye
 臣闻求木之长者	chen wen qiu mu zhi zhang zhe
 臣无祖母	chen wu zu mu
-陈希烈	chen xi lie
 陈袭善	chen xi shan
 陈相见孟子	chen xiang jian meng zi
 陈偕	chen xie
@@ -8108,7 +8088,6 @@ use_preset_vocabulary: false
 翠竹黄花皆佛性	cui zhu huang hua jie fo xing
 崔子弑齐君	cui zi shi qi jun
 崔紫云	cui zi yun
-崔宗之	cui zong zhi
 村边杏花白	cun bian xing hua bai
 寸步曲江头	cun bu qu jiang tou
 存乎人者	cun hu ren zhe
@@ -8602,7 +8581,6 @@ use_preset_vocabulary: false
 笃于时也	du yu shi ye
 杜元颖	du yuan ying
 独照长门宫里人	du zhao chang men gong li ren
-杜正伦	du zheng lun
 独自下寒烟	du zi xia han yan
 独自倚阑干	du zi yi lan gan
 独自在家长似客	du zi zai jia chang si ke
@@ -8613,7 +8591,6 @@ use_preset_vocabulary: false
 段谷	duan gu
 断碣残碑	duan jie can bei
 断绝胡儿恋母声	duan jue hu er lian mu sheng
-段文昌	duan wen chang
 端午临中夏	duan wu lin zhong xia
 断无消息石榴红	duan wu xiao xi shi liu hong
 断弦离柱箭脱手	duan xian li zhu jian tuo shou
@@ -8991,7 +8968,6 @@ use_preset_vocabulary: false
 冯伉	feng kang
 凤来朝	feng lai chao
 风来花自舞	feng lai hua zi wu
-风雷动	feng lei dong
 锋棱瘦骨成	feng leng shou gu cheng
 风帘残烛隔霜清	feng lian can zhu ge shuang qing
 风流才子多春思	feng liu cai zi duo chun si
@@ -9010,7 +8986,6 @@ use_preset_vocabulary: false
 风飘素影寒	feng piao su ying han
 风其吹女	feng qi chui nv
 风凄凄	feng qi qi
-凤栖梧	feng qi wu
 风樯动	feng qiang dong
 风轻花自落	feng qing hua zi luo
 风清露白	feng qing lou bai
@@ -9828,7 +9803,6 @@ use_preset_vocabulary: false
 汉文皇帝有高台	han wen huang di you gao tai
 汉文有道恩犹薄	han wen you dao en you bo
 含曦	han xi
-韩熙载	han xi zai
 韩仙姑	han xian gu
 含笑看吴钩	han xiao kan wu gou
 含笑问檀郎	han xiao wen tan lang
@@ -10472,7 +10446,6 @@ use_preset_vocabulary: false
 鸡栖于厅	ji qi yu ting
 及其壮也	ji qi zhuang ye
 即遣花开深造次	ji qian hua kai shen zao ci
-几千里	ji qian li
 及前王之踵武	ji qian wang zhi zhong wu
 寄全椒山中道士	ji quan jiao shan zhong dao shi
 鸡犬声相闻	ji quan sheng xiang wen
@@ -10966,7 +10939,6 @@ use_preset_vocabulary: false
 尽心力而为之	jin xin li er wei zhi
 尽心焉耳矣	jin xin yan er yi
 金星妆成娇侍夜	jin xing zhuang cheng jiao shi ye
-进学解	jin xue jie
 晋阳已陷休回顾	jin yang yi xian xiu hui gu
 今夜不知何处宿	jin ye bu zhi he chu su
 今夜残灯斜照处	jin ye can deng xie zhao chu
@@ -11431,7 +11403,6 @@ use_preset_vocabulary: false
 空劳流水声	kong lao liu shui sheng
 空令岁月易蹉跎	kong ling sui yue yi cuo tuo
 孔明庙前有老柏	kong ming miao qian you lao bai
-孔平仲	kong ping zhong
 孔雀东飞何处栖	kong que dong fei he chu qi
 空山百鸟散还合	kong shan bai niao san hai he
 空山秋气清	kong shan qiu qi qing
@@ -11634,7 +11605,6 @@ use_preset_vocabulary: false
 力不足者	li bu zu zhe
 李岑	li cen
 李曾伯	li ceng bo
-李昌符	li chang fu
 李昌邺	li chang ye
 李朝卿	li chao qing
 李澄之	li cheng zhi
@@ -11653,7 +11623,6 @@ use_preset_vocabulary: false
 李端	li duan
 立而饮之	li er yin zhi
 黎逢	li feng
-李逢吉	li feng ji
 李福业	li fu ye
 李甘	li gan
 骊歌一叠	li ge yi die
@@ -11673,11 +11642,9 @@ use_preset_vocabulary: false
 李姬传	li ji chuan
 李季萼	li ji e
 李季华	li ji hua
-李季兰	li ji lan
 李嘉佑	li jia you
 李嘉祐	li jia you
 李建枢	li jian shu
-李建勋	li jian xun
 李绛	li jiang
 李结	li jie
 李节	li jie
@@ -11689,7 +11656,6 @@ use_preset_vocabulary: false
 李景俭	li jing jian
 李景良	li jing liang
 李景让	li jing rang
-李敬玄	li jing xuan
 李敬则	li jing ze
 李迥秀	li jiong xiu
 李玖	li jiu
@@ -11727,12 +11693,10 @@ use_preset_vocabulary: false
 李栖筠	li qi jun
 李潜	li qian
 李峤	li qiao
-李清臣	li qing chen
 离情终日思风波	li qing zhong ri si feng bo
 李璆	li qiu
 李衢	li qu
 鲤趋而过庭	li qu er guo ting
-李群玉	li qun yu
 里仁第四	li ren di si
 李日新	li ri xin
 李如璧	li ru bi
@@ -11744,7 +11708,6 @@ use_preset_vocabulary: false
 栗深林兮惊层巅	li shen lin xi jing ceng dian
 李石才	li shi cai
 李士元	li shi yuan
-李适之	li shi zhi
 李氏子蟠	li shi zi pan
 李收	li shou
 李纾	li shu
@@ -11787,7 +11750,6 @@ use_preset_vocabulary: false
 李亿	li yi
 李嶷	li yi
 李益	li yi
-李义府	li yi fu
 礼以行之	li yi xing zhi
 李婴	li ying
 李郢	li ying
@@ -11823,7 +11785,6 @@ use_preset_vocabulary: false
 李子申	li zi shen
 李子酉	li zi you
 李子正	li zi zheng
-李宗闵	li zong min
 怜薄命	lian bo ming
 联步趋丹陛	lian bu qu dan bi
 连昌宫词	lian chang gong ci
@@ -11859,7 +11820,6 @@ use_preset_vocabulary: false
 凉风吹夜雨	liang feng chui ye yu
 凉风日潇洒	liang feng ri xiao sa
 凉风只在殿西头	liang feng zhi zai dian xi tou
-梁甫吟	liang fu yin
 梁父吟成恨有馀	liang fu yin cheng hen you yu
 两汉乐府	liang han yue fu
 梁惠王曰	liang hui wang yue
@@ -11954,7 +11914,6 @@ use_preset_vocabulary: false
 凌波仙子生尘袜	ling bo xian zi sheng chen wa
 零丁孤苦	ling ding gu ku
 菱歌清唱不胜春	ling ge qing chang bu sheng chun
-令狐楚	ling hu chu
 令狐峘	ling hu huan
 令狐绹	ling hu tao
 令将军与臣有郤	ling jiang jun yu chen you xi
@@ -11989,7 +11948,6 @@ use_preset_vocabulary: false
 刘褒	liu bao
 柳边人歇待船归	liu bian ren xie dai chuan gui
 留别王侍御维	liu bie wang shi yu wei
-刘采春	liu cai chun
 柳曾	liu ceng
 刘叉	liu cha
 刘敞	liu chang
@@ -12067,7 +12025,6 @@ use_preset_vocabulary: false
 柳梢春	liu shao chun
 刘慎虚	liu shen xu
 刘氏妇	liu shi fu
-刘使君	liu shi jun
 刘氏云	liu shi yun
 六十字	liu shi zi
 刘述	liu shu
@@ -12114,7 +12071,6 @@ use_preset_vocabulary: false
 流莺漂荡复参差	liu ying piao dang fu cen ci
 刘应雄	liu ying xiong
 流影照明妃	liu ying zhao ming fei
-刘幽求	liu you qiu
 刘友贤	liu you xian
 六语	liu yu
 六鱼	liu yu
@@ -12317,7 +12273,6 @@ use_preset_vocabulary: false
 罗衣一此鉴	luo yi yi ci jian
 罗衣欲换更添香	luo yi yu huan geng tian xiang
 罗织红纱	luo zhi hong sha
-吕本中	lv ben zhong
 绿窗明月在	lv chuang ming yue zai
 旅馆无良伴	lv guan wu liang ban
 吕价	lv jia
@@ -12383,7 +12338,6 @@ use_preset_vocabulary: false
 满朝欢	man chao huan
 满川风月替人愁	man chuan feng yue ti ren chou
 满地芦花和我老	man di lu hua he wo lao
-漫江碧透	man jiang bi tou
 满江天	man jiang tian
 满街狼犬	man jie lang quan
 缦立远视	man li yuan shi
@@ -12679,7 +12633,6 @@ use_preset_vocabulary: false
 莫宣卿	mo xuan qing
 莫学武陵人	mo xue wu ling ren
 莫学游侠儿	mo xue you xia er
-磨牙吮血	mo ya shun xue
 莫言朝花不复落	mo yan chao hua bu fu luo
 莫言贫贱长可欺	mo yan pin jian chang ke qi
 莫言贫贱即可欺	mo yan pin jian ji ke qi
@@ -13362,7 +13315,6 @@ use_preset_vocabulary: false
 其自视也	qi zi shi ye
 起坐鱼鸟间	qi zuo yu niao jian
 钱安安	qian an an
-千百里	qian bai li
 千变万化皆天机	qian bian wan hua jie tian ji
 前赤壁赋	qian chi bi fu
 浅处无妨有卧龙	qian chu wu fang you wo long
@@ -13720,7 +13672,6 @@ use_preset_vocabulary: false
 丘亦耻之	qiu yi chi zhi
 秋以为期	qiu yi wei qi
 丘悦	qiu yue
-秋月明	qiu yue ming
 求者遍山隅	qiu zhe bian shan yu
 丘之不得济也	qiu zhi bu de ji ye
 求之不得心常爱	qiu zhi bu de xin chang ai
@@ -14051,7 +14002,6 @@ use_preset_vocabulary: false
 汝看此书时	ru kan ci shu shi
 如可赎兮	ru ke shu xi
 如临于谷	ru lin yu gu
-如履薄冰	ru lv bo bing
 如梦如梦	ru meng ru meng
 如鸟斯革	ru niao si ge
 汝岂得自由	ru qi de zi you
@@ -14903,7 +14853,6 @@ use_preset_vocabulary: false
 失性于俗者	shi xing yu su zhe
 侍轩辕	shi xuan yuan
 史延	shi yan
-石延年	shi yan nian
 十样花	shi yang hua
 十药	shi yao
 事业不同	shi ye bu tong
@@ -15112,7 +15061,6 @@ use_preset_vocabulary: false
 双韵子	shuang yun zi
 谁爱风流高格调	shui ai feng liu gao ge diao
 水碧沙明两岸苔	shui bi sha ming liang an tai
-水不深	shui bu shen
 水沉浓	shui chen nong
 谁持白羽静风尘	shui chi bai yu jing feng chen
 谁持彩练当空舞	shui chi cai lian dang kong wu
@@ -15583,7 +15531,6 @@ use_preset_vocabulary: false
 堂前月色愈清好	tang qian yue se yu qing hao
 堂上启阿母	tang shang qi a mu
 堂上四库书	tang shang si ku shu
-汤思退	tang si tui
 堂堂大丈夫	tang tang da zhang fu
 堂堂乎张也	tang tang hu zhang ye
 堂堂剑气	tang tang jian qi
@@ -16015,7 +15962,6 @@ use_preset_vocabulary: false
 王福娘	wang fu niang
 王感化	wang gan hua
 王庚	wang geng
-王拱辰	wang gong chen
 王光庭	wang guang ting
 王硅	wang gui
 王翰	wang han
@@ -16081,7 +16027,6 @@ use_preset_vocabulary: false
 王请勿疑	wang qing wu yi
 王丘	wang qiu
 亡去不义	wang qu bu yi
-王仁裕	wang ren yu
 王镕	wang rong
 王如知此	wang ru zhi ci
 王若岩	wang ruo yan
@@ -16139,7 +16084,6 @@ use_preset_vocabulary: false
 王亿之	wang yi zhi
 王邕	wang yong
 忘忧碧叶齐	wang you bi ye qi
-王右军	wang you jun
 王幼玉	wang you yu
 王语暴以好乐	wang yu bao yi hao le
 王禹偁	wang yu chen
@@ -16153,10 +16097,8 @@ use_preset_vocabulary: false
 王月山	wang yue shan
 望月有怀	wang yue you huai
 王云焕	wang yun huan
-王韫秀	wang yun xiu
 王瓒	wang zan
 王昭君二首	wang zhao jun er shou
-王贞白	wang zhen bai
 王正己	wang zheng ji
 王之不王	wang zhi bu wang
 王之好乐甚	wang zhi hao le shen
@@ -16198,7 +16140,6 @@ use_preset_vocabulary: false
 为臣不易	wei chen bu yi
 魏承班	wei cheng ban
 渭城朝雨邑轻尘	wei cheng chao yu yi qing chen
-韦承庆	wei cheng qing
 渭城曲	wei cheng qu
 为乘阳气行时令	wei cheng yang qi xing shi ling
 唯赤则非邦也与	wei chi ze fei bang ye yu
@@ -16346,7 +16287,6 @@ use_preset_vocabulary: false
 为我沾衣	wei wo zhan yi
 魏武挥鞭	wei wu hui bian
 为吾有身	wei wu you shen
-韦夏卿	wei xia qing
 韦骧	wei xiang
 谓行多露	wei xing duo lu
 危行言孙	wei xing yan sun
@@ -16394,7 +16334,6 @@ use_preset_vocabulary: false
 韦元旦	wei yuan dan
 唯愿当歌对酒时	wei yuan dang ge dui jiu shi
 韦元甫	wei yuan fu
-魏元忠	wei yuan zhong
 未云何龙	wei yun he long
 为者败之	wei zhe bai zhi
 威振四海	wei zhen si hai
@@ -16789,7 +16728,6 @@ use_preset_vocabulary: false
 吾是以忧	wu shi yi you
 五首	wu shou
 吴叔	wu shu
-吴淑姬	wu shu ji
 无数铃声遥过碛	wu shu ling sheng yao guo qi
 吴淑真	wu shu zhen
 吾衰竟谁陈	wu shuai jing shui chen
@@ -17254,7 +17192,6 @@ use_preset_vocabulary: false
 项斯	xiang si
 相思不相见	xiang si bu xiang jian
 相思愁白苹	xiang si chou bai ping
-相思苦	xiang si ku
 相思泪成行	xiang si lei cheng xing
 相思明月夜	xiang si ming yue ye
 相思难见面	xiang si nan jian mian
@@ -17394,7 +17331,6 @@ use_preset_vocabulary: false
 小镇西	xiao zhen xi
 小知间间	xiao zhi jian jian
 孝之至也	xiao zhi zhi ye
-萧至忠	xiao zhi zhong
 孝子之至	xiao zi zhi zhi
 斜拔玉钗灯影畔	xie ba yu chai deng ying pan
 撷芳词	xie fang ci
@@ -17672,7 +17608,6 @@ use_preset_vocabulary: false
 须臾鹤发乱如丝	xu yu he fa luan ru si
 须臾静扫众峰出	xu yu jing sao zhong feng chu
 须臾日射燕脂颊	xu yu ri she yan zhi jia
-许圉师	xu yu shi
 徐元杰	xu yuan jie
 徐月英	xu yue ying
 勖哉沧洲心	xu zai cang zhou xin
@@ -17711,7 +17646,6 @@ use_preset_vocabulary: false
 薛令之	xue ling zhi
 薛蒙	xue meng
 薛能	xue neng
-血气方刚	xue qi fang gang
 薛奇童	xue qi tong
 血气未定	xue qi wei ding
 薛琼	xue qiong
@@ -17940,7 +17874,6 @@ use_preset_vocabulary: false
 杨损	yang sun
 阳台路	yang tai lu
 阳台梦	yang tai meng
-杨太尉	yang tai wei
 仰天而叹	yang tian er tan
 仰天而嘘	yang tian er xu
 杨廷玉	yang ting yu
@@ -17958,7 +17891,6 @@ use_preset_vocabulary: false
 扬于王庭	yang yu wang ting
 阳月南飞雁	yang yue nan fei yan
 杨泽民	yang ze min
-扬之水	yang zhi shui
 扬州三首	yang zhou san shou
 阳子之宋	yang zi zhi song
 杳不知其所之也	yao bu zhi qi suo zhi ye
@@ -19006,7 +18938,6 @@ use_preset_vocabulary: false
 余威震于殊俗	yu wei zhen yu shu su
 欲问孤鸿向何处	yu wen gu hong xiang he chu
 欲问江南近消息	yu wen jiang nan jin xiao xi
-宇文融	yu wen rong
 渔翁夜傍西岩宿	yu weng ye bang xi yan su
 雨我公田	yu wo gong tian
 于我归处	yu wo gui chu
@@ -19163,7 +19094,6 @@ use_preset_vocabulary: false
 远师	yuan shi
 怨是用希	yuan shi yong xi
 远树带行客	yuan shu dai xing ke
-袁恕己	yuan shu ji
 愿书万本诵万过	yuan shu wan ben song wan guo
 远送从此别	yuan song cong ci bie
 远送于南	yuan song yu nan
@@ -19500,7 +19430,6 @@ use_preset_vocabulary: false
 张表臣	zhang biao chen
 张伯寿	zhang bo shou
 张伯英	zhang bo ying
-张昌宗	zhang chang zong
 长成须读五车书	zhang cheng xu du wu che shu
 张楚金	zhang chu jin
 张辞	zhang ci
@@ -19532,9 +19461,7 @@ use_preset_vocabulary: false
 张籍	zhang ji
 张继	zhang ji
 张贾	zhang jia
-张嘉贞	zhang jia zhen
 张渐	zhang jian
-张建封	zhang jian feng
 仗剑行千里	zhang jian xing qian li
 章楶	zhang jie
 章碣	zhang jie
@@ -19557,7 +19484,6 @@ use_preset_vocabulary: false
 张蠙	zhang pin
 张绮	zhang qi
 张起	zhang qi
-张齐贤	zhang qi xian
 张乔	zhang qiao
 张钦敬	zhang qin jing
 张仁宝	zhang ren bao
@@ -19597,7 +19523,6 @@ use_preset_vocabulary: false
 张演	zhang yan
 张义方	zhang yi fang
 张幼谦	zhang you qian
-张友仁	zhang you ren
 张又新	zhang you xin
 张友正	zhang you zheng
 长幼之节	zhang you zhi jie
@@ -19615,7 +19540,6 @@ use_preset_vocabulary: false
 张直	zhang zhi
 张仲方	zhang zhong fang
 张仲谋	zhang zhong mou
-张仲素	zhang zhong su
 张仲孝友	zhang zhong xiao you
 张仲宇	zhang zhong yu
 张濯	zhang zhuo
@@ -19665,7 +19589,6 @@ use_preset_vocabulary: false
 赵湘	zhao xiang
 招寻独有君	zhao xun du you jun
 赵彦伯	zhao yan bo
-赵延寿	zhao yan shou
 赵彦昭	zhao yan zhao
 昭阳殿里第一人	zhao yang dian li di yi ren
 昭阳殿下捣衣声	zhao yang dian xia dao yi sheng
@@ -19993,7 +19916,6 @@ use_preset_vocabulary: false
 众鸟欣有托	zhong niao xin you tuo
 钟期久已没	zhong qi jiu yi mei
 钟蒨	zhong qian
-中秋月	zhong qiu yue
 众人匹之	zhong ren pi zhi
 众人熙熙	zhong ren xi xi
 中人以上	zhong ren yi shang
@@ -20381,7 +20303,6 @@ use_preset_vocabulary: false
 字子瞻	zi zi zhan
 自足荡心耳	zi zu dang xin er
 总不能避免	zong bu neng bi mian
-宗楚客	zong chu ke
 总此十思	zong ci shi si
 纵横计不就	zong heng ji bu jiu
 总角之宴	zong jiao zhi yan
@@ -20428,7 +20349,6 @@ use_preset_vocabulary: false
 醉后凉风起	zui hou liang feng qi
 醉花春	zui hua chun
 醉花番	zui hua fan
-醉花间	zui hua jian
 醉花荫	zui hua yin
 醉江月	zui jiang yue
 醉来脱宝剑	zui lai tuo bao jian
@@ -20602,12 +20522,10 @@ use_preset_vocabulary: false
 不问马	bu wen ma
 不吾知也如或知尔	bu wu zhi ye ru huo zhi er
 不行焉	bu xing yan
-不学礼	bu xue li
 不学诗	bu xue shi
 不亦说乎	bu yi yue hu
 不尤人	bu you ren
 不有祝鮀之佞	bu you zhu tuo zhi ning
-不逾矩	bu yu ju
 不与其退也	bu yu qi tui ye
 不远游	bu yuan you
 不曰如之何	bu yue ru zhi he
@@ -20771,7 +20689,6 @@ use_preset_vocabulary: false
 夫如是	fu ru shi
 夫三子者之言何如	fu san zi zhe zhi yan he ru
 肤受之愬	fu shou zhi shuo
-富与贵	fu yu gui
 富哉	fu zai
 父在	fu zai
 夫召我者	fu zhao wo zhe
@@ -21505,7 +21422,6 @@ use_preset_vocabulary: false
 吾谁欺	wu shui qi
 无所不佩	wu suo bu pei
 无所苟而已	wu suo gou er yi
-无所归	wu suo gui
 武王曰	wu wang yue
 无违	wu wei
 吾未尝不得见也	wu wei chang bu de jian ye
@@ -21727,7 +21643,6 @@ use_preset_vocabulary: false
 由也问闻斯行诸	you ye wen wen si xing zhu
 由也喭	you ye yan
 友于兄弟	you yu xiong di
-游于艺	you yu yi
 有政	you zheng
 友直	you zhi
 由之瑟	you zhi se
@@ -21887,7 +21802,6 @@ use_preset_vocabulary: false
 子贡问曰	zi gong wen yue
 子贡贤于仲尼	zi gong xian yu zhong ni
 子贡欲去告朔之饩羊	zi gong yu qu gao shuo zhi xi yang
-子贡曰	zi gong yue
 子固穷	zi gu qiong
 子罕言利与命与仁	zi han yan li yu ming yu ren
 子疾病	zi ji bing
@@ -29795,7 +29709,6 @@ use_preset_vocabulary: false
 水有罔象	shui you wang xiang
 水则覆舟	shui ze fu zhou
 水则载舟	shui ze zai zhou
-谁知盘中餐	shui zhi pan zhong can
 谁知吾卒先汝而死乎	shui zhi wu zu xian ru er si hu
 水中有火	shui zhong you huo
 舜避尧之子於南河之南	shun bi yao zhi zi yu nan he zhi nan
@@ -34718,13 +34631,11 @@ use_preset_vocabulary: false
 奉和圣制从蓬莱向兴庆阁道中留春雨中春望之作应制	feng he sheng zhi cong peng lai xiang xing qing ge dao zhong liu chun yu zhong chun wang zhi zuo ying zhi
 后宫词	hou gong ci
 江南曲	jiang nan qu
-今安在	jin an zai
 老将行	lao jiang xing
 李端公	li duan gong
 刘方平	liu fang ping
 蜀相	shu xiang
 桃源行	tao yuan xing
-竹里馆	zhu li guan
 艾官	ai guan
 凹晶馆	ao jing guan
 凹晶馆联诗悲寂寞	ao jing guan lian shi bei ji mo
@@ -34739,14 +34650,12 @@ use_preset_vocabulary: false
 鲍二	bao er
 鲍二家的	bao er jia de
 鲍二媳妇	bao er xi fu
-宝二爷	bao er ye
 宝官	bao guan
 宝琴	bao qin
 抱琴	bao qin
 鲍音	bao yin
 包勇	bao yong
 北静郡王	bei jing jun wang
-北静王	bei jing wang
 北静王妃	bei jing wang fei
 北静王府	bei jing wang fu
 北静王水溶	bei jing wang shui rong
@@ -34785,7 +34694,6 @@ use_preset_vocabulary: false
 程甲本	cheng jia ben
 程日兴	cheng ri xing
 程伟元	cheng wei yuan
-程乙本	cheng yi ben
 痴公子杜撰芙蓉诔	chi gong zi du zhuan fu rong lei
 痴公子余痛触前情	chi gong zi yu tong chu qian qing
 痴女儿遗帕惹相思	chi nv er yi pa re xiang si
@@ -34848,7 +34756,6 @@ use_preset_vocabulary: false
 芳官	fang guan
 粉正香	fen zheng xiang
 丰儿	feng er
-凤辣子	feng la zi
 风连	feng lian
 封氏	feng shi
 封肃	feng su
@@ -34891,7 +34798,6 @@ use_preset_vocabulary: false
 红香圃	hong xiang pu
 候芳魂五儿承错爱	hou fang hun wu er cheng cuo ai
 胡道长	hu dao zhang
-护官符	hu guan fu
 胡君荣	hu jun rong
 葫芦庙	hu lu miao
 葫芦僧	hu lu seng
@@ -34910,7 +34816,6 @@ use_preset_vocabulary: false
 潢海	huang hai
 黄金莺巧结梅花络	huang jin ying qiao jie mei hua luo
 璜嫂子	huang sao zi
-黄莺儿	huang ying er
 灰待者	hui dai zhe
 会芳园	hui fang yuan
 回前批	hui qian pi
@@ -34937,7 +34842,6 @@ use_preset_vocabulary: false
 贾宝玉品茶栊翠庵	jia bao yu pin cha long cui an
 贾宝玉奇缘识金锁	jia bao yu qi yuan shi jin suo
 贾宝玉神游太虚境	jia bao yu shen you tai xu jing
-贾不假	jia bu jia
 贾菖	jia chang
 贾琛	jia chen
 甲辰本	jia chen ben
@@ -34945,8 +34849,6 @@ use_preset_vocabulary: false
 贾琮	jia cong
 贾存周	jia cun zhou
 贾存周报升郎中任	jia cun zhou bao sheng lang zhong ren
-贾代化	jia dai hua
-贾代儒	jia dai ru
 贾代善	jia dai shan
 贾代修	jia dai xiu
 贾敦	jia dun
@@ -34990,7 +34892,6 @@ use_preset_vocabulary: false
 贾天祥	jia tian xiang
 贾天祥正照风月鉴	jia tian xiang zheng zhao feng yue jian
 贾王扁	jia wang bian
-贾惜春	jia xi chun
 贾喜鸾	jia xi luan
 贾效	jia xiao
 贾荇	jia xing
@@ -34999,14 +34900,11 @@ use_preset_vocabulary: false
 贾茵	jia yin
 嘉荫堂	jia yin tang
 贾璎	jia ying
-贾迎春	jia ying chun
 贾迎春误嫁中山狼	jia ying chun wu jia zhong shan lang
-贾雨村	jia yu cun
 贾雨村风尘怀闺秀	jia yu cun feng chen huai gui xiu
 贾雨村归结红楼梦	jia yu cun gui jie hong lou meng
 贾雨村夤缘复旧职	jia yu cun yin yuan fu jiu zhi
 贾源	jia yuan
-贾元春	jia yuan chun
 贾元春才选凤藻宫	jia yuan chun cai xuan feng zao gong
 贾芸	jia yun
 贾藻	jia zao
@@ -35016,7 +34914,6 @@ use_preset_vocabulary: false
 贾珠	jia zhu
 见土仪颦卿思故里	jian tu yi pin qing si gu li
 见熙凤贾瑞起淫心	jian xi feng jia rui qi yin xin
-蒋玉菡	jiang yu han
 蒋玉菡情赠茜香罗	jiang yu han qing zeng qian xiang luo
 绛云轩	jiang yun xuan
 绛云轩里召将飞符	jiang yun xuan li zhao jiang fei fu
@@ -35076,7 +34973,6 @@ use_preset_vocabulary: false
 冷二郎一冷入空门	leng er lang yi leng ru kong men
 冷郎君惧祸走他乡	leng lang jun ju huo zou ta xiang
 冷香丸	leng xiang wan
-冷子兴	leng zi xing
 冷子兴演说荣国府	leng zi xing yan shuo rong guo fu
 李贵	li gui
 理国公柳彪	li guo gong liu biao
@@ -35098,8 +34994,6 @@ use_preset_vocabulary: false
 林黛玉焚稿断痴情	lin dai yu fen gao duan chi qing
 林黛玉抛父进京都	lin dai yu pao fu jin jing dou
 林黛玉俏语谑娇音	lin dai yu qiao yu xue jiao yin
-林红玉	lin hong yu
-林如海	lin ru hai
 林如海捐馆扬州城	lin ru hai juan guan yang zhou cheng
 林潇湘魁夺菊花诗	lin xiao xiang kui duo ju hua shi
 林之孝家的	lin zhi xiao jia de
@@ -35110,7 +35004,6 @@ use_preset_vocabulary: false
 刘姥姥一进荣国府	liu lao lao yi jin rong guo fu
 琉璃世界白雪红梅	liu li shi jie bai xue hong mei
 柳嫂	liu sao
-柳五儿	liu wu er
 柳叶渚边嗔莺咤燕	liu ye zhu bian chen ying zha yan
 栊翠庵	long cui an
 栊翠庵茶品梅花雪	long cui an cha pin mei hua xue
@@ -35121,7 +35014,6 @@ use_preset_vocabulary: false
 缕儿	lv er
 绿荑	lv yi
 绿玉斗	lv yu dou
-马道婆	ma dao po
 马魁	ma kui
 埋香冢飞燕泣残红	mai xiang zhong fei yan qi can hong
 瞒消息凤姐设奇谋	man xiao xi feng jie she qi mou
@@ -35165,7 +35057,6 @@ use_preset_vocabulary: false
 藕香榭	ou xiang xie
 藕榭	ou xie
 潘三保	pan san bao
-潘又安	pan you an
 判冤决狱平儿行权	pan yuan jue yu ping er xing quan
 佩凤	pei feng
 披凤袄	pi feng ao
@@ -35203,7 +35094,6 @@ use_preset_vocabulary: false
 庆儿	qing er
 清葛	qing ge
 情哥哥偏寻根究底	qing ge ge pian xun gen jiu di
-青埂峰	qing geng feng
 青梗峰	qing geng feng
 情切切良宵花解语	qing qie qie liang xiao hua jie yu
 庆寿辰宁府排家宴	qing shou chen ning fu pai jia yan
@@ -35213,7 +35103,6 @@ use_preset_vocabulary: false
 情中情因情感妹妹	qing zhong qing yin qing gan mei mei
 秋菱	qiu ling
 裘世安	qiu shi an
-秋爽斋	qiu shuang zhai
 秋爽斋偶结海棠社	qiu shuang zhai ou jie hai tang she
 秋桐	qiu tong
 群芳髓	qun fang sui
@@ -35224,7 +35113,6 @@ use_preset_vocabulary: false
 蓉哥儿	rong ge er
 荣国府归省庆元宵	rong guo fu gui xing qing yuan xiao
 荣国府元宵开夜宴	rong guo fu yuan xiao kai ye yan
-荣国公	rong guo gong
 荣宁二府	rong ning er fu
 荣庆堂	rong qing tang
 荣禧堂	rong xi tang
@@ -35241,11 +35129,9 @@ use_preset_vocabulary: false
 赏中秋新词得佳谶	shang zhong qiu xin ci de jia chen
 蛇影杯弓颦卿绝粒	she ying bei gong pin qing jue li
 沈霞旧友	shen xia jiu you
-神瑛侍者	shen ying shi zhe
 省宫闱贾元妃染恙	sheng gong wei jia yuan fei ran yang
 时宝钗小惠全大体	shi bao chai xiao hui quan da ti
 失宝玉通灵知奇祸	shi bao yu tong ling zhi qi huo
-石呆子	shi dai zi
 实地纱	shi di sha
 施毒计金桂自焚身	shi du ji jin gui zi fen shen
 识分定情悟梨香院	shi fen ding qing wu li xiang yuan
@@ -35269,7 +35155,6 @@ use_preset_vocabulary: false
 漱盂	shu yu
 双官诰	shuang guan gao
 双行夹批	shuang xing jia pi
-水月庵	shui yue an
 水月庵掀翻风月案	shui yue an xian fan feng yue an
 死缠绵潇湘闻鬼哭	si chan mian xiao xiang wen gui ku
 死雠仇赵妾赴冥曹	si chou chou zhao qie fu ming cao
@@ -35283,15 +35168,12 @@ use_preset_vocabulary: false
 诉肺腑心迷活宝玉	su fei fu xin mi huo bao yu
 酥酪	su lao
 酸凤姐大闹宁国府	suan feng jie da nao ning guo fu
-孙绍祖	sun shao zu
 探宝钗黛玉半含酸	tan bao chai dai yu ban han suan
 探惊风贾环重结怨	tan jing feng jia huan zhong jie yuan
 体仁沐德	ti ren mu de
-天香楼	tian xiang lou
 铁槛寺	tie kan si
 铁网山	tie wang shan
 听曲文宝玉悟禅机	ting qu wen bao yu wu chan ji
-通灵宝玉	tong ling bao yu
 投鼠忌器宝玉瞒赃	tou shu ji qi bao yu man zang
 凸碧堂	tu bi tang
 凸碧堂品笛感凄清	tu bi tang pin di gan qi qing
@@ -35311,7 +35193,6 @@ use_preset_vocabulary: false
 王和荣	wang he rong
 王济仁	wang ji ren
 王君效	wang jun xiao
-王老爷	wang lao ye
 王嬷嬷	wang mo mo
 王奶妈	wang nai ma
 王青儿	wang qing er
@@ -35328,14 +35209,12 @@ use_preset_vocabulary: false
 王兴	wang xing
 王柱儿	wang zhu er
 王子胜	wang zi sheng
-王子腾	wang zi teng
 王作梅	wang zuo mei
 闻秘事凤姐讯家童	wen mi shi feng jie xun jia tong
 五儿	wu er
 吴贵	wu gui
 无稽崖	wu ji ya
 邬将军	wu jiang jun
-乌进孝	wu jin xiao
 无事忙	wu shi mang
 吴天佑	wu tian you
 吴新登	wu xin deng
@@ -35350,7 +35229,6 @@ use_preset_vocabulary: false
 西宁王	xi ning wang
 西厢记妙词通戏语	xi xiang ji miao ci tong xi yu
 夏秉忠	xia bing zhong
-夏金桂	xia jin gui
 夏妈	xia ma
 夏婆	xia po
 夏婆子	xia po zi
@@ -35390,7 +35268,6 @@ use_preset_vocabulary: false
 省亲别墅	xing qin bie shu
 邢嫂子	xing sao zi
 猩猩毡	xing xing zhan
-邢岫烟	xing xiu yan
 邢忠	xing zhong
 杏子阴假凤泣虚凰	xing zi yin jia feng qi xu huang
 修国公侯晓明	xiu guo gong hou xiao ming
@@ -35399,7 +35276,6 @@ use_preset_vocabulary: false
 玄真观	xuan zhen guan
 薛宝钗出闺成大礼	xue bao chai chu gui cheng da li
 薛宝钗羞笼红麝串	xue bao chai xiu long hong she chuan
-薛宝琴	xue bao qin
 薛蘅芜讽和螃蟹咏	xue heng wu feng he pang xie yong
 薛蝌	xue ke
 薛文龙悔娶河东狮	xue wen long hui qu he dong shi
@@ -35428,12 +35304,9 @@ use_preset_vocabulary: false
 蝇帚	ying zhou
 勇晴雯病补雀金裘	yong qing wen bing bu que jin qiu
 右寸	you cun
-尤二姐	you er jie
 又副册	you fu ce
 游幻境指迷十二钗	you huan jing zhi mi shi er chai
-尤老娘	you lao niang
 尤婆子	you po zi
-尤三姐	you san jie
 尤三姐思嫁柳二郎	you san jie si jia liu er lang
 尤氏	you shi
 幽淑女悲题五美吟	you shu nv bei ti wu mei yin
@@ -35471,7 +35344,6 @@ use_preset_vocabulary: false
 张太医论病细穷源	zhang tai yi lun bing xi qiong yuan
 张友士	zhang you shi
 张暂	zhang zan
-张真人	zhang zhen ren
 昭儿	zhao er
 赵国基	zhao guo ji
 赵嬷嬷	zhao mo mo
@@ -35483,21 +35355,17 @@ use_preset_vocabulary: false
 赵天栋	zhao tian dong
 赵天梁	zhao tian liang
 赵亦华	zhao yi hua
-赵姨娘	zhao yi niang
-甄宝玉	zhen bao yu
 臻儿	zhen er
 甄费	zhen fei
 镇国公牛清	zhen guo gong niu qing
 甄家仆投靠贾家门	zhen jia pu tou kao jia jia men
 甄母	zhen mu
-甄士隐	zhen shi yin
 甄士隐梦幻识通灵	zhen shi yin meng huan shi tong ling
 甄士隐详说太虚情	zhen shi yin xiang shuo tai xu qing
 枕霞阁	zhen xia ge
 枕霞旧友	zhen xia jiu you
 甄应嘉	zhen ying jia
 甄应嘉蒙恩还玉阙	zhen ying jia meng en hai yu que
-甄英莲	zhen ying lian
 甄友忠	zhen you zhong
 正房大院	zheng fang da yuan
 正家法贾珍鞭悍仆	zheng jia fa jia zhen bian han pu
@@ -35519,7 +35387,6 @@ use_preset_vocabulary: false
 中乡魁宝玉却尘缘	zhong xiang kui bao yu que chen yuan
 忠义亲王	zhong yi qin wang
 周财主	zhou cai zhu
-周大娘	zhou da niang
 周二爷	zhou er ye
 周奶妈	zhou nai ma
 周琼	zhou qiong
@@ -35548,7 +35415,6 @@ use_preset_vocabulary: false
 惊驷马之仰秣	jing si ma zhi yang mo
 罗与绮兮娇上春	luo yu qi xi jiao shang chun
 琴羽张兮箫鼓陈	qin yu zhang xi xiao gu chen
-山无陵	shan wu ling
 送客金谷	song ke jin gu
 耸渊鱼之赤鳞	song yuan yu zhi chi lin
 未尝废离	wei chang fei li

@@ -270,7 +270,6 @@ use_preset_vocabulary: false
 本多忠丰	ben duo zhong feng
 本多忠高	ben duo zhong gao
 本多忠俊	ben duo zhong jun
-本多忠胜	ben duo zhong sheng
 本多忠真	ben duo zhong zhen
 本多忠政	ben duo zhong zheng
 本间高统	ben jian gao tong
@@ -5022,7 +5021,6 @@ use_preset_vocabulary: false
 春日部咲	chun ri bu xiao
 春原芽衣	chun yuan ya yi
 春原阳平	chun yuan yang ping
-翠星石	cui xing shi
 大道寺知世	da dao si zhi shi
 大道楢马	da dao you ma
 大崎娜娜	da qi na na
@@ -5073,7 +5071,6 @@ use_preset_vocabulary: false
 贵岛沙希	gui dao sha xi
 鬼梗	gui geng
 桂心	gui xin
-桂言叶	gui yan ye
 檜原静流	gui yuan jing liu
 檜原瑞生	gui yuan rui sheng
 国木田	guo mu tian
@@ -5125,7 +5122,6 @@ use_preset_vocabulary: false
 蓝染惣右介	lan ran zong you jie
 蕾米莉亚	lei mi li ya
 立花利奈	li hua li nai
-李小狼	li xiao lang
 里叶	li ye
 凉宫春日	liang gong chun ri
 綾波丽	ling bo li
@@ -5176,7 +5172,6 @@ use_preset_vocabulary: false
 萩原雪歩	qiu yuan xue bu
 秋月律子	qiu yue lv zi
 泉彼方	quan bi fang
-泉此方	quan ci fang
 犬饲真琴	quan si zhen qin
 日番谷冬狮郎	ri fan gu dong shi lang
 日高佐菜	ri gao zuo cai
@@ -5261,7 +5256,6 @@ use_preset_vocabulary: false
 土师圭吾	tu shi gui wu
 外薗纶花	wai yuan lun hua
 卫宫切嗣	wei gong qie si
-卫宫士郎	wei gong shi lang
 尾久崎晶	wei jiu qi jing
 卫藤芽生	wei teng ya sheng
 梶原空	wei yuan kong
@@ -5330,7 +5324,6 @@ use_preset_vocabulary: false
 御堂薫	yu tang xun
 宇智清助	yu zhi qing zhu
 远坂葵	yuan ban kui
-远坂凛	yuan ban lin
 远坂时臣	yuan ban shi chen
 园崎魅音	yuan qi mei yin
 园崎诗音	yuan qi shi yin
@@ -5427,7 +5420,6 @@ use_preset_vocabulary: false
 鸣海沙子	ming hai sha zi
 木濑步	mu lai bu
 南云霞	nan yun xia
-诺艾尔	nuo ai er
 千夏	qian xia
 千羽谷	qian yu gu
 千羽谷大学	qian yu gu da xue
@@ -5494,20 +5486,16 @@ use_preset_vocabulary: false
 安德面	an de mian
 安清洞	an qing dong
 安山市	an shan shi
-安圣基	an sheng ji
 安索夫妇	an suo fu fu
 安希妍	an xi yan
 安孝真	an xiao zhen
 安信愿	an xin yuan
 安养市	an yang shi
 安在模	an zai mo
-安宰贤	an zai xian
 安宰孝	an zai xiao
 安在旭	an zai xu
-安昭熙	an zhao xi
 傲慢舞	ao man wu
 鳌仙洞	ao xian dong
-芭妮兰	ba ni lan
 白宝蓝	bai bao lan
 白承焕	bai cheng huan
 白成贤	bai cheng xian
@@ -5535,7 +5523,6 @@ use_preset_vocabulary: false
 本赏	ben shang
 比来洞	bi lai dong
 闭嘴花美男乐队	bi zui hua mei nan yue dui
-边伯贤	bian bo xian
 卞胜美	bian sheng mei
 卞耀汉	bian yao han
 表惠美	biao hui mei
@@ -5555,7 +5542,6 @@ use_preset_vocabulary: false
 灿白夫妇	can bai fu fu
 灿多	can duo
 曹成模	cao cheng mo
-曹承佑	cao cheng you
 曺圭贤	cao gui xian
 曹璐	cao lu
 草堂洞	cao tang dong
@@ -5566,7 +5552,6 @@ use_preset_vocabulary: false
 长城郡	chang cheng jun
 长承浦洞	chang cheng pu dong
 长德洞	chang de dong
-昌德宫	chang de gong
 长洞	chang dong
 长录洞	chang lu dong
 长木面	chang mu mian
@@ -5578,8 +5563,6 @@ use_preset_vocabulary: false
 长兴郡	chang xing jun
 长延面	chang yan mian
 车承元	che cheng yuan
-车仁表	che ren biao
-车胜元	che sheng yuan
 车贤静	che xian jing
 车学沿	che xue yan
 陈熙琼	chen xi qiong
@@ -5596,10 +5579,8 @@ use_preset_vocabulary: false
 城田面	cheng tian mian
 城岩洞	cheng yan dong
 城邑民俗村	cheng yi min su cun
-成宥利	cheng you li
 乘着歌声的爱情	cheng zhe ge sheng de ai qing
 池边洞	chi bian dong
-池昌旭	chi chang xu
 池城	chi cheng
 池诚	chi cheng
 池静依	chi jing yi
@@ -5619,28 +5600,22 @@ use_preset_vocabulary: false
 崔东旭	cui dong xu
 崔江姬	cui jiang ji
 崔江熙	cui jiang xi
-崔珉豪	cui min hao
-崔珉焕	cui min huan
 崔敏龙	cui min long
 崔珉起	cui min qi
 崔民洙	cui min zhu
 崔明吉	cui ming ji
 崔荣宰	cui rong zai
 崔汝真	cui ru zhen
-崔胜贤	cui sheng xian
-崔泰俊	cui tai jun
 崔熙	cui xi
 崔秀靖	cui xiu jing
 崔秀英	cui xiu ying
 崔秀钟	cui xiu zhong
-崔雪莉	cui xue li
 崔振赫	cui zhen he
 崔真实	cui zhen shi
 崔贞允	cui zhen yun
 崔正元	cui zheng yuan
 崔智娜	cui zhi na
 崔钟贤	cui zhong xian
-崔钟勋	cui zhong xun
 崔凖烘	cui zhun hong
 达洞	da dong
 大禾洞	da he dong
@@ -5679,7 +5654,6 @@ use_preset_vocabulary: false
 堤川市	di chuan shi
 店村洞	dian cun dong
 蝶妆	die zhuang
-丁一宇	ding yi yu
 冬柏公园	dong bai gong yuan
 东部面	dong bu mian
 东大门区	dong da men qu
@@ -5742,7 +5716,6 @@ use_preset_vocabulary: false
 高城郡	gao cheng jun
 高丁	gao ding
 高恩雅	gao en ya
-高俊熙	gao jun xi
 高丽郡	gao li jun
 高丽参鸡汤	gao li shen ji tang
 高素荣	gao su rong
@@ -5796,15 +5769,12 @@ use_preset_vocabulary: false
 韩国民俗村	han guo min su cun
 韩国之家	han guo zhi jia
 韩惠珍	han hui zhen
-韩佳人	han jia ren
 韩剧夫妇	han ju fu fu
 韩可露	han ke lu
 韩礼俊	han li jun
 韩律	han lv
 韩娜妍	han na yan
 韩牛	han niu
-韩善花	han shan hua
-韩胜妍	han sheng yan
 韩式拌饭	han shi ban fan
 韩石圭	han shi gui
 韩式海苔	han shi hai tai
@@ -5830,7 +5800,6 @@ use_preset_vocabulary: false
 河阳邑	he yang yi
 河岾面	he zai mian
 河正佑	he zheng you
-河正宇	he zheng yu
 黑石洞	hei shi dong
 黑猪肉	hei zhu rou
 横城郡	heng cheng jun
@@ -5838,8 +5807,6 @@ use_preset_vocabulary: false
 洪川郡	hong chuan jun
 弘大	hong da
 弘济洞	hong ji dong
-洪真英	hong zhen ying
-洪宗玄	hong zong xuan
 呼吸度	hu xi du
 华城市	hua cheng shi
 华城行宫	hua cheng xing gong
@@ -5869,7 +5836,6 @@ use_preset_vocabulary: false
 吉祥面	ji xiang mian
 机张郡	ji zhang jun
 急诊男女	ji zhen nan nv
-济州道	ji zhou dao
 济州岛盖茨比	ji zhou dao gai ci bi
 济州道南济州郡	ji zhou dao nan ji zhou jun
 济州免税店	ji zhou mian shui dian
@@ -5891,21 +5857,15 @@ use_preset_vocabulary: false
 姜蕙妍	jiang hui yan
 江陵市	jiang ling shi
 江门洞	jiang men dong
-姜敏赫	jiang min he
-姜敏京	jiang min jing
 酱螃蟹	jiang pang xie
-姜涩琪	jiang se qi
 姜胜允	jiang sheng yun
 姜熙健	jiang xi jian
 江西区	jiang xi qu
 姜星	jiang xing
 姜艺彬	jiang yi bin
-姜艺媛	jiang yi yuan
-姜智英	jiang zhi ying
 金宝儿	jin bao er
 金宝亨	jin bao heng
 金宝京	jin bao jing
-金宝拉	jin bao la
 金宝凛	jin bao lin
 金澯美	jin can mei
 金成具	jin cheng ju
@@ -5924,23 +5884,18 @@ use_preset_vocabulary: false
 金韩彬	jin han bin
 金浩镇	jin hao zhen
 锦鹤洞	jin he dong
-金亨俊	jin heng jun
 金慧林	jin hui lin
 金惠美	jin hui mei
-金惠秀	jin hui xiu
 金继勋	jin ji xun
-金佳恩	jin jia en
 金佳英	jin jia ying
 金晶恩	jin jing en
 金静华	jin jing hua
 金井区	jin jing qu
 金炯秀	jin jiong xiu
 金炯中	jin jiong zhong
-金俊勉	jin jun mian
 金俊秀	jin jun xiu
 金峻秀	jin jun xiu
 金奎梨	jin kui li
-金厉旭	jin li xu
 金柳真	jin liu zhen
 金民俊	jin min jun
 金珉锡	jin min xi
@@ -5949,61 +5904,45 @@ use_preset_vocabulary: false
 金敏智	jin min zhi
 金旼钟	jin min zhong
 金旼锺	jin min zhong
-金明洙	jin ming zhu
 金娜英	jin na ying
-金南俊	jin nan jun
 金男珍	jin nan zhen
 金浦市	jin pu shi
 金起范	jin qi fan
 金泉市	jin quan shi
-金赛纶	jin sai lun
-金瑟祺	jin se qi
 锦山郡	jin shan jun
-金圣圭	jin sheng gui
 金胜友	jin sheng you
-金硕珍	jin shuo zhen
 金素恩	jin su en
-金所炫	jin suo xuan
 金泰亨	jin tai heng
 金泰宪	jin tai xian
 金泰妍	jin tai yan
 金泰佑	jin tai you
 金太宇	jin tai yu
 金廷恩	jin ting en
-金桐俊	jin tong jun
 金烔完	jin tong wan
 金玟	jin wen
 金玟善	jin wen shan
 金锡勋	jin xi xun
 金仙溪谷	jin xian xi gu
-金贤秀	jin xian xiu
 金贤珠	jin xian zhu
 金相赫	jin xiang he
-金香奇	jin xiang qi
 金相中	jin xiang zhong
 金孝琳	jin xiao lin
 金孝真	jin xiao zhen
 金秀妍	jin xiu yan
-金宣儿	jin xuan er
-金雪炫	jin xue xuan
 金亚荣	jin ya rong
 金雅中	jin ya zhong
 金岩洞	jin yan dong
 金艺林	jin yi lin
-金艺琳	jin yi lin
 金艺瑟	jin yi se
 金艺媛	jin yi yuan
 金艺苑	jin yi yuan
-金英光	jin ying guang
 金英云	jin ying yun
 金勇俊	jin yong jun
 金有美	jin you mei
 金有谦	jin you qian
 金有权	jin you quan
 金宥真	jin you zhen
-金宇彬	jin yu bin
 金瑜斌	jin yu bin
-金裕贞	jin yu zhen
 金元俊	jin yuan jun
 金元植	jin yuan zhi
 金在德	jin zai de
@@ -6024,7 +5963,6 @@ use_preset_vocabulary: false
 金知秀	jin zhi xiu
 金智妍	jin zhi yan
 金智烨	jin zhi ye
-金智媛	jin zhi yuan
 金志洙	jin zhi zhu
 金钟大	jin zhong da
 金钟仁	jin zhong ren
@@ -6046,7 +5984,6 @@ use_preset_vocabulary: false
 具本承	ju ben cheng
 居昌郡	ju chang jun
 具荷拉	ju he la
-具惠善	ju hui shan
 巨济面	ju ji mian
 巨济市	ju ji shi
 具俊表	ju jun biao
@@ -6062,11 +5999,9 @@ use_preset_vocabulary: false
 康津邑	kang jin yi
 康南	kang nan
 烤玉鲷	kao yu diao
-可莱丝	ke lai si
 孔敏智	kong min zhi
 孔升延	kong sheng yan
 孔贤珠	kong xian zhu
-孔孝真	kong xiao zhen
 孔音面	kong yin mian
 孔侑	kong you
 口袋妹妹	kou dai mei mei
@@ -6077,9 +6012,7 @@ use_preset_vocabulary: false
 浪漫夫妇	lang man fu fu
 乐古斋	le gu zhai
 乐天世界	le tian shi jie
-李宝英	li bao ying
 李秉乔	li bing qiao
-李秉宪	li bing xian
 李秉旭	li bing xu
 李彩麟	li cai lin
 李昶旻	li chang min
@@ -6094,30 +6027,18 @@ use_preset_vocabulary: false
 丽得姿	li de zi
 李东海	li dong hai
 李东健	li dong jian
-李栋旭	li dong xu
-李多海	li duo hai
 李多慎	li duo shen
-李多喜	li duo xi
 李恩宙	li en zhou
 李光珠	li guang zhu
 李海丽	li hai li
 李浩沅	li hao yuan
 李荷娜	li he na
-李赫宰	li he zai
-李弘彬	li hong bin
-李弘基	li hong ji
-李洪基	li hong ji
 梨花女子大学	li hua nv zi da xue
-李惠利	li hui li
 李惠敏	li hui min
 李金祚	li jin zuo
-李璟荣	li jing rong
-李居丽	li ju li
 李俊昊	li jun hao
 李利敬	li li jing
 李美淑	li mei shu
-李美妍	li mei yan
-李美珠	li mei zhu
 李敏豪	li min hao
 李敏镐	li min hao
 李敏赫	li min he
@@ -6125,16 +6046,13 @@ use_preset_vocabulary: false
 李敏宇	li min yu
 李珉宇	li min yu
 李娜英	li na ying
-李起光	li qi guang
 李瑞镇	li rui zhen
 礼山郡	li shan jun
 李胜贤	li sheng xian
 李胜勋	li sheng xun
 李诗英	li shi ying
 里水市	li shui shi
-李顺圭	li shun gui
 李泰成	li tai cheng
-李泰民	li tai min
 李泰一	li tai yi
 利特	li te
 李沇熹	li wei xi
@@ -6145,10 +6063,8 @@ use_preset_vocabulary: false
 李先镐	li xian gao
 李贤宰	li xian zai
 李孝恩	li xiao en
-李秀赫	li xiu he
 李秀晶	li xiu jing
 李絮	li xu
-李宣美	li xuan mei
 李玹雨	li xuan yu
 李铉雨	li xuan yu
 李雅琳	li ya lin
@@ -6167,14 +6083,12 @@ use_preset_vocabulary: false
 李章宇	li zhang yu
 李珍基	li zhen ji
 李政敏	li zheng min
-李正信	li zheng xin
 李智恩	li zhi en
 李志勋	li zhi xun
 李钟硕	li zhong shuo
 李钟原	li zhong yuan
 骊州郡	li zhou jun
 李柱胜	li zhu sheng
-李珠妍	li zhu yan
 李准	li zhun
 李宗泫	li zong xuan
 恋爱的发现	lian ai de fa xian
@@ -6188,18 +6102,14 @@ use_preset_vocabulary: false
 良洞	liang dong
 良山洞	liang shan dong
 两寺面	liang si mian
-梁耀燮	liang yao xie
 林谷洞	lin gu dong
 邻家花美男	lin jia hua mei nan
 林敏智	lin min zhi
-林世荣	lin shi rong
 林时完	lin shi wan
 林堂洞	lin tang dong
 林塘洞	lin tang dong
 麟蹄郡	lin ti jun
-林秀晶	lin xiu jing
 林英俊	lin ying jun
-林允儿	lin yun er
 林周焕	lin zhou huan
 林珠恩	lin zhu en
 灵光郡	ling guang jun
@@ -6210,19 +6120,15 @@ use_preset_vocabulary: false
 刘花英	liu hua ying
 榴芒夫妇	liu mang fu fu
 刘民奎	liu min kui
-刘仁娜	liu ren na
 刘仁英	liu ren ying
 柳时元	liu shi yuan
 刘世允	liu shi yun
 柳溪洞	liu xi dong
-刘宪华	liu xian hua
-柳孝荣	liu xiao rong
 刘孝英	liu xiao ying
 柳秀静	liu xiu jing
 柳秀荣	liu xiu rong
 柳演锡	liu yan xi
 刘永才	liu yong cai
-刘在石	liu zai shi
 柳镇	liu zhen
 刘智嫒	liu zhi ai
 刘智安	liu zhi an
@@ -6232,15 +6138,12 @@ use_preset_vocabulary: false
 龙冈洞	long gang dong
 龙谷洞	long gu dong
 龙湖洞	long hu dong
-龙俊亨	long jun heng
 龙仁市	long ren shi
 龙山头公园	long shan tou gong yuan
 龙山岩	long shan yan
 龙渊洞	long yuan dong
 卢珉宇	lu min yu
-鲁敏宇	lu min yu
 菉山洞	lu shan dong
-陆星材	lu xing cai
 鲁岩洞	lu yan dong
 卢乙	lu yi
 芦原区	lu yuan qu
@@ -6254,7 +6157,6 @@ use_preset_vocabulary: false
 吕训民	lv xun min
 马良面	ma liang mian
 麻浦大桥	ma pu da qiao
-麻浦区	ma pu qu
 马山市	ma shan shi
 麻田洞	ma tian dong
 蚂蚁夫妇	ma yi fu fu
@@ -6305,12 +6207,10 @@ use_preset_vocabulary: false
 南项津洞	nan xiang jin dong
 南相美	nan xiang mei
 南杨州市	nan yang zhou shi
-南怡岛	nan yi dao
 南优铉	nan you xuan
 南原市	nan yuan shi
 南元邑	nan yuan yi
 南智贤	nan zhi xian
-南柱赫	nan zhu he
 讷次洞	ne ci dong
 内谷洞	nei gu dong
 内可面	nei ke mian
@@ -6326,7 +6226,6 @@ use_preset_vocabulary: false
 欧尼	ou ni
 泡菜饼	pao cai bing
 裴涩琪	pei se qi
-裴秀智	pei xiu zhi
 裴佑熙	pei you xi
 裴珠泫	pei zhu xuan
 朴恩惠	piao en hui
@@ -6406,7 +6305,6 @@ use_preset_vocabulary: false
 骑马舞	qi ma wu
 七星面	qi xing mian
 前女友俱乐部	qian nv you ju le bu
-千禹熙	qian yu xi
 乔洞面	qiao dong mian
 青安面	qing an mian
 青川面	qing chuan mian
@@ -6441,13 +6339,10 @@ use_preset_vocabulary: false
 全秀珍	quan xiu zhen
 全侑莉	quan you li
 全宇蓝	quan yu lan
-权俞利	quan yu li
 权昭贤	quan zhao xian
-权志龙	quan zhi long
 全智允	quan zhi yun
 鹊川面	que chuan mian
 群山市	qun shan shi
-任瑟雍	ren se yong
 任实郡	ren shi jun
 仁寺洞	ren si dong
 仁显王后的男人	ren xian wang hou de nan ren
@@ -6456,7 +6351,6 @@ use_preset_vocabulary: false
 日藤井美菜	ri teng jing mei cai
 荣州市	rong zhou shi
 软糖布丁夫妇	ruan tang bu ding fu fu
-瑞草区	rui cao qu
 瑞山市	rui shan shi
 润翰	run han
 三北洞	san bei dong
@@ -6495,26 +6389,19 @@ use_preset_vocabulary: false
 涉地岬	she di jia
 涉地可支	she di ke zhi
 申爱	shen ai
-沈昌珉	shen chang min
 申成禄	shen cheng lu
 申承勋	shen cheng xun
 申东浩	shen dong hao
-申东熙	shen dong xi
 申东泫	shen dong xuan
-申东烨	shen dong ye
 申东佑	shen dong you
-沈恩京	shen en jing
 申恩庆	shen en qing
 申海成	shen hai cheng
-申惠晶	shen hui jing
 绅士的品格	shen shi de pin ge
 申石洞	shen shi dong
-申世京	shen shi jing
 申贤俊	shen xian jun
 神仙炉	shen xian lu
 沈贤星	shen xian xing
 申秀铉	shen xiu xuan
-沈银河	shen yin he
 申允珠	shen yun zhu
 申振奂	shen zhen huan
 生菜夫妇	sheng cai fu fu
@@ -6553,8 +6440,6 @@ use_preset_vocabulary: false
 松海面	song hai mian
 松鹤洞	song he dong
 宋佳妍	song jia yan
-宋闵浩	song min hao
-松坡区	song po qu
 松山洞	song shan dong
 松亭洞	song ting dong
 松汀洞	song ting dong
@@ -6562,23 +6447,17 @@ use_preset_vocabulary: false
 松雨	song yu
 宋允儿	song yun er
 宋允亨	song yun heng
-宋再临	song zai lin
 松峙洞	song zhi dong
 宋智恩	song zhi en
-宋智孝	song zhi xiao
-宋仲基	song zhong ji
 宋珠熙	song zhu xi
 素村洞	su cun dong
-苏怡贤	su yi xian
 苏有珍	su you zhen
 孙承欢	sun cheng huan
 孙成雅	sun cheng ya
-孙丹菲	sun dan fei
 孙东云	sun dong yun
 孙恩书	sun en shu
 孙昊永	sun hao yong
 孙惠珠	sun hui zhu
-孙佳仁	sun jia ren
 孙娜恩	sun na en
 孙太英	sun tai ying
 孙志昌	sun zhi chang
@@ -6602,7 +6481,6 @@ use_preset_vocabulary: false
 瓦洞	wa dong
 完州郡	wan zhou jun
 旺洞	wang dong
-王嘉尔	wang jia er
 旺山面	wang shan mian
 未来的选择	wei lai de xuan ze
 薇妮	wei ni
@@ -6615,7 +6493,6 @@ use_preset_vocabulary: false
 文诚熏	wen cheng xun
 文光面	wen guang mian
 文佳英	wen jia ying
-文瑾莹	wen jin ying
 文俊英	wen jun ying
 文坪洞	wen ping dong
 闻庆市	wen qing shi
@@ -6640,17 +6517,14 @@ use_preset_vocabulary: false
 乌山市	wu shan shi
 吴胜恩	wu sheng en
 吴胜雅	wu sheng ya
-吴世勋	wu shi xun
 屋塔房王世子	wu ta fang wang shi zi
 吴妍书	wu yan shu
 吴艺琳	wu yi lin
-吴映洁	wu ying jie
 乌云冰淇淋	wu yun bing qi lin
 五云洞	wu yun dong
 吴允儿	wu yun er
 吴昭英	wu zhao ying
 吴志浩	wu zhi hao
-吴智昊	wu zhi hao
 吴智敏	wu zhi min
 吴钟赫	wu zhong he
 吴宗旭	wu zong xu
@@ -6705,7 +6579,6 @@ use_preset_vocabulary: false
 星松面	xing song mian
 幸运夫妇	xing yun fu fu
 星州郡	xing zhou jun
-徐恩光	xu en guang
 徐河俊	xu he jun
 徐惠璘	xu hui lin
 许嘉允	xu jia yun
@@ -6713,7 +6586,6 @@ use_preset_vocabulary: false
 许率智	xu lv zhi
 许敏善	xu min shan
 许敏真	xu min zhen
-徐仁国	xu ren guo
 徐仁英	xu ren ying
 徐艺安	xu yi an
 许伊在	xu yi zai
@@ -6722,8 +6594,6 @@ use_preset_vocabulary: false
 许英智	xu ying zhi
 徐酉奈	xu you nai
 徐有庆	xu you qing
-徐智秀	xu zhi xiu
-徐珠贤	xu zhu xian
 宣言夫妇	xuan yan fu fu
 雪花冰	xue hua bing
 雪花秀	xue hua xiu
@@ -6765,14 +6635,10 @@ use_preset_vocabulary: false
 议政府市	yi zheng fu shi
 尹宝拉	yin bao la
 阴城郡	yin cheng jun
-尹斗俊	yin dou jun
 尹多勋	yin duo xun
-尹恩惠	yin en hui
 尹均相	yin jun xiang
-尹普美	yin pu mei
 尹启相	yin qi xiang
 尹胜雅	yin sheng ya
-尹世雅	yin shi ya
 尹贤敏	yin xian min
 尹相铉	yin xiang xuan
 尹珍熙	yin zhen xi
@@ -6798,9 +6664,7 @@ use_preset_vocabulary: false
 玉浦洞	yu pu dong
 玉山洞	yu shan dong
 玉溪面	yu xi mian
-玉泽演	yu ze yan
 禹智皓	yu zhi hao
-玉珠铉	yu zhu xuan
 元彬	yuan bin
 元素夫妇	yuan su fu fu
 原州市	yuan zhou shi
@@ -6818,12 +6682,9 @@ use_preset_vocabulary: false
 札嘎其市场	zha ga qi shi chang
 张丞延	zhang cheng yan
 张东雨	zhang dong yu
-张根硕	zhang gen shuo
 张赫	zhang he
 张睿恩	zhang rui en
 张瑞希	zhang rui xi
-张贤胜	zhang xian sheng
-张艺兴	zhang yi xing
 张真英	zhang zhen ying
 赵光旻	zhao guang min
 赵汉善	zhao han shan
@@ -6838,7 +6699,6 @@ use_preset_vocabulary: false
 赵现宰	zhao xian zai
 赵信爱	zhao xin ai
 赵雅英	zhao ya ying
-赵寅成	zhao yin cheng
 昭宥	zhao you
 赵允熙	zhao yun xi
 赵彰赫	zhao zhang he
@@ -6862,11 +6722,7 @@ use_preset_vocabulary: false
 郑亨敦	zheng heng dun
 郑慧星	zheng hui xing
 郑基高	zheng ji gao
-郑京浩	zheng jing hao
-郑俊浩	zheng jun hao
-郑俊英	zheng jun ying
 郑糠云	zheng kang yun
-郑丽媛	zheng li yuan
 郑敏	zheng min
 正坪洞	zheng ping dong
 郑普硕	zheng pu shuo
@@ -6875,20 +6731,14 @@ use_preset_vocabulary: false
 郑柔美	zheng rou mei
 郑熹哲	zheng xi zhe
 证心寺	zheng xin si
-郑雄仁	zheng xiong ren
-郑秀晶	zheng xiu jing
-郑秀妍	zheng xiu yan
 郑艺仁	zheng yi ren
-郑镒勋	zheng yi xun
 郑有美	zheng you mei
 郑宥智	zheng you zhi
 郑宇	zheng yu
 郑宇盛	zheng yu sheng
-郑允浩	zheng yun hao
 郑允惠	zheng yun hui
 郑泽运	zheng ze yun
 郑真英	zheng zhen ying
-郑珍云	zheng zhen yun
 郑珠妍	zheng zhu yan
 智律	zhi lv
 致美丽的你	zhi mei li de ni
@@ -7012,7 +6862,6 @@ use_preset_vocabulary: false
 淀君	dian jun
 淀屋长安	dian wu chang an
 钓野伏	diao ye fu
-东海道	dong hai dao
 东海道第一弓取	dong hai dao di yi gong qu
 东山道	dong shan dao
 笃十藏	du shi cang
@@ -7274,7 +7123,6 @@ use_preset_vocabulary: false
 西国无双的大将	xi guo wu shuang de da jiang
 西国之雄	xi guo zhi xiong
 西海道	xi hai dao
-下克上	xia ke shang
 夏目晴信	xia mu qing xin
 虾夷	xia yi
 下总	xia zong
@@ -7289,7 +7137,6 @@ use_preset_vocabulary: false
 小崛远洲	xiao jue yuan zhou
 小笠原少斋	xiao li yuan shao zhai
 小牧山长久手之战	xiao mu shan chang jiu shou zhi zhan
-小田原	xiao tian yuan
 小田原征伐	xiao tian yuan zheng fa
 小野善鬼	xiao ye shan gui
 小野寺辉道	xiao ye si hui dao
@@ -7436,7 +7283,6 @@ use_preset_vocabulary: false
 岛国组	dao guo zu
 弟组	di zu
 丁马克	ding ma ke
-冬妮娅	dong ni ya
 豆沙花	dou sha hua
 豆沙土豆组	dou sha tu dou zu
 缎带组	duan dai zu
@@ -7450,9 +7296,7 @@ use_preset_vocabulary: false
 番茄拌面组	fan qie ban mian zu
 番茄优格	fan qie you ge
 废柴与仙人	fei chai yu xian ren
-费尔南德斯	fei er nan de si
 肥啾	fei jiu
-菲利克斯	fei li ke si
 菲利克斯卢卡谢维奇	fei li ke si lu ka xie wei qi
 费里西安诺	fei li xi an nuo
 费里西安诺瓦尔加斯	fei li xi an nuo wa er jia si
@@ -7507,7 +7351,6 @@ use_preset_vocabulary: false
 卡里埃多	ka li ai duo
 库格穆格尔	ku ge mu ge er
 拉东尼亚	la dong ni ya
-拉尔夫	la er fu
 莱维斯加兰特	lai wei si jia lan te
 浪漫组	lang man zu
 老同盟组	lao tong meng zu
@@ -8054,7 +7897,6 @@ use_preset_vocabulary: false
 小泉花阳	xiao quan hua yang
 小原鞠莉	xiao yuan ju li
 星空凛	xing kong lin
-绚濑绘里	xuan lai hui li
 叶月恋	ye yue lian
 樱坂雫	ying ban na
 樱内梨子	ying nei li zi
@@ -8143,7 +7985,6 @@ use_preset_vocabulary: false
 宴九段	yan jiu duan
 伊吹加奈美	yi chui jia nai mei
 一里冢木实	yi li zhong mu shi
-伊之助	yi zhi zhu
 伊字诀	yi zi jue
 愚神礼赞	yu shen li zan
 园山赤音	yuan shan chi yin
@@ -8248,7 +8089,6 @@ use_preset_vocabulary: false
 冰室京介	bing shi jing jie
 博比达林	bo bi da lin
 薄荷可乐	bo he ke le
-薄荷叶	bo he ye
 伯特巴卡拉克	bo te ba ka la ke
 波希米娅女子合唱团	bo xi mi ya nv zi he chang tuan
 布赖恩威尔森	bu lai en wei er sen
@@ -8996,7 +8836,6 @@ use_preset_vocabulary: false
 雷茜	lei qian
 雷有辉	lei you hui
 雷有曜	lei you yao
-冷血动物	leng xue dong wu
 冷中易	leng zhong yi
 黎安莱姆丝	li an lai mu si
 李炳辰	li bing chen
@@ -10469,7 +10308,6 @@ use_preset_vocabulary: false
 艾斯灵卡	ai si ling ka
 爱心枪	ai xin qiang
 爱心屋	ai xin wu
-岸尾大辅	an wei da fu
 安元洋贵	an yuan yang gui
 奥斯卡皇金迪拉洛沙	ao si ka huang jin di la luo sha
 八千流	ba qian liu
@@ -10591,7 +10429,6 @@ use_preset_vocabulary: false
 钉宫理恵	ding gong li hui
 冬德恰卡	dong de qia ka
 咚德恰卡	dong de qia ka
-冬狮郎	dong shi lang
 东仙	dong xian
 东仙要	dong xian yao
 冻云	dong yun
@@ -10851,7 +10688,6 @@ use_preset_vocabulary: false
 亮茶色	liang cha se
 梁田清之	liang tian qing zhi
 灵波计测所	ling bo ji ce suo
-零番队	ling fan dui
 灵弓	ling gong
 灵魂吸	ling hun xi
 绫濑川弓亲	ling lai chuan gong qin
@@ -11334,7 +11170,6 @@ use_preset_vocabulary: false
 有昭田钵玄	you zhao tian bo xuan
 有昭田钵玄鬼道众副鬼道师	you zhao tian bo xuan gui dao zhong fu gui dao shi
 游子妹妹	you zi mei mei
-游佐浩二	you zuo hao er
 羽多野涉	yu duo ye she
 羽里色	yu li se
 雨龙	yu long
@@ -11500,7 +11335,6 @@ use_preset_vocabulary: false
 千石	qian shi
 千石清纯	qian shi qing chun
 千岁千里	qian sui qian li
-乾贞治	qian zhen zhi
 切原	qie yuan
 切原赤也	qie yuan chi ye
 青学	qing xue
@@ -11510,9 +11344,7 @@ use_preset_vocabulary: false
 仁王雅治	ren wang ya zhi
 忍足	ren zu
 忍足谦也	ren zu qian ye
-忍足侑士	ren zu you shi
 日吉	ri ji
-日吉若	ri ji ruo
 桑原	sang yuan
 森辰德	sen chen de
 山吹	shan chui
@@ -11849,7 +11681,6 @@ use_preset_vocabulary: false
 白珊瑚戒指	bai shan hu jie zhi
 白珊瑚腕环	bai shan hu wan huan
 百兽之血	bai shou zhi xue
-白松露	bai song lu
 白钛锭	bai tai ding
 白钛块	bai tai kuai
 白钛矿	bai tai kuang
@@ -11923,7 +11754,6 @@ use_preset_vocabulary: false
 白泽的土之眼	bai ze de tu zhi yan
 白泽的五行眼	bai ze de wu xing yan
 白章鱼	bai zhang yu
-白珍珠	bai zhen zhu
 白珍珠耳坠	bai zhen zhu er zhui
 白珍珠戒指	bai zhen zhu jie zhi
 白珍珠手镯	bai zhen zhu shou zhuo
@@ -12379,7 +12209,6 @@ use_preset_vocabulary: false
 赤铜鱼	chi tong yu
 赤血雄鸡农场	chi xue xiong ji nong chang
 赤眼海盗	chi yan hai dao
-赤玉土	chi yu tu
 赤爪海盗	chi zhao hai dao
 重逢集市	chong feng ji shi
 重钢研钵	chong gang yan bo
@@ -13835,7 +13664,6 @@ use_preset_vocabulary: false
 护巢席兹	hu chao xi zi
 湖胆	hu dan
 蝴蝶彩虹鳉	hu die cai hong jiang
-蝴蝶鱼	hu die yu
 湖蓟	hu ji
 胡鹫	hu jiu
 湖畔眼镜蛇	hu pan yan jing she
@@ -14127,7 +13955,6 @@ use_preset_vocabulary: false
 技力恢复之羽	ji li hui fu zhi yu
 祭礼鲶鱼精	ji li nian yu jing
 疾龙的粗皮	ji long de cu pi
-基路伯	ji lu bo
 级耐力炼金溶剂	ji nai li lian jin rong ji
 级耐力之幻水	ji nai li zhi huan shui
 级耐力之灵水	ji nai li zhi ling shui
@@ -14150,7 +13977,6 @@ use_preset_vocabulary: false
 级意力炼金溶剂	ji yi li lian jin rong ji
 级意力之幻水	ji yi li zhi huan shui
 级意力之灵水	ji yi li zhi ling shui
-鸡油菌	ji you jun
 激战城塞石卫塔	ji zhan cheng sai shi wei ta
 级智力炼金溶剂	ji zhi li lian jin rong ji
 级智力之幻水	ji zhi li zhi huan shui
@@ -14510,7 +14336,6 @@ use_preset_vocabulary: false
 开创者人偶	kai chuang zhe ren ou
 开花凯尔派	kai hua kai er pai
 铠甲琵琶鱼	kai jia pi pa yu
-凯门鳄	kai men e
 开膛枪	kai tang qiang
 凯特西娃娃	kai te xi wa wa
 凯西幼苗	kai xi you miao
@@ -14581,7 +14406,6 @@ use_preset_vocabulary: false
 快逃栈桥	kuai tao zhan qiao
 宽慰河	kuan wei he
 狂斗鱼	kuang dou yu
-狂风暴雪	kuang feng bao xue
 矿工工作裤	kuang gong gong zuo ku
 矿工工作衫	kuang gong gong zuo shan
 矿工工作靴	kuang gong gong zuo xue
@@ -14728,7 +14552,6 @@ use_preset_vocabulary: false
 理符	li fu
 礼服面料	li fu mian liao
 厉鬼猎鹰	li gui lie ying
-锂辉石	li hui shi
 锂辉石原石	li hui shi yuan shi
 黎明少女	li ming shao nv
 栗木板材	li mu ban cai
@@ -15115,7 +14938,6 @@ use_preset_vocabulary: false
 玛托雅	ma tuo ya
 麻希鲯鳅	ma xi qi qiu
 麻伊博伊	ma yi bo yi
-马郁兰	ma yu lan
 马兹拉雅岛	ma zi la ya dao
 马兹拉雅枪鱼	ma zi la ya qiang yu
 脉冲枪	mai chong qiang
@@ -15283,7 +15105,6 @@ use_preset_vocabulary: false
 迷你尤娜	mi ni you na
 迷你于里昂热	mi ni yu li ang re
 蜜柠檬	mi ning meng
-秘术师	mi shu shi
 米斯拉人偶	mi si la ren ou
 迷途羊羔	mi tu yang gao
 迷雾菠菜	mi wu bo cai
@@ -15433,7 +15254,6 @@ use_preset_vocabulary: false
 棉绒腰围	mian rong yao wei
 棉绒圆锥帽	mian rong yuan zhui mao
 绵羊地	mian yang di
-绵羊毛	mian yang mao
 棉云魟	mian yun hong
 民兵长袍	min bing chang pao
 民兵厨刀	min bing chu dao
@@ -16415,7 +16235,6 @@ use_preset_vocabulary: false
 商人腰包	shang ren yao bao
 绍尔迪雅红宝石	shao er di ya hong bao shi
 烧结磨刀石	shao jie mo dao shi
-烧结砖	shao jie zhuan
 蛇斑盘丽鱼	she ban pan li yu
 蛇山椒	she shan jiao
 射手天箭	she shou tian jian
@@ -16786,7 +16605,6 @@ use_preset_vocabulary: false
 松木木材	song mu mu cai
 松木原木	song mu yuan mu
 松鼠的粗皮	song shu de cu pi
-松树枝	song shu zhi
 松叶门	song ye men
 松叶门外广场	song ye men wai guang chang
 速干密封剂	su gan mi feng ji
@@ -16849,7 +16667,6 @@ use_preset_vocabulary: false
 苔藓绿染剂	tai xian lv ran ji
 苔小妖	tai xiao yao
 太阳贝	tai yang bei
-太阳帆	tai yang fan
 太阳海岸	tai yang hai an
 太阳湖	tai yang hu
 太阳鲈	tai yang lu
@@ -16864,7 +16681,6 @@ use_preset_vocabulary: false
 太阳神杖	tai yang shen zhang
 太阳丝绸服装店	tai yang si chou fu zhuang dian
 太阳之民	tai yang zhi min
-碳化钛	tan hua tai
 谭群钊	tan qun zhao
 叹息之森精	tan xi zhi sen jing
 叹息之妖精	tan xi zhi yao jing
@@ -16933,7 +16749,6 @@ use_preset_vocabulary: false
 缇坦妮雅歼灭战	ti tan ni ya jian mie zhan
 提亚马特	ti ya ma te
 鳀鱼	ti yu
-甜菜糖	tian cai tang
 天蚕绢布	tian can juan bu
 天蚕丝	tian can si
 天虫	tian chong
@@ -16991,7 +16806,6 @@ use_preset_vocabulary: false
 跳蜥幼体	tiao xi you ti
 跳虾虎	tiao xia hu
 铁板钩	tie ban gou
-铁刀木	tie dao mu
 铁刀木角材	tie dao mu jiao cai
 铁刀木木材	tie dao mu mu cai
 铁甲指虎	tie jia zhi hu
@@ -17285,7 +17099,6 @@ use_preset_vocabulary: false
 吸血枝	xi xue zhi
 夕阳红贝	xi yang hong bei
 蜥蜴的尾巴	xi yi de wei ba
-蜥蜴人	xi yi ren
 蜥蜴人攻斗兵	xi yi ren gong dou bing
 蜥蜴人弓手	xi yi ren gong shou
 蜥蜴人戟兵	xi yi ren ji bing
@@ -17445,7 +17258,6 @@ use_preset_vocabulary: false
 小魔精的翅膀	xiao mo jing de chi bang
 小鲶鱼	xiao nian yu
 小柠檬	xiao ning meng
-小牛犊	xiao niu du
 小珀琉喀斯	xiao po liu ka si
 小犰狳	xiao qiu yu
 小撒拉奥斯	xiao sa la ao si
@@ -18416,7 +18228,6 @@ use_preset_vocabulary: false
 重罪石软蟹	zhong zui shi ruan xie
 皱鳃鲨	zhou sai sha
 呪术士	zhou shu shi
-咒术师	zhou shu shi
 珠宝球藻	zhu bao qiu zao
 纻布	zhu bu
 筑巢秃鹫	zhu chao tu jiu
@@ -18537,7 +18348,6 @@ use_preset_vocabulary: false
 九番队	jiu fan dui
 捩花	lie hua
 六番队	liu fan dui
-涅茧利	nie jian li
 疋杀地蔵	pi sha di zang
 七番队	qi fan dui
 肉雫唼	rou na sha

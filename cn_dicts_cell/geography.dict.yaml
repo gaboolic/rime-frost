@@ -207,7 +207,6 @@ use_preset_vocabulary: false
 沉积盖层	chen ji gai ceng
 沉积建造	chen ji jian zao
 沉积水	chen ji shui
-沉积相	chen ji xiang
 沉降中心	chen jiang zhong xin
 城堡和城墙	cheng bao he cheng qiang
 城堡和文化	cheng bao he wen hua
@@ -222,7 +221,6 @@ use_preset_vocabulary: false
 城市辐集	cheng shi fu ji
 城市化村	cheng shi hua cun
 城市化区域	cheng shi hua qu yu
-城市集群	cheng shi ji qun
 城市历史地理	cheng shi li shi di li
 城市连绵区	cheng shi lian mian qu
 城市蔓延	cheng shi man yan
@@ -940,7 +938,6 @@ use_preset_vocabulary: false
 风格主义建筑	feng ge zhu yi jian zhu
 峰谷振幅	feng gu zhen fu
 缝合带	feng he dai
-风化层	feng hua ceng
 风化壳	feng hua qiao
 风积物	feng ji wu
 风棱石	feng leng shi
@@ -981,21 +978,18 @@ use_preset_vocabulary: false
 干盐湖	gan yan hu
 感应地理学	gan ying di li xue
 感应地震	gan ying di zhen
-干燥气候	gan zao qi hou
 干燥作用	gan zao zuo yong
 刚性板块	gang xing ban kuai
 高草草原	gao cao cao yuan
 高山矮曲林	gao shan ai qu lin
 高山草场轮牧	gao shan cao chang lun mu
 高山冻土	gao shan dong tu
-高山湖	gao shan hu
 高山季节移牧	gao shan ji jie yi mu
 高山土壤	gao shan tu rang
 高位沼泽	gao wei zhao ze
 高原冰川	gao yuan bing chuan
 高原沼泽	gao yuan zhao ze
 隔火路	ge huo lu
-隔水层	ge shui ceng
 隔坨区	ge tuo qu
 格网数据库	ge wang shu ju ku
 格网座标	ge wang zuo biao
@@ -1080,7 +1074,6 @@ use_preset_vocabulary: false
 固定论	gu ding lun
 固定沙丘	gu ding sha qiu
 孤峰组	gu feng zu
-古近纪	gu jin ji
 鼓丘	gu qiu
 古生代花岗岩	gu sheng dai hua gang yan
 古水文学	gu shui wen xue
@@ -1282,7 +1275,6 @@ use_preset_vocabulary: false
 灰化棕色土	hui hua zong se tu
 灰漠土	hui mo tu
 灰壤	hui rang
-汇水区	hui shui qu
 绘图程序库	hui tu cheng xu ku
 灰岩深沟	hui yan shen gou
 灰质云岩	hui zhi yun yan
@@ -1465,7 +1457,6 @@ use_preset_vocabulary: false
 抗震能力	kang zhen neng li
 抗震设防区划	kang zhen she fang qu hua
 抗震性能鉴定	kang zhen xing neng jian ding
-克拉通	ke la tong
 颗粒灰岩	ke li hui yan
 客流地理	ke liu di li
 刻面联合体	ke mian lian he ti
@@ -1570,7 +1561,6 @@ use_preset_vocabulary: false
 令支	ling zhi
 流动地震台	liu dong di zhen tai
 流动观测	liu dong guan ce
-流动沙丘	liu dong sha qiu
 流动形变测量	liu dong xing bian ce liang
 流动重力测量	liu dong zhong li ce liang
 流水地貌	liu shui di mao
@@ -1769,7 +1759,6 @@ use_preset_vocabulary: false
 区域分异	qu yu fen yi
 区域构造线	qu yu gou zao xian
 区域历史地理	qu yu li shi di li
-区域气候	qu yu qi hou
 区域应力场	qu yu ying li chang
 区域重力场	qu yu zhong li chang
 全波理论	quan bo li lun
@@ -1862,7 +1851,6 @@ use_preset_vocabulary: false
 色雷斯古墓	se lei si gu mu
 色雷斯人墓	se lei si ren mu
 森林保护区	sen lin bao hu qu
-森林草原	sen lin cao yuan
 森林气候	sen lin qi hou
 森林上限	sen lin shang xian
 森林水文学	sen lin shui wen xue
@@ -2005,11 +1993,9 @@ use_preset_vocabulary: false
 水位地震波	shui wei di zhen bo
 水文地理学	shui wen di li xue
 水文地球化学	shui wen di qiu hua xue
-水文过程	shui wen guo cheng
 水文试验	shui wen shi yan
 水文物理学	shui wen wu li xue
 水下景观	shui xia jing guan
-水质评价	shui zhi ping jia
 顺层边坡	shun ceng bian po
 顺化古迹群	shun hua gu ji qun
 顺扭	shun niu
@@ -2084,9 +2070,7 @@ use_preset_vocabulary: false
 土壤耗竭	tu rang hao jie
 土壤水分补充	tu rang shui fen bu chong
 土壤水文学	tu rang shui wen xue
-土壤退化	tu rang tui hua
 土壤因素	tu rang yin su
-土壤资源	tu rang zi yuan
 土壤组合	tu rang zu he
 土蠕	tu ru
 土体蠕动	tu ti ru dong
@@ -2435,11 +2419,9 @@ use_preset_vocabulary: false
 约塞米蒂	yue sai mi di
 月震仪	yue zhen yi
 运动线法	yun dong xian fa
-云岗石窟	yun gang shi ku
 运输地理学	yun shu di li xue
 运输联系	yun shu lian xi
 运输区划	yun shu qu hua
-运输枢纽	yun shu shu niu
 运输网布局	yun shu wang bu ju
 晕滃法	yun weng fa
 晕渲法	yun xuan fa

@@ -28,9 +28,10 @@ print(len(base_word_map))
 # 使用 os 模块中的 listdir 函数列出指定文件夹中的所有文件和子目录
 file_names = os.listdir("cn_dicts_cell")
 
+
 # 打印出所有找到的文件名
 for file_name in file_names:
-    print(file_name)
+    print("- cn_dicts_cell/"+file_name)
     read_file_name = os.path.join('cn_dicts_cell', file_name)
 
     word_map = OrderedDict()
