@@ -8,11 +8,12 @@ jianpin_word_map = {}
 
 # 使用 os 模块中的 listdir 函数列出指定文件夹中的所有文件和子目录
 file_names = ['chess.dict.yaml','music.dict.yaml','name.dict.yaml','inputmethod.dict.yaml']
+file_names = ['tencent_core.dict.yaml']
 
 # 打印出所有找到的文件名
 for file_name in file_names:
     print(file_name)
-    read_file_name = os.path.join('cn_dicts_cell', file_name)
+    read_file_name = os.path.join('cn_dicts', file_name)
 
     
     word_map = OrderedDict()
@@ -31,17 +32,25 @@ for file_name in file_names:
                 word_map[line]=''
                 continue
 
-            if line.startswith("#") or '\t' in line:
+            # if line.startswith("#") or '\t' in line:
+            #     word_map[line]=''
+            #     continue
+
+            if line.startswith("#"):
                 word_map[line]=''
                 continue
+
+            params = line.split("\t")
+            word = params[0]
+            freq = params[1]
             
-            pinyin_list = lazy_pinyin(line)
+            pinyin_list = lazy_pinyin(word)
             pinyin = ' '.join(pinyin_list)
 
-            new_line = line +"\t" + pinyin
+            new_line = word +"\t" + pinyin + '\t' + freq
             word_map[new_line]=''
     
-    write_file_name = os.path.join('cn_dicts_cell', file_name)
+    write_file_name = os.path.join('cn_dicts_temp', file_name)
     write_file = open(write_file_name, 'w')
 
     for word in word_map:
