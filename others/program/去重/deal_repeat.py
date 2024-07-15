@@ -4,8 +4,14 @@ import string
 
 jianpin_word_map = {}
 file_list = ['base.dict.yaml','ext.dict.yaml']
-for file in file_list:
-    file_name = os.path.join('cn_dicts', file)
+
+# 使用 os 模块中的 listdir 函数列出指定文件夹中的所有文件和子目录
+file_names = os.listdir("cn_dicts_cell")
+
+# 打印出所有找到的文件名
+for file_name in file_names:
+    print(file_name)
+    file_name = os.path.join('cn_dicts_cell', file_name)
     with open(file_name, 'r') as file:
         # 逐行读取文件内容
         for line in file:
@@ -16,17 +22,13 @@ for file in file_list:
             params = line.split("\t")
             word = params[0]
             encode = params[1]
-            freq = params[2]
             
-            if len(word) != 2:
-                continue
             pinyin = params[1]
             shengmus = pinyin.split(" ")
-            jianpin = shengmus[0][0] + shengmus[1][0]
 
             word_freq = {}
             word_freq["word"] = word
-            word_freq["freq"] = freq
+            # word_freq["freq"] = freq
 
             key = word + encode
             if key not in jianpin_word_map:
