@@ -1,0 +1,42 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 音乐相关
+#
+
+---
+name: music
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+    
+点弦	dian xian
+和弦	he xian
+琶音
+大调
+小调
+中央音
+纯律
+协和音程
+不协和音程
+无调性
+平行五度
+单调音乐
+复调音乐
+复调
+滑奏
+符尾
+符头
+符干
+附点
+延音线
+连音线
+延音
+连音
+还原记号
+歌芮拉
+拿火
+雅马哈
+恩雅
+瑞声

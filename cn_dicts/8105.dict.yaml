@@ -124,13 +124,13 @@ sort: by_weight
 罢	ba	1875
 叭	ba	1688
 爸	ba	1636
-扒	ba	1275
+扒	ba	2125
 靶	ba	873
 钯	ba	558
 霸	ba	469
 疤	ba	464
 芭	ba	275
-耙	ba	255
+耙	ba	182
 灞	ba	162
 坝	ba	153
 捌	ba	102
@@ -209,7 +209,7 @@ sort: by_weight
 爆	bao	4996
 抱	bao	3130
 薄	bao	2534
-堡	bao	2240
+堡	bao	2239
 曝	bao	1189
 饱	bao	1042
 煲	bao	833
@@ -1665,7 +1665,7 @@ sort: by_weight
 崶	feng	5
 赗	feng	2
 浲	feng	2
-佛	fo	1698
+佛	fo	1697
 否	fou	1268
 缶	fou	94
 负	fu	5705
@@ -2217,7 +2217,7 @@ sort: by_weight
 颢	hao	9
 镐	hao	6
 嚆	hao	0
-和	he	2267814
+和	he	2267813
 喝	he	17211
 核	he	4365
 盒	he	3300
@@ -2405,7 +2405,7 @@ sort: by_weight
 缓	huan	706
 唤	huan	499
 欢	huan	469
-嬛	huan	329
+嬛	huan	394
 桓	huan	251
 浣	huan	216
 寰	huan	185
@@ -3994,7 +3994,7 @@ sort: by_weight
 𫭢	lun	0
 𬬭	lun	0
 罗	luo	15287
-落	luo	1693
+落	luo	1692
 咯	luo	1556
 洛	luo	1081
 裸	luo	864
@@ -4356,7 +4356,7 @@ sort: by_weight
 某	mou	38985
 谋	mou	806
 牟	mou	263
-缪	mou	243
+缪	mou	242
 眸	mou	67
 哞	mou	36
 侔	mou	11
@@ -4599,8 +4599,8 @@ sort: by_weight
 啪	pa	1227
 帕	pa	969
 琶	pa	316
-扒	pa	255
-耙	pa	142
+扒	pa	425
+耙	pa	102
 葩	pa	43
 杷	pa	4
 舥	pa	4
@@ -7880,7 +7880,7 @@ sort: by_weight
 员	yun	1
 馧	yun	1
 𫖳	yun	0
-咋	za	7020
+咋	za	7019
 砸	za	6699
 杂	za	1678
 咂	za	139
@@ -8082,7 +8082,7 @@ sort: by_weight
 沼	zhao	45
 钊	zhao	41
 曌	zhao	22
-爪	zhao	10
+爪	zhao	11
 旐	zhao	9
 笊	zhao	2
 啁	zhao	1
@@ -8090,7 +8090,7 @@ sort: by_weight
 𬶐	zhao	0
 这	zhe	294893
 者	zhe	50054
-着	zhe	29549
+着	zhe	29548
 折	zhe	4291
 浙	zhe	763
 遮	zhe	673
@@ -8369,7 +8369,7 @@ sort: by_weight
 瘃	zhu	0
 𬣞	zhu	0
 抓	zhua	8079
-爪	zhua	873
+爪	zhua	959
 髽	zhua	2
 拽	zhuai	2310
 转	zhuan	18382

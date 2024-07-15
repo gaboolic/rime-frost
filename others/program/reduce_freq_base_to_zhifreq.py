@@ -59,7 +59,10 @@ for file_name in cn_dicts_common_list:
             freq = 0
             if character in word_freq_map:
                 freq = int(word_freq_map[character])
+
             if character+encoding in char_yin_freq_map:
+                if character == '她':
+                    print("她她她")
                 freq = freq * char_yin_freq_map[character+encoding]
                 if '41448' in file_name:
                     freq = math.sqrt(freq)

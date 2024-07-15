@@ -47,17 +47,13 @@
 
 结巴中文分词 <https://github.com/fxsjy/jieba>
 
+汉字转拼音(pypinyin) <https://github.com/mozillazg/python-pinyin>
+
 MNBVC超大规模中文语料集 <https://github.com/esbatmop/MNBVC> 目前已有33TB数据量
 
 kenlm <https://github.com/kpu/kenlm> 官网<https://kheafield.com/code/kenlm/>
 
 kenlm教程、python调用 <https://github.com/mattzheng/py-kenlm-model>
-
-墨奇本猫：
-
-<img src="readmeimg/moqi1.jpg" width=30%>
-
-<img src="readmeimg/moqi2.jpg" width=30%>
 
 ### 友情链接
 
