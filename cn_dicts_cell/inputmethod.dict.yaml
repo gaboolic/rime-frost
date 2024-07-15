@@ -1,0 +1,50 @@
+# Rime dictionary
+# encoding: utf-8
+# 输入法相关
+#
+---
+name: inputmethod
+version: "2024-07-13"
+sort: by_weight
+...
+墨奇音形	mo qi yin xing
+伽布里克	ga bu li ke
+墨奇音形的作者是伽布里克	mo qi yin xing de zuo zhe shi ga bu li ke
+爱次漏的小栏还	ai ci lou de xiao lan hai
+白霜词库	bai shuang ci ku
+白霜拼音	bai shuang pin yin
+白霜拼音的作者是伽布里克	bai shuang pin yin de zuo zhe shi ga bu li ke
+雾凇词库	wu song ci ku
+武松拼音	wu song pin yin
+大竹	da zhu
+魔然	mo ran
+雾凇鹤	wu song he
+小鹤音形	xiao he yin xing
+哲豆音形	zhe dou yin xing
+鹤形	he xing
+雾凇自然	wu song zi ran
+墨奇	mo qi
+墨奇码	mo qi ma
+汉心码	han xin ma
+易学码	yi xue ma
+墨奇辅助码	mo qi fu zhu ma
+矧码	shen ma
+空明码	kong ming ma
+并击	bing ji
+星空键道	xing kong jian dao
+星猫键道	xing mao jian dao
+天行键	tian xing jian
+灵形速影	ling xing su ying
+飞码	fei ma
+虎码	hu ma
+虎鹤	hu he
+鹤虎	he hu
+龙码	long ma
+猫码	mao ma
+声笔飞码	sheng bi fei ma
+跟打器	gen da qi
+极速跟打器	ji su gen da qi
+木易跟打器	mu yi gen da qi
+出简让全	chu jian rang quan
+出简无全	chu jian wu quan
+无简无全	wu jian wu quan
