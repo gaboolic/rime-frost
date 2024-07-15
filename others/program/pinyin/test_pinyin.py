@@ -1,4 +1,6 @@
 from pypinyin import pinyin, lazy_pinyin, Style
+# pip install pypinyin
+
 print(pinyin('中心'))
 print(pinyin(['中心']))
 print(lazy_pinyin('中心'))

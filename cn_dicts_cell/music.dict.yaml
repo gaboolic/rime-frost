@@ -11,30 +11,30 @@ use_preset_vocabulary: false
 ...
 点弦	dian xian
 和弦	he xian
-琶音
-大调
-小调
-中央音
-纯律
-协和音程
-不协和音程
-无调性
-平行五度
-单调音乐
-复调音乐
-复调
-滑奏
-符尾
-符头
-符干
-附点
-延音线
-连音线
-延音
-连音
-还原记号
-歌芮拉
-拿火
-雅马哈
-恩雅
-瑞声
+琶音	pa yin
+大调	da diao
+小调	xiao diao
+中央音	zhong yang yin
+纯律	chun lv
+协和音程	xie he yin cheng
+不协和音程	bu xie he yin cheng
+无调性	wu diao xing
+平行五度	ping xing wu du
+单调音乐	dan diao yin yue
+复调音乐	fu tiao yin le
+复调	fu diao
+滑奏	hua zou
+符尾	fu wei
+符头	fu tou
+符干	fu gan
+附点	fu dian
+延音线	yan yin xian
+连音线	lian yin xian
+延音	yan yin
+连音	lian yin
+还原记号	huan yuan ji hao
+歌芮拉	ge rui la
+拿火	na huo
+雅马哈	ya ma ha
+恩雅	en ya
+瑞声	rui sheng
