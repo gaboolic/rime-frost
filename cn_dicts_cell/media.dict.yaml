@@ -1,0 +1,17 @@
+# Rime dictionary
+# encoding: utf-8
+# 自媒体
+#
+---
+name: media
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+完读
+完读率
+完播
+完播率
+大神码字
+橙瓜
+飞卢

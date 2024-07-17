@@ -15,6 +15,7 @@ for file in file_list:
                 continue
             params = line.split("\t")
             word = params[0]
+            encode = params[1]
             freq = params[2]
             
             if len(word) != 2:
@@ -26,12 +27,14 @@ for file in file_list:
             word_freq = {}
             word_freq["word"] = word
             word_freq["freq"] = freq
-            if word not in jianpin_word_map:
-                jianpin_word_map[word] = word_freq
+
+            key = word + encode
+            if key not in jianpin_word_map:
+                jianpin_word_map[key] = word_freq
             else:
 
                 print("重复"+word)
-                print(jianpin_word_map[word])
+                print(jianpin_word_map[key])
 
-print(jianpin_word_map['什么'])
+print(jianpin_word_map['什么shen me'])
 
