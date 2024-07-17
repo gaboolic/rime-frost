@@ -36,11 +36,15 @@ sort: by_weight
 天行键	tian xing jian	0
 灵形速影	ling xing su ying	0
 飞码	fei ma	1
+字源	zi yuan	1
 虎鹤	hu he	18
 鹤虎	he hu	0
 龙码	long ma	0
 猫码	mao ma	0
 声笔	sheng bi	0
+声笔输入法	sheng bi shu ru fa	0
+声笔输入法作者戴石麟	sheng bi shu ru fa zuo zhe dai shi lin	0
+戴石麟	dai shi lin	0
 声笔飞码	sheng bi fei ma	0
 跟打器	gen da qi	0
 极速跟打器	ji su gen da qi	0
@@ -60,3 +64,4 @@ sort: by_weight
 首形	shou xing	0
 末形	mo xing	0
 顶屏	ding ping	0
+飞键	fei jian	0
