@@ -29,7 +29,6 @@
 
 如果会使用git基本操作，可以直接用git管理配置，首次：例如mac可以打开~/Library文件夹，然后`git clone --depth 1 https://github.com/gaboolic/rime-frost Rime`  后面在Rime文件夹执行`git pull`即可
 
-
 无智能模型时的输入效果
 ![alt text](others/img/gegegojx.png)
 
@@ -57,7 +56,7 @@
 
 后续todo：
 
-拆分细胞词库，加上长尾词，重新分词
+统计中文语料中的英文词频
 
 训练一个智能语言模型
 

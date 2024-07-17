@@ -25,6 +25,7 @@ use_preset_vocabulary: false
 想个辙	xiang ge zhe	4
 尔雅义疏	er ya yi shu	0
 八上	ba shang	1
+管杀不管埋    guan sha bu guan mai    0
 八月湖水平涵虚混太清	ba yue hu shui ping han xu hun tai qing	0
 百川东到海何时复西归	bai chuan dong dao hai he shi fu xi gui	1
 白头搔更短浑欲不胜簪	bai tou sao geng duan hun yu bu sheng zan	0
@@ -7024,6 +7025,7 @@ use_preset_vocabulary: false
 不辩牛马	bu bian niu ma	0
 不辨仙源何处寻	bu bian xian yuan he chu xun	0
 不薄今人爱古人	bu bo jin ren ai gu ren	1
+不薄今人爱古人	bu bao jin ren ai gu ren	1
 步步娇	bu bu jiao	3
 不采而佩	bu cai er pei	1
 步蟾宫	bu chan gong	0
@@ -22967,7 +22969,16 @@ use_preset_vocabulary: false
 春花秋叶	chun hua qiu ye	2
 唇竭则齿寒	chun jie ze chi han	0
 鹑居而彀食	chun ju er gou shi	0
+横扫六合	heng sao liu he	22
+锥心泣血	zhui xin qi xue	1
+天下谁人不识君	tian xia shui ren bu shi jun	27
+无言谁会凭阑意	wu yan shui hui ping lan yi	2
+狐裘不暖锦衾薄	hu qiu bu nuan jin qin bao	3
+谁人背后无人说	shui ren bei hou wu ren shuo	4
+躬自厚而薄责于人	gong zi hou er bao ze yu ren	3
+汉文有道恩犹薄	han wen you dao en you bao	1
 春情只到梨花薄	chun qing zhi dao li hua bo	1
+春情只到梨花薄	chun qing zhi dao li hua bao	1
 春秋经世先王之志	chun qiu jing shi xian wang zhi zhi	1
 春秋六经	chun qiu liu jing	0
 春日偶成	chun ri ou cheng	4
@@ -23112,6 +23123,8 @@ use_preset_vocabulary: false
 此之谓大人	ci zhi wei da ren	0
 此之谓大孝	ci zhi wei da xiao	0
 此之谓混溟	ci zhi wei hun ming	0
+寇雠	kou chou	0
+回㨃	hui dui	0
 此之谓寇雠	ci zhi wei kou chou	0
 此之谓丘里之言	ci zhi wei qiu li zhi yan	0
 此之位三有礼焉	ci zhi wei san you li yan	0
@@ -24525,6 +24538,7 @@ use_preset_vocabulary: false
 负以灵鳌蟠以螭	fu yi ling ao pan yi chi	0
 夫以鸟养养鸟者	fu yi niao yang yang niao zhe	0
 夫以阳为充孔扬	fu yi yang wei chong kong yang	0
+以血偿血	yi xue chang xue	1
 夫夷以近	fu yi yi jin	9
 夫已有所简矣	fu yi you suo jian yi	0
 夫夷子信以为人之亲其兄之子	fu yi zi xin yi wei ren zhi qin qi xiong zhi zi	0

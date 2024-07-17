@@ -17,6 +17,14 @@ with open(os.path.join('others', '降频词.txt'), 'r', encoding='utf-8') as dic
             continue
         need_to_reduce_freq_word_map[line] = ''
 
+baijiaxing_word_map = {}
+with open(os.path.join('others/program', '百家姓.txt'), 'r', encoding='utf-8') as dict_file:
+    for line in dict_file:
+        line = line.strip()
+        if line.startswith("#"):
+            continue
+        baijiaxing_word_map[line] = ''
+
 
 char_yin_freq_map = {}
 with open(os.path.join('others', '多音字.txt'), 'r', encoding='utf-8') as dict_file:
