@@ -1,0 +1,1038 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# https://github.com/iDvel/rime-ice
+# ------- 腾讯词向量 -------
+# [腾讯词向量](https://ai.tencent.com/ailab/nlp/zh/download.html)，感谢 @Huandeep 整理 https://github.com/iDvel/rime-ice/issues/24
+# 及后期一些随手添加的无需注音的词汇
+# 只保留三个字及以上的词
+# 与 base ext 没有重复
+# 删除大量包含错别字和会造成困扰的黄网、博彩相关词汇
+# 多音字的注音问题：
+# 对于没有注音的词汇，如 tencent.dict.yaml 词库，
+# Rime 按照方案中字表自动注音，多音字的权重比值大于 5:30 的就会参与注音。
+# 目前的解决方案，例如「的 de di」，手动注音 di，然后确保字表权重 de * 0.05 > di
+#              即手动注音所有发 di 音的词汇，只让 de 参与自动注音。
+#              对于「长 chang zhang」这样不易区分的，全部注音并用勤劳的双手完成校对。
+# 需要注音的字词设定在 others/script/rime/需要注音.txt
+---
+name: tencent
+version: "2024-05-21"
+sort: by_weight
+columns:
+- text
+- weight
+...
+# +_+
+一两五	yi liang wu	2
+一两条	yi liang tiao	108
+一便士	yi bian shi	6
+一千一百八十	yi qian yi bai ba shi	5
+一千六百五十	yi qian liu bai wu shi	1
+一双半	yi shuang ban	1
+一段距离	yi duan ju li	645
+一百九十八	yi bai jiu shi ba	5
+一百二十余	yi bai er shi yu	2
+一百二十六	yi bai er shi liu	3
+一票通	yi piao tong	2
+一过性脑缺血	yi guo xing nao que xue	4
+七八万元	qi ba wan yuan	1
+七孔流血	qi kong liu xie	8
+三一三	san yi san	1
+三交镇	san jiao zhen	1
+三十夜	san shi ye	1
+三十支	san shi zhi	4
+三文钱	san wen qian	10
+三星电子公司	san xing dian zi gong si	1
+三百余名	san bai yu ming	3
+三眼井	san yan jing	2
+上塘路	shang tang lu	1
+上塘镇	shang tang zhen	1
+上海光大会展中心	shang hai guang da hui zhan zhong xin	1
+上海市工商局	shang hai shi gong shang ju	2
+上海市政协	shang hai shi zheng xie	2
+上海市政府	shang hai shi zheng fu	145
+上消化道出血	shang xiao hua dao chu xue	24
+不压贷	bu ya dai	1
+不自哀	bu zi ai	1
+不薄今人爱古人	bu bao jin ren ai gu ren	1
+专用贴	zhuan yong tie	1
+专用车辆	zhuan yong che liang	9
+世情薄	shi qing bao	12
+世界卫生	shi jie wei sheng	6
+丘比丘	qiu bi qiu	5
+丘脑出血	qiu nao chu xue	23
+业务管理	ye wu guan li	108
+两三丈	liang san zhang	1
+两面佛	liang mian fu	10
+中书郎	zhong shu lang	4
+中共天津市委	zhong gong tian jin shi wei	1
+中华小姐	zhong hua xiao jie	4
+中华车	zhong hua che	1
+中和法	zhong he fa	1
+中和节	zhong he jie	1
+中国围棋协会	zhong guo wei qi xie hui	4
+中国国家文物局	zhong guo guo jia wen wu ju	1
+中国教育部	zhong guo jiao yu bu	75
+中国林科院	zhong guo lin ke yuan	2
+中国核学会	zhong guo he xue hui	1
+中国歌剧舞剧院	zhong guo ge ju wu ju yuan	10
+中国科技部	zhong guo ke ji bu	3
+中国红十字总会	zhong guo hong shi zi zong hui	1
+中国茶叶博物馆	zhong guo cha ye bo wu guan	1
+中国铁路文工团	zhong guo tie lu wen gong tuan	2
+中外观众	zhong wai guan zhong	1
+中央党史研究室	zhong yang dang shi yan jiu shi	1
+中央政策研究室	zhong yang zheng ce yan jiu shi	2
+中学生物	zhong xue sheng wu	39
+中扑网	zhong pu wang	2
+中招办	zhong zhao ban	1
+中文数字	zhong wen shu zi	17
+中村正雄	zhong cun zheng xiong	1
+中空板	zhong kong ban	2
+中青队	zhong qing dui	2
+临床学科	lin chuang xue ke	15
+临江镇	lin jiang zhen	1
+临津江	lin jin jiang	3
+义工联	yi gong lian	3
+乙炔发生器	yi gui fa sheng qi	1
+乙螨唑	yi man zuo	1
+九三学社中央	jiu san xue she zhong yang	2
+九女峰	jiu nv feng	1
+九连城	jiu lian cheng	1
+书法网	shu fa wang	3
+二一五	er yi wu	2
+二分院	er fen yuan	2
+二十七章	er shi qi zhang	1
+二十五中	er shi wu zhong	2
+二十五里	er shi wu li	1
+二十多次	er shi duo ci	29
+二十多里	er shi duo li	1
+二管轮	er guan lun	20
+互相交换	hu xiang jiao huan	120
+五六千年	wu liu qian nian	1
+五十丈	wu shi zhang	2
+五女山	wu nv shan	4
+五百八十五	wu bai ba shi wu	1
+五百多位	wu bai duo wei	1
+五里镇	wu li zhen	1
+亚洲协会	ya zhou xie hui	5
+亚洲小姐	ya zhou xiao jie	2
+亚洲明星	ya zhou ming xing	3
+亚甲炎	ya jia yan	2
+交通建筑	jiao tong jian zhu	11
+交通网络	jiao tong wang luo	62
+交通设备	jiao tong she bei	9
+产业部门	chan ye bu men	35
+产前出血	chan qian chu xue	3
+产品报价	chan pin bao jia	19
+产品简介	chan pin jian jie	64
+亨里克	heng li ke	22
+京溪街	jing xi jie	1
+京町子	jing ting zi	4
+亲生女	qin sheng nv	2
+亲贝网	qin bei wang	1
+人口压力	ren kou ya li	52
+人口预测	ren kou yu ce	15
+人类学者	ren lei xue zhe	9
+仁和镇	ren he zhen	1
+代永翼	dai yong yi	2
+令人担心	ling ren dan xin	42
+以色列政府	yi se lie zheng fu	20
+以血偿血	yi xue chang xue	1
+企业博客	qi ye bo ke	8
+企业资质	qi ye zi zhi	108
+企业顾问	qi ye gu wen	11
+伤害事故	shang hai shi gu	9
+伸展操	shen zhan cao	5
+似与不似	shi yu bu shi	3
+住房价格	zhu fang jia ge	10
+佛世界	fu shi jie	1
+佛慧山	fu hui shan	4
+佛有缘	fu you yuan	9
+佛罗伦斯	fu luo lun si	17
+佛道之争	fu dao zhi zheng	6
+作业负担	zuo ye fu dan	44
+作战处	zuo zhan chu	1
+供春壶	gong chun hu	3
+供热量	gong re liang	2
+俄国防部	e guo fang bu	2
+俄罗斯国家杜马	e luo si guo jia du ma	1
+俄罗斯政府	e luo si zheng fu	89
+俄罗斯电视台	e luo si dian shi tai	3
+俄罗斯联邦政府	e luo si lian bang zheng fu	2
+俄黑海舰队	e hei hai jian dui	33
+保圣寺	bao sheng si	2
+保存文档	bao cun wen dang	21
+保持良好	bao chi liang hao	1034
+保持高速	bao chi gao su	26
+保温管	bao wen guan	2
+保证车辆	bao zheng che liang	42
+保赐利	bao ci li	2
+修宗迪	xiu zong di	3
+修炼法	xiu lian fa	7
+倍捻机	bei nian ji	1
+假日办	jia ri ban	5
+停保场	ting bao chang	1
+偷拍照	tou pai zhao	2
+儿童活动	er tong huo dong	12
+儿童英语	er tong ying yu	35
+先锋岗	xian feng gang	1
+克洛弗	ke luo fu	1
+免费中文	mian fei zhong wen	8
+免费相册	mian fei xiang ce	1
+八七年	ba qi nian	1
+八千名	ba qian ming	1
+八横八纵	ba heng ba zong	2
+八爪鱼	ba zhao yu	308
+六千两	liu qian liang	1
+六龄牙	liu ling ya	2
+六龄齿	liu ling chi	9
+兰州铁路局	lan zhou tie lu ju	1
+具体型号	ju ti xing hao	194
+内书堂	nei shu tang	2
+内存价格	nei cun jia ge	8
+内脏出血	nei zang chu xue	26
+写真机	xie zhen ji	1
+军事动态	jun shi dong tai	4
+军需处	jun xu chu	1
+冶金焦	ye jin jiao	3
+冻融循环	dong rong xun huan	1
+准准准	zhun zhun zhun	1
+几千分	ji qian fen	4
+出云号	chu yun hao	19
+出云国	chu yun guo	1
+出云级	chu yun ji	3
+出尘子	chu chen zi	48
+出血倾向	chu xue qing xiang	46
+分别独立	fen bie du li	62
+分宝岩	fen bao yan	1
+分接箱	fen jie xiang	1
+分流管	fen liu guan	11
+分离机	fen li ji	2
+分纤箱	fen xian xiang	2
+分趾鞋	fen zhi xie	1
+分配资源	fen pei zi yuan	114
+初发时	chu fa shi	2
+前房出血	qian fang chu xue	1
+剥脱性皮炎	bao tuo xing pi yan	7
+剥脱性角质松解症	bao tuo xing jiao zhi song jie zheng	1
+剪叉式	jian cha shi	1
+办公建筑	ban gong jian zhu	9
+办公流程	ban gong liu cheng	11
+加拿大政府	jia na da zheng fu	75
+动作迅速	dong zuo xun su	29
+动力设备	dong li she bei	13
+动物保健	dong wu bao jian	1
+动画教程	dong hua jiao cheng	7
+动脉出血	dong mai chu xue	14
+努尔丁	nu er ding	6
+劫掠者	jie lve zhe	32
+势孤力薄	shi gu li bao	1
+化学材料	hua xue cai liao	54
+化学矿	hua xue kuang	1
+化工市场	hua gong shi chang	1
+化工机械	hua gong ji xie	12
+化龙桥	hua long qiao	1
+北京东方	bei jing dong fang	17
+北京中南海	bei jing zhong nan hai	1
+北京住总集团	bei jing zhu zong ji tuan	1
+北京口腔医院	bei jing kou qiang yi yuan	2
+北京市人民政府	bei jing shi ren min zheng fu	27
+北京市卫生局	bei jing shi wei sheng ju	1
+北京市总工会	bei jing shi zong gong hui	2
+北京房产	bei jing fang chan	5
+北京政府	bei jing zheng fu	33
+北京服装	bei jing fu zhuang	5
+北京机场	bei jing ji chang	14
+区域经理	qu yu jing li	153
+医学论文	yi xue lun wen	30
+医药包装	yi yao bao zhuang	2
+十一面	shi yi mian	1
+十三件	shi san jian	2
+十三场	shi san chang	2
+十二头	shi er tou	4
+十二艘	shi er sou	1
+十余艘	shi yu sou	2
+十几匹	shi ji pi	2
+十善业	shi shan ye	1
+十多日	shi duo ri	4
+十多枚	shi duo mei	1
+十多起	shi duo qi	1
+千万把	qian wan ba	8
+千万美元	qian wan mei yuan	163
+千余亩	qian yu mu	1
+千余位	qian yu wei	1
+千平方米	qian ping fang mi	1
+半晌道	ban shang dao	1
+南京国际展览中心	nan jing guo ji zhan lan zhong xin	2
+南内环	nan nei huan	1
+南延段	nan yan duan	1
+南明河	nan ming he	1
+南漪湖	nan yi hu	1
+南高齿	nan gao chi	2
+博迈科	bo mai ke	2
+卡伯特	ka bo te	3
+卡加梅	ka jia mei	5
+卡卓儿	ka zhuo er	3
+卡宾达	ka bin da	1
+卡蒂亚	ka di ya	7
+即是色	ji shi se	1
+历史状况	li shi zhuang kuang	11
+历史试题	li shi shi ti	3
+厌氧胶	yan yang jiao	1
+厚彼薄此	hou bi bao ci	1
+厚积而薄发	hou ji er bao fa	40
+原料油	yuan liao you	1
+厨下式	chu xia shi	2
+发出信号	fa chu xin hao	150
+发出请求	fa chu qing qiu	33
+叔孙豹	shu sun bao	1
+口腔出血	kou qiang chu xue	7
+可开发量	ke kai fa liang	3
+可爱淘	ke ai tao	2
+台湾歌手	tai wan ge shou	73
+台湾独立	tai wan du li	14
+吃烂分	chi lan fen	4
+同志小说	tong zhi xiao shuo	1
+名冢佳织	ming zhong jia zhi	1
+吸扯力	xi che li	2
+吸血僵尸	xi xue jiang shi	5
+吸血蜘蛛	xi xue zhi zhu	4
+吸血蝙蝠	xi xue bian fu	27
+吹塑机	chui su ji	1
+咕哒子	gu da zi	11
+咱家人	za jia ren	1
+哀川翔	ai chuan xiang	1
+哲家军	zhe jia jun	2
+啫啫煲	zhe zhe bao	12
+善成堂	shan cheng tang	2
+喷淋塔	pen lin ta	2
+嘉和城	jia he cheng	2
+嘉拉迪雅	jia la di ya	1
+噻虫胺	sai chong an	1
+嚼过的口香糖	jue guo de kou xiang tang	6
+嚼饭喂人	jue fan wei ren	1
+四十多斤	si shi duo jin	4
+四川电视台	si chuan dian shi tai	5
+四海帮	si hai bang	3
+回转头	hui zhuan tou	2
+因水而兴	yin shui er xing	1
+团结党	tuan jie dang	1
+团结出版社	tuan jie chu ban she	4
+园林机械	yuan lin ji xie	1
+固定设备	gu ding she bei	18
+固定设置	gu ding she zhi	6
+图书中心	tu shu zhong xin	6
+图书市场	tu shu shi chang	85
+图形操作	tu xing cao zuo	14
+图片尺寸	tu pian chi cun	126
+圣塞瓦斯蒂安	sheng sai wa si di an	1
+圣康坦	sheng kang tan	4
+在家千日好	zai jia qian ri hao	1
+在线教育	zai xian jiao yu	1887
+在线翻译	zai xian fan yi	102
+均安镇	jun an zhen	2
+坎布萨诺	kan bu sa nuo	1
+坝美村	ba mei cun	2
+垂秀夫	chui xiu fu	1
+埃克特	ai ke te	1
+埃及政府	ai ji zheng fu	50
+城上城	cheng shang cheng	4
+城市论坛	cheng shi lun tan	3
+城管办	cheng guan ban	1
+培训资料	pei xun zi liao	81
+基层医院	ji ceng yi yuan	137
+塑料配件	su liao pei jian	3
+塑胶原料	su jiao yuan liao	5
+塔兹米	ta zi mi	1
+塘桥镇	tang qiao zhen	1
+塞德尔	sai de er	4
+壬午年	ren wu nian	4
+声光报警	sheng guang bao jing	3
+处理错误	chu li cuo wu	17
+复叠式	fu die shi	1
+复式房	fu shi fang	1
+外交部门	wai jiao bu men	18
+外开门	wai kai men	1
+外汇新闻	wai hui xin wen	1
+外资项目	wai zi xiang mu	2
+多媒体信息	duo mei ti xin xi	23
+多媒体播放	duo mei ti bo fang	8
+多媒体教学	duo mei ti jiao xue	29
+多数决定	duo shu jue ding	2
+多田骏	duo tian jun	1
+多种类型	duo zhong lei xing	278
+大大减少	da da jian shao	858
+大大增加	da da zeng jia	1492
+大寨村	da zhai cun	2
+大小头	da xiao tou	5
+大树林	da shu lin	3
+大眼瞪	da yan deng	1
+大红纸	da hong zhi	1
+大脑缺血	da nao que xue	20
+大良镇	da liang zhen	1
+大谷育江	da gu yu jiang	3
+大连旅游	da lian lv you	1
+大量文件	da liang wen jian	29
+大陆歌手	da lu ge shou	31
+大魂师	da hun shi	1
+大黄页	dai huang ye	1
+天下父母	tian xia fu mu	22
+天下谁人不识君	tian xia shui ren bu shi jun	27
+天喜星	tian xi xing	1
+天山网	tian shan wang	1
+天津市政府	tian jin shi zheng fu	5
+天津桥	tian jin qiao	2
+天然材料	tian ran cai liao	92
+天道盟	tian dao meng	1
+天鹅洲	tian e zhou	2
+太和宫	tai he gong	1
+太和门	tai he men	14
+太榆路	tai yu lu	1
+夫妻性	fu qi xing	1
+失去理性	shi qu li xing	53
+头山满	tou shan man	1
+夹心板	jia xin ban	1
+奈津美	nai jin mei	1
+奥帕瓦	ao pa wa	1
+奥比岛	ao bi dao	86
+奥比昂	ao bi ang	2
+奥耶尔	ao ye er	2
+奥贝斯坦	ao bei si tan	5
+奥驰亚	ao chi ya	2
+女性网	nv xing wang	3
+女性频道	nv xing pin dao	7
+奶孙恋	nai sun lian	1
+奶白菜	nai bai cai	3
+好剑法	hao jian fa	7
+好网址	hao wang zhi	3
+如厕难	ru ce nan	2
+如嚼鸡肋	ru jue ji lei	1
+妙瓦底	miao wa di	25
+威纶通	wei lun tong	1
+孝感人	xiao gan ren	1
+学生档案	xue sheng dang an	35
+学生用品	xue sheng yong pin	8
+宝佩如	bao pei ru	1
+实控人	shi kong ren	246
+宠物中心	chong wu zhong xin	1
+宠物交易	chong wu jiao yi	1
+宠物医院	chong wu yi yuan	302
+宠物市场	chong wu shi chang	27
+客户名单	ke hu ming dan	78
+客户档案	ke hu dang an	17
+密训营	mi xun ying	5
+寒而栗	han er li	1
+尊雅版	zun ya ban	3
+小勐拉	xiao meng la	1
+小区业主	xiao qu ye zhu	106
+小奥汀	xiao ao ting	2
+小红山	xiao hong shan	1
+小说频道	xiao shuo pin dao	3
+小队员	xiao dui yuan	23
+少年文学	shao nian wen xue	18
+尖竹汶	jian zhu wen	1
+尸阴宗	shi yin zong	1
+尼比鲁	ni bi lu	14
+尿血病	niao xue bing	1
+岛内外	dao nei wai	3
+崇政殿	chong zheng dian	3
+崇武镇	chong wu zhen	1
+工业涂料	gong ye tu liao	1
+工业贸易	gong ye mao yi	4
+工作液	gong zuo ye	2
+工信委	gong xin wei	1
+工具理性	gong ju li xing	52
+工商管理学士	gong shang guan li xue shi	4
+工艺制作	gong yi zhi zuo	64
+工艺设备	gong yi she bei	21
+巨大成功	ju da cheng gong	251
+差友们	cha you men	6
+市消委会	shi xiao wei hui	2
+布利斯	bu li si	8
+布碌仑	bu lu lun	5
+布莱兹	bu lai zi	5
+希腊政府	xi la zheng fu	54
+希财网	xi cai wang	2
+帕尔梅	pa er mei	2
+帕金顿	pa jin dun	1
+带光盘	dai guang pan	2
+库存服装	ku cun fu zhuang	1
+庙前街	miao qian jie	1
+庚子日	geng zi ri	1
+建业队	jian ye dui	1
+建材装饰	jian cai zhuang shi	3
+建材设备	jian cai she bei	2
+建材超市	jian cai chao shi	10
+建站网	jian zhan wang	1
+建筑创作	jian zhu chuang zuo	28
+建筑安全	jian zhu an quan	11
+建设网	jian she wang	2
+建设部门	jian she bu men	12
+开发方法	kai fa fang fa	38
+开基祖	kai ji zu	1
+开扬感	kai yang gan	1
+引魂灯	yin hun deng	2
+弗留利	fu liu li	1
+当前状况	dang qian zhuang kuang	37
+律师事务	lv shi shi wu	9
+御生堂	yu sheng tang	1
+微播易	wei bo yi	3
+德与法	de yu fa	1
+德国大众汽车公司	de guo da zhong qi che gong si	2
+快速访问	kuai su fang wen	78
+思想动态	si xiang dong tai	15
+怡春院	yi chun yuan	2
+性感美	xing gan mei	2
+性格演员	xing ge yan yuan	4
+总体开发	zong ti kai fa	2
+悲悲切切	bei bei qie qie	6
+意大利政府	yi da li zheng fu	58
+慢特病	man te bing	1
+慧科讯业	hui ke xun ye	1
+战斗性能	zhan dou xing neng	5
+战略性撤退	zhan lve xing che tui	8
+手机芯片	shou ji xin pian	122
+打击目标	da ji mu biao	47
+打印发票	da yin fa piao	20
+打印驱动	da yin qu dong	1
+打捞工具	da lao gong ju	1
+打标机	da biao ji	1
+扩军计划	kuo jun ji hua	4
+技术相结合	ji shu xiang jie he	62
+抑尘剂	yi chen ji	1
+抑尘车	yi chen che	1
+抗裂性	kang lie xing	4
+折彦质	zhe yan zhi	3
+折御勋	zhe yu xun	1
+抢修车	qiang xiu che	2
+抢夺案	qiang duo an	2
+护学岗	hu xue gang	2
+护理产品	hu li chan pin	51
+护理职业	hu li zhi ye	1
+报警阀	bao jing fa	2
+拉力机	la li ji	1
+拉赫蒂	la he di	2
+拔键器	ba jian qi	1
+指示仪	zhi shi yi	2
+挖球器	wa qiu qi	1
+挖贝网	wa bei wang	3
+振弦式	zhen xian shi	1
+捕鱼量	bu yu liang	1
+换新装	huan xin zhuang	1
+排云殿	pai yun dian	2
+排土场	pai tu chang	14
+接受投资者	jie shou tou zi zhe	6
+接口函数	jie kou han shu	11
+接口协议	jie kou xie yi	19
+控告信	kong gao xin	1
+提伯斯	ti bo si	8
+提帮功	ti bang gong	4
+插头线	cha tou xian	1
+搜航网	sou hang wang	1
+摩托罗拉公司	mo tuo luo la gong si	30
+摩比斯	mo bi si	13
+摩米士	mo mi shi	2
+播放按钮	bo fang an niu	44
+放血疗法	fang xue liao fa	115
+政协常委会	zheng xie chang wei hui	1
+政府公告	zheng fu gong gao	10
+政策主张	zheng ce zhu zhang	33
+效能型	xiao neng xing	2
+教学实验	jiao xue shi yan	22
+教学服务	jiao xue fu wu	106
+教师网	jiao shi wang	4
+教师论文	jiao shi lun wen	4
+散流器	san liu qi	1
+散点式	san dian shi	6
+数十株	shu shi zhu	1
+数千平方米	shu qian ping fang mi	1
+数学计算	shu xue ji suan	241
+数百丈	shu bai zhang	1
+数码电视	shu ma dian shi	2
+数码网络	shu ma wang luo	1
+数码频道	shu ma pin dao	1
+斑嘴鸭	ban zui ya	2
+断臂山	duan bi shan	5
+斯泰恩	si tai en	1
+斯特赖克	si te lai ke	5
+斯皮思	si pi si	2
+斯达舒	si da shu	1
+新安洲	xin an zhou	3
+新神雕	xin shen diao	1
+新西兰政府	xin xi lan zheng fu	11
+新雷能	xin lei neng	3
+旅游业界	lv you ye jie	2
+旅游文化节	lv you wen hua jie	2
+无志者	wu zhi zhe	1
+无言谁会凭阑意	wu yan shui hui ping lan yi	2
+无限连击	wu xian lian ji	2
+日里诺夫斯基	ri li nuo fu si ji	2
+旷继勋	kuang ji xun	1
+昆仑镜	kun lun jing	7
+昆明机场	kun ming ji chang	12
+星座网	xing zuo wang	1
+星耀樟宜	xing yao zhang yi	2
+映维网	ying wei wang	1
+春情只到梨花薄	chun qing zhi dao li hua bao	1
+普列托	pu lie tuo	1
+普埃布拉	pu ai bu la	2
+普天间机场	pu tian jian ji chang	7
+普门品	pu men pin	1
+晴耕雨读	qing geng yu du	2
+智尊版	zhi zun ban	2
+智尚版	zhi shang ban	1
+曼比季	man bi ji	1
+最优策略	zui you ce lve	182
+服务供应商	fu wu gong ying shang	64
+服务器发送	fu wu qi fa song	46
+服务器程序	fu wu qi cheng xu	31
+服务器返回	fu wu qi fan hui	42
+服博会	fu bo hui	2
+服装学院	fu zhuang xue yuan	38
+服装集团	fu zhuang ji tuan	3
+木兰拳	mu lan quan	2
+未经检验	wei jing jian yan	9
+本小利薄	ben xiao li bao	5
+本格派	ben ge pai	171
+本规程	ben gui cheng	2
+机扫车	ji sao che	1
+机械业	ji xie ye	1
+机械室	ji xie shi	2
+杀菌器	sha jun qi	1
+杰姆斯	jie mu si	1
+某种理由	mou zhong li you	11
+柔力球	rou li qiu	1
+标准协议	biao zhun xie yi	46
+标准厂房	biao zhun chang fang	4
+格尔曼	ge er man	2
+格格娇	ge ge jiao	1
+格科微	ge ke wei	2
+桃瑞丝	tao rui si	1
+检察干警	jian cha gan jing	1
+检查报告	jian cha bao gao	247
+检测仪表	jian ce yi biao	1
+检测工具	jian ce gong ju	53
+检针机	jian zhen ji	1
+植物图片	zhi wu tu pian	2
+椎拳崇	chui quan chong	6
+横扫六合	heng sao liu he	22
+橄榄坝	gan lan ba	3
+歌伴舞	ge ban wu	1
+死链接	si lian jie	3
+残疾女	can ji nv	2
+比利奇	bi li qi	4
+比利王	bi li wang	23
+比斯利	bi si li	148
+比色杯	bi se bei	1
+民主集中	min zhu ji zhong	11
+民促法	min cu fa	2
+民族出版社	min zu chu ban she	16
+民族民间	min zu min jian	3
+民族资产	min zu zi chan	28
+永丰镇	yong feng zhen	3
+永和镇	yong he zhen	1
+汉军镶	han jun xiang	1
+汉文有道恩犹薄	han wen you dao en you bao	1
+汜水镇	si shui zhen	1
+汽油税	qi you shui	2
+沟壑区	gou he qu	1
+沧元图	cang yuan tu	3
+沧白路	cang bai lu	1
+沩仰宗	wei yang zong	1
+沪汉蓉	hu han rong	4
+沪瑞线	hu rui xian	1
+河水库	he shui ku	2
+河洛镇	he luo zhen	1
+油压表	you ya biao	1
+油热放	you re fang	5
+泄压口	xie ya kou	2
+泡泡鱼	pao pao yu	2
+波布兰	bo bu lan	2
+泰山庙	tai shan miao	1
+泰恩康	tai en kang	3
+泰格尔	tai ge er	1
+洁颜油	jie yan you	1
+洋女婿	yang nv xu	2
+洋媳妇	yang xi fu	4
+洋浦港	yang pu gang	1
+洗瓶机	xi ping ji	2
+洛带镇	luo dai zhen	4
+活动主体	huo dong zhu ti	8
+流花路	liu hua lu	1
+流血涂野草	liu xie tu ye cao	2
+测试代码	ce shi dai ma	105
+测试表明	ce shi biao ming	28
+济南铁路局	ji nan tie lu ju	4
+浩坤湖	hao kun hu	1
+消化道出血	xiao hua dao chu xue	118
+消控室	xiao kong shi	1
+消防产品	xiao fang chan pin	1
+深之蓝	shen zhi lan	1
+深圳市人大常委会	shen zhen shi ren da chang wei hui	1
+深圳市人民政府	shen zhen shi ren min zheng fu	9
+深圳市政府	shen zhen shi zheng fu	116
+清水江	qing shui jiang	1
+清水泵	qing shui beng	1
+清迈府	qing mai fu	1
+渗碳体	shen tan ti	1
+湖南投资	hu nan tou zi	2
+湖南电信	hu nan dian xin	2
+湖南话	hu nan hua	25
+源码库	yuan ma ku	3
+澄江镇	cheng jiang zhen	1
+澳大利亚国防军	ao da li ya guo fang jun	1
+澳大利亚奥委会	ao da li ya ao wei hui	1
+澳大利亚政府	ao da li ya zheng fu	51
+澳大利亚联邦政府	ao da li ya lian bang zheng fu	3
+激情时刻	ji qing shi ke	7
+火包友	huo bao you	2
+烤漆房	kao qi fang	4
+热情似火	re qing shi huo	121
+热挤压	re ji ya	1
+热灌装	re guan zhuang	3
+热门资源	re men zi yuan	21
+焊线式	han xian shi	4
+煤炭网	mei tan wang	1
+煤监局	mei jian ju	1
+照像馆	zhao xiang guan	1
+爆乳装	bao ru zhuang	1
+物品代码	wu pin dai ma	4
+物理试题	wu li shi ti	4
+物资贸易	wu zi mao yi	2
+特别之处	te bie zhi chu	439
+狐裘不暖锦衾薄	hu qiu bu nuan jin qin bao	3
+独立电源	du li dian yuan	11
+独立设置	du li she zhi	43
+猎鬼人	lie gui ren	1
+玉元震	yu yuan zhen	1
+玉音子	yu yin zi	1
+玛西娅	ma xi ya	14
+玫茵堂	mei yin tang	3
+环境空气	huan jing kong qi	32
+现代出版社	xian dai chu ban she	9
+玻璃体出血	bo li ti chu xue	4
+玻璃网	bo li wang	2
+珠宝网	zhu bao wang	2
+珠江电影制片厂	zhu jiang dian ying zhi pian chang	1
+理想城市	li xiang cheng shi	8
+瑞典政府	rui dian zheng fu	16
+瑞士政府	rui shi zheng fu	50
+瑞茂通	rui mao tong	1
+生态区域	sheng tai qu yu	7
+生态艺术	sheng tai yi shu	2
+生日号	sheng ri hao	2
+生理病害	sheng li bing hai	1
+甬台温	yong tai wen	3
+甲维盐	jia wei yan	2
+甲霜灵	jia shuang ling	1
+电力机械	dian li ji xie	1
+电子机械	dian zi ji xie	24
+电子礼品	dian zi li pin	2
+电子线	dian zi xian	3
+电子装置	dian zi zhuang zhi	22
+电子邮件发送	dian zi you jian fa song	17
+电工仪表	dian gong yi biao	1
+电影资讯	dian ying zi xun	31
+电控箱	dian kong xiang	1
+电炸炉	dian zha lu	2
+电脑内存	dian nao nei cun	56
+电脑管理	dian nao guan li	9
+电脑自动	dian nao zi dong	31
+电脑芯片	dian nao xin pian	24
+电脑设备	dian nao she bei	37
+电轻摩	dian qing mo	1
+男性疾病	nan xing ji bing	6
+男银们	nan yin men	1
+留和路	liu he lu	3
+留里克	liu li ke	27
+略微提升	lve wei ti sheng	21
+略有小成	lve you xiao cheng	23
+略输文采	lve shu wen cai	13
+疯疯颠颠	feng feng dian dian	1
+疾病症状	ji bing zheng zhuang	44
+病毒灵	bing du ling	1
+病毒破坏	bing du po huai	7
+病毒软件	bing du ruan jian	6
+病毒邮件	bing du you jian	5
+病症状	bing zheng zhuang	3
+痞子男	pi zi nan	1
+瘟疫肆虐	wen yi si nve	18
+癸酉日	gui you ri	2
+登嘉楼	deng jia lou	1
+百余所	bai yu suo	1
+百十位	bai shi wei	1
+百魔洞	bai mo dong	1
+监护人员	jian hu ren yuan	1
+直肠出血	zhi chang chu xue	8
+直销价	zhi xiao jia	1
+真理教	zhen li jiao	1
+眼保仪	yan bao yi	2
+眼底出血	yan di chu xue	51
+眼红红	yan hong hong	4
+短子线	duan zi xian	3
+短暂性脑缺血	duan zan xing nao que xue	13
+码头镇	ma tou zhen	1
+破胎器	po tai qi	2
+硬骨头六连	ying gu tou liu lian	4
+礼仪公司	li yi gong si	2
+礼品公司	li pin gong si	5
+礼品设计	li pin she ji	2
+社会纵横	she hui zong heng	2
+社区活动	she qu huo dong	67
+禁限摩	jin xian mo	1
+秀身堂	xiu shen tang	2
+私转公	si zhuan gong	3
+科学杂志	ke xue za zhi	73
+科技动态	ke ji dong tai	4
+科技成就	ke ji cheng jiu	33
+科技频道	ke ji pin dao	48
+科研开发	ke yan kai fa	6
+科迪华	ke di hua	1
+稻曲病	dao qu bing	1
+端口配置	duan kou pei zhi	4
+竹立家	zhu li jia	3
+第一三五	di yi san wu	1
+第一百六十三条	di yi bai liu shi san tiao	3
+第三队	di san dui	4
+第二具	di er ju	3
+第二十一次	di er shi yi ci	2
+第二十二次	di er shi er ci	2
+筱燕秋	xiao yan qiu	13
+粉粹机	fen cui ji	2
+粉锈宁	fen xiu ning	1
+粟粒疹	su li zhen	1
+粪便污水	fen bian wu shui	5
+粮食部门	liang shi bu men	1
+精彩画面	jing cai hua mian	23
+精油瓶	jing you ping	1
+紫娇花	zi jiao hua	4
+綦建虹	qi jian hong	1
+繁育场	fan yu chang	3
+纱荣子	sha rong zi	1
+纳斯尔	na si er	14
+纽约市场	niu yue shi chang	13
+细川护熙	xi chuan hu xi	3
+结晶型	jie jing xing	1
+结束战斗	jie shu zhan dou	185
+结构合理	jie gou he li	98
+维捷布斯克	wei jie bu si ke	2
+综保区	zong bao qu	1
+编制工作	bian zhi gong zuo	32
+编辑文档	bian ji wen dang	65
+网上课堂	wang shang ke tang	1
+网上超市	wang shang chao shi	43
+网址推荐	wang zhi tui jian	3
+网络教程	wang luo jiao cheng	38
+网络美女	wang luo mei nv	1
+网通公司	wang tong gong si	2
+美佐子	mei zuo zi	1
+美军方	mei jun fang	3
+美国商务部	mei guo shang wu bu	99
+美国法院	mei guo fa yuan	82
+美国移民	mei guo yi min	47
+美国财政部	mei guo cai zheng bu	217
+美规版	mei gui ban	1
+羽田孜	yu tian zi	2
+翰香原	han xiang yuan	1
+考勤卡	kao qin ka	1
+考爱岛	kao ai dao	1
+考驾证	kao jia zheng	2
+耙耙柑	ba ba gan	34
+职业服装	zhi ye fu zhuang	3
+职业经理	zhi ye jing li	31
+联大会议	lian da hui yi	1
+联通新	lian tong xin	2
+肋间神经	le jian shen jing	16
+肌少症	ji shao zheng	3
+肝出血	gan chu xue	3
+股份合作	gu fen he zuo	4
+股票名称	gu piao ming cheng	23
+股薄肌	gu bao ji	19
+肯尼亚人	ken ni ya ren	14
+肾二经	shen er jing	1
+肿木办	zhong mu ban	1
+胃溃疡出血	wei kui yang chu xue	8
+胃肠道出血	wei chang dao chu xue	26
+背俞穴	bei yu xue	2
+胶济线	jiao ji xian	2
+胶粘制品	jiao zhan zhi pin	3
+脊髓型颈椎病	ji sui xing jing chui bing	5
+脑室出血	nao shi chu xue	3
+脑干出血	nao gan chu xue	12
+脑贫血	nao pin xue	1
+腹腔内出血	fu qiang nei chu xue	5
+膨胀节	peng zhang jie	1
+自慰队	zi wei dui	3
+自洁性	zi jie xing	1
+至臻点	zhi zhen dian	1
+致雅型	zhi ya xing	1
+舌苔薄白	she tai bao bai	14
+色彩顾问	se cai gu wen	3
+色情动画	se qing dong hua	3
+艳无双	yan wu shuang	1
+艺术人体	yi shu ren ti	4
+芙萝娅	fu luo ya	2
+芬特明	fen te ming	3
+芯片型号	xin pian xing hao	12
+芯片尺寸	xin pian chi cun	13
+苔薄白	tai bao bai	18
+苦聪人	ku cong ren	3
+苯二酚	ben er fen	2
+英敏特	ying min te	1
+英特尔公司	ying te er gong si	40
+英语等级	ying yu deng ji	24
+茂木敏充	mao mu min chong	2
+草原法	cao yuan fa	1
+荧光颜料	ying guang yan liao	1
+荷兰政府	he lan zheng fu	40
+莎宾娜	sha bin na	2
+莱芜战役	lai wu zhan yi	2
+莱迪思	lai di si	1
+莲神九式	lian shen jiu shi	2
+获卵数	huo luan shu	1
+菲政府	fei zheng fu	1
+营养卫生	ying yang wei sheng	6
+萨图克	sa tu ke	2
+萨守坚	sa shou jian	1
+萨拉齐	sa la qi	3
+萩野公介	qiu ye gong jie	1
+著名景点	zhu ming jing dian	136
+蒂罗尔州	di luo er zhou	1
+蒸馏塔	zheng liu ta	2
+蔬菜种子	shu cai zhong zi	23
+虎谋皮	hu mou pi	1
+虹桥镇	hong qiao zhen	4
+虾子镇	xia zi zhen	6
+蛛网膜下出血	zhu wang mo xia chu xue	1
+蛛网膜下腔出血	zhu wang mo xia qiang chu xue	37
+蜈支洲	wu zhi zhou	2
+血性汉子	xue xing han zi	1
+装饰玻璃	zhuang shi bo li	1
+裸体图	luo ti tu	1
+裸心堡	luo xin bao	1
+西林瓶	xi lin ping	1
+西比拉	xi bi la	475
+西班牙政府	xi ban ya zheng fu	32
+西路南	xi lu nan	2
+覆叠轨	fu die gui	7
+覆盖面积	fu gai mian ji	202
+规划司	gui hua si	1
+视界网	shi jie wang	1
+视网膜出血	shi wang mo chu xue	9
+触变性	chu bian xing	1
+订购人	ding gou ren	3
+订购电话	ding gou dian hua	1
+认购价	ren gou jia	1
+记账单	ji zhang dan	3
+论坛公告	lun tan gong gao	1
+设计印刷	she ji yin shua	12
+证编号	zheng bian hao	1
+诊断检测	zhen duan jian ce	1
+诗歌评论	shi ge ping lun	4
+诚信教育	cheng xin jiao yu	4
+该产线	gai chan xian	1
+语音转文字	yu yin zhuai wen zi	95
+诱惑写真	you huo xie zhen	1
+诺基亚公司	nuo ji ya gong si	14
+读弟机	du di ji	1
+课程名称	ke cheng ming cheng	78
+谁人背后无人说	shui ren bei hou wu ren shuo	4
+财经部	cai jing bu	1
+购豪宅	gou hao zhai	2
+资源转移	zi yuan zhuan yi	9
+赛德斯	sai de si	1
+赛科龙	sai ke long	1
+赫尔伯特	he er bo te	1
+起湾道	qi wan dao	1
+超豪版	chao hao ban	1
+足彩网	zu cai wang	1
+躬自厚而薄责于人	gong zi hou er bao ze yu ren	3
+转换规则	zhuan huan gui ze	9
+轻松松	qing song song	2
+轻薄透明	qing bo tou ming	3
+较为理想	jiao wei li xiang	72
+较理想	jiao li xiang	37
+输血式	shu xue shi	3
+辣木籽	la mu zi	2
+辽东军区	liao dong jun qu	1
+达乌德	da wu de	13
+达到最佳	da dao zui jia	259
+达坂山	da ban shan	1
+达尼丁	da ni ding	1
+达音科	da yin ke	1
+过盈量	guo ying liang	1
+运输工人	yun shu gong ren	7
+进错区	jin cuo qu	1
+违命侯	wei ming hou	2
+迪瓦尔	di wa er	3
+速测仪	su ce yi	3
+造甲村	zao jia cun	1
+道晖芝	dao hui zhi	2
+道路设施	dao lu she shi	7
+部务会	bu wu hui	2
+配水管网	pei shui guan wang	1
+酒店设施	jiu dian she shi	17
+酸性粘多糖	suan xing zhan duo tang	1
+采儿姐	cai er jie	1
+采取任何	cai qu ren he	119
+采取有效	cai qu you xiao	61
+采取相应	cai qu xiang ying	185
+采油队	cai you dui	2
+采血管	cai xue guan	13
+采血车	cai xue che	3
+金属包装	jin shu bao zhuang	4
+金属家具	jin shu jia ju	8
+金属薄板	jin shu bao ban	2
+金葱粉	jin cong fen	1
+金雀山	jin que shan	1
+铜冶镇	tong ye zhen	8
+铜包钢	tong bao gang	1
+锥心泣血	zhui xin qi xue	1
+闽西北	min xi bei	2
+队伍素质	dui wu su zhi	9
+防患于未	fang huan yu wei	1
+防止网络	fang zhi wang luo	5
+防治策略	fang zhi ce lve	3
+阿久津	a jiu jin	2
+阿尔巴尼	a er ba ni	1
+阿根廷海军	a gen ting hai jun	1
+阿西尔	a xi er	1
+阿达纳	a da na	1
+阿逸多	a yi duo	9
+阿雷格里港	a lei ge li gang	1
+阿马拉	a ma la	1
+限聚令	xian ju ling	1
+除雾器	chu wu qi	1
+随侯珠	sui hou zhu	1
+雅思网	ya si wang	1
+雪小禅	xue xiao chan	1
+雪迪龙	xue di long	2
+露半球	lu ban qiu	1
+青奥村	qing ao cun	1
+青少年儿童	qing shao nian er tong	66
+青岛海洋大学	qing dao hai yang da xue	3
+青年文明	qing nian wen ming	5
+青阳镇	qing yang zhen	1
+靖国军	jing guo jun	2
+静脉采血	jing mai cai xue	18
+领京豆	ling jing dou	1
+颈动脉内膜剥脱术	jing dong mai nei mo bao tuo shu	1
+风情节	feng qing jie	2
+风间俊介	feng jian jun jie	3
+饲草料	si cao liao	1
+香港中文	xiang gang zhong wen	62
+香港商标	xiang gang shang biao	1
+香港市民	xiang gang shi min	54
+香港机场	xiang gang ji chang	42
+香港海关	xiang gang hai guan	5
+香港证券交易所	xiang gang zheng quan jiao yi suo	15
+香港黄金	xiang gang huang jin	4
+鬼女红叶	gui nv gong ye	1
+鳄鱼恤	e yu xu	1
+鸡爪槭	ji zhao qi	8
+黑兹尔	hei zi er	1
+黑太狼	hei tai lang	1
+黑白森林	hei bai sen lin	1
+龈下刮治	ken xia gua zhi	25
