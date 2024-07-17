@@ -24,79 +24,6 @@ columns:
 - weight
 ...
 # +_+
-一两五	yi liang wu	2
-一两条	yi liang tiao	108
-一便士	yi bian shi	6
-一千一百八十	yi qian yi bai ba shi	5
-一千六百五十	yi qian liu bai wu shi	1
-一双半	yi shuang ban	1
-一段距离	yi duan ju li	645
-一百九十八	yi bai jiu shi ba	5
-一百二十余	yi bai er shi yu	2
-一百二十六	yi bai er shi liu	3
-一票通	yi piao tong	2
-一过性脑缺血	yi guo xing nao que xue	4
-七八万元	qi ba wan yuan	1
-七孔流血	qi kong liu xie	8
-三一三	san yi san	1
-三交镇	san jiao zhen	1
-三十夜	san shi ye	1
-三十支	san shi zhi	4
-三文钱	san wen qian	10
-三星电子公司	san xing dian zi gong si	1
-三百余名	san bai yu ming	3
-三眼井	san yan jing	2
-上塘路	shang tang lu	1
-上塘镇	shang tang zhen	1
-上海光大会展中心	shang hai guang da hui zhan zhong xin	1
-上海市工商局	shang hai shi gong shang ju	2
-上海市政协	shang hai shi zheng xie	2
-上海市政府	shang hai shi zheng fu	145
-上消化道出血	shang xiao hua dao chu xue	24
-不压贷	bu ya dai	1
-不自哀	bu zi ai	1
-不薄今人爱古人	bu bao jin ren ai gu ren	1
-专用贴	zhuan yong tie	1
-专用车辆	zhuan yong che liang	9
-世情薄	shi qing bao	12
-世界卫生	shi jie wei sheng	6
-丘比丘	qiu bi qiu	5
-丘脑出血	qiu nao chu xue	23
-业务管理	ye wu guan li	108
-两三丈	liang san zhang	1
-两面佛	liang mian fu	10
-中书郎	zhong shu lang	4
-中共天津市委	zhong gong tian jin shi wei	1
-中华小姐	zhong hua xiao jie	4
-中华车	zhong hua che	1
-中和法	zhong he fa	1
-中和节	zhong he jie	1
-中国围棋协会	zhong guo wei qi xie hui	4
-中国国家文物局	zhong guo guo jia wen wu ju	1
-中国教育部	zhong guo jiao yu bu	75
-中国林科院	zhong guo lin ke yuan	2
-中国核学会	zhong guo he xue hui	1
-中国歌剧舞剧院	zhong guo ge ju wu ju yuan	10
-中国科技部	zhong guo ke ji bu	3
-中国红十字总会	zhong guo hong shi zi zong hui	1
-中国茶叶博物馆	zhong guo cha ye bo wu guan	1
-中国铁路文工团	zhong guo tie lu wen gong tuan	2
-中外观众	zhong wai guan zhong	1
-中央党史研究室	zhong yang dang shi yan jiu shi	1
-中央政策研究室	zhong yang zheng ce yan jiu shi	2
-中学生物	zhong xue sheng wu	39
-中扑网	zhong pu wang	2
-中招办	zhong zhao ban	1
-中文数字	zhong wen shu zi	17
-中村正雄	zhong cun zheng xiong	1
-中空板	zhong kong ban	2
-中青队	zhong qing dui	2
-临床学科	lin chuang xue ke	15
-临江镇	lin jiang zhen	1
-临津江	lin jin jiang	3
-义工联	yi gong lian	3
-乙炔发生器	yi gui fa sheng qi	1
-乙螨唑	yi man zuo	1
 九三学社中央	jiu san xue she zhong yang	2
 九女峰	jiu nv feng	1
 九连城	jiu lian cheng	1
@@ -124,7 +51,6 @@ columns:
 交通网络	jiao tong wang luo	62
 交通设备	jiao tong she bei	9
 产业部门	chan ye bu men	35
-产前出血	chan qian chu xue	3
 产品报价	chan pin bao jia	19
 产品简介	chan pin jian jie	64
 亨里克	heng li ke	22
@@ -135,17 +61,14 @@ columns:
 人口压力	ren kou ya li	52
 人口预测	ren kou yu ce	15
 人类学者	ren lei xue zhe	9
-仁和镇	ren he zhen	1
-代永翼	dai yong yi	2
 令人担心	ling ren dan xin	42
 以色列政府	yi se lie zheng fu	20
-以血偿血	yi xue chang xue	1
 企业博客	qi ye bo ke	8
 企业资质	qi ye zi zhi	108
 企业顾问	qi ye gu wen	11
 伤害事故	shang hai shi gu	9
 伸展操	shen zhan cao	5
-似与不似	shi yu bu shi	3
+似与不似	si yu bu si	3
 住房价格	zhu fang jia ge	10
 佛世界	fu shi jie	1
 佛慧山	fu hui shan	4
@@ -162,7 +85,6 @@ columns:
 俄罗斯电视台	e luo si dian shi tai	3
 俄罗斯联邦政府	e luo si lian bang zheng fu	2
 俄黑海舰队	e hei hai jian dui	33
-保圣寺	bao sheng si	2
 保存文档	bao cun wen dang	21
 保持良好	bao chi liang hao	1034
 保持高速	bao chi gao su	26
@@ -171,7 +93,6 @@ columns:
 保赐利	bao ci li	2
 修宗迪	xiu zong di	3
 修炼法	xiu lian fa	7
-倍捻机	bei nian ji	1
 假日办	jia ri ban	5
 停保场	ting bao chang	1
 偷拍照	tou pai zhao	2
@@ -192,7 +113,6 @@ columns:
 具体型号	ju ti xing hao	194
 内书堂	nei shu tang	2
 内存价格	nei cun jia ge	8
-内脏出血	nei zang chu xue	26
 写真机	xie zhen ji	1
 军事动态	jun shi dong tai	4
 军需处	jun xu chu	1
@@ -204,7 +124,6 @@ columns:
 出云国	chu yun guo	1
 出云级	chu yun ji	3
 出尘子	chu chen zi	48
-出血倾向	chu xue qing xiang	46
 分别独立	fen bie du li	62
 分宝岩	fen bao yan	1
 分接箱	fen jie xiang	1
@@ -214,9 +133,6 @@ columns:
 分趾鞋	fen zhi xie	1
 分配资源	fen pei zi yuan	114
 初发时	chu fa shi	2
-前房出血	qian fang chu xue	1
-剥脱性皮炎	bao tuo xing pi yan	7
-剥脱性角质松解症	bao tuo xing jiao zhi song jie zheng	1
 剪叉式	jian cha shi	1
 办公建筑	ban gong jian zhu	9
 办公流程	ban gong liu cheng	11
@@ -225,7 +141,6 @@ columns:
 动力设备	dong li she bei	13
 动物保健	dong wu bao jian	1
 动画教程	dong hua jiao cheng	7
-动脉出血	dong mai chu xue	14
 努尔丁	nu er ding	6
 劫掠者	jie lve zhe	32
 势孤力薄	shi gu li bao	1
@@ -266,10 +181,6 @@ columns:
 千平方米	qian ping fang mi	1
 半晌道	ban shang dao	1
 南京国际展览中心	nan jing guo ji zhan lan zhong xin	2
-南内环	nan nei huan	1
-南延段	nan yan duan	1
-南明河	nan ming he	1
-南漪湖	nan yi hu	1
 南高齿	nan gao chi	2
 博迈科	bo mai ke	2
 卡伯特	ka bo te	3
@@ -287,8 +198,6 @@ columns:
 厨下式	chu xia shi	2
 发出信号	fa chu xin hao	150
 发出请求	fa chu qing qiu	33
-叔孙豹	shu sun bao	1
-口腔出血	kou qiang chu xue	7
 可开发量	ke kai fa liang	3
 可爱淘	ke ai tao	2
 台湾歌手	tai wan ge shou	73
@@ -303,16 +212,14 @@ columns:
 吹塑机	chui su ji	1
 咕哒子	gu da zi	11
 咱家人	za jia ren	1
-哀川翔	ai chuan xiang	1
 哲家军	zhe jia jun	2
 啫啫煲	zhe zhe bao	12
 善成堂	shan cheng tang	2
 喷淋塔	pen lin ta	2
 嘉和城	jia he cheng	2
 嘉拉迪雅	jia la di ya	1
-噻虫胺	sai chong an	1
-嚼过的口香糖	jue guo de kou xiang tang	6
-嚼饭喂人	jue fan wei ren	1
+嚼过的口香糖	jiao guo de kou xiang tang	6
+嚼饭喂人	jiao fan wei ren	1
 四十多斤	si shi duo jin	4
 四川电视台	si chuan dian shi tai	5
 四海帮	si hai bang	3
@@ -370,7 +277,6 @@ columns:
 大树林	da shu lin	3
 大眼瞪	da yan deng	1
 大红纸	da hong zhi	1
-大脑缺血	da nao que xue	20
 大良镇	da liang zhen	1
 大谷育江	da gu yu jiang	3
 大连旅游	da lian lv you	1
@@ -379,7 +285,6 @@ columns:
 大魂师	da hun shi	1
 大黄页	dai huang ye	1
 天下父母	tian xia fu mu	22
-天下谁人不识君	tian xia shui ren bu shi jun	27
 天喜星	tian xi xing	1
 天山网	tian shan wang	1
 天津市政府	tian jin shi zheng fu	5
@@ -423,7 +328,6 @@ columns:
 客户名单	ke hu ming dan	78
 客户档案	ke hu dang an	17
 密训营	mi xun ying	5
-寒而栗	han er li	1
 尊雅版	zun ya ban	3
 小勐拉	xiao meng la	1
 小区业主	xiao qu ye zhu	106
@@ -435,7 +339,6 @@ columns:
 尖竹汶	jian zhu wen	1
 尸阴宗	shi yin zong	1
 尼比鲁	ni bi lu	14
-尿血病	niao xue bing	1
 岛内外	dao nei wai	3
 崇政殿	chong zheng dian	3
 崇武镇	chong wu zhen	1
@@ -566,16 +469,13 @@ columns:
 旅游业界	lv you ye jie	2
 旅游文化节	lv you wen hua jie	2
 无志者	wu zhi zhe	1
-无言谁会凭阑意	wu yan shui hui ping lan yi	2
 无限连击	wu xian lian ji	2
 日里诺夫斯基	ri li nuo fu si ji	2
-旷继勋	kuang ji xun	1
 昆仑镜	kun lun jing	7
 昆明机场	kun ming ji chang	12
 星座网	xing zuo wang	1
 星耀樟宜	xing yao zhang yi	2
 映维网	ying wei wang	1
-春情只到梨花薄	chun qing zhi dao li hua bao	1
 普列托	pu lie tuo	1
 普埃布拉	pu ai bu la	2
 普天间机场	pu tian jian ji chang	7
@@ -617,7 +517,6 @@ columns:
 检针机	jian zhen ji	1
 植物图片	zhi wu tu pian	2
 椎拳崇	chui quan chong	6
-横扫六合	heng sao liu he	22
 橄榄坝	gan lan ba	3
 歌伴舞	ge ban wu	1
 死链接	si lian jie	3
@@ -634,7 +533,6 @@ columns:
 永丰镇	yong feng zhen	3
 永和镇	yong he zhen	1
 汉军镶	han jun xiang	1
-汉文有道恩犹薄	han wen you dao en you bao	1
 汜水镇	si shui zhen	1
 汽油税	qi you shui	2
 沟壑区	gou he qu	1
@@ -702,7 +600,6 @@ columns:
 物理试题	wu li shi ti	4
 物资贸易	wu zi mao yi	2
 特别之处	te bie zhi chu	439
-狐裘不暖锦衾薄	hu qiu bu nuan jin qin bao	3
 独立电源	du li dian yuan	11
 独立设置	du li she zhi	43
 猎鬼人	lie gui ren	1
@@ -765,14 +662,11 @@ columns:
 百十位	bai shi wei	1
 百魔洞	bai mo dong	1
 监护人员	jian hu ren yuan	1
-直肠出血	zhi chang chu xue	8
 直销价	zhi xiao jia	1
 真理教	zhen li jiao	1
 眼保仪	yan bao yi	2
-眼底出血	yan di chu xue	51
 眼红红	yan hong hong	4
 短子线	duan zi xian	3
-短暂性脑缺血	duan zan xing nao que xue	13
 码头镇	ma tou zhen	1
 破胎器	po tai qi	2
 硬骨头六连	ying gu tou liu lian	4
@@ -839,17 +733,12 @@ columns:
 考勤卡	kao qin ka	1
 考爱岛	kao ai dao	1
 考驾证	kao jia zheng	2
-耙耙柑	ba ba gan	34
 职业服装	zhi ye fu zhuang	3
 职业经理	zhi ye jing li	31
 联大会议	lian da hui yi	1
 联通新	lian tong xin	2
-肋间神经	le jian shen jing	16
-肌少症	ji shao zheng	3
-肝出血	gan chu xue	3
 股份合作	gu fen he zuo	4
 股票名称	gu piao ming cheng	23
-股薄肌	gu bao ji	19
 肯尼亚人	ken ni ya ren	14
 肾二经	shen er jing	1
 肿木办	zhong mu ban	1
@@ -858,34 +747,23 @@ columns:
 背俞穴	bei yu xue	2
 胶济线	jiao ji xian	2
 胶粘制品	jiao zhan zhi pin	3
-脊髓型颈椎病	ji sui xing jing chui bing	5
-脑室出血	nao shi chu xue	3
-脑干出血	nao gan chu xue	12
-脑贫血	nao pin xue	1
-腹腔内出血	fu qiang nei chu xue	5
 膨胀节	peng zhang jie	1
-自慰队	zi wei dui	3
 自洁性	zi jie xing	1
 至臻点	zhi zhen dian	1
 致雅型	zhi ya xing	1
 舌苔薄白	she tai bao bai	14
 色彩顾问	se cai gu wen	3
-色情动画	se qing dong hua	3
 艳无双	yan wu shuang	1
-艺术人体	yi shu ren ti	4
 芙萝娅	fu luo ya	2
 芬特明	fen te ming	3
 芯片型号	xin pian xing hao	12
 芯片尺寸	xin pian chi cun	13
-苔薄白	tai bao bai	18
 苦聪人	ku cong ren	3
-苯二酚	ben er fen	2
 英敏特	ying min te	1
 英特尔公司	ying te er gong si	40
 英语等级	ying yu deng ji	24
 茂木敏充	mao mu min chong	2
 草原法	cao yuan fa	1
-荧光颜料	ying guang yan liao	1
 荷兰政府	he lan zheng fu	40
 莎宾娜	sha bin na	2
 莱芜战役	lai wu zhan yi	2
@@ -900,7 +778,6 @@ columns:
 萩野公介	qiu ye gong jie	1
 著名景点	zhu ming jing dian	136
 蒂罗尔州	di luo er zhou	1
-蒸馏塔	zheng liu ta	2
 蔬菜种子	shu cai zhong zi	23
 虎谋皮	hu mou pi	1
 虹桥镇	hong qiao zhen	4
@@ -932,13 +809,10 @@ columns:
 诊断检测	zhen duan jian ce	1
 诗歌评论	shi ge ping lun	4
 诚信教育	cheng xin jiao yu	4
-该产线	gai chan xian	1
 语音转文字	yu yin zhuai wen zi	95
-诱惑写真	you huo xie zhen	1
 诺基亚公司	nuo ji ya gong si	14
 读弟机	du di ji	1
 课程名称	ke cheng ming cheng	78
-谁人背后无人说	shui ren bei hou wu ren shuo	4
 财经部	cai jing bu	1
 购豪宅	gou hao zhai	2
 资源转移	zi yuan zhuan yi	9
@@ -948,7 +822,6 @@ columns:
 起湾道	qi wan dao	1
 超豪版	chao hao ban	1
 足彩网	zu cai wang	1
-躬自厚而薄责于人	gong zi hou er bao ze yu ren	3
 转换规则	zhuan huan gui ze	9
 轻松松	qing song song	2
 轻薄透明	qing bo tou ming	3
@@ -974,7 +847,6 @@ columns:
 部务会	bu wu hui	2
 配水管网	pei shui guan wang	1
 酒店设施	jiu dian she shi	17
-酸性粘多糖	suan xing zhan duo tang	1
 采儿姐	cai er jie	1
 采取任何	cai qu ren he	119
 采取有效	cai qu you xiao	61
@@ -989,10 +861,8 @@ columns:
 金雀山	jin que shan	1
 铜冶镇	tong ye zhen	8
 铜包钢	tong bao gang	1
-锥心泣血	zhui xin qi xue	1
 闽西北	min xi bei	2
 队伍素质	dui wu su zhi	9
-防患于未	fang huan yu wei	1
 防止网络	fang zhi wang luo	5
 防治策略	fang zhi ce lve	3
 阿久津	a jiu jin	2
@@ -1016,9 +886,7 @@ columns:
 青年文明	qing nian wen ming	5
 青阳镇	qing yang zhen	1
 靖国军	jing guo jun	2
-静脉采血	jing mai cai xue	18
 领京豆	ling jing dou	1
-颈动脉内膜剥脱术	jing dong mai nei mo bao tuo shu	1
 风情节	feng qing jie	2
 风间俊介	feng jian jun jie	3
 饲草料	si cao liao	1
@@ -1031,8 +899,6 @@ columns:
 香港黄金	xiang gang huang jin	4
 鬼女红叶	gui nv gong ye	1
 鳄鱼恤	e yu xu	1
-鸡爪槭	ji zhao qi	8
 黑兹尔	hei zi er	1
 黑太狼	hei tai lang	1
 黑白森林	hei bai sen lin	1
-龈下刮治	ken xia gua zhi	25
