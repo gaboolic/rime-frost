@@ -13,7 +13,7 @@ need_to_reduce_freq_word_map = {}
 with open(os.path.join('others', '降频词.txt'), 'r', encoding='utf-8') as dict_file:
     for line in dict_file:
         line = line.strip()
-        if not '\t' in line or line.startswith("#"):
+        if line.startswith("#"):
             continue
         need_to_reduce_freq_word_map[line] = ''
 
@@ -68,9 +68,14 @@ for file_name in cn_dicts_common_list:
             encoding = params[1]
             freq = 0
             if character in word_freq_map:
+                if character == '薰':
+                    print(int(word_freq_map[character]))
                 freq = int(word_freq_map[character])
                 if character in need_to_reduce_freq_word_map or character +'\t' + encoding in need_to_reduce_freq_word_map:
                     freq = freq//10
+                if character == '薰':
+                    print(freq)
+                    print(character in need_to_reduce_freq_word_map)
 
             if character+encoding in char_yin_freq_map:
                 if character == '她':
