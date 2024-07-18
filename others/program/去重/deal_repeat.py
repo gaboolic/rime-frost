@@ -1,6 +1,6 @@
 import os
 import string
-from collections import OrderedDict 
+from collections import OrderedDict
 
 
 base_word_map = {}
