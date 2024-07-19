@@ -9,7 +9,7 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-是的	shi de 0
+是的	shi de	0
 朙月	ming yue	2
 𤭢了	cei le	0
 久仰了	jiu yang le	0
@@ -26,7 +26,10 @@ use_preset_vocabulary: false
 想个辙	xiang ge zhe	4
 尔雅义疏	er ya yi shu	0
 八上	ba shang	1
-管杀不管埋    guan sha bu guan mai    0
+但手熟尔	dan shou shu er	10
+惟手熟尔	wei shou shu er	10
+无他但手熟尔	wu ta dan shou shu er	10
+管杀不管埋    guan sha bu guan mai    0	guan sha bu guan mai     guan sha bu guan mai    0	0
 八月湖水平涵虚混太清	ba yue hu shui ping han xu hun tai qing	0
 百川东到海何时复西归	bai chuan dong dao hai he shi fu xi gui	1
 白头搔更短浑欲不胜簪	bai tou sao geng duan hun yu bu sheng zan	0
