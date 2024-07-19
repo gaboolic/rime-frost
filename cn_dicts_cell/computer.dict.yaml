@@ -1,0 +1,11 @@
+# Rime dictionary
+# encoding: utf-8
+# 计算机 互联网相关
+#
+---
+name: computer
+version: "2024-07-19"
+sort: by_weight
+...
+入参	ru can	0
+出参	chu can	0
