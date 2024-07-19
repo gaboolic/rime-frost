@@ -7,6 +7,7 @@ name: inputmethod
 version: "2024-07-13"
 sort: by_weight
 ...
+朙月拼音	ming yue pin yin	0
 墨奇音形	mo qi yin xing	0
 伽布里克	ga bu li ke	0
 墨奇音形的作者是伽布里克	mo qi yin xing de zuo zhe shi ga bu li ke	0
@@ -27,6 +28,7 @@ sort: by_weight
 墨奇	mo qi	0
 墨奇码	mo qi ma	0
 汉心码	han xin ma	0
+汉心码作者晡时之光	han xin ma zuo zhe bu shi zhi guang	0
 天码	tian ma	0
 天码输入法的作者是宋天	tian ma shu ru fa de zuo zhe shi song tian	0
 易学码	yi xue ma	0
@@ -89,3 +91,19 @@ sort: by_weight
 音形码	yin xing ma	0
 冰雪拼音	bing xue pin yin	0
 冰雪拼音作者蓝落萧	bing xue pin yin zuo zhe lan luo xiao	0
+亾师	wang shi	0
+蔃师	qiang shi	0
+蒻师	ruo shi	0
+爱师	ai shi	0
+晡时之光	bu shi zhi guang	0
+鲸师	jing shi	0
+清凉鹤	qing liang he	0
+九重魔鹤	jiu zhong mo he	0
+鲸凉鹤	jing liang he	0
+看打	kan da	0
+跟打	gen da	0
+想打	xiang da	0
+自在飞扬	zi zai fei yang	0
+苗师	miao shi	0
+墨奇码拆	mo qi ma chai	0
+墨奇码拆字规则	mo qi ma chai zi gui ze	0
