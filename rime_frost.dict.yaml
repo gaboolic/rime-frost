@@ -9,7 +9,7 @@ import_tables:
   # - cn_dicts/41448  # 大字表（按需启用）
   - cn_dicts/base     # 基础词库
   - cn_dicts/ext      # 扩展词库
-  # - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
+  - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
   - cn_dicts/others   # 一些杂项
 
   # 细胞词库
@@ -20,14 +20,18 @@ import_tables:
   - cn_dicts_cell/chess2
   - cn_dicts_cell/game
   - cn_dicts_cell/idiom
+  - cn_dicts_cell/media
   - cn_dicts_cell/shulihua
   - cn_dicts_cell/food
   - cn_dicts_cell/inputmethod
   - cn_dicts_cell/history
+  - cn_dicts_cell/place
   - cn_dicts_cell/geography
   - cn_dicts_cell/name2
   - cn_dicts_cell/literature
   - cn_dicts_cell/music
+  - cn_dicts_cell/computer
+  - cn_dicts_cell/composite
   - cn_dicts_cell/name
 ...
 
