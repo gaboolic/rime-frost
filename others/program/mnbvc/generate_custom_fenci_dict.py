@@ -19,6 +19,8 @@ for file in file_list:
                 freq = params[2]
             else:
                 freq = params[1]
+            if freq == '0':
+                freq = '1'
             if word in word_map:
                 continue
             word_map[word] = freq
@@ -42,6 +44,8 @@ for file in file_list:
                 freq = '1'
             if word in word_map:
                 continue
+            if freq == '0':
+                freq = '1'
             word_map[word] = freq
 
 write_file_name = os.path.join('cn_dicts_dazhu', "custom_fenci_dict.txt")
