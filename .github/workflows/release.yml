@@ -3,7 +3,7 @@ name: Pack and Release
 on:
   push:
     branches:
-      - main
+      - master
     tags:
       - '[0-9]+.*'
     paths:
@@ -38,7 +38,7 @@ jobs:
           zip -r dist/opencc.zip opencc
 
       - name: Create nightly release
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ github.ref == 'refs/heads/master' }}
         uses: 'softprops/action-gh-release@v2'
         with:
           body: |
