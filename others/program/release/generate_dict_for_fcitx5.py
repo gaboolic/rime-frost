@@ -3,7 +3,7 @@ import string
 
 
 word_map = {}
-file_list = ['8105.dict.yaml','41448.dict.yaml','base.dict.yaml','ext.dict.yaml']
+file_list = ['base.dict.yaml','ext.dict.yaml']
 for file in file_list:
     file_name = os.path.join('cn_dicts', file)
     with open(file_name, 'r') as file:
@@ -54,7 +54,7 @@ for file in file_list:
 
             word_map[key] = freq
 
-write_file_name = os.path.join('', "dict_for_fcitx5.txt")
+write_file_name = os.path.join('', "frost_dict_for_fcitx5.txt")
 write_file = open(write_file_name, 'w')
 for word in word_map:
     write_file.write(word+" "+word_map[word]+"\n")
