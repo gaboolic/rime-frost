@@ -22,13 +22,6 @@ jobs:
       run: |
         python others/program/release/generate_dict_for_fcitx5.py  # 运行你的 Python 脚本
         
-    - name: Get upload URL
-      id: upload-url
-      uses: actions/github-script@v6
-      with:
-        script: |
-          return context.payload.release.upload_url.replace('{?name,label}', '');
-
     - name: Check if file exists
       run: |
         if [ -f "./dict_for_fcitx5.txt" ]; then
@@ -36,7 +29,6 @@ jobs:
         else
           echo "File does not exist."
         fi
-
 
     - name: Upload Release Asset
       uses: actions/upload-release-asset@v1
@@ -46,4 +38,4 @@ jobs:
         asset_path: dict_for_fcitx5.txt
         asset_name: dict_for_fcitx5.txt
         asset_content_type: text/plain
-        upload_url: ${{ steps.upload-url.outputs.result }}
+        upload_url: ${{ github.event.release.upload_url }}
