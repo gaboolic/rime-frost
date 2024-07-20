@@ -36,3 +36,4 @@ jobs:
         asset_name: dict_for_fcitx5.txt
         asset_content_type: text/plain
         upload_url: ${{ steps.upload-url.outputs.result }}
+        token: ${{ secrets.TOKEN }}  # 使用自动提供的 GitHub Token
