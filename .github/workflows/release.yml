@@ -27,4 +27,4 @@ jobs:
         asset_path: ./dict_for_fcitx5.txt
         asset_name: dict_for_fcitx5.txt
         asset_content_type: text/plain
-        release_id: ${{ github.event.release.id }}
+        upload_url: ${{ steps.upload-url.outputs.result }}
