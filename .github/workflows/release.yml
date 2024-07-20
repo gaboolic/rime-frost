@@ -31,9 +31,10 @@ jobs:
 
     - name: Upload Release Asset
       uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
       with:
         asset_path: ./dict_for_fcitx5.txt
         asset_name: dict_for_fcitx5.txt
         asset_content_type: text/plain
         upload_url: ${{ steps.upload-url.outputs.result }}
-        token: ${{ secrets.TOKEN }}  # 使用自动提供的 GitHub Token
