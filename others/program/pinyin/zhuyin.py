@@ -6,14 +6,14 @@ from pypinyin import pinyin, lazy_pinyin, Style
 
 jianpin_word_map = {}
 
+# file_names = ['literature.dict.yaml','computer.dict.yaml']
 # 使用 os 模块中的 listdir 函数列出指定文件夹中的所有文件和子目录
-file_names = ['chess.dict.yaml','music.dict.yaml','name.dict.yaml','inputmethod.dict.yaml']
-file_names = ['tencent.dict.yaml']
+file_names = os.listdir("cn_dicts_cell")
 
 # 打印出所有找到的文件名
 for file_name in file_names:
     print(file_name)
-    read_file_name = os.path.join('cn_dicts', file_name)
+    read_file_name = os.path.join('cn_dicts_cell', file_name)
 
     
     word_map = OrderedDict()
@@ -45,15 +45,16 @@ for file_name in file_names:
                 word_map[line]=''
                 continue
             word = params[0]
-            freq = params[1]
-            
+            #freq = params[1]
+            print(word)
             pinyin_list = lazy_pinyin(word)
             pinyin = ' '.join(pinyin_list)
             #print(pinyin)
-            new_line = word +"\t" + pinyin + "\t" + freq
+            new_line = word +"\t" + pinyin + "\t0"
+            print(new_line)
             word_map[new_line]=''
     
-    write_file_name = os.path.join('cn_dicts_temp', file_name)
+    write_file_name = os.path.join('cn_dicts_cell', file_name)
     write_file = open(write_file_name, 'w')
 
     for word in word_map:

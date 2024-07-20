@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+# 计算机 互联网相关
+#
+---
+name: computer
+version: "2024-07-19"
+sort: by_weight
+...
+入参	ru can	50
+出参	chu can	8
+强依赖	qiang yi lai	0
+弱依赖	ruo yi lai	0

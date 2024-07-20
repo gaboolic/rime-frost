@@ -20,14 +20,18 @@ import_tables:
   - cn_dicts_cell/chess2
   - cn_dicts_cell/game
   - cn_dicts_cell/idiom
+  - cn_dicts_cell/media
   - cn_dicts_cell/shulihua
   - cn_dicts_cell/food
   - cn_dicts_cell/inputmethod
   - cn_dicts_cell/history
+  - cn_dicts_cell/place
   - cn_dicts_cell/geography
   - cn_dicts_cell/name2
   - cn_dicts_cell/literature
   - cn_dicts_cell/music
+  - cn_dicts_cell/computer
+  - cn_dicts_cell/composite
   - cn_dicts_cell/name
 ...
 

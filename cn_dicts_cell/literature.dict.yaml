@@ -9,11 +9,14 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
+是的	shi de	0
 朙月	ming yue	2
 𤭢了	cei le	0
 久仰了	jiu yang le	0
 蠽蟟	jie liao	0
 擸𢶍	la sa	0
+擸𢶍	le se	0
+破衣擸𢶍	po yi lie za	0
 蛣蟟	ji liao	0
 鸂鶒	xi chi	5
 鞦韆	qiu qian	2
@@ -25,7 +28,10 @@ use_preset_vocabulary: false
 想个辙	xiang ge zhe	4
 尔雅义疏	er ya yi shu	0
 八上	ba shang	1
-管杀不管埋    guan sha bu guan mai    0
+但手熟尔	dan shou shu er	0
+惟手熟尔	wei shou shu er	0
+无他但手熟尔	wu ta dan shou shu er	0
+管杀不管埋	guan sha bu guan mai	33
 八月湖水平涵虚混太清	ba yue hu shui ping han xu hun tai qing	0
 百川东到海何时复西归	bai chuan dong dao hai he shi fu xi gui	1
 白头搔更短浑欲不胜簪	bai tou sao geng duan hun yu bu sheng zan	0
@@ -35445,3 +35451,6 @@ use_preset_vocabulary: false
 至若龙马银鞍	zhi ruo long ma yin an	0
 朱轩绣轴	zhu xuan xiu zhou	0
 珠与玉兮艳暮秋	zhu yu yu xi yan mu qiu	0
+一一风荷举	yi yi feng he ju	0
+一丈青扈三娘	yi zhang qing hu san niang	0
+一份耕耘一份收获	yi fen geng yun yi fen shou huo	0
