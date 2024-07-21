@@ -22,14 +22,10 @@ jobs:
       run: |
         python others/program/release/generate_dict_for_fcitx5.py  # 运行你的 Python 脚本
         
-    - name: Check if file exists
+    - name: Generate rime zip
       run: |
-        if [ -f "./frost_dict_for_fcitx5.txt" ]; then
-          echo "File exists."
-        else
-          echo "File does not exist."
-        fi
-
+        python others/program/release/generate_rime_all_schema_zip.py  # 运行你的 Python 脚本
+        
     - name: Upload Release Asset
       uses: actions/upload-release-asset@v1
       env:
@@ -38,4 +34,14 @@ jobs:
         asset_path: frost_dict_for_fcitx5.txt
         asset_name: frost_dict_for_fcitx5.txt
         asset_content_type: text/plain
+        upload_url: ${{ github.event.release.upload_url }}
+
+    - name: Upload rime-schemas
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      with:
+        asset_path: rime-schemas.zip
+        asset_name: rime-schemas.zip
+        asset_content_type: application/zip
         upload_url: ${{ github.event.release.upload_url }}

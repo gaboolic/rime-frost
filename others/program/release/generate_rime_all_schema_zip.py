@@ -41,4 +41,4 @@ for file_name in file_names:
 print(folders)
 print(files)
 
-zip_folders_and_files('rime-方案压缩包.zip', folders, files)
+zip_folders_and_files('rime-schemas.zip', folders, files)
