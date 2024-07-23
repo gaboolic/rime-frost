@@ -2,7 +2,6 @@
 # encoding: utf-8
 #
 # 运动相关 各种球类运动术语、明星
-#
 
 ---
 name: sport
@@ -10,7 +9,6 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-    
 阿昌塔	a chang ta
 阿隆斯	a long si
 阿佩依伦	a pei yi lun
@@ -1634,7 +1632,6 @@ use_preset_vocabulary: true
 托马斯埃尼沃尔德森	tuo ma si ai ni wo er de sen
 托特纳姆热刺	tuo te na mu re ci
 托瓦拉	tuo wa la
-托西奇	tuo xi qi
 瓦尔布埃纳	wa er bu ai na
 瓦尔特比尔萨	wa er te bi er sa
 瓦尔特斯	wa er te si
@@ -1811,37 +1808,26 @@ use_preset_vocabulary: true
 阿尔贝尔达	a er bei er da
 阿尔比	a er bi
 阿尔比斯通	a er bi si tong
-阿尔维斯	a er wei si
 阿方索	a fang suo
-阿格	a ge
 阿莱士	a lai shi
 阿兰	a lan
 阿兰史密斯	a lan shi mi si
-阿内尔卡	a nei er ka
-阿皮亚	a pi ya
-阿萨莫阿	a sa mo a
 阿什利	a shi li
-阿什利科尔	a shi li ke er
 阿亚拉	a ya la
 艾	ai
 埃布埃	ai bu ai
 埃尔文	ai er wen
-埃夫拉	ai fu la
 艾拉诺	ai la nuo
 艾马尔	ai ma er
 艾莫顿	ai mo dun
 埃莫森	ai mo sen
-埃托奥	ai tuo ao
 埃辛	ai xin
 安德森	an de sen
 奥	ao
 奥布朗	ao bu lang
 奥多	ao duo
 奥谢	ao xie
-奥耶	ao ye
-巴贝尔	ba bei er
 巴尔扎利	ba er zha li
-巴拉克	ba la ke
 巴罗什	ba luo shi
 巴斯滕	ba si teng
 巴特	ba te
@@ -1853,62 +1839,43 @@ use_preset_vocabulary: true
 贝拉米	bei la mi
 贝莱隆	bei lai long
 贝利	bei li
-贝隆	bei long
 贝纳特	bei na te
 贝纳永	bei na yong
 贝斯特	bei si te
 本	ben
 本林克	ben lin ke
 本泽马	ben ze ma
-比利亚	bi li ya
-比斯利	bi si li
 博	bo
 博班	bo ban
 博比查尔顿	bo bi cha er dun
-博拉鲁兹	bo la lu zi
-布冯	bu feng
 布坎	bu kan
-布拉沃	bu la wo
 布里奇	bu li qi
 布鲁斯	bu lu si
-车杜里	che du li
 陈涛	chen tao
-川口能活	chuan kou neng huo
 崔	cui
 崔成国	cui cheng guo
 崔鹏	cui peng
 达力桑德罗	da li sang de luo
 代尔	dai er
 戴维	dai wei
-戴维斯	dai wei si
 戴维席尔瓦	dai wei xi er wa
 丹尼斯	dan ni si
 丹尼斯劳	dan ni si lao
-道森	dao sen
 德尔	de er
 德尔多尼	de er duo ni
 德尔皮埃尔	de er pi ai er
 德尔皮耶罗	de er pi ye luo
 德尔西亚	de er xi ya
-德科	de ke
-德罗巴	de luo ba
-德罗西	de luo xi
 邓	deng
-邓加	deng jia
 邓肯爱德华兹	deng ken ai de hua zi
-迪福	di fu
 迪乌夫	di wu fu
 蒂亚戈	di ya ge
-迪亚拉	di ya la
 迭戈	die ge
 迭戈米利托	die ge mi li tuo
 董方卓	dong fang zhuo
 杜尔	du er
 杜伊科维奇	du yi ke wei qi
-多尼	duo ni
-多诺万	duo nuo wan
 范德萨	fan de sa
-范佩西	fan pei xi
 范志毅	fan zhi yi
 菲尔内维尔	fei er nei wei er
 菲戈	fei ge
@@ -1923,59 +1890,35 @@ use_preset_vocabulary: true
 福斯特	fu si te
 郜林	gao lin
 格罗索	ge luo suo
-戈麦斯	ge mai si
 古蒂	gu di
-古尔库夫	gu er ku fu
 哈什米安	ha shi mi an
-哈维	ha wei
-哈维阿隆索	ha wei a long suo
-海因策	hai yin ce
 韩鹏	han peng
 郝海东	hao hai dong
 赫德	he de
-亨利	heng li
 亨特	heng te
 亨特多	heng te duo
-亨特拉尔	heng te la er
-胡安	hu an
 胡特	hu te
 华金	hua jin
 怀特斯特	huai te si te
-霍华德	huo hua de
 基德	ji de
 基恩	ji en
 吉尔伯特	ji er bo te
-吉尔伯托	ji er bo tuo
-吉尔伯托席尔瓦	ji er bo tuo xi er wa
 吉格斯	ji ge si
 吉姆	ji mu
 吉姆邦达	ji mu bang da
 吉姆斯	ji mu si
 加查林	jia cha lin
 加戈	jia ge
-加拉	jia la
 加拉斯	jia la si
 加里内维尔	jia li nei wei er
-加图索	jia tu suo
 加西亚	jia xi ya
-杰拉德	jie la de
 卡恩	ka en
 卡福	ka fu
-卡卡	ka ka
-卡拉格	ka la ge
-卡里克	ka li ke
 卡里米	ka li mi
 卡鲁	ka lu
-卡莫拉内西	ka mo la nei xi
-卡纳瓦罗	ka na wa luo
-卡佩罗	ka pei luo
 卡斯蒂	ka si di
 卡斯蒂略	ka si di lue
-卡斯特罗	ka si te luo
-卡瓦略	ka wa lue
 卡维纳吉	ka wei na ji
-卡希尔	ka xi er
-卡西利亚斯	ka xi li ya si
 凯日曼	kai ri man
 凯瑞	kai rui
 坎	kan
@@ -1989,55 +1932,39 @@ use_preset_vocabulary: true
 科尔	ke er
 科库	ke ku
 克拉什尼奇	ke la shi ni qi
-克劳奇	ke lao qi
 克雷兰德	ke lei lan de
 科洛奇尼	ke luo qi ni
-克洛泽	ke luo ze
 科内	ke nei
-科佩尔	ke pei er
 库	ku
 库迪奇尼	ku di qi ni
 库兰伊	ku lan yi
 库佩	ku pei
 库什恰克	ku shen qia ke
-库伊特	ku yi te
 夸雷斯马	kua lei si ma
 拉尔森	la er sen
-拉莫斯	la mo si
-拉姆	la mu
 莱德	lai de
 莱德埃尔	lai de ai er
-莱德利金	lai de li jin
 莱曼	lai man
 赖特	lai te
 赖特迪奇	lai te di qi
-兰帕德	lan pa de
 劳尔	lao er
 雷科巴	lei ke ba
-雷纳	lei na
 雷耶斯	lei ye si
 雷扎伊	lei zha yi
 里奥费迪南德	li ao fei di nan de
-里贝里	li bei li
 理查德森	li cha de sen
-李东国	li dong guo
 里杰卡尔德	li jie ka er de
 李金羽	li jin yu
 里卡多	li ka duo
 李雷雷	li lei lei
-里皮	li pi
 李荣杓	li rong biao
 李天秀	li tian xiu
 李铁	li tie
 李玮峰	li wei feng
-李云在	li yun zai
 鲁本	lu ben
-鲁尼	lu ni
-卢西奥	lu xi ao
 路易斯	lu yi si
 路易斯加西亚	lu yi si jia xi ya
 伦农	lun nong
-罗本	luo ben
 罗比	luo bi
 罗比基恩	luo bi ji en
 罗宾逊	luo bin xun
@@ -2049,7 +1976,6 @@ use_preset_vocabulary: true
 罗伊基恩	luo yi ji en
 马克思	ma ke si
 马克休斯	ma ke xiu si
-马卢达	ma lu da
 马明宇	ma ming yu
 马尼切	ma ni qie
 马赛库奥	ma sai ku ao
@@ -2059,50 +1985,35 @@ use_preset_vocabulary: true
 麦克	mai ke
 麦克汉姆	mai ke han mu
 麦克罗伊	mai ke luo yi
-麦孔	mai kong
-曼联	man lian
 梅拉	mei la
-梅西	mei xi
 米拉	mi la
 米内罗	mi nei luo
 纳	na
-纳尼	na ni
 内德维德	nei de wei de
 内斯塔	nei si ta
 帕尔多	pa er duo
-帕勒莫	pa le mo
 帕里斯特	pa li si te
 佩蒂特	pei di te
 佩罗塔	pei luo ta
-佩佩	pei pei
 佩特	pei te
 佩特戈	pei te ge
-皮尔洛	pi er luo
 皮奎	pi kui
 皮雷	pi lei
 皮雷斯	pi lei si
-朴智星	piao zhi xing
-朴周永	piao zhou yong
 普尔绍	pu er shao
-普约尔	pu yue er
 齐达内	qi da nei
 祁宏	qi hong
-乔科尔	qiao ke er
 切赫	qie he
 儒尼尼奥	ru ni ni ao
 若苏艾	ruo su ai
 萨哈	sa ha
 萨内蒂	sa nei di
-塞萨尔	sai sa er
-桑切斯	sang qie si
 邵佳一	shao jia yi
 申思	shen si
 施耐德	shi nai de
 施瓦泽	shi wa ze
 斯宾塞	si bin sai
-斯内德	si nei de
 斯塔姆	si ta mu
-斯坦科维奇	si tan ke wei qi
 斯特普尼	si te pu ni
 苏克	su ke
 孙吉	sun ji
@@ -2112,42 +2023,34 @@ use_preset_vocabulary: true
 汤米泰勒	tang mi tai le
 唐宁	tang ning
 特雷泽盖	te lei ze gai
-特里	te li
 特维兹	te wei zi
 图拉姆	tu la mu
 图雷	tu lei
 托蒂	tuo di
 托尔多	tuo er duo
-托雷斯	tuo lei si
 托尼	tuo ni
 瓦伦特	wa lun te
 瓦塞尔	wa sai er
 万乔普	wan qiao pu
 王栋	wang dong
 维埃拉	wei ai la
-维迪奇	wei di qi
 维杜卡	wei du ka
 维森特	wei sen te
 温格	wen ge
 乌	wu
 乌伊法鲁西	wu yi fa lu xi
 西多夫	xi duo fu
-西芒	xi mang
-西塞	xi sai
 谢晖	xie hui
 谢林汉姆	xie lin han mu
 扬科勒	yang ke le
 伊布拉希莫维奇	yi bu la xi mo wei qi
-伊瓜因	yi gua yin
 永贝里	yong bei li
 约克	yue ke
-赞布罗塔	zan bu luo ta
 泽罗伯托	ze luo bo tuo
 张耀坤	zhang yao kun
 赵铭	zhao ming
 赵旭日	zhao xu ri
 郑智	zheng zhi
-中泽佑二	zhong ze you er
 周海滨	zhou hai bin
 朱广沪	zhu guang hu
 朱挺	zhu ting
@@ -2733,7 +2636,6 @@ use_preset_vocabulary: true
 安德鲁博格特	an de lu bo ge te
 安德鲁博拉奇	an de lu bo la qi
 安德鲁欧文斯	an de lu ou wen si
-安德森	an de sen
 安迪斯	an di si
 安迪斯诺西奥尼	an di si nuo xi ao ni
 安东尼	an dong ni
@@ -2779,7 +2681,6 @@ use_preset_vocabulary: true
 奥里恩	ao li en
 奥里恩格林	ao li en ge lin
 奥林贝纳通	ao lin bei na tong
-奥林匹亚科斯	ao lin pi ya ke si
 奥尼尔	ao ni er
 奥塞拉	ao sai la
 奥塞拉哈灵顿	ao sai la ha ling dun
@@ -2796,10 +2697,8 @@ use_preset_vocabulary: true
 巴蒂尔	ba di er
 把对方球员挡住	ba dui fang qiu yuan dang zhu
 巴格纳尼	ba ge na ni
-巴克曼	ba ke man
 巴克纳	ba ke na
 巴雷特	ba lei te
-巴里	ba li
 巴黎	ba li
 巴龙	ba long
 巴伦塞斯托莱昂	ba lun sai si tuo lai ang
@@ -2847,7 +2746,6 @@ use_preset_vocabulary: true
 包许	bao xu
 贝尔	bei er
 贝尔格莱德红星	bei er ge lai de hong xing
-贝尔格莱德游击队	bei er ge lai de you ji dui
 被罚出场	bei fa chu chang
 被罚下场	bei fa xia chang
 背后传球	bei hou chuan qiu
@@ -2858,7 +2756,6 @@ use_preset_vocabulary: true
 北京鸭	bei jing ya
 北京鸭队	bei jing ya dui
 贝里内利	bei li nei li
-贝西克塔斯	bei xi ke ta si
 本高登	ben gao deng
 本戈登	ben ge deng
 本华莱士	ben hua lai shi
@@ -2919,7 +2816,6 @@ use_preset_vocabulary: true
 布达诺斯特	bu da nuo si te
 布恩	bu en
 布拉德	bu la de
-布拉德利	bu la de li
 布拉德利中心	bu la de li zhong xin
 布拉德米勒	bu la de mi le
 布莱恩	bu lai en
@@ -2939,7 +2835,6 @@ use_preset_vocabulary: true
 布兰顿	bu lan dun
 布兰顿华莱士	bu lan dun hua lai shi
 布兰顿罗伊	bu lan dun luo yi
-布朗	bu lang
 布朗特	bu lang te
 布雷克	bu lei ke
 布雷泽克	bu lei ze ke
@@ -2947,7 +2842,6 @@ use_preset_vocabulary: true
 布里斯怀特	bu li si huai te
 布鲁尔	bu lu er
 布鲁克斯	bu lu ke si
-布鲁斯	bu lu si
 布鲁斯鲍文	bu lu si bao wen
 布伦丹	bu lun dan
 布伦丹海伍德	bu lun dan hai wu de
@@ -2955,7 +2849,6 @@ use_preset_vocabulary: true
 布伦特	bu lun te
 布伦特巴里	bu lun te ba li
 不受球队约束	bu shou qiu dui yue shu
-布斯	bu si
 步行者	bu xing zhe
 步行者队	bu xing zhe dui
 布泽	bu ze
@@ -2986,7 +2879,6 @@ use_preset_vocabulary: true
 陈臣	chen chen
 陈大伟	chen da wei
 陈飞	chen fei
-陈江华	chen jiang hua
 陈开	chen kai
 陈可	chen ke
 陈磊	chen lei
@@ -3064,7 +2956,6 @@ use_preset_vocabulary: true
 带球撞人犯规	dai qiu zhuang ren fan gui
 带球走步	dai qiu zou bu
 戴维森	dai wei sen
-戴维斯	dai wei si
 代勇	dai yong
 丹博施埃菲尔塔	dan bo shi ai fei er ta
 单吃对方防守球员	dan chi dui fang fang shou qiu yuan
@@ -3305,14 +3196,12 @@ use_preset_vocabulary: true
 弗朗西斯科	fu lang xi si ke
 弗朗西斯科埃尔森	fu lang xi si ke ai er sen
 弗朗西斯科贾奇	fu lang xi si ke jia qi
-弗雷德	fu lei de
 弗雷德琼斯	fu lei de qiong si
 福利特	fu li te
 福利特中心	fu li te zhong xin
 福利特中心球馆	fu li te zhong xin qiu guan
 付庆飞	fu qing fei
 弗瑞斯贝	fu rui si bei
-福斯特	fu si te
 福特	fu te
 弗耶	fu ye
 福伊尔	fu yi er
@@ -3333,7 +3222,6 @@ use_preset_vocabulary: true
 戈登	ge deng
 戈登吉里塞克	ge deng ji li sai ke
 格拉汉姆	ge la han mu
-格拉纳达	ge la na da
 格兰尔德	ge lan er de
 格兰尔德格林	ge lan er de ge lin
 格兰格	ge lan ge
@@ -3345,10 +3233,8 @@ use_preset_vocabulary: true
 格雷格巴克纳	ge lei ge ba ke na
 格雷文莱恩斯	ge lei wen lai en si
 格里芬	ge li fen
-格林	ge lin
 格伦	ge lun
 格伦戴维斯	ge lun dai wei si
-戈麦斯	ge mai si
 格蒙登斯沃恩斯	ge meng deng si wo en si
 个人犯规	ge ren fan gui
 戈塔特	ge ta te
@@ -3380,7 +3266,6 @@ use_preset_vocabulary: true
 广厦队	guang sha dui
 广厦建设	guang sha jian she
 广厦建设队	guang sha jian she dui
-规则	gui ze
 国际篮球联合会	guo ji lan qiu lian he hui
 国家篮球联盟	guo jia lan qiu lian meng
 国家篮球协会	guo jia lan qiu xie hui
@@ -3430,7 +3315,6 @@ use_preset_vocabulary: true
 合同期满	he tong qi man
 合同期满的运动员	he tong qi man de yun dong yuan
 黑山共和国布达诺斯特	hei shan gong he guo bu da nuo si te
-亨特	heng te
 红河	hong he
 红河队	hong he dui
 宏远	hong yuan
@@ -3444,7 +3328,6 @@ use_preset_vocabulary: true
 后卫组	hou wei zu
 后仰式跳投	hou yang shi tiao tou
 后仰投篮	hou yang tou lan
-胡安	hu an
 胡安卡洛斯纳瓦罗	hu an ka luo si na wa luo
 胡光	hu guang
 胡克	hu ke
@@ -3463,7 +3346,6 @@ use_preset_vocabulary: true
 换手运球	huan shou yun qiu
 黄蜂	huang feng
 黄蜂队	huang feng dui
-皇家马德里	huang jia ma de li
 黄金	huang jin
 黄金队	huang jin dui
 灰熊	hui xiong
@@ -3471,7 +3353,6 @@ use_preset_vocabulary: true
 汇中	hui zhong
 汇中队	hui zhong dui
 霍弗德	huo fu de
-霍华德	huo hua de
 火箭	huo jian
 火箭队	huo jian dui
 霍里	huo li
@@ -3483,10 +3364,8 @@ use_preset_vocabulary: true
 基本战术配合	ji ben zhan shu pei he
 吉布森	ji bu sen
 积臣	ji chen
-基德	ji de
 击地传球	ji di chuan qiu
 吉尔	ji er
-吉尔伯特	ji er bo te
 吉尔伯特阿里纳斯	ji er bo te a li na si
 吉尔福德热火	ji er fu de re huo
 记分台	ji fen tai
@@ -3522,8 +3401,6 @@ use_preset_vocabulary: true
 嘉伯莫内特	jia bo mo nei te
 加德纳	jia de na
 假动作	jia dong zuo
-加拉塔萨雷	jia la ta sa lei
-加里	jia li
 贾里德	jia li de
 贾里德杜德利	jia li de du de li
 加里蒂	jia li di
@@ -3663,9 +3540,7 @@ use_preset_vocabulary: true
 卡特	ka te
 卡位	ka wei
 卡亚帕	ka ya pa
-凯尔	kai er
 凯尔罗里	kai er luo li
-凯尔特人	kai er te ren
 凯尔特人队	kai er te ren dui
 凯利	kai li
 凯利威特尼	kai li wei te ni
@@ -3810,7 +3685,6 @@ use_preset_vocabulary: true
 莱恩	lai en
 莱恩波维	lai en bo wei
 莱斯	lai si
-赖特	lai te
 篮板	lan ban
 篮板球	lan ban qiu
 兰德里	lan de li
@@ -3842,7 +3716,6 @@ use_preset_vocabulary: true
 勒布朗	le bu lang
 勒布朗詹姆斯	le bu lang zhan mu si
 勒芒	le mang
-勒沃库森	le wo ku sen
 雷阿伦	lei a lun
 雷迪克	lei di ke
 雷吉	lei ji
@@ -3859,7 +3732,6 @@ use_preset_vocabulary: true
 理查德	li cha de
 理查德汉密尔顿	li cha de han mi er dun
 理查德杰弗森	li cha de jie fu sen
-理查德森	li cha de sen
 里德	li de
 里德诺	li de nuo
 立定投篮	li ding tou lan
@@ -3880,7 +3752,6 @@ use_preset_vocabulary: true
 李萌	li meng
 李纳斯	li na si
 李纳斯科雷萨	li na si ke lei sa
-李楠	li nan
 李涛	li tao
 立陶宛考那斯萨尔吉利斯	li tao wan kao na si sa er ji li si
 立陶宛维尔纽斯	li tao wan wei er niu si
@@ -3924,7 +3795,6 @@ use_preset_vocabulary: true
 刘钢	liu gang
 刘海龙	liu hai long
 刘昊	liu hao
-刘佳	liu jia
 刘久龙	liu jiu long
 刘力铭	liu li ming
 溜马	liu ma
@@ -3942,7 +3812,6 @@ use_preset_vocabulary: true
 刘宇	liu yu
 刘卓	liu zhuo
 娄延东	lou yan dong
-鲁本	lu ben
 鲁本帕特森	lu ben pa te sen
 卢布尔雅纳	lu bu er ya na
 路德维希堡	lu de wei xi bao
@@ -3958,17 +3827,13 @@ use_preset_vocabulary: true
 卢瑟海德	lu se hai de
 卢伟	lu wei
 路遥	lu yao
-路易斯	lu yi si
 路易斯斯科拉	lu yi si si ke la
 路易斯威廉姆斯	lu yi si wei lian mu si
 罗昂	luo ang
-罗比	luo bi
 罗比乔伊诺	luo bi qiao yi nuo
-罗宾逊	luo bin xun
 罗伯特	luo bo te
 罗伯特霍里	luo bo te huo li
 罗伯特斯威福特	luo bo te si wei fu te
-罗德里格斯	luo de li ge si
 罗德尼	luo de ni
 罗德尼卡内	luo de ni ka nei
 罗德尼斯塔基	luo de ni si ta ji
@@ -4027,7 +3892,6 @@ use_preset_vocabulary: true
 马克布朗特	ma ke bu lang te
 马科贾里奇	ma ke jia li qi
 马克麦德森	ma ke mai de sen
-马克斯	ma ke si
 马克希尔	ma ke xi er
 马库斯	ma ku si
 马库斯班克斯	ma ku si ban ke si
@@ -4035,7 +3899,6 @@ use_preset_vocabulary: true
 马库斯文尼西斯	ma ku si wen ni xi si
 马奎斯	ma kui si
 马奎斯丹尼尔斯	ma kui si dan ni er si
-马拉加	ma la jia
 马里昂	ma li ang
 马里奥	ma li ao
 马里奥韦斯特	ma li ao wei si te
@@ -4073,7 +3936,6 @@ use_preset_vocabulary: true
 麦卡	mai ka
 麦卡布兰迪	mai ka bu lan di
 迈克	mai ke
-麦克	mai ke
 麦克毕比	mai ke bi bi
 麦克戴斯	mai ke dai si
 麦克邓利维	mai ke deng li wei
@@ -4170,9 +4032,6 @@ use_preset_vocabulary: true
 莫瑞斯威廉姆斯	mo rui si wei lian mu si
 魔术	mo shu
 魔术队	mo shu dui
-莫斯科迪纳摩	mo si ke di na mo
-莫斯科中央陆军	mo si ke zhong yang lu jun
-穆恩	mu en
 穆尔西亚	mu er xi ya
 木拉提	mu la ti
 木拉提阿地里江	mu la ti a di li jiang
@@ -4198,7 +4057,6 @@ use_preset_vocabulary: true
 内斯特洛维奇	nei si te luo wei qi
 内特	nei te
 内特罗宾逊	nei te luo bin xun
-尼尔森	ni er sen
 尼克	ni ke
 尼克费兹卡斯	ni ke fei zi ka si
 尼克科里森	ni ke ke li sen
@@ -4227,9 +4085,7 @@ use_preset_vocabulary: true
 欧洲男篮锦标赛	ou zhou nan lan jin biao sai
 帕楚利亚	pa chu li ya
 帕德博恩	pa de bo en
-帕夫洛维奇	pa fu luo wei qi
 帕金斯	pa jin si
-帕克	pa ke
 帕科	pa ke
 帕纳辛奈科斯	pa na xin nai ke si
 帕特	pa te
@@ -4431,7 +4287,6 @@ use_preset_vocabulary: true
 时间终了	shi jian zhong liao
 世界杯	shi jie bei
 世锦赛	shi jin sai
-史密斯	shi mi si
 失误	shi wu
 时限钟	shi xian zhong
 十字韧带	shi zi ren dai
@@ -4460,7 +4315,6 @@ use_preset_vocabulary: true
 斯蒂芬格拉汉姆	si di fen ge la han mu
 斯蒂芬杰克逊	si di fen jie ke xun
 斯蒂芬马布里	si di fen ma bu li
-斯蒂夫	si di fu
 斯蒂夫诺瓦克	si di fu nuo wa ke
 四个赛区	si ge sai qu
 四号位置球员	si hao wei zhi qiu yuan
@@ -4536,7 +4390,6 @@ use_preset_vocabulary: true
 陶瑞恩格林	tao rui en ge lin
 特尔费尔	te er fei er
 特科格鲁	te ke ge lu
-特拉维夫马卡比	te la wei fu ma ka bi
 特拉维斯	te la wei si
 特拉维斯奥特劳	te la wei si ao te lao
 特拉维斯迪安纳	te la wei si di an na
@@ -4548,7 +4401,6 @@ use_preset_vocabulary: true
 特雷西	te lei xi
 特雷西麦格雷迪	te lei xi mai ge lei di
 特雷西麦克格雷迪	te lei xi mai ke ge lei di
-特里	te li
 特里尔霍尔佐格电信	te li er huo er zuo ge dian xin
 特伦斯	te lun si
 特伦斯肯塞	te lun si ken sai
@@ -4589,7 +4441,6 @@ use_preset_vocabulary: true
 突破上篮	tu po shang lan
 托马斯	tuo ma si
 托马斯加德纳	tuo ma si jia de na
-托尼	tuo ni
 托尼阿伦	tuo ni a lun
 托尼巴蒂	tuo ni ba di
 托尼帕克	tuo ni pa ke
@@ -4611,7 +4462,6 @@ use_preset_vocabulary: true
 王晶	wang jing
 王磊	wang lei
 王立刚	wang li gang
-王楠	wang nan
 王胜	wang sheng
 王世龙	wang shi long
 王仕鹏	wang shi peng
@@ -4889,7 +4739,6 @@ use_preset_vocabulary: true
 云南红河	yun nan hong he
 云南红河队	yun nan hong he dui
 运球	yun qiu
-暂停	zan ting
 泽雷齐尼克	ze lei qi ni ke
 扎达尔	zha da er
 扎克兰多夫	zha ke lan duo fu
@@ -4900,14 +4749,12 @@ use_preset_vocabulary: true
 翟金帅	zhai jin shuai
 战绩	zhan ji
 战绩表	zhan ji biao
-詹姆斯	zhan mu si
 詹姆斯奥古斯丁	zhan mu si ao gu si ding
 詹姆斯奥古斯汀	zhan mu si ao gu si ting
 詹姆斯波西	zhan mu si bo xi
 詹姆斯库里	zhan mu si ku li
 詹姆斯琼斯	zhan mu si qiong si
 战术	zhan shu
-张超	zhang chao
 张成	zhang cheng
 张大宇	zhang da yu
 张灏	zhang hao
@@ -5023,7 +4870,6 @@ use_preset_vocabulary: true
 低手击球	di shou ji qiu
 发高远球	fa gao yuan qiu
 发平球	fa ping qiu
-发球	fa qiu
 发球次序	fa qiu ci xu
 发球方	fa qiu fang
 发球区	fa qiu qu
@@ -5039,11 +4885,9 @@ use_preset_vocabulary: true
 黄综翰	huang zong han
 挥拍	hui pai
 回球	hui qiu
-混合双打	hun he shuang da
 夹发针球	jia fa zhen qiu
 蒋燕皎	jiang yan jiao
 交换发球区	jiao huan fa qiu qu
-接发球	jie fa qiu
 警戒线	jing jie xian
 扣球	kou qiu
 扣网前球	kou wang qian qiu
@@ -5051,12 +4895,10 @@ use_preset_vocabulary: true
 拉斯姆森	la si mu sen
 李龙大	li long da
 李宗伟	li zong wei
-连击	lian ji
 连续扣杀	lian xu kou sha
 林丹	lin dan
 卢兰	lu lan
 轮换位置	lun huan wei zhi
-男子单打	nan zi dan da
 男子双打	nan zi shuang da
 男子团体	nan zi tuan ti
 内开球线	nei kai qiu xian
@@ -5065,7 +4907,6 @@ use_preset_vocabulary: true
 女子双打	nv zi shuang da
 女子团体	nv zi tuan ti
 女子羽毛球单打	nv zi yu mao qiu dan da
-佩尔森	pei er sen
 皮红艳	pi hong yan
 朴成焕	piao cheng huan
 平抽球	ping chou qiu
@@ -5080,7 +4921,6 @@ use_preset_vocabulary: true
 汤姆斯杯赛	tang mu si bei sai
 陶菲克	tao fei ke
 外开球线	wai kai qiu xian
-王晨	wang chen
 王琳	wang lin
 网前球	wang qian qiu
 王仪涵	wang yi han
@@ -5364,7 +5204,6 @@ use_preset_vocabulary: true
 变线扣球	bian xian kou qiu
 变向起跳	bian xiang qi tiao
 标志杆	biao zhi gan
-步法	bu fa
 补位	bu wei
 擦网球	ca wang qiu
 策略	ce lue
@@ -5373,7 +5212,6 @@ use_preset_vocabulary: true
 场区端线	chang qu duan xian
 场上队长	chang shang dui zhang
 超手扣球	chao shou kou qiu
-持球	chi qiu
 重叠拦网	chong die lan wang
 重叠梯次	chong die ti ci
 抽签	chou qian
@@ -5399,14 +5237,10 @@ use_preset_vocabulary: true
 二传手	er chuan shou
 发动攻击	fa dong gong ji
 发飘球	fa piao qiu
-发球	fa qiu
 发球擦网	fa qiu ca wang
 发球得分	fa qiu de fen
 发球方法	fa qiu fang fa
-发球区	fa qiu qu
-发球权	fa qiu quan
 反手发球	fan shou fa qiu
-防守技术	fang shou ji shu
 防守判断	fang shou pan duan
 防守战术	fang shou zhan shu
 风格打法	feng ge da fa
@@ -5441,7 +5275,6 @@ use_preset_vocabulary: true
 后排左	hou pai zuo
 互相促进	hu xiang cu jin
 互相掩护	hu xiang yan hu
-换发球	huan fa qiu
 换位进攻	huan wei jin gong
 机会球	ji hui qiu
 技巧派	ji qiao pai
@@ -5455,7 +5288,6 @@ use_preset_vocabulary: true
 肩滚翻	jian gun fan
 交叉进攻	jiao cha jin gong
 交叉掩护	jiao cha yan hu
-接发球	jie fa qiu
 接扣球	jie kou qiu
 界内	jie nei
 界外	jie wai
@@ -5474,14 +5306,12 @@ use_preset_vocabulary: true
 空间差	kong jian cha
 扣快球	kou kuai qiu
 扣拦矛盾	kou lan mao dun
-扣球	kou qiu
 扣杀得分	kou sha de fen
 扣手	kou shou
 扣探头球	kou tan tou qiu
 扣远网球	kou yuan wang qiu
 快变	kuai bian
 快高	kuai gao
-快攻	kuai gong
 快攻战术	kuai gong zhan shu
 拦网	lan wang
 拦网成功	lan wang cheng gong
@@ -5491,7 +5321,6 @@ use_preset_vocabulary: true
 力量排球	li liang pai qiu
 立体进攻	li ti jin gong
 立体战术	li ti zhan shu
-连击	lian ji
 连跳技术	lian tiao ji shu
 两重性	liang chong xing
 两次球	liang ci qiu
@@ -5536,7 +5365,6 @@ use_preset_vocabulary: true
 手后仰拦网	shou hou yang lan wang
 守位	shou wei
 双方触球	shuang fang chu qiu
-双方犯规	shuang fang fan gui
 双人拦网	shuang ren lan wang
 四次击球	si ci ji qiu
 死角	si jiao
@@ -5578,7 +5406,6 @@ use_preset_vocabulary: true
 转手转腕	zhuan shou zhuan wan
 专位分工	zhuan wei fen gong
 专职防守的球员	zhuan zhi fang shou de qiu yuan
-自由人	zi you ren
 坐式排球	zuo shi pai qiu
 白带	bai dai
 白黄带	bai huang dai
@@ -5797,7 +5624,6 @@ use_preset_vocabulary: true
 白竿枪	bai gan qiang
 白西园	bai xi yuan
 半段枪	ban duan qiang
-爆发力	bao fa li
 鲍玉龙	bao yu long
 崩龙袖锤	beng long xiu chui
 崩拳	beng quan
@@ -5883,7 +5709,6 @@ use_preset_vocabulary: true
 短器械对练	duan qi xie dui lian
 断手述要	duan shou shu yao
 对刺剑	dui ci jian
-对抗性	dui kang xing
 对练	dui lian
 对练套路	dui lian tao lu
 多种形式	duo zhong xing shi
@@ -5953,7 +5778,6 @@ use_preset_vocabulary: true
 华拳	hua quan
 黄钺	huang yue
 浑元	hun yuan
-混元	hun yuan
 混圆	hun yuan
 浑元桩	hun yuan zhuang
 浑圆桩	hun yuan zhuang
@@ -6123,7 +5947,6 @@ use_preset_vocabulary: true
 拳经拳法备要	quan jing quan fa bei yao
 拳术对练套路	quan shu dui lian tao lu
 拳意述真	quan yi shu zhen
-雀地龙	que di long
 柔韧性	rou ren xing
 软兵器类	ruan bing qi lei
 若羽轻	ruo yu qing
@@ -6271,12 +6094,10 @@ use_preset_vocabulary: true
 新练拳	xin lian quan
 心意拳	xin yi quan
 行龙剑	xing long jian
-形意拳	xing yi quan
 熊膀	xiong bang
 熊形	xiong xing
 绣斧	xiu fu
 袖箭	xiu jian
-旋风脚	xuan feng jiao
 玄机和尚	xuan ji he shang
 玄钺	xuan yue
 旋子转体	xuan zi zhuan ti
@@ -6379,924 +6200,260 @@ use_preset_vocabulary: true
 钻拳	zuan quan
 左右盘	zuo you pan
 左钺	zuo yue
-阿多纳尔	a duo na er
-阿多纳尔福伊尔	a duo na er fu yi er
-阿尔霍弗德	a er huo fu de
-阿尔蒙德	a er meng de
-阿尔斯通	a er si tong
-阿尔索顿	a er suo dun
-阿法拉罗	a fa la luo
-阿科球馆	a ke qiu guan
 阿莱克斯雅克特	a lai ke si ya ke te
 阿兰安德森	a lan an de sen
-阿兰多塔克尔	a lan duo ta ke er
 阿兰享德森	a lan xiang de sen
 阿兰休斯顿	a lan xiu si dun
-阿朗佐莫宁	a lang zuo mo ning
 阿劳约	a lao yue
-阿里纳斯	a li na si
-阿里扎	a li zha
-阿隆阿法拉罗	a long a fa la luo
-阿隆布鲁克斯	a long bu lu ke si
-阿隆格雷	a long ge lei
 阿龙麦基	a long mai ji
 阿隆威廉姆斯	a long wei lian mu si
-阿龙威廉姆斯	a long wei lian mu si
-阿伦	a lun
 阿伦艾佛森	a lun ai fo sen
-阿伦艾弗森	a lun ai fu sen
-阿罗约	a luo yue
 阿马尔斯塔德迈尔	a ma er si ta de mai er
-阿马雷	a ma lei
-阿玛雷	a ma lei
-阿马雷斯塔德迈尔	a ma lei si ta de mai er
-阿玛雷斯塔德迈尔	a ma lei si ta de mai er
-阿米尔约翰逊	a mi er yue han xun
 阿莫尔	a mo er
-阿斯索夫特	a si suo fu te
 阿泰	a tai
-阿泰斯特	a tai si te
-阿特金斯	a te jin si
-阿韦利诺空军队	a wei li nuo kong jun dui
-阿维斯特瑞	a wei si te rui
-阿西劳	a xi lao
-阿祖布克	a zu bu ke
-阿佐马什	a zuo ma shen
-艾达里安	ai da li an
-艾达里安格里芬	ai da li an ge li fen
 爱德华兹	ai de hua zi
 艾迪巴斯顿	ai di ba si dun
 埃迪格里芬	ai di ge li fen
-埃迪豪斯	ai di hao si
-埃迪吉尔	ai di ji er
-埃迪库里	ai di ku li
-埃迪琼斯	ai di qiong si
-埃杜阿多	ai du a duo
-埃杜阿多纳胡拉	ai du a duo na hu la
-埃尔顿布兰德	ai er dun bu lan de
 埃尔顿布朗	ai er dun bu lang
-艾尔哈灵顿	ai er ha ling dun
 艾尔霍福德	ai er huo fu de
-艾尔杰弗逊	ai er jie fu xun
 埃尔金贝勒	ai er jin bei le
 埃尔门罗	ai er men luo
-埃尔森	ai er sen
 艾尔索顿	ai er suo dun
 埃尔文海耶斯	ai er wen hai ye si
-艾尔沃特森	ai er wo te sen
 艾佛森	ai fo sen
-艾弗森	ai fu sen
-艾拉纽贝	ai la niu bei
-埃里克丹皮尔	ai li ke dan pi er
 埃里克戈登	ai li ke ge deng
-埃里克皮亚考斯基	ai li ke pi ya kao si ji
 埃里克威廉姆斯	ai li ke wei lian mu si
 埃利斯	ai li si
-艾伦雷	ai lun lei
 埃梅卡奥卡福	ai mei ka ao ka fu
-埃米卡	ai mi ka
-埃米卡奥卡福	ai mi ka ao ka fu
-艾米乌度卡	ai mi wu du ka
-爱沙尼亚卡勒夫	ai sha ni ya ka le fu
 爱斯基摩	ai si ji mo
-爱斯基摩人队	ai si ji mo ren dui
-埃文斯	ai wen si
 埃文约翰逊	ai wen yue han xun
-安德里斯	an de li si
-安德里斯比德林斯	an de li si bi de lin si
-安德里亚巴格纳尼	an de li ya ba ge na ni
 安德里尤斯克维基斯	an de li you si ke wei ji si
-安德烈巴雷特	an de lie ba lei te
 安德烈巴尼亚尼	an de lie ba ni ya ni
-安德烈布朗	an de lie bu lang
-安德烈基里连科	an de lie ji li lian ke
-安德烈米勒	an de lie mi le
 安德烈伊戈达拉	an de lie yi ge da la
-安德烈伊格达拉	an de lie yi ge da la
-安德烈伊古奥达拉	an de lie yi gu ao da la
-安德鲁拜纳姆	an de lu bai na mu
-安德鲁博格特	an de lu bo ge te
 安德鲁博古特	an de lu bo gu te
-安德鲁博拉奇	an de lu bo la qi
-安德鲁欧文斯	an de lu ou wen si
 安德鲁乔丹	an de lu qiao dan
 安德森瓦莱乔	an de sen wa lai qiao
-安迪斯诺西奥尼	an di si nuo xi ao ni
-安东尼	an dong ni
-安东尼奥丹尼尔斯	an dong ni ao dan ni er si
-安东尼奥麦克戴斯	an dong ni ao mai ke dai si
-安东尼卡特	an dong ni ka te
-安东尼帕克	an dong ni pa ke
-安东尼沃克	an dong ni wo ke
-安东尼约翰逊	an dong ni yue han xun
-安芬尼	an fen ni
-安芬尼哈达威	an fen ni ha da wei
-安特卫普巨人	an te wei pu ju ren
-安托艾涅	an tuo ai nie
-安托艾涅怀特	an tuo ai nie huai te
-安托万贾米森	an tuo wan jia mi sen
 安托万沃克	an tuo wan wo ke
 安翔	an xiang
-昂戈麦斯	ang ge mai si
-奥本山球场	ao ben shan qiu chang
-奥博托	ao bo tuo
 奥布莱恩杯	ao bu lai en bei
-奥布赖恩特	ao bu lai en te
 奥得捷	ao de jie
-奥登	ao deng
-奥多姆	ao duo mu
 奥尔德里奇	ao er de li qi
-奥尔登博格	ao er deng bo ge
-奥古斯丁	ao gu si ding
-奥古斯汀	ao gu si ting
-奥卡福	ao ka fu
-奥克兰球馆	ao ke lan qiu guan
-奥库	ao ku
 奥拉朱旺	ao la zhu wang
-奥莱克西	ao lai ke xi
-奥莱克西佩切洛夫	ao lai ke xi pei qie luo fu
-奥兰多魔术	ao lan duo mo shu
-奥里恩	ao li en
-奥里恩格林	ao li en ge lin
-奥林贝纳通	ao lin bei na tong
 奥洛沃坎迪	ao luo wo kan di
-奥尼尔	ao ni er
-奥塞拉	ao sai la
-奥塞拉哈灵顿	ao sai la ha ling dun
 奥神	ao shen
 奥斯卡罗伯逊	ao si ka luo bo xun
-奥斯坦德泰林达斯	ao si tan de tai lin da si
-奥斯汀克罗希尔	ao si ting ke luo xi er
-奥特劳	ao te lao
 奥特洛	ao te luo
-奥特罗	ao te luo
-奥瓦伦斯航空	ao wa lun si hang kong
-巴巴卡卡马拉	ba ba ka ka ma la
-巴博萨	ba bo sa
-巴蒂尔	ba di er
-把对方球员挡住	ba dui fang qiu yuan dang zhu
 巴恩斯	ba en si
 巴尔的摩子弹	ba er de mo zi dan
-巴格纳尼	ba ge na ni
 巴克利	ba ke li
-巴克纳	ba ke na
-巴里	ba li
-巴伦塞斯托莱昂	ba lun sai si tuo lai ang
-巴伦西亚帕梅萨	ba lun xi ya pa mei sa
-巴内斯	ba nei si
 巴尼亚尼	ba ni ya ni
-巴瑞尔	ba rui er
-巴斯	ba si
 巴特尔	ba te er
-巴特勒	ba te le
 八一富邦	ba yi fu bang
-八一火箭	ba yi huo jian
-八一火箭队	ba yi huo jian dui
-八一双鹿电池	ba yi shuang lu dian chi
-八一双鹿电池队	ba yi shuang lu dian chi dui
 巴智超	ba zhi chao
-白帆	bai fan
-拜伦戴维斯	bai lun dai wei si
 拜姆	bai mu
-拜纳姆	bai na mu
-百事中心	bai shi zhong xin
-百事中心球馆	bai shi zhong xin qiu guan
-班贝格布罗斯	ban bei ge bu luo si
 板凳队员	ban deng dui yuan
 板凳球员	ban deng qiu yuan
-班克斯	ban ke si
-邦奇维尔士	bang qi wei er shi
 邦齐威尔斯	bang qi wei er si
-邦奇威尔斯	bang qi wei er si
 榜眼秀	bang yan xiu
-保奥希斯	bao ao xi si
 鲍比布朗	bao bi bu lang
-鲍比杰克逊	bao bi jie ke xun
-鲍比琼斯	bao bi qiong si
-鲍比西蒙斯	bao bi xi meng si
 鲍勃库锡	bao bo ku xi
 鲍勃佩蒂特	bao bo pei di te
 包夹	bao jia
-保加利亚卢考伊学院	bao jia li ya lu kao yi xue yuan
 鲍里斯迪奥	bao li si di ao
-保罗	bao luo
-保罗戴维斯	bao luo dai wei si
-保罗加索尔	bao luo jia suo er
-保罗米尔萨普	bao luo mi er sa pu
-保罗皮尔斯	bao luo pi er si
 鲍威	bao wei
-鲍文	bao wen
-包许	bao xu
-贝尔	bei er
-贝尔格莱德游击队	bei er ge lai de you ji dui
-背后换手运球	bei hou huan shou yun qiu
-背后运球	bei hou yun qiu
 北京奥神	bei jing ao shen
-北京金隅	bei jing jin yu
-北京金隅队	bei jing jin yu dui
 北京首钢	bei jing shou gang
-北京鸭队	bei jing ya dui
 背靠背	bei kao bei
 贝勒	bei le
-贝里内利	bei li nei li
 背身单打	bei shen dan da
 背身灌篮	bei shen guan lan
-本高登	ben gao deng
-本戈登	ben ge deng
-本华莱士	ben hua lai shi
-毕比	bi bi
-比德林斯	bi de lin si
-毕尔巴厄	bi er ba e
 比尔沃尔顿	bi er wo er dun
 比尔沃克	bi er wo ke
-比利时查雷罗	bi li shi cha lei luo
 比利托马斯	bi li tuo ma si
-比卢普斯	bi lu pu si
-比诺尤德里	bi nuo you de li
-比赛的第二节	bi sai de di er jie
-比赛的第三节	bi sai de di san jie
-比赛的第四节	bi sai de di si jie
-比赛的第一节	bi sai de di yi jie
 比赛篇	bi sai pian
-比赛用时钟	bi sai yong shi zhong
-比耶拉安吉利哥	bi ye la an ji li ge
-边强	bian qiang
-标靶中心	biao ba zhong xin
-标靶中心球馆	biao ba zhong xin qiu guan
 表演时刻	biao yan shi ke
-博奥特罗	bo ao te luo
-波恩电信	bo en dian xin
-博甘斯	bo gan si
-博格特	bo ge te
-波拉德	bo la de
-博拉奇	bo la qi
-波兰安维尔	bo lan an wei er
-波兰斯拉斯克	bo lan si la si ke
-波兰索波特	bo lan suo bo te
-波兰图罗夫	bo lan tu luo fu
 博列森	bo lie sen
-柏林晨曲	bo lin chen qu
-博洛尼亚维迪维奇	bo luo ni ya wei di wei qi
-博洛尼亚乌比姆	bo luo ni ya wu bi mu
 伯纳德罗宾逊	bo na de luo bin xun
 博尼费斯涅顿	bo ni fei si nie dun
-伯什	bo shen
-波什	bo shen
-波士顿凯尔特人	bo shi dun kai er te ren
-波士顿凯尔特人队	bo shi dun kai er te ren dui
-波斯简	bo si jian
-波斯简诺克巴	bo si jian nuo ke ba
-波斯尼亚波斯纳	bo si ni ya bo si na
 波塔潘科	bo ta pan ke
-波特兰开拓者	bo te lan kai tuo zhe
-波特洛	bo te luo
-勃文	bo wen
-波西	bo xi
 博伊金斯	bo yi jin si
-博伊斯迪奥	bo yi si di ao
-布达诺斯特	bu da nuo si te
 补防	bu fang
-布拉德利中心	bu la de li zhong xin
-布拉德米勒	bu la de mi le
 布莱恩格兰特	bu lai en ge lan te
-布莱恩卡迪纳尔	bu lai en ka di na er
-布莱恩库克	bu lai en ku ke
-布莱恩斯金纳	bu lai en si jin na
-布莱恩斯卡拉布赖恩	bu lai en si ka la bu lai en
-布莱恩特	bu lai en te
-不莱梅港北极熊	bu lai mei gang bei ji xiong
-布莱文奈特	bu lai wen nai te
 补篮	bu lan
-布兰德	bu lan de
-布兰登巴斯	bu lan deng ba si
 布兰登海伍德	bu lan deng hai wu de
-布兰登赖特	bu lan deng lai te
 布兰顿巴斯	bu lan dun ba si
-布兰顿华莱士	bu lan dun hua lai shi
 布兰顿拉什	bu lan dun la shi
-布兰顿罗伊	bu lan dun luo yi
-布朗	bu lang
-布雷克	bu lei ke
-布雷泽克	bu lei ze ke
-布里斯怀特	bu li si huai te
 布鲁克洛佩兹	bu lu ke luo pei zi
-布鲁克斯	bu lu ke si
-布鲁斯鲍文	bu lu si bao wen
-布伦丹	bu lun dan
-布伦丹海伍德	bu lun dan hai wu de
 布伦森	bu lun sen
-布伦特巴里	bu lun te ba li
-补位	bu wei
-步行者	bu xing zhe
-步行者队	bu xing zhe dui
-布泽	bu ze
-布泽尔	bu ze er
-擦板球	ca ban qiu
 擦板投篮	ca ban tou lan
 蔡亮	cai liang
-菜鸟球员	cai niao qiu yuan
 曹飞	cao fei
 曹振华	cao zhen hua
 策应	ce ying
-岑克	cen ke
-岑克哈耶斯	cen ke ha ye si
-查尔里	cha er li
-查尔里维拉纽瓦	cha er li wei la niu wa
 查尔斯巴克利	cha er si ba ke li
-查基阿特金斯	cha ji a te jin si
 查卡利迪斯	cha ka li di si
-查克海耶斯	cha ke hai ye si
-查理贝尔	cha li bei er
-柴德里斯	chai de li si
-长传	chang chuan
-场地装备	chang di zhuang bei
 常规赛	chang gui sai
 场均得分	chang jun de fen
 场均盖帽	chang jun gai mao
 场均抢断	chang jun qiang duan
 场均数据	chang jun shu ju
-昌西比卢普斯	chang xi bi lu pu si
 长暂停	chang zan ting
-抄截	chao jie
-超音速	chao yin su
-陈大伟	chen da wei
-陈江华	chen jiang hua
-陈开	chen kai
-陈可	chen ke
-陈磊	chen lei
-陈晓东	chen xiao dong
 陈鑫	chen xin
-陈照升	chen zhao sheng
-陈哲龙	chen zhe long
-城市广场球馆	cheng shi guang chang qiu guan
-持球	chi qiu
 仇华	chou hua
-仇素兵	chou su bing
-触及篮框	chu ji lan kuang
 出界	chu jie
-出拳打架	chu quan da jia
 传切	chuan qie
-传切战术	chuan qie zhan shu
 传球	chuan qiu
-从两边底线往篮下	cong liang bian di xian wang lan xia
-从志新	cong zhi xin
-寸守伟	cun shou wei
 错位防守	cuo wei fang shou
-打板入筐	da ban ru kuang
 打板投篮	da ban tou lan
 大成生化	da cheng sheng hua
 达迪琼斯	da di qiong si
-打拐子	da guai zi
 大号两双	da hao liang shuang
-大华队	da hua dui
-达科米里西奇	da ke mi li xi qi
 达科米利西奇	da ke mi li xi qi
 达奎安库克	da kui an ku ke
-达拉斯小牛	da la si xiao niu
-达雷尔	da lei er
-达雷尔阿姆斯特朗	da lei er a mu si te lang
 大力灌篮	da li guan lan
-达里克马丁	da li ke ma ding
 达柳斯迈尔斯	da liu si mai er si
-大陆航空球场	da lu hang kong qiu chang
-大陆篮球协会	da lu lan qiu xie hui
-达蒙琼斯	da meng qiong si
-达蒙斯塔德迈尔	da meng si ta de mai er
-大前锋	da qian feng
 大球战术	da qiu zhan shu
-达瑞尔斯	da rui er si
-达瑞尔斯迈尔斯	da rui er si mai er si
-达瑞尔沃特金斯	da rui er wo te jin si
-达瑞斯桑贾拉	da rui si sang jia la
 打三分	da san fen
-打手犯规	da shou fan gui
 打四分	da si fen
-大卫哈里森	da wei ha li sen
-大卫李	da wei li
 大卫罗宾逊	da wei luo bin xun
-大卫诺尔	da wei nuo er
 大卫韦斯利	da wei wei si li
-大卫韦斯特	da wei wei si te
-大西洋区	da xi yang qu
-大西洋赛区	da xi yang sai qu
-大学生运动协会	da xue sheng yun dong xie hui
-大学运动协会	da xue yun dong xie hui
-戴德尔艾鲁加姆鹏加	dai de er ai lu jia mu peng jia
 戴尔戴维斯	dai er dai wei si
 戴夫考恩斯	dai fu kao en si
-戴奎恩	dai kui en
-戴奎恩库克	dai kui en ku ke
-戴勒姆波特	dai le mu bo te
-戴米恩威尔金斯	dai mi en wei er jin si
-带球上篮	dai qiu shang lan
-带球撞人	dai qiu zhuang ren
-带球撞人犯规	dai qiu zhuang ren fan gui
-带球走步	dai qiu zou bu
 戴斯蒙德梅森	dai si meng de mei sen
-戴维斯	dai wei si
-代勇	dai yong
-丹博施埃菲尔塔	dan bo shi ai fei er ta
 单吃	dan chi
-单吃对方防守球员	dan chi dui fang fang shou qiu yuan
-单打	dan da
 单挡掩护	dan dang yan hu
-丹迪考	dan di kao
-丹佛掘金	dan fo jue jin
-丹加祖里奇	dan jia zu li qi
 丹尼尔布朗	dan ni er bu lang
-丹尼尔吉布森	dan ni er ji bu sen
-丹尼尔斯	dan ni er si
 丹尼尔伊文	dan ni er yi wen
 丹尼福特森	dan ni fu te sen
-丹尼格兰格	dan ni ge lan ge
 丹尼格兰杰	dan ni ge lan jie
-丹皮尔	dan pi er
-单涛	dan tao
 丹特琼斯	dan te qiong si
 挡拆	dang chai
-挡切战术	dang qie zhan shu
-德尔菲诺	de er fei nuo
 德尔克	de er ke
-德尔塔中心	de er ta zhong xin
-德尔塔中心球馆	de er ta zhong xin qiu guan
-得分	de fen
-得分后卫	de fen hou wei
 得分王	de fen wang
-德国奥尔登博格	de guo ao er deng bo ge
-德国班贝格布罗斯	de guo ban bei ge bu luo si
-德国波恩电信	de guo bo en dian xin
-德国柏林晨曲	de guo bo lin chen qu
-德国不莱梅港北极熊	de guo bu lai mei gang bei ji xiong
-德国不伦瑞克	de guo bu lun rui ke
-德国哥廷根	de guo ge ting gen
-德国吉森阿维托斯	de guo ji sen a wei tuo si
-德国甲级联赛	de guo jia ji lian sai
-德国科隆九九人	de guo ke long jiu jiu ren
-德国篮球甲级联赛	de guo lan qiu jia ji lian sai
-德国勒沃库森	de guo le wo ku sen
-德国路德维希堡	de guo lu de wei xi bao
-德国帕德博恩	de guo pa de bo en
-德国乌尔姆一八四六	de guo wu er mu yi ba si liu
-德国亚特兰龙	de guo ya te lan long
-德国耶拿科学城	de guo ye na ke xue cheng
-德怀恩琼斯	de huai en qiong si
-德怀恩韦德	de huai en wei de
-德怀特霍华德	de huai te huo hua de
-德克诺维茨基	de ke nuo wei ci ji
 德克诺维斯基	de ke nuo wei si ji
-德朗特	de lang te
-德朗特韦斯特	de lang te wei si te
-德勒黑	de le hei
-德里克	de li ke
-德里克安德森	de li ke an de sen
-德里克费舍尔	de li ke fei she er
 德里克马丁	de li ke ma ding
 德隆威廉姆斯	de long wei lian mu si
-德鲁古登	de lu gu deng
 德玛尔约翰逊	de ma er yue han xun
 德马库斯尼尔森	de ma ku si ni er sen
 德玛斯特	de ma si te
-德萨盖纳	de sa gai na
-德萨盖纳迪奥普	de sa gai na di ao pu
-德斯蒙德	de si meng de
-德斯蒙德梅森	de si meng de mei sen
 德维恩琼斯	de wei en qiong si
 德文布朗	de wen bu lang
 德文格林	de wen ge lin
-德文哈里斯	de wen ha li si
 德文乔治	de wen qiao zhi
 德文韦德	de wen wei de
 德肖恩史蒂文森	de xiao en shi di wen sen
-邓肯	deng ken
-邓力	deng li
-邓利维	deng li wei
-迪阿瓦拉	di a wa la
-迪安纳	di an na
-迪奥古	di ao gu
-迪奥普	di ao pu
 地板球	di ban qiu
-蒂宾根沃尔茨老虎	di bin gen wo er ci lao hu
-第二年球员	di er nian qiu yuan
 第二阵容	di er zhen rong
-迪考	di kao
-迪肯贝	di ken bei
-迪肯贝穆托姆博	di ken bei mu tuo mu bo
-第六人	di liu ren
-狄龙威廉姆斯	di long wei lian mu si
-蒂姆邓肯	di mu deng ken
-蒂姆托马斯	di mu tuo ma si
-底特律活塞	di te lv huo sai
-底特律猎鹰	di te lv lie ying
-底特律猎鹰队	di te lv lie ying dui
-迪文布朗	di wen bu lang
 迪文格林	di wen ge lin
-迪文乔治	di wen qiao zhi
 底线	di xian
 底线切入	di xian qie ru
-底线区域	di xian qu yu
-迪肖恩史蒂文森	di xiao en shi di wen sen
-邸晓伟	di xiao wei
-第一联盟中心	di yi lian meng zhong xin
 第一阵容	di yi zhen rong
 定点投篮	ding dian tou lan
-丁锦辉	ding jin hui
 盯人防守	ding ren fang shou
-东部联盟	dong bu lian meng
 东方大鲨鱼	dong fang da sha yu
-东莞烈豹	dong guan lie bao
-东莞烈豹队	dong guan lie bao dui
 东莞马可波罗	dong guan ma ke bo luo
-东莞新世纪	dong guan xin shi ji
-东莞新世纪队	dong guan xin shi ji dui
 东莞银行	dong guan yin hang
 董瀚麟	dong han lin
-东南区	dong nan qu
 东南赛区	dong nan sai qu
 东盛	dong sheng
 东特格林	dong te ge lin
 动作篇	dong zuo pian
 斗牛	dou niu
-杜德利	du de li
 杜锋	du feng
-杜洪	du hong
-杜江	du jiang
-杜兰特	du lan te
 杜诺泰勒	du nuo tai le
-杜普里	du pu li
 杜万泰特	du wan tai te
-段成龙	duan cheng long
 段江鹏	duan jiang peng
 短暂停	duan zan ting
-多雷尔	duo lei er
-多雷尔赖特	duo lei er lai te
-多列亚克	duo lie ya ke
-多伦多爱斯基摩人	duo lun duo ai si ji mo ren
-多伦多爱斯基摩人队	duo lun duo ai si ji mo ren dui
-多伦多猛龙	duo lun duo meng long
-多米尼克麦克奎尔	duo mi ni ke mai ke kui er
 多尼帕克	duo ni pa ke
-俄超	e chao
-厄尔巴龙	e er ba long
 厄尔博伊金斯	e er bo yi jin si
 厄尔沃特森	e er wo te sen
 俄克拉荷马雷霆	e ke la he ma lei ting
-俄罗斯超级联赛	e luo si chao ji lian sai
-俄罗斯篮球超级联赛	e luo si lan qiu chao ji lian sai
-俄罗斯希姆基	e luo si xi mu ji
-恶性犯规	e xing fan gui
-恶意犯规	e yi fan gui
-二号位置球员	er hao wei zhi qiu yuan
 二三联防	er san lian fang
-二十秒钟的暂停	er shi miao zhong de zan ting
-二十四秒内必须投篮	er shi si miao nei bi xu tou lan
 二运	er yun
 二中锋	er zhong feng
 法布里西奥奥博托	fa bu li xi ao ao bo tuo
-法布瑞斯尔	fa bu rui si er
-法布瑞斯尔奥博托	fa bu rui si er ao bo tuo
-法尔顿	fa er dun
-法国阿斯维尔	fa guo a si wei er
-法国奥尔良	fa guo ao er liang
-法国保奥希斯	fa guo bao ao xi si
-法国第戎	fa guo di rong
-法国格雷文莱恩斯	fa guo ge lei wen lai en si
-法国甲级联赛	fa guo jia ji lian sai
-法国克莱蒙	fa guo ke lai meng
-法国篮球甲级联赛	fa guo lan qiu jia ji lian sai
-法国勒阿弗尔	fa guo le a fu er
-法国勒芒	fa guo le mang
-法国罗昂	fa guo luo ang
-法国南锡	fa guo nan xi
-法国绍莱	fa guo shao lai
-法国斯特拉斯堡	fa guo si te la si bao
-法国索恩河畔沙隆	fa guo suo en he pan sha long
-法国维希	fa guo wei xi
-法国耶尔土伦	fa guo ye er tu lun
-法兰克福欧宝客机	fa lan ke fu ou bao ke ji
 法利克斯	fa li ke si
-发球	fa qiu
-罚球	fa qiu
-罚球进攻篮板球	fa qiu jin gong lan ban qiu
-罚球命中率	fa qiu ming zhong lv
-罚球圈	fa qiu quan
-发球入场	fa qiu ru chang
 发球五秒违例	fa qiu wu miao wei li
-罚球线	fa qiu xian
 范埃克塞尔	fan ai ke sai er
 范斌	fan bin
-犯规	fan gui
-犯规动作	fan gui dong zuo
-犯规满	fan gui man
-犯规满离场	fan gui man li chang
-犯规战术	fan gui zhan shu
 范霍恩	fan huo en
 反篮	fan lan
-犯满离场	fan man li chang
 反手上篮	fan shou shang lan
-反手走篮	fan shou zou lan
 反弹球	fan tan qiu
 翻腕	fan wan
-范兆宇	fan zhao yu
-房辉	fang hui
 防守第二阵容	fang shou di er zhen rong
 防守第一阵容	fang shou di yi zhen rong
-防守犯规	fang shou fan gui
-防守方干扰投篮得分	fang shou fang gan rao tou lan de fen
 防守干扰	fang shou gan rao
-防守篮板	fang shou lan ban
-防守篮板球	fang shou lan ban qiu
-防守球员	fang shou qiu yuan
 防守三秒	fang shou san miao
 防守三秒违例	fang shou san miao wei li
-防守违例	fang shou wei li
-费城七六人	fei cheng qi liu ren
-费城七六人队	fei cheng qi liu ren dui
-费城七十六人	fei cheng qi shi liu ren
-费城七十六人队	fei cheng qi shi liu ren dui
 费城人	fei cheng ren
-费城武士	fei cheng wu shi
-费城武士队	fei cheng wu shi dui
-飞利浦斯	fei li pu si
-飞利浦斯球场	fei li pu si qiu chang
-费内巴切乌尔克	fei nei ba qie wu er ke
-菲尼克斯太阳	fei ni ke si tai yang
-费舍尔	fei she er
-费申科	fei shen ke
 飞身扣篮	fei shen kou lan
 费泽尔	fei ze er
-费兹卡斯	fei zi ka si
-芬利	fen li
 分区冠军	fen qu guan jun
 分区决赛	fen qu jue sai
-丰磊	feng lei
-蜂鸣器	feng ming qi
 冯祺	feng qi
-丰田中心	feng tian zhong xin
-丰田中心球馆	feng tian zhong xin qiu guan
 锋卫摇摆人	feng wei yao bai ren
-锋线	feng xian
 富邦	fu bang
-弗恩拉布拉达	fu en la bu la da
-福建鲟	fu jian xun
-福建鲟队	fu jian xun dui
 福建浔兴	fu jian xun xing
 弗拉姆	fu la mu
-弗朗西斯	fu lang xi si
-弗朗西斯科埃尔森	fu lang xi si ke ai er sen
-弗朗西斯科贾奇	fu lang xi si ke jia qi
 弗朗西斯科加西亚	fu lang xi si ke jia xi ya
-弗雷德琼斯	fu lei de qiong si
-福利特中心	fu li te zhong xin
-福利特中心球馆	fu li te zhong xin qiu guan
-付庆飞	fu qing fei
-弗瑞斯贝	fu rui si bei
-福特	fu te
 福特森	fu te sen
-弗耶	fu ye
-福伊尔	fu yi er
-盖火锅	gai huo guo
 盖火锅儿	gai huo guo er
-盖帽	gai mao
 盖帽王	gai mao wang
 盖伊	gai yi
 干拔	gan ba
-干扰球	gan rao qiu
-干扰投篮得分	gan rao tou lan de fen
-冈德	gang de
-冈德体育馆	gang de ti yu guan
-戈登	ge deng
-戈登吉里塞克	ge deng ji li sai ke
-格拉汉姆	ge la han mu
-格兰尔德	ge lan er de
-格兰尔德格林	ge lan er de ge lin
-格兰格	ge lan ge
 格兰杰	ge lan jie
-格兰特希尔	ge lan te xi er
 格雷戈奥登	ge lei ge ao deng
-格雷格奥登	ge lei ge ao deng
-格雷格巴克纳	ge lei ge ba ke na
-格雷文莱恩斯	ge lei wen lai en si
-格林	ge lin
-格伦戴维斯	ge lun dai wei si
-戈麦斯	ge mai si
-格蒙登斯沃恩斯	ge meng deng si wo en si
-个人犯规	ge ren fan gui
-戈塔特	ge ta te
-各种统计术语	ge zhong tong ji shu yu
-各种投篮方式	ge zhong tou lan fang shi
-更衣室	geng yi shi
 宫鲁鸣	gong lu ming
-公牛	gong niu
-龚松林	gong song lin
 巩晓彬	gong xiao bin
-钩射投篮	gou she tou lan
 勾手	gou shou
-古登	gu deng
-谷立业	gu li ye
-灌篮	guan lan
-广东宏远	guang dong hong yuan
-广东宏远队	guang dong hong yuan dui
-广东华南虎	guang dong hua nan hu
-广东华南虎队	guang dong hua nan hu dui
 广汇飞虎	guang hui fei hu
-广厦队	guang sha dui
-广厦建设队	guang sha jian she dui
 贵军	gui jun
 规则篇	gui ze pian
-国际篮球联合会	guo ji lan qiu lian he hui
-国家篮球联盟	guo jia lan qiu lian meng
-国家篮球协会	guo jia lan qiu xie hui
-郭磊	guo lei
 郭士强	guo shi qiang
-国王	guo wang
 哈达迪	ha da di
-哈达威	ha da wei
-哈弗里斯	ha fu li si
 哈基姆奥拉朱旺	ha ji mu ao la zhu wang
-哈基姆瓦里克	ha ji mu wa li ke
-哈里斯	ha li si
-哈灵顿	ha ling dun
-哈卢卡斯	ha lu ka si
-哈普尔加里勒昂	ha pu er jia li le ang
 哈普林	ha pu lin
-哈普灵	ha pu ling
-哈塞尔	ha sai er
-哈斯勒姆	ha si le mu
-哈瓦里斯	ha wa li si
-哈瓦里斯克里特顿	ha wa li si ke li te dun
-哈耶斯	ha ye si
-海德	hai de
-海默法尔姆	hai mo fa er mu
-海伍德	hai wu de
-海耶斯	hai ye si
 韩德君	han de jun
-韩磊	han lei
-汉密尔顿	han mi er dun
-韩硕	han shuo
-汉斯队	han si dui
-汉泽瓦斯特	han ze wa si te
-何奔	he ben
 赫伯特希尔	he bo te xi er
-赫尔维拉米扎纳	he er wei la mi zha na
-荷兰丹博施埃菲尔塔	he lan dan bo shi ai fei er ta
-荷兰汉泽瓦斯特	he lan han ze wa si te
-赫罗纳阿卡斯瓦伊	he luo na a ka si wa yi
 何塞卡尔德隆	he sai ka er de long
 何升镇	he sheng zhen
 核心球员	he xin qiu yuan
-亨特	heng te
-宏远	hong yuan
-轰炸机	hong zha ji
-轰炸机队	hong zha ji dui
 后备队员	hou bei dui yuan
-候冰	hou bing
 后部阵容	hou bu zhen rong
-后场	hou chang
-后卫组	hou wei zu
-后仰式跳投	hou yang shi tiao tou
 后仰跳投	hou yang tiao tou
-后仰投篮	hou yang tou lan
-胡安	hu an
 胡安迪克森	hu an di ke sen
-胡安卡洛斯纳瓦罗	hu an ka luo si na wa luo
 弧顶	hu ding
-胡光	hu guang
-胡克	hu ke
-湖人	hu ren
 胡卫东	hu wei dong
-胡雪峰	hu xue feng
-华莱士	hua lai shi
-华盛顿国会	hua sheng dun guo hui
-华盛顿国会队	hua sheng dun guo hui dui
-华盛顿华盛顿国会	hua sheng dun hua sheng dun guo hui
-华盛顿华盛顿国会队	hua sheng dun hua sheng dun guo hui dui
-华盛顿奇才	hua sheng dun qi cai
 华盛顿子弹	hua sheng dun zi dan
-怀特	huai te
-换人	huan ren
 换手上篮	huan shou shang lan
-换手运球	huan shou yun qiu
 晃动	huang dong
-黄蜂	huang feng
-灰熊	hui xiong
-汇中队	hui zhong dui
-霍弗德	huo fu de
 霍福德	huo fu de
-霍华德	huo hua de
 霍吉	huo ji
-火箭	huo jian
-霍里	huo li
-霍林斯	huo lin si
-活塞	huo sai
-吉布森	ji bu sen
-积臣	ji chen
-基德	ji de
 吉登斯	ji deng si
-吉尔伯特阿里纳斯	ji er bo te a li na si
-吉尔福德热火	ji er fu de re huo
 吉尔斯	ji er si
-记分台	ji fen tai
-季后赛	ji hou sai
-吉拉巴勒	ji la ba le
-季乐	ji le
-基利科沃尔	ji li ke wo er
-基里连科	ji li lian ke
-基里洛费申科	ji li luo fei shen ke
-吉里塞克	ji li sai ke
 吉林搏啸	ji lin bo xiao
-吉林东北虎	ji lin dong bei hu
-吉林东北虎队	ji lin dong bei hu dui
-吉林通钢	ji lin tong gang
-吉林通钢队	ji lin tong gang dui
-记录台	ji lu tai
 吉姆杰克逊	ji mu jie ke xun
-吉诺比利	ji nuo bi li
 季前赛	ji qian sai
-季赛	ji sai
-吉森阿维托斯	ji sen a wei tuo si
-技术犯规	ji shu fan gui
-技术统计	ji shu tong ji
-基斯博甘斯	ji si bo gan si
 基斯范霍恩	ji si fan huo en
 急停跳投	ji ting tiao tou
-基翁杜林	ji weng du lin
 吉喆	ji zhe
 贾巴尔	jia ba er
-贾巴尤萨	jia ba you sa
-加比普瑞特	jia bi pu rui te
-嘉伯	jia bo
-嘉伯莫内特	jia bo mo nei te
-假动作	jia dong zuo
-贾里德杜德利	jia li de du de li
-加里蒂	jia li di
-加里佩顿	jia li pei dun
-贾里奇	jia li qi
-贾伦科林斯	jia lun ke lin si
-贾马尔	jia ma er
-贾马尔克劳福德	jia ma er ke lao fu de
-贾马尔马格洛伊尔	jia ma er ma ge luo yi er
 贾马尔桑普森	jia ma er sang pu sen
-贾马尔汀斯利	jia ma er ting si li
-贾马里奥	jia ma li ao
-贾马里奥穆恩	jia ma li ao mu en
-贾米森	jia mi sen
-加拿大航空中心	jia na da hang kong zhong xin
-加拿大航空中心球场	jia na da hang kong zhong xin qiu chang
 伽奈特	jia nai te
-贾楠	jia nan
-加内特	jia nei te
 加内特汤普森	jia nei te tang pu sen
-贾瑞德杰弗里斯	jia rui de jie fu li si
-贾森哈特	jia sen ha te
-贾森基德	jia sen ji de
-贾森卡波诺	jia sen ka bo nuo
-贾森科林斯	jia sen ke lin si
-贾森理查德森	jia sen li cha de sen
-贾森马克希尔	jia sen ma ke xi er
-贾森史密斯	jia sen shi mi si
-贾森特里	jia sen te li
-贾森威廉姆斯	jia sen wei lian mu si
-加时赛	jia shi sai
 贾斯科维休斯	jia si ke wei xiu si
-贾斯汀布朗	jia si ting bu lang
 贾斯汀里德	jia si ting li de
-贾斯汀威廉姆斯	jia si ting wei lian mu si
-加索尔	jia suo er
-贾维斯海耶斯	jia wei si hai ye si
-加祖里奇	jia zu li qi
-简尼诺帕科	jian ni nuo pa ke
-江苏大华队	jiang su da hua dui
 江苏德玛斯特	jiang su de ma si te
-江苏龙	jiang su long
-江苏龙队	jiang su long dui
 江苏南钢	jiang su nan gang
 蒋兴权	jiang xing quan
 杰夫福斯特	jie fu fu si te
-杰弗福斯特	jie fu fu si te
-杰夫格林	jie fu ge lin
-杰夫麦金尼斯	jie fu mai jin ni si
-杰弗森	jie fu sen
-杰弗逊	jie fu xun
-杰克	jie ke
 杰克巴特勒	jie ke ba te le
 杰克查卡利迪斯	jie ke cha ka li di si
-捷克尼姆波克	jie ke ni mu bo ke
-杰克沃斯库尔	jie ke wo si ku er
-杰克逊	jie ke xun
 杰拉德格林	jie la de ge lin
 杰拉德华莱士	jie la de hua lai shi
-杰拉尔德华莱士	jie la er de hua lai shi
 杰里卢卡斯	jie li lu ka si
-杰里斯塔克豪斯	jie li si ta ke hao si
 杰伦罗斯	jie lun luo si
-杰罗姆詹姆斯	jie luo mu zhan mu si
-杰马里奥	jie ma li ao
-杰马里奥戴维森	jie ma li ao dai wei sen
-杰梅因奥尼尔	jie mei yin ao ni er
-杰米尔	jie mi er
-杰米尔尼尔森	jie mi er ni er sen
-杰姆森	jie mu sen
-杰瑞特杰克	jie rui te jie ke
 杰森哈特	jie sen ha te
 杰森基德	jie sen ji de
 杰森卡波诺	jie sen ka bo nuo
@@ -7305,1189 +6462,333 @@ use_preset_vocabulary: true
 杰森麦克希尔	jie sen mai ke xi er
 杰森桑普森	jie sen sang pu sen
 杰森特里	jie sen te li
-接应	jie ying
 进攻八秒秒违例	jin gong ba miao miao wei li
 进攻超时	jin gong chao shi
 进攻二十四秒违例	jin gong er shi si miao wei li
 进攻犯规	jin gong fan gui
-进攻方干扰投篮得分	jin gong fang gan rao tou lan de fen
 进攻篮板	jin gong lan ban
 进攻篮板球	jin gong lan ban qiu
-进攻球员	jin gong qiu yuan
 进攻三秒	jin gong san miao
-进攻违例	jin gong wei li
-金立鹏	jin li peng
 晋龙	jin long
-禁区	jin qu
 禁赛	jin sai
-金隅	jin yu
-金隅队	jin yu dui
-金州勇士	jin zhou yong shi
-金字塔球场	jin zi ta qiu chang
 精神领袖	jing shen ling xiu
-鞠鹏	ju peng
-掘金	jue jin
 绝杀	jue sha
-爵士	jue shi
 卡巴卡帕	ka ba ka pa
-卡波诺	ka bo nuo
-卡迪纳尔	ka di na er
-卡蒂诺莫布里	ka di nuo mo bu li
 卡尔伯特切尼	ka er bo te qie ni
-卡尔迪伦	ka er di lun
-卡尔兰德里	ka er lan de li
-卡尔朗德里	ka er lang de li
 卡尔马龙	ka er ma long
-卡尔文布斯	ka er wen bu si
-卡尔文迈尔斯	ka er wen mai er si
-卡勒夫	ka le fu
-卡里姆拉什	ka li mu la shi
 卡隆巴特勒	ka long ba te le
-卡龙巴特勒	ka long ba te le
-卡洛斯阿罗约	ka luo si a luo yue
-卡洛斯布泽尔	ka luo si bu ze er
-卡洛斯德尔菲诺	ka luo si de er fei nuo
-卡曼	ka man
-卡梅隆安东尼	ka mei long an dong ni
-卡那里亚	ka na li ya
-卡塞尔	ka sai er
-卡特	ka te
-卡位	ka wei
 凯尔科沃尔	kai er ke wo er
-凯尔罗里	kai er luo li
 凯尔洛瑞	kai er luo rui
-凯尔特人	kai er te ren
-凯利威特尼	kai li wei te ni
-凯赛尔江	kai sai er jiang
 凯斯克劳斯	kai si ke lao si
 凯斯迈克里奥德	kai si mai ke li ao de
-开拓者	kai tuo zhe
-凯文奥利	kai wen ao li
 凯文博列森	kai wen bo lie sen
-凯文杜兰特	kai wen du lan te
-凯文加内特	kai wen jia nei te
 凯文卡托	kai wen ka tuo
 凯文乐福	kai wen le fu
-凯文马丁	kai wen ma ding
 凯文麦克海尔	kai wen mai ke hai er
-坎比	kan bi
-考比卡尔	kao bi ka er
-考那斯萨尔吉利斯	kao na si sa er ji li si
-科比	ke bi
-科比布莱恩特	ke bi bu lai en te
-客场比赛	ke chang bi sai
-客队	ke dui
-科尔克斯耐德	ke er ke si nai de
-克尔斯蒂奇	ke er si di qi
-柯克辛里奇	ke ke xin li qi
 科克辛里奇	ke ke xin li qi
-克拉克斯顿	ke la ke si dun
 克莱格史密斯	ke lai ge shi mi si
-克劳福德	ke lao fu de
-克雷格史密斯	ke lei ge shi mi si
-科里布鲁尔	ke li bu lu er
-克利夫兰叛逆者	ke li fu lan pan ni zhe
-克利夫兰叛逆者队	ke li fu lan pan ni zhe dui
-克里夫兰骑士	ke li fu lan qi shi
-克里夫兰骑士队	ke li fu lan qi shi dui
 克利福罗宾逊	ke li fu luo bin xun
-科里马盖蒂	ke li ma gai di
-科里森	ke li sen
 克里斯安德森	ke li si an de sen
-克里斯保罗	ke li si bao luo
-克里斯伯什	ke li si bo shen
-克里斯波什	ke li si bo shen
 克里斯波特	ke li si bo te
 克里斯道格拉斯罗伯茨	ke li si dao ge la si luo bo ci
-克里斯杜洪	ke li si du hong
-克里斯哈弗里斯	ke li si ha fu li si
-克里斯卡曼	ke li si ka man
-克里斯理查德	ke li si li cha de
-克里斯米姆	ke li si mi mu
 克里斯穆林	ke li si mu lin
 克里斯塔夫特	ke li si ta fu te
-克里斯韦伯	ke li si wei bo
-克里斯韦尔考克斯	ke li si wei er kao ke si
-科利斯威廉姆森	ke li si wei lian mu sen
-克里特顿	ke li te dun
 克里威廉姆斯	ke li wei lian mu si
-科隆九九人	ke long jiu jiu ren
-科隆九十九人	ke long jiu shi jiu ren
-克伦纳	ke lun na
-克伦纳阿祖布克	ke lun na a zu bu ke
-克罗地亚扎达尔	ke luo di ya zha da er
 科罗勒夫	ke luo le fu
-克罗希尔	ke luo xi er
-科斯塔佩罗维奇	ke si ta pei luo wei qi
-科特尼	ke te ni
-科特尼希姆斯	ke te ni xi mu si
-柯特托马斯	ke te tuo ma si
 科特托马斯	ke te tuo ma si
-科沃尔	ke wo er
-科西雅各布森	ke xi ya ge bu sen
-肯德里克	ken de li ke
-肯德里克帕金斯	ken de li ke pa jin si
-肯尼托马斯	ken ni tuo ma si
-肯塞	ken sai
 肯扬杜林	ken yang du lin
-肯扬马丁	ken yang ma ding
-肯约翰逊	ken yue han xun
 空切	kong qie
-控球后卫	kong qiu hou wei
 空心	kong xin
-空心球	kong xin qiu
-空心球入篮	kong xin qiu ru lan
 空中灌篮	kong zhong guan lan
 空中配合	kong zhong pei he
 扣篮	kou lan
 扣篮大赛	kou lan da sai
 扣篮王	kou lan wang
-夸梅布朗	kua mei bu lang
-胯下运球	kua xia yun qiu
-快船	kuai chuan
-快攻	kuai gong
-快攻时长传	kuai gong shi chang chuan
-快艇	kuai ting
-快要犯满离场	kuai yao fan man li chang
 匡鲁彬	kuang lu bin
-狂猛灌篮	kuang meng guan lan
 奎恩特伍兹	kui en te wu zi
 奎因	kui yin
-昆廷理查德森	kun ting li cha de sen
-昆廷罗斯	kun ting luo si
-昆西道比	kun xi dao bi
-拉德马诺维奇	la de ma nuo wei qi
-拉多斯拉夫	la duo si la fu
 拉菲尔阿尔斯通	la fei er a er si tong
 拉菲尔阿劳约	la fei er a lao yue
-拉夫阿尔斯通	la fu a er si tong
-拉弗伦茨	la fu lun ci
 拉杆	la gan
-拉杆式投篮	la gan shi tou lan
 拉杆投篮	la gan tou lan
-拉加贝尔	la jia bei er
-拉简	la jian
-拉简朗多	la jian lang duo
 拉开单打	la kai dan da
 拉里伯德	la li bo de
-拉里休斯	la li xiu si
 拉伦斯罗伯特斯	la lun si luo bo te si
-拉马尔	la ma er
-拉马尔奥多姆	la ma er ao duo mu
 拉玛尔奥多姆	la ma er ao duo mu
-拉马库斯	la ma ku si
-拉马库斯阿尔德里奇	la ma ku si a er de li qi
 拉蒙德穆雷	la meng de mu lei
-拉蒙塞申斯	la meng sai shen si
-拉米扎纳	la mi zha na
 拉塞尔韦斯特布鲁克	la sai er wei si te bu lu ke
-拉沙德刘易斯	la sha de liu yi si
 拉沙德麦坎茨	la sha de mai kan ci
-拉什	la shi
-拉手犯规	la shou fan gui
 拉苏巴特勒	la su ba te le
 拉特里夫	la te li fu
-拉特利夫	la te li fu
-拉脱维亚里加	la tuo wei ya li jia
-拉脱维亚文斯比尔斯	la tuo wei ya wen si bi er si
-拉希德	la xi de
-拉希德华莱士	la xi de hua lai shi
-拉希德麦肯茨	la xi de mai ken ci
-拉希姆	la xi mu
-拉休巴特勒	la xiu ba te le
 莱昂德罗巴博萨	lai ang de luo ba bo sa
-莱恩波维	lai en bo wei
-赖特	lai te
-篮板	lan ban
-篮板球	lan ban qiu
-兰德里	lan de li
 懒得理	lan de li
-兰迪弗耶	lan di fu ye
-兰多夫	lan duo fu
-兰多夫莫里斯	lan duo fu mo li si
 篮架	lan jia
-篮筐	lan kuang
-篮球联盟	lan qiu lian meng
-篮球联赛	lan qiu lian sai
-篮球术语	lan qiu shu yu
-篮球运动管理中心	lan qiu yun dong guan li zhong xin
-篮圈	lan quan
-篮外空心球	lan wai kong xin qiu
-篮网	lan wang
-篮下	lan xia
-篮下卡位	lan xia ka wei
-篮下三秒钟	lan xia san miao zhong
-朗德里	lang de li
-朗多	lang duo
-老鸟	lao niao
-老鸟球员	lao niao qiu yuan
-老鹰	lao ying
-勒布朗詹姆斯	le bu lang zhan mu si
-雷阿伦	lei a lun
 雷布拉卡	lei bu la ka
-雷迪克	lei di ke
-雷吉埃文斯	lei ji ai wen si
-雷蒙德法尔顿	lei meng de fa er dun
 雷蒙德费尔顿	lei meng de fei er dun
-雷纳德巴克曼	lei na de ba ke man
-雷纳德克尔斯蒂奇	lei na de ke er si di qi
 雷霆	lei ting
 里安安德森	li an an de sen
 里安戈麦斯	li an ge mai si
-里安霍林斯	li an huo lin si
 李本森	li ben sen
 里查德弗拉姆	li cha de fu la mu
-理查德汉密尔顿	li cha de han mi er dun
-理查德杰弗森	li cha de jie fu sen
-理查德森	li cha de sen
-里德	li de
-里德诺	li de nuo
-立定投篮	li ding tou lan
-里夫拉弗伦茨	li fu la fu lun ci
 李冈风	li gang feng
 李根	li gen
-李光	li guang
-李航	li hang
-李厚银	li hou yin
-里基戴维斯	li ji dai wei si
-李建周	li jian zhou
 李敬宇	li jing yu
-李俊	li jun
-李克	li ke
-李可	li ke
 里克巴里	li ke ba li
 里克布伦森	li ke bu lun sen
-李林	li lin
-李萌	li meng
 李明刚	li ming gang
-李纳斯科雷萨	li na si ke lei sa
-李楠	li nan
 李胜俊	li sheng jun
 里斯亚历山大	li si ya li shan da
-李涛	li tao
-立陶宛维尔纽斯	li tao wan wei er niu si
-立陶宛希奥利埃	li tao wan xi ao li ai
-里替索尔索尼卡	li ti suo er suo ni ka
-利文斯顿	li wen si dun
-李翔	li xiang
-李晓旭	li xiao xu
 李亚光	li ya guang
-李一丁	li yi ding
 连败	lian bai
-连败场数	lian bai chang shu
-连败纪录	lian bai ji lu
-联合中心	lian he zhong xin
-联合中心球馆	lian he zhong xin qiu guan
 连胜	lian sheng
-连胜场数	lian sheng chang shu
-连胜纪录	lian sheng ji lu
-连续不胜场数	lian xu bu sheng chang shu
-连续不胜记录	lian xu bu sheng ji lu
-两次运球	liang ci yun qiu
 梁飞	liang fei
-两分球	liang fen qiu
 两人包夹	liang ren bao jia
-两双	liang shuang
-梁伟	liang wei
-辽宁猎人	liao ning lie ren
-辽宁猎人队	liao ning lie ren dui
-辽宁盼盼	liao ning pan pan
-辽宁盼盼队	liao ning pan pan dui
-猎鹰队	lie ying dui
-林晨耀	lin chen yao
-林德罗	lin de luo
-林德罗巴博萨	lin de luo ba bo sa
 林顿约翰逊三世	lin dun yue han xun san shi
-林赛亨特	lin sai heng te
 林书豪	lin shu hao
-领到一张准毕业证书	ling dao yi zhang zhun bi ye zheng shu
 领接球	ling jie qiu
-领先球队	ling xian qiu dui
 领袖球员	ling xiu qiu yuan
-柳别尔齐胜利者	liu bie er qi sheng li zhe
 溜底线	liu di xian
-刘昊	liu hao
-刘久龙	liu jiu long
 刘明涛	liu ming tao
-柳鹏	liu peng
-刘炜	liu wei
-柳伟	liu wei
-刘维伟	liu wei wei
-刘相韬	liu xiang tao
-刘晓宇	liu xiao yu
 刘亚晖	liu ya hui
 刘尧	liu yao
-刘易斯	liu yi si
 刘玉栋	liu yu dong
 刘子秋	liu zi qiu
-娄延东	lou yan dong
-鲁本帕特森	lu ben pa te sen
-卢布尔雅纳	lu bu er ya na
 鲁迪费尔南德斯	lu di fei er nan de si
-鲁迪盖	lu di gai
 鲁迪盖伊	lu di gai yi
 卢卡斯三世	lu ka si san shi
-卢考伊学院	lu kao yi xue yuan
 卢克杰克逊	lu ke jie ke xun
-鲁克里德诺	lu ke li de nuo
 卢可明	lu ke ming
-卢克沃顿	lu ke wo dun
-卢瑟	lu se
-卢瑟海德	lu se hai de
-卢伟	lu wei
-路遥	lu yao
-路易斯斯科拉	lu yi si si ke la
-路易斯威廉姆斯	lu yi si wei lian mu si
 轮转换位	lun zhuan huan wei
-罗比乔伊诺	luo bi qiao yi nuo
 罗宾洛佩兹	luo bin luo pei zi
-罗宾逊	luo bin xun
-罗伯特霍里	luo bo te huo li
 罗伯特帕里什	luo bo te pa li shen
 罗伯特森	luo bo te sen
 罗伯特斯	luo bo te si
-罗伯特斯威福特	luo bo te si wei fu te
-罗德里格斯	luo de li ge si
 罗德尼怀特	luo de ni huai te
-罗德尼卡内	luo de ni ka nei
 罗德尼卡尼	luo de ni ka ni
-罗德尼斯塔基	luo de ni si ta ji
-罗恩阿泰斯特	luo en a tai si te
-罗尔邓	luo er deng
-罗格马森	luo ge ma sen
 罗杰梅森	luo jie mei sen
-罗克乌基奇	luo ke wu ji qi
-洛伦岑	luo lun cen
-洛伦岑赖特	luo lun cen lai te
-洛伦伍兹	luo lun wu zi
-罗马罗托马蒂卡	luo ma luo tuo ma di ka
-罗马尼亚阿斯索夫特	luo ma ni ya a si suo fu te
-罗纳德杜普雷	luo na de du pu lei
-罗纳德杜普里	luo na de du pu li
-罗纳德穆雷	luo na de mu lei
-罗尼布鲁尔	luo ni bu lu er
-罗尼普莱斯	luo ni pu lai si
-罗尼图里亚夫	luo ni tu li ya fu
-洛杉矶湖人	luo shan ji hu ren
-洛杉矶快船	luo shan ji kuai chuan
-洛杉矶快船队	luo shan ji kuai chuan dui
-罗斯	luo si
-罗旭东	luo xu dong
-罗伊	luo yi
 罗伊埃维	luo yi ai wei
-罗伊尔伊沃伊	luo yi er yi wo yi
 罗伊希伯特	luo yi xi bo te
-罗智	luo zhi
-吕晓明	lv xiao ming
-吕岩	lv yan
-马布里	ma bu li
-马刺	ma ci
-马德里埃斯图典特斯	ma de li ai si tu dian te si
-马蒂科林斯	ma di ke lin si
-马丁	ma ding
-马尔库斯威廉姆斯	ma er ku si wei lian mu si
 马尔文威廉姆斯	ma er wen wei lian mu si
-马尔辛	ma er xin
-马尔辛戈塔特	ma er xin ge ta te
-马盖蒂	ma gai di
-马格洛伊尔	ma ge luo yi er
 马健	ma jian
-马克贝里内利	ma ke bei li nei li
 马科贝里内利	ma ke bei li nei li
 马可波罗	ma ke bo luo
-马克布朗特	ma ke bu lang te
-马科贾里奇	ma ke jia li qi
 马克加索尔	ma ke jia suo er
 马克马德森	ma ke ma de sen
-马克麦德森	ma ke mai de sen
-马克希尔	ma ke xi er
-马库斯班克斯	ma ku si ban ke si
 马库斯费泽尔	ma ku si fei ze er
-马库斯坎比	ma ku si kan bi
 马库斯威廉姆斯	ma ku si wei lian mu si
-马库斯文尼西斯	ma ku si wen ni xi si
-马奎斯丹尼尔斯	ma kui si dan ni er si
-马里昂	ma li ang
-马里奥韦斯特	ma li ao wei si te
-马里克阿伦	ma li ke a lun
-马里克罗斯	ma li ke luo si
-马努吉诺比利	ma nu ji nuo bi li
-马绍尔	ma shao er
 马特巴恩斯	ma te ba en si
-马特巴内斯	ma te ba nei si
 马特邦纳	ma te bang na
-马特博纳尔	ma te bo na er
-马特尔韦伯斯特	ma te er wei bo si te
 马特哈普林	ma te ha pu lin
-马特哈普灵	ma te ha pu ling
-马特卡洛	ma te ka luo
 马特卡罗尔	ma te ka luo er
-马文威廉姆斯	ma wen wei lian mu si
-马西奥巴斯顿	ma xi ao ba si dun
 马西耶兰佩	ma xi ye lan pei
 迈阿密热	mai a mi re
-迈阿密热火	mai a mi re huo
 麦蒂	mai di
-麦迪逊广场	mai di xun guang chang
-麦迪逊广场花园	mai di xun guang chang hua yuan
-迈尔斯	mai er si
-麦格雷迪	mai ge lei di
-麦葛瑞迪	mai ge rui di
-麦金尼斯	mai jin ni si
-麦卡布兰迪	mai ka bu lan di
 迈卡蒂	mai ka di
 迈克毕比	mai ke bi bi
-麦克毕比	mai ke bi bi
-麦克戴斯	mai ke dai si
 迈克邓利维	mai ke deng li wei
-麦克邓利维	mai ke deng li wei
 迈克尔奥洛沃坎迪	mai ke er ao luo wo kan di
 迈克尔比斯利	mai ke er bi si li
-迈克尔多列亚克	mai ke er duo lie ya ke
-迈克尔芬利	mai ke er fen li
-迈克尔吉拉巴勒	mai ke er ji la ba le
-迈克尔里德	mai ke er li de
-迈克尔皮特鲁斯	mai ke er pi te lu si
-迈克尔乔丹	mai ke er qiao dan
 迈克尔斯维特尼	mai ke er si wei te ni
-麦克格雷迪	mai ke ge lei di
 迈克哈里斯	mai ke ha li si
 麦克海尔	mai ke hai er
 迈克康利	mai ke kang li
-麦克康利	mai ke kang li
-麦克奎尔	mai ke kui er
 迈克里奥德	mai ke li ao de
-迈克鲁芬	mai ke lu fen
-麦克罗伯茨	mai ke luo bo ci
 迈克米勒	mai ke mi le
-麦克米勒	mai ke mi le
 迈克泰勒	mai ke tai le
-麦克图科	mai ke tu ke
 迈克威尔金斯	mai ke wei er jin si
-麦克维尔克斯	mai ke wei er ke si
 迈克詹姆斯	mai ke zhan mu si
-麦克詹姆斯	mai ke zhan mu si
-麦肯茨	mai ken ci
-曼雷沙	man lei sha
 曼努吉诺比利	man nu ji nuo bi li
 梅奥	mei ao
 没道德	mei dao de
-梅尔文埃里	mei er wen ai li
-梅尔文埃利	mei er wen ai li
-玫瑰花园球馆	mei gui hua yuan qiu guan
-美国大陆篮球协会	mei guo da lu lan qiu xie hui
-美国大学生运动协会	mei guo da xue sheng yun dong xie hui
-美国大学运动协会	mei guo da xue yun dong xie hui
-美国高中篮球联赛	mei guo gao zhong lan qiu lian sai
-美国国家篮球联盟	mei guo guo jia lan qiu lian meng
-美国国家篮球协会	mei guo guo jia lan qiu xie hui
-美国航空中心	mei guo hang kong zhong xin
-美国航空中心球场	mei guo hang kong zhong xin qiu chang
-美国篮球协会	mei guo lan qiu xie hui
-美国业余篮球联盟	mei guo ye yu lan qiu lian meng
-美国职篮联盟	mei guo zhi lan lian meng
-美国职业篮球联盟	mei guo zhi ye lan qiu lian meng
-美航球馆	mei hang qiu guan
-梅米特	mei mi te
-梅米特奥库	mei mi te ao ku
-梅诺卡	mei nuo ka
-梅森	mei sen
-美西球馆	mei xi qiu guan
-美洲篮球联合会	mei zhou lan qiu lian he hui
-美洲联盟杯	mei zhou lian meng bei
-美洲联赛	mei zhou lian sai
-美洲男篮锦标赛	mei zhou nan lan jin biao sai
-门维	men wei
-孟达	meng da
-孟铎	meng duo
-孟菲斯灰熊	meng fei si hui xiong
-孟菲斯灰熊队	meng fei si hui xiong dui
-猛龙	meng long
 蒙塔埃利斯	meng ta ai li si
-孟塔伊利斯	meng ta yi li si
-蒙特格拉纳罗	meng te ge la na luo
-米尔萨普	mi er sa pu
 米尔特帕勒西奥	mi er te pa le xi ao
-密尔沃基雄鹿	mi er wo ji xiong lu
-米基	mi ji
-米基莫尔	mi ji mo er
-米兰阿玛尼	mi lan a ma ni
-米勒	mi le
-米里西奇	mi li xi qi
 米利西奇	mi li xi qi
-米姆	mi mu
 明尼苏达湖人	ming ni su da hu ren
-明尼苏达森林狼	ming ni su da sen lin lang
-明尼苏达森林狼队	ming ni su da sen lin lang dui
 名人堂	ming ren tang
-命中率	ming zhong lv
-缪寿守	miu shou shou
-莫布里	mo bu li
-莫科	mo ke
-莫里森	mo li sen
-莫里斯阿尔蒙德	mo li si a er meng de
-莫里斯艾格尔	mo li si ai ge er
-莫里斯艾文斯	mo li si ai wen si
 莫里斯埃文斯	mo li si ai wen si
-莫里斯皮特森	mo li si pi te sen
 莫里斯泰勒	mo li si tai le
 莫里斯威廉姆斯	mo li si wei lian mu si
-莫内特	mo nei te
-莫宁	mo ning
-莫瑞斯威廉姆斯	mo rui si wei lian mu si
-魔术	mo shu
 魔术师约翰逊	mo shu shi yue han xun
 摩西马龙	mo xi ma long
 姆本加	mu ben jia
-穆恩	mu en
-穆尔西亚	mu er xi ya
-木拉提阿地里江	mu la ti a di li jiang
-穆雷	mu lei
-牡鹿	mu lu
-姆鹏加	mu peng jia
-穆斯塔法沙库尔	mu si ta fa sha ku er
 穆铁柱	mu tie zhu
-穆托姆博	mu tuo mu bo
-那不勒斯卡皮萨	na bu le si ka pi sa
-纳胡拉	na hu la
 纳克巴	na ke ba
-纳什	na shi
-纳瓦罗	na wa luo
-纳兹尔莫罕默德	na zi er mo han mo de
 南钢	nan gang
-男篮世锦赛	nan lan shi jin sai
 内内	nei nei
-内斯特洛维奇	nei si te luo wei qi
-内特	nei te
-内特罗宾逊	nei te luo bin xun
 内外结合	nei wai jie he
 内线	nei xian
-尼尔森	ni er sen
 尼古拉斯巴图姆	ni gu la si ba tu mu
 尼克范埃克塞尔	ni ke fan ai ke sai er
-尼克费兹卡斯	ni ke fei zi ka si
-尼克科里森	ni ke ke li sen
-尼克斯	ni ke si
-尼克扬	ni ke yang
-尼姆波克	ni mu bo ke
 涅顿	nie dun
 纽贝尔	niu bei er
-纽约尼克斯	niu yue ni ke si
-诺阿	nuo a
 诺尔法利克斯	nuo er fa li ke si
-诺维茨基	nuo wei ci ji
-诺西奥尼	nuo xi ao ni
-女篮世锦赛	nv lan shi jin sai
-欧文斯	ou wen si
-欧洲篮球联合会	ou zhou lan qiu lian he hui
-欧洲联赛	ou zhou lian sai
-欧洲男篮锦标赛	ou zhou nan lan jin biao sai
 帕楚里亚	pa chu li ya
-帕楚利亚	pa chu li ya
-帕德博恩	pa de bo en
-帕夫洛维奇	pa fu luo wei qi
-帕金斯	pa jin si
-帕克	pa ke
 帕勒西奥	pa le xi ao
 帕特伯克	pa te bo ke
-帕特加里蒂	pa te jia li di
 帕特里克奥布莱恩特	pa te li ke ao bu lai en te
-帕特里克奥布赖恩特	pa te li ke ao bu lai en te
 帕特里克尤因	pa te li ke you yin
-帕特森	pa te sen
-潘江	pan jiang
-潘内利尼奥斯	pan nei li ni ao si
-潘尼奥尼奥斯	pan ni ao ni ao si
-叛逆者队	pan ni zhe dui
-盼盼	pan pan
-盼盼队	pan pan dui
 跑轰	pao hong
 炮轰旋风	pao hong xuan feng
-佩顿	pei dun
-佩贾斯托贾科维奇	pei jia si tuo jia ke wei qi
 佩洛维奇	pei luo wei qi
-佩罗维奇	pei luo wei qi
 佩普索乌	pei pu suo wu
-佩切洛夫	pei qie luo fu
 佩特罗	pei te luo
-彭飞	peng fei
-皮尔斯	pi er si
 皮蓬	pi peng
 皮特	pi te
-皮特鲁斯	pi te lu si
-皮特森	pi te sen
-皮亚考斯基	pi ya kao si ji
-匹兹保铁人	pi zi bao tie ren
-匹兹保铁人队	pi zi bao tie ren dui
-普莱斯	pu lai si
 普雷斯特	pu lei si te
-普里茨比拉	pu li ci bi la
-普里莫兹	pu li mo zi
-普里莫兹布雷泽克	pu li mo zi bu lei ze ke
-普林斯	pu lin si
 普林斯顿打发	pu lin si dun da fa
 普林斯顿体系	pu lin si dun ti xi
 普鲁伊特	pu lu yi te
-普罗维登斯蒸气	pu luo wei deng si zheng qi
-普罗维登斯蒸气队	pu luo wei deng si zheng qi dui
-葡萄牙奥瓦伦斯航空	pu tao ya ao wa lun si hang kong
 普兹比拉	pu zi bi la
-奇才	qi cai
-奇克萨姆布	qi ke sa mu bu
-七六人	qi liu ren
-七六人队	qi liu ren dui
-骑士	qi shi
-七十六人	qi shi liu ren
-七十六人队	qi shi liu ren dui
-前场	qian chang
 钱澄海	qian cheng hai
-钱德勒	qian de le
-钱宁弗莱	qian ning fu lai
 抢断	qiang duan
 抢断王	qiang duan wang
-强力灌篮	qiang li guan lan
 强力中锋	qiang li zhong feng
-乔安东尼	qiao an dong ni
-乔丹	qiao dan
-乔丹法玛尔	qiao dan fa ma er
 乔尔安东尼	qiao er an dong ni
-乔尔普里茨比拉	qiao er pu li ci bi la
-乔金	qiao jin
-乔金诺阿	qiao jin nuo a
 乔克劳福德	qiao ke lao fu de
-乔什柴德里斯	qiao shen chai de li si
-乔什霍华德	qiao shen huo hua de
-乔什麦克罗伯茨	qiao shen mai ke luo bo ci
-乔什史密斯	qiao shen shi mi si
-乔史密斯	qiao shi mi si
-乔斯巴瑞尔	qiao si ba rui er
 乔亚历山大	qiao ya li shan da
 乔伊多西	qiao yi duo xi
-乔伊格拉汉姆	qiao yi ge la han mu
-乔伊诺	qiao yi nuo
-乔约翰逊	qiao yue han xun
-乔治	qiao zhi
 乔治格温	qiao zhi ge wen
-乔治贾巴尤萨	qiao zhi jia ba you sa
 乔治迈肯	qiao zhi mai ken
 乔治希尔	qiao zhi xi er
-切入	qie ru
 秦鹏	qin peng
 青岛双星	qing dao shuang xing
-琼斯	qiong si
-球必须触及篮框	qiu bi xu chu ji lan kuang
-邱彪	qiu biao
 球出界	qiu chu jie
-球出界线	qiu chu jie xian
 球队犯规	qiu dui fan gui
-球队吉祥物	qiu dui ji xiang wu
-球队经理	qiu dui jing li
-球队球员	qiu dui qiu yuan
-球队训练员	qiu dui xun lian yuan
-曲绍斌	qu shao bin
-区域防守	qu yu fang shou
-区域联防	qu yu lian fang
-驱逐出场	qu zhu chu chang
-全场比赛	quan chang bi sai
 全场紧逼	quan chang jin bi
-全美第一队	quan mei di yi dui
-全美篮协会	quan mei lan xie hui
 全明星赛	quan ming xing sai
-全时暂停	quan shi zan ting
-全体后备球员	quan ti hou bei qiu yuan
-全体替换球员	quan ti ti huan qiu yuan
-全体先发球员	quan ti xian fa qiu yuan
-全体支持球员	quan ti zhi chi qiu yuan
-热火	re huo
-人盯人防守	ren ding ren fang shou
 荣钢	rong gang
-瑞安勃文	rui an bo wen
-瑞乐马绍尔	rui le ma shao er
-瑞士奥林贝纳通	rui shi ao lin bei na tong
-萨博塞福罗萨	sa bo sai fu luo sa
 萨尔蒙斯	sa er meng si
-萨格勒布希波纳	sa ge le bu xi bo na
-萨克拉门托国王	sa ke la men tuo guo wang
-萨克拉门托国王队	sa ke la men tuo guo wang dui
-萨马基	sa ma ji
-萨缪尔戴勒姆波特	sa miu er dai le mu bo te
-萨姆布	sa mu bu
-萨姆卡塞尔	sa mu ka sai er
 萨姆琼斯	sa mu qiong si
-萨沙乌贾基茨	sa sha wu jia ji ci
-塞巴斯蒂安特尔费尔	sai ba si di an te er fei er
-赛程	sai cheng
-塞德里克西蒙斯	sai de li ke xi meng si
-塞尔吉奥罗德里格斯	sai er ji ao luo de li ge si
-塞尔提克	sai er ti ke
-塞尔维亚海默法尔姆	sai er wei ya hai mo fa er mu
-塞尔维亚泽雷齐尼克	sai er wei ya ze lei qi ni ke
-塞尔希尼	sai er xi ni
-塞福罗萨	sai fu luo sa
 塞内	sai nei
-塞萨洛尼卡阿里斯	sai sa luo ni ka a li si
-塞申斯	sai shen si
 三步上篮	san bu shang lan
-三不沾	san bu zhan
 三分大赛	san fen da sai
-三分球	san fen qiu
-三分球命中率	san fen qiu ming zhong lv
 三分射手	san fen she shou
-三分线	san fen xian
-三号位置球员	san hao wei zhi qiu yuan
 三角进攻	san jiao jin gong
 三角战术	san jiao zhan shu
 三秒区	san miao qu
 三秒违例	san miao wei li
 三人包夹	san ren bao jia
 三双	san shuang
-桑贾拉	sang jia la
-桑普森	sang pu sen
-森林狼	sen lin lang
 森史密斯	sen shi mi si
-沙恩巴蒂尔	sha en ba di er
-沙福里克兰多夫	sha fu li ke lan duo fu
-沙奎尔	sha kui er
-沙奎尔奥尼尔	sha kui er ao ni er
-沙里姆	sha li mu
-沙里姆斯塔德迈尔	sha li mu si ta de mai er
-山东黄金	shan dong huang jin
 山顿安德森	shan dun an de sen
-山猫	shan mao
 陕西东盛	shan xi dong sheng
-陕西汉斯	shan xi han si
-陕西汉斯队	shan xi han si dui
-陕西麒麟	shan xi qi lin
-陕西麒麟队	shan xi qi lin dui
 陕西亚旅联盟	shan xi ya lv lian meng
-山西中宇	shan xi zhong yu
-山西中宇队	shan xi zhong yu dui
-上半场	shang ban chang
-上海大鲨鱼	shang hai da sha yu
 上海东方	shang hai dong fang
-上海汇中队	shang hai hui zhong dui
 上海西洋	shang hai xi yang
-上篮	shang lan
-绍莱	shao lai
 邵天罡	shao tian gang
-圣安东尼奥马刺	sheng an dong ni ao ma ci
-圣安东尼奥马刺队	sheng an dong ni ao ma ci dui
-胜场场数	sheng chang chang shu
-圣路易斯轰炸机	sheng lu yi si hong zha ji
-圣路易斯轰炸机队	sheng lu yi si hong zha ji dui
-施冰兵	shi bing bing
-史蒂芬布雷克	shi di fen bu lei ke
 史蒂芬杰克逊	shi di fen jie ke xun
 史蒂夫布莱克	shi di fu bu lai ke
-史蒂夫弗朗西斯	shi di fu fu lang xi si
 史蒂夫亨特	shi di fu heng te
-史蒂夫纳什	shi di fu na shi
-史蒂夫诺瓦克	shi di fu nuo wa ke
-史蒂文亨特	shi di wen heng te
-史蒂文森	shi di wen sen
-时间只剩下	shi jian zhi sheng xia
-时间终了	shi jian zhong liao
-史密斯	shi mi si
-失误	shi wu
-时限钟	shi xian zhong
 首钢	shou gang
-首轮比赛	shou lun bi sai
-双方均持球不放	shuang fang jun chi qiu bu fang
-双方争夺篮板球	shuang fang zheng duo lan ban qiu
-双鹿电池	shuang lu dian chi
-双鹿电池队	shuang lu dian chi dui
 双星	shuang xing
-水屋中心	shui wu zhong xin
-水屋中心体育馆	shui wu zhong xin ti yu guan
 顺位	shun wei
-斯班瑟	si ban se
-斯班瑟豪耶斯	si ban se hao ye si
 斯宾塞霍伊斯	si bin sai huo yi si
-斯蒂法尼拉斯姆	si di fa ni la si mu
-斯蒂芬格拉汉姆	si di fen ge la han mu
-斯蒂芬杰克逊	si di fen jie ke xun
-斯蒂芬马布里	si di fen ma bu li
-斯蒂夫诺瓦克	si di fu nuo wa ke
-四号位置球员	si hao wei zhi qiu yuan
 斯基纳	si ji na
-斯卡法蒂	si ka fa di
-斯卡拉布赖恩	si ka la bu lai en
-斯卡沃里尼	si ka wo li ni
-斯科拉	si ke la
-斯科特波拉德	si ke te bo la de
-斯拉斯克	si la si ke
-斯马什	si ma shen
-斯马什帕克	si ma shen pa ke
 斯弥恩	si mi en
 斯奈德	si nai de
-斯诺	si nuo
-斯皮蒂	si pi di
-斯皮蒂克拉克斯顿	si pi di ke la ke si dun
-死球	si qiu
 四双	si shuang
-斯塔德迈尔	si ta de mai er
-斯塔基	si ta ji
-斯塔克豪斯	si ta ke hao si
-斯台普斯	si tai pu si
-斯台普斯球馆	si tai pu si qiu guan
 斯坦德迈尔	si tan de mai er
 斯特雷	si te lei
-斯特罗贝里	si te luo bei li
-斯特罗迈尔	si te luo mai er
-斯特罗迈尔斯威夫特	si te luo mai er si wei fu te
-斯托贾科维奇	si tuo jia ke wei qi
 斯托克顿	si tuo ke dun
-斯威夫特	si wei fu te
-斯威福特	si wei fu te
 斯维特尼	si wei te ni
-斯泽比亚克	si ze bi ya ke
 宋康明	song kang ming
 宋涛	song tao
-苏伟	su wei
 隋建国	sui jian guo
 睢冉	sui ran
-隋晓龙	sui xiao long
-孙春磊	sun chun lei
 孙凤武	sun feng wu
-孙杰	sun jie
-孙天农	sun tian nong
 孙悦	sun yue
-孙忠诚	sun zhong cheng
-索顿	suo dun
-索恩河畔沙隆	suo en he pan sha long
 所罗门琼斯	suo luo men qiong si
-索洛蒙琼斯	suo luo meng qiong si
-索蒙斯	suo meng si
-塔杜斯	ta du si
-塔杜斯扬	ta du si yang
 塔克	ta ke
 塔史密斯	ta shi mi si
-泰拉莫纳维格	tai la mo na wei ge
 泰勒	tai le
-泰龙鲁	tai long lu
-太平洋区	tai ping yang qu
-泰瑞斯	tai rui si
-泰瑞斯托马斯	tai rui si tuo ma si
-泰森钱德勒	tai sen qian de le
-泰夏安	tai xia an
-泰夏安普林斯	tai xia an pu lin si
-太阳	tai yang
 探花秀	tan hua xiu
 唐海	tang hai
 汤米史密斯	tang mi shi mi si
-唐尼尔	tang ni er
-唐尼尔马绍尔	tang ni er ma shao er
 唐耶尔马绍尔	tang ye er ma shao er
-唐正东	tang zheng dong
-陶瑞恩	tao rui en
-陶瑞恩格林	tao rui en ge lin
 陶涛	tao tao
-特尔费尔	te er fei er
 特克格鲁	te ke ge lu
-特科格鲁	te ke ge lu
-特拉维斯	te la wei si
-特拉维斯奥特劳	te la wei si ao te lao
-特拉维斯迪安纳	te la wei si di an na
-特兰顿	te lan dun
-特兰顿哈塞尔	te lan dun ha sai er
-特雷维索贝纳通	te lei wei suo bei na tong
-特雷沃	te lei wo
-特雷沃阿里扎	te lei wo a li zha
-特雷西麦格雷迪	te lei xi mai ge lei di
-特雷西麦克格雷迪	te lei xi mai ke ge lei di
-特里	te li
-特里尔霍尔佐格电信	te li er huo er zuo ge dian xin
 特伦顿哈塞尔	te lun dun ha sai er
-特伦斯肯塞	te lun si ken sai
-特罗伊哈德森	te luo yi ha de sen
-特罗伊墨菲	te luo yi mo fei
 替补球员	ti bu qiu yuan
-替换球员	ti huan qiu yuan
 体能教练	ti neng jiao lian
 田超	tian chao
 天沟	tian gou
 天津荣钢	tian jin rong gang
-跳球	tiao qiu
-跳投	tiao tou
-停赛	ting sai
-汀斯利	ting si li
-停止出赛	ting zhi chu sai
-通钢	tong gang
-通钢队	tong gang dui
-投篮得分	tou lan de fen
-投篮外空心球	tou lan wai kong xin qiu
-投球命中	tou qiu ming zhong
-投球命中率	tou qiu ming zhong lv
 投手	tou shou
-土耳其贝西克塔斯	tu er qi bei xi ke ta si
-土耳其电信	tu er qi dian xin
 突分	tu fen
-图里亚夫	tu li ya fu
-图罗夫	tu luo fu
-突破	tu po
 退役球员	tui yi qiu yuan
-托马斯	tuo ma si
-托马斯加德纳	tuo ma si jia de na
 托米奇	tuo mi qi
-托尼阿伦	tuo ni a lun
-托尼巴蒂	tuo ni ba di
 托尼德尔克	tuo ni de er ke
-托尼帕克	tuo ni pa ke
-托球入篮	tuo qiu ru lan
 托球上篮	tuo qiu shang lan
-瓦夫	wa fu
 瓦莱乔	wa lai qiao
-瓦雷泽	wa lei ze
-瓦里克	wa li ke
-瓦伦西亚帕梅萨	wa lun xi ya pa mei sa
-瓦斯里斯	wa si li si
-瓦斯里斯斯潘诺里斯	wa si li si si pan nuo li si
 外线	wai xian
 万马	wan ma
-万马电缆队	wan ma dian lan dui
-王斌	wang bin
-王博	wang bo
-王大勇	wang da yong
 王飞	wang fei
-王浩	wang hao
-王磊	wang lei
 王立彬	wang li bin
-王立刚	wang li gang
-王世龙	wang shi long
-王仕鹏	wang shi peng
 王信凯	wang xin kai
-汪义航	wang yi hang
-王勇	wang yong
 王征	wang zheng
-王治郅	wang zhi zhi
-王中光	wang zhong guang
-韦伯	wei bo
-韦伯斯特	wei bo si te
-韦德	wei de
-维多利亚陶	wei duo li ya tao
 维尔拜姆	wei er bai mu
 威尔拜纳姆	wei er bai na mu
-威尔弗瑞斯贝	wei er fu rui si bei
-威尔金斯	wei er jin si
-韦尔考克斯	wei er kao ke si
 威尔考克斯	wei er kao ke si
 威尔森钱德勒	wei er sen qian de le
-威尔斯	wei er si
 威尔特张伯伦	wei er te zhang bo lun
-威尔逊钱德勒	wei er xun qian de le
 伟光	wei guang
-维克顿瓦夫	wei ke dun wa fu
-维克多卡亚帕	wei ke duo ka ya pa
-维拉纽瓦	wei la niu wa
 维兰纽瓦	wei lan niu wa
-违例	wei li
-威利格林	wei li ge lin
 威利斯里德	wei li si li de
-威廉姆斯	wei lian mu si
 魏明亮	wei ming liang
 维尼斯弥恩	wei ni si mi en
 韦斯利	wei si li
-韦斯特	wei si te
 维塔利波塔潘科	wei ta li bo ta pan ke
 文贝克	wen bei ke
-文尼西斯	wen ni xi si
-文斯比尔斯	wen si bi er si
-文斯卡特	wen si ka te
-沃顿	wo dun
-沃恩	wo en
 沃尔特弗雷泽	wo er te fu lei ze
-沃尔特赫尔曼	wo er te he er man
 沃尔特迈卡蒂	wo er te mai ka di
 沃弗尔	wo fu er
-沃克	wo ke
-沃利斯泽比亚克	wo li si ze bi ya ke
 沃什莱纳德	wo shi lai na de
-沃斯库尔	wo si ku er
-沃特金斯	wo te jin si
-沃特森	wo te sen
 沃西	wo xi
-乌迪内斯奈德罗	wu di nei si nai de luo
-乌度卡	wu du ka
-乌杜尼斯	wu du ni si
-乌杜尼斯哈斯勒姆	wu du ni si ha si le mu
-乌尔姆一八四六	wu er mu yi ba si liu
-五号位置球员	wu hao wei zhi qiu yuan
-乌基奇	wu ji qi
 武贾切奇	wu jia qie qi
-吴轲	wu ke
-乌克兰阿佐马什	wu ke lan a zuo ma shen
-吴理义	wu li yi
 吴龙	wu long
-吴乃群	wu nai qun
 吴楠	wu nan
-吴谦	wu qian
 无球犯规	wu qiu fan gui
 无球跑动	wu qiu pao dong
-吴颂伟	wu song wei
 吴洋	wu yang
-伍兹	wu zi
-希奥利埃	xi ao li ai
-西班牙巴塞罗纳	xi ban ya ba sai luo na
-西班牙毕尔巴厄	xi ban ya bi er ba e
-西班牙费尔南多	xi ban ya fei er nan duo
-西班牙弗恩拉布拉达	xi ban ya fu en la bu la da
-西班牙格拉纳达	xi ban ya ge la na da
-西班牙皇家马德里	xi ban ya huang jia ma de li
-西班牙卡那里亚	xi ban ya ka na li ya
-西班牙马拉加	xi ban ya ma la jia
-西班牙曼雷沙	xi ban ya man lei sha
-西班牙梅诺卡	xi ban ya mei nuo ka
-西班牙穆尔西亚	xi ban ya mu er xi ya
-西班牙瓦拉多利德	xi ban ya wa la duo li de
-西班牙维多利亚陶	xi ban ya wei duo li ya tao
-西班牙尤文图特	xi ban ya you wen tu te
 西北赛区	xi bei sai qu
-西部联盟	xi bu lian meng
-希达耶特	xi da ye te
-希达耶特特科格鲁	xi da ye te te ke ge lu
-西恩马克斯	xi en ma ke si
 希恩马克思	xi en ma ke si
-西恩威廉姆斯	xi en wei lian mu si
 希恩威廉姆斯	xi en wei lian mu si
-希尔	xi er
-希尔顿阿姆斯特朗	xi er dun a mu si te lang
 希克森	xi ke sen
-希腊潘内利尼奥斯	xi la pan nei li ni ao si
-希腊潘尼奥尼奥斯	xi la pan ni ao ni ao si
-西蒙斯	xi meng si
-希姆基	xi mu ji
-希姆斯	xi mu si
-西南区	xi nan qu
 西南赛区	xi nan sai qu
-西雅图超音速	xi ya tu chao yin su
-西雅图超音速队	xi ya tu chao yin su dui
-西耶纳蒙特帕希	xi ye na meng te pa xi
-下半场	xia ban chang
-夏洛特山猫	xia luo te shan mao
-夏洛特体育馆	xia luo te ti yu guan
-先发球员	xian fa qiu yuan
 先发阵容	xian fa zhen rong
 享德森	xiang de sen
-香农布朗	xiang nong bu lang
-小奥尼尔	xiao ao ni er
-肖恩巴蒂尔	xiao en ba di er
-肖恩利文斯顿	xiao en li wen si dun
-肖恩马里昂	xiao en ma li ang
-肖恩威廉姆斯	xiao en wei lian mu si
-小牛	xiao niu
-小前锋	xiao qian feng
 小球战术	xiao qiu zhan shu
-谢尔顿威廉姆斯	xie er dun wei lian mu si
 协防	xie fang
-解立彬	xie li bin
-谢里夫阿卜杜拉希姆	xie li fu a bu du la xi mu
-新奥尔良黄蜂	xin ao er liang huang feng
-新奥尔良黄蜂队	xin ao er liang huang feng dui
-新奥尔良球馆	xin ao er liang qiu guan
 辛格尔顿	xin ge er dun
 辛格特里	xin ge te li
-新疆飞虎	xin jiang fei hu
-新疆飞虎队	xin jiang fei hu dui
-新疆广汇	xin jiang guang hui
-新疆广汇队	xin jiang guang hui dui
 辛历顿	xin li dun
-辛里奇	xin li qi
-新世纪队	xin shi ji dui
 新秀	xin xiu
 新秀第一阵容	xin xiu di yi zhen rong
 新秀挑战赛	xin xiu tiao zhan sai
 新泽西篮网	xin ze xi lan wang
-新泽西网	xin ze xi wang
 邢璐	xing lu
-雄鹿	xiong lu
-休斯顿火箭	xiu si dun huo jian
 休斯敦火箭	xiu si dun huo jian
-徐国翀	xu guo chong
 徐磊	xu lei
 徐旭	xu xu
 许钟豪	xu zhong hao
-薛玉洋	xue yu yang
-亚当哈卢卡斯	ya dang ha lu ka si
-亚当莫里森	ya dang mo li sen
-雅克赫巴	ya ke he ba
-雅克赫巴迪阿瓦拉	ya ke he ba di a wa la
-雅克沃恩	ya ke wo en
-亚历山大帕夫洛维奇	ya li shan da pa fu luo wei qi
-亚历山大约翰逊	ya li shan da yue han xun
 雅罗斯拉夫科罗勒夫	ya luo si la fu ke luo le fu
 亚旅联盟	ya lv lian meng
-亚特兰大老鹰	ya te lan da lao ying
 亚特兰大鹰	ya te lan da ying
-亚特兰龙	ya te lan long
-亚洲篮球联合会	ya zhou lan qiu lian he hui
-亚洲联盟杯	ya zhou lian meng bei
-亚洲联赛	ya zhou lian sai
-亚洲男篮锦标赛	ya zhou nan lan jin biao sai
-延长赛	yan chang sai
-杨超	yang chao
-杨庚霖	yang geng lin
-杨槐	yang huai
-杨力	yang li
-杨鸣	yang ming
-杨钦	yang qin
 杨文博	yang wen bo
 杨玉明	yang yu ming
-摇摆人	yao bai ren
-姚锴夫	yao kai fu
-姚明	yao ming
-姚鹏	yao peng
 要球	yao qiu
-钥匙球场	yao shi qiu chang
 要位	yao wei
-耶尔土伦	ye er tu lun
-耶路撒冷哈勃尔	ye lu sa leng ha bo er
-耶拿科学城	ye na ke xue cheng
-业余篮球联盟	ye yu lan qiu lian meng
-意大利奥兰多	yi da li ao lan duo
-意大利甲级联赛	yi da li jia ji lian sai
-意大利坎图	yi da li kan tu
-意大利篮球甲级联赛	yi da li lan qiu jia ji lian sai
-意大利蒙特格拉纳罗	yi da li meng te ge la na luo
-意大利米兰阿玛尼	yi da li mi lan a ma ni
-意大利斯卡法蒂	yi da li si ka fa di
-意大利斯卡沃里尼	yi da li si ka wo li ni
-意大利泰拉莫纳维格	yi da li tai la mo na wei ge
-意大利瓦雷泽	yi da li wa lei ze
 一对一	yi dui yi
-伊尔格斯卡斯	yi er ge si ka si
 伊戈达拉	yi ge da la
-伊格达拉	yi ge da la
-伊古奥达拉	yi gu ao da la
-一号位置球员	yi hao wei zhi qiu yuan
-易建联	yi jian lian
-伊克迪奥古	yi ke di ao gu
-易立	yi li
-伊曼纽尔吉诺比利	yi man niu er ji nuo bi li
-伊斯坦布尔埃菲斯	yi si tan bu er ai fei si
 伊斯特班巴蒂斯塔	yi si te ban ba di si ta
-伊坦	yi tan
-伊坦托马斯	yi tan tuo ma si
-伊沃伊	yi wo yi
-印第安纳步行者	yin di an na bu xing zhe
-印第安纳步行者队	yin di an na bu xing zhe dui
-尹逵	yin kui
-尤德里	you de li
 尤杜卡	you du ka
 尤他爵士	you ta jue shi
-犹他爵士	you ta jue shi
-尤文图特	you wen tu te
 于高峰	yu gao feng
-遇俊锴	yu jun kai
-于梁	yu liang
-俞宁	yu ning
-于学林	yu xue lin
 约翰爱德华兹	yue han ai de hua zi
 约翰哈夫利切克	yue han ha fu li qie ke
 约翰卢卡斯三世	yue han lu ka si san shi
 约翰斯托克顿	yue han si tuo ke dun
-约翰索蒙斯	yue han suo meng si
 约翰托马斯	yue han tuo ma si
-约翰逊	yue han xun
 约翰逊三世	yue han xun san shi
 约什鲍威尔	yue shi bao wei er
 约什布恩	yue shi bu en
@@ -8495,270 +6796,143 @@ use_preset_vocabulary: true
 约什卡尔迪伦	yue shi ka er di lun
 约什史密斯	yue shi shi mi si
 月最佳	yue zui jia
-云南奔牛	yun nan ben niu
-云南奔牛队	yun nan ben niu dui
-云南红河	yun nan hong he
-云南红河队	yun nan hong he dui
-运球	yun qiu
-暂停	zan ting
-泽雷齐尼克	ze lei qi ni ke
 泽亚克雷布拉卡	ze ya ke lei bu la ka
 扎克卡巴卡帕	zha ke ka ba ka pa
-扎克兰多夫	zha ke lan duo fu
-扎伊德鲁纳斯	zha yi de lu na si
-扎扎帕楚利亚	zha zha pa chu li ya
-翟金帅	zhai jin shuai
-战绩	zhan ji
-战绩表	zhan ji biao
-詹姆斯	zhan mu si
-詹姆斯奥古斯丁	zhan mu si ao gu si ding
-詹姆斯奥古斯汀	zhan mu si ao gu si ting
-詹姆斯波西	zhan mu si bo xi
-詹姆斯库里	zhan mu si ku li
 詹姆斯梅斯	zhan mu si mei si
-詹姆斯琼斯	zhan mu si qiong si
 詹姆斯沃西	zhan mu si wo xi
 詹姆斯辛历顿	zhan mu si xin li dun
 战术教练	zhan shu jiao lian
 战术篇	zhan shu pian
 张彪	zhang biao
 张博	zhang bo
-张成	zhang cheng
-张大宇	zhang da yu
 张东阳	zhang dong yang
 张骥	zhang ji
-张劲松	zhang jin song
 张俊雄	zhang jun xiong
-张凯	zhang kai
-张楠	zhang nan
-张庆鹏	zhang qing peng
 张睿	zhang rui
 张术	zhang shu
-张伟	zhang wei
 张卫平	zhang wei ping
-张晓薇	zhang xiao wei
-张学文	zhang xue wen
-张翼	zhang yi
-张勇	zhang yong
 张永鹏	zhang yong peng
-张云松	zhang yun song
-张喆	zhang zhe
-张正旺	zhang zheng wang
-赵阿南	zhao a nan
-赵杭	zhao hang
 赵南	zhao nan
 赵泰隆	zhao tai long
-赵永刚	zhao yong gang
-赵志男	zhao zhi nan
 浙江广厦	zhe jiang guang sha
-浙江广厦建设	zhe jiang guang sha jian she
-浙江广厦建设队	zhe jiang guang sha jian she dui
-浙江万马	zhe jiang wan ma
-浙江万马电缆	zhe jiang wan ma dian lan
-浙江万马电缆队	zhe jiang wan ma dian lan dui
-浙江万马队	zhe jiang wan ma dui
 郑海霞	zheng hai xia
-蒸气队	zheng qi dui
-争球	zheng qiu
 郑准	zheng zhun
-支持球员	zhi chi qiu yuan
-芝加哥公牛	zhi jia ge gong niu
-芝加哥牡鹿	zhi jia ge mu lu
-芝加哥牡鹿队	zhi jia ge mu lu dui
-职篮联盟	zhi lan lian meng
-职业篮球联盟	zhi ye lan qiu lian meng
-中部赛区	zhong bu sai qu
-中场	zhong chang
-中场休息	zhong chang xiu xi
-中场休息时间	zhong chang xiu xi shi jian
 钟诚	zhong cheng
-中锋	zhong feng
-中国篮球联盟	zhong guo lan qiu lian meng
-中距离投篮	zhong ju li tou lan
 中投	zhong tou
-中心球馆	zhong xin qiu guan
-中宇	zhong yu
-周鹏	zhou peng
 周雪峰	zhou xue feng
 周最佳	zhou zui jia
-朱安迪克逊	zhu an di ke xun
-主场	zhu chang
-主场比赛	zhu chang bi sai
-主场优势	zhu chang you shi
-主队	zhu dui
-朱芳雨	zhu fang yu
-助功	zhu gong
 助攻	zhu gong
 助攻王	zhu gong wang
-朱汉波特洛	zhu han bo te luo
-朱利安赖特	zhu li an lai te
-助理教练	zhu li jiao lian
 朱利叶斯霍吉	zhu li ye si huo ji
 朱利叶斯欧文	zhu li ye si ou wen
 朱梅因琼斯	zhu mei yin qiong si
-朱世龙	zhu shi long
-朱万霍华德	zhu wan huo hua de
 朱云龙	zhu yun long
 状元秀	zhuang yuan xiu
-准决赛	zhun jue sai
-资深球员	zi shen qiu yuan
 总冠军奖杯	zong guan jun jiang bei
-总决赛	zong jue sai
 棕熊	zong xiong
-走步	zou bu
-阻碍比赛正常进行	zu ai bi sai zheng chang jin xing
-阻挡犯规	zu dang fan gui
-阻攻	zu gong
 组织后卫	zu zhi hou wei
 最佳第六人	zui jia di liu ren
 最佳防守球员	zui jia fang shou qiu yuan
 最佳新秀	zui jia xin xiu
 最快进步奖	zui kuai jin bu jiang
 最快进步球员	zui kuai jin bu qiu yuan
-最有价值球员	zui you jia zhi qiu yuan
 阿布里内斯	a bu li nei si
 阿德里安	a de li an
 阿德托昆博	a de tuo kun bo
-阿尔德里奇	a er de li qi
 阿弗拉罗	a fu la luo
 阿金萨	a jin sa
 阿莱克斯	a lai ke si
-阿兰	a lan
-阿兰安德森	a lan an de sen
-阿里扎	a li zha
-阿隆	a long
 阿隆贝恩斯	a long bei en si
 阿隆戈登	a long ge deng
-阿伦	a lun
 阿伦克拉布	a lun ke la bu
 阿米奴	a mi nu
 阿奇	a qi
-阿泰斯特	a tai si te
 阿西克	a xi ke
 艾德戴维斯	ai de dai wei si
 埃尔弗里德	ai er fu li de
-艾尔霍福德	ai er huo fu de
 艾尔杰弗森	ai er jie fu sen
 埃尔南戈麦斯	ai er nan ge mai si
 埃弗里	ai fu li
 埃克萨姆	ai ke sa mu
-埃里克	ai li ke
-埃利斯	ai li si
 埃文富尼耶	ai wen fu ni ye
-埃文斯	ai wen si
 埃文特纳	ai wen te na
 埃泽利	ai ze li
 艾泽利	ai ze li
 安德烈罗伯森	an de lie luo bo sen
 安德鲁哈里森	an de lu ha li sen
-安东尼	an dong ni
 安东尼戴维斯	an dong ni dai wei si
 奥布莱恩特	ao bu lai en te
-奥古斯汀	ao gu si ting
-奥卡福	ao ka fu
 奥卡罗怀特	ao ka luo huai te
 奥拉迪波	ao la di bo
-奥拉朱旺	ao la zhu wang
-奥兰多魔术	ao lan duo mo shu
 奥利尼克	ao li ni ke
-奥尼尔	ao ni er
 奥胖	ao pang
 奥托波特	ao tuo bo te
 巴比特	ba bi te
-巴博萨	ba bo sa
 巴迪	ba di
 巴迪希尔德	ba di xi er de
-巴恩斯	ba en si
 巴里亚	ba li ya
 巴莫特	ba mo te
 巴莫特王子	ba mo te wang zi
-巴特勒	ba te le
 巴图姆	ba tu mu
 半兽人	ban shou ren
-鲍比布朗	bao bi bu lang
 鲍德温	bao de wen
-保罗	bao luo
-保罗皮尔斯	bao luo pi er si
 保罗齐普泽	bao luo qi pu ze
 保罗乔治	bao luo qiao zhi
-鲍威尔	bao wei er
 贝尔坦斯	bei er tan si
 贝弗利	bei fu li
 贝勒斯	bei le si
-贝里内利	bei li nei li
 本布里	ben bu li
 本德尔	ben de er
 本诺	ben nuo
 本西蒙斯	ben xi meng si
-比斯利	bi si li
 俾斯麦比永博	bi si mai bi yong bo
 别利察	bie li cha
-博班	bo ban
 波蒂斯	bo di si
 波尔津吉斯	bo er jin ji si
 伯克斯	bo ke si
 波普	bo pu
-波什	bo shen
 波士顿	bo shi dun
-波特兰开拓者	bo te lan kai tuo zhe
 博扬	bo yang
 波伊思雷斯	bo yi si lei si
-布拉德利	bu la de li
 布莱恩罗伯茨	bu lai en luo bo ci
 布莱斯	bu lai si
 布赖斯	bu lai si
 布莱索	bu lai suo
-布兰登	bu lan deng
-布兰登巴斯	bu lan deng ba si
 布兰登拉什	bu lan deng la shi
 布兰登莱特	bu lan deng lai te
 布兰登詹宁斯	bu lan deng zhan ning si
-布兰顿	bu lan dun
 布兰顿奈特	bu lan dun nai te
 布兰顿詹宁斯	bu lan dun zhan ning si
-布雷克	bu lei ke
 布里安特	bu li an te
 布林福布斯	bu lin fu bu si
 布鲁克	bu lu ke
 布鲁克林	bu lu ke lin
 布鲁克林篮网	bu lu ke lin lan wang
-布鲁克斯	bu lu ke si
 布鲁西诺	bu lu xi nuo
 布罗格登	bu luo ge deng
-步行者	bu xing zhe
 慈世平	ci shi ping
 达德利	da de li
 大加索尔	da jia suo er
-达拉斯小牛	da la si xiao niu
 达雷尔亚瑟	da lei er ya se
 达伦希尔拉德	da lun xi er la de
 达米安琼斯	da mi an qiong si
 达米恩	da mi en
 大鸟伯德	da niao bo de
-大卫李	da wei li
 大卫努瓦巴	da wei nu wa ba
-大卫韦斯特	da wei wei si te
 戴德蒙	dai de meng
 戴蒙德斯通	dai meng de si tong
-戴维斯	dai wei si
-丹佛掘金队	dan fo jue jin dui
 丹尼尔奥谢富	dan ni er ao xie fu
-丹尼尔斯	dan ni er si
 丹尼格林	dan ni ge lin
 道格	dao ge
 德安德烈乔丹	de an de lie qiao dan
 德安德鲁	de an de lu
 德安吉洛	de an ji luo
-德怀特	de huai te
-德怀特霍华德	de huai te huo hua de
-德克	de ke
 德克尔	de ke er
 德拉	de la
 德拉蒙德	de la meng de
 德拉维多瓦	de la wei duo wa
 德莱尼	de lai ni
 德雷蒙德	de lei meng de
-德里克	de li ke
 德里克罗斯	de li ke luo si
 德隆	de long
 德隆莱特	de long lai te
@@ -8766,22 +6940,18 @@ use_preset_vocabulary: true
 德马雷卡罗尔	de ma lei ka luo er
 德米特里厄斯	de mi te li e si
 德文布克	de wen bu ke
-德文哈里斯	de wen ha li si
 德扬泰	de yang tai
 德章泰	de zhang tai
 邓恩	deng en
 邓台琼斯	deng tai qiong si
 迪昂	di ang
 迪昂维特斯	di ang wei te si
-迪奥	di ao
 蒂姆弗雷泽	di mu fu lei ze
 蒂姆哈达威	di mu ha da wei
 蒂姆夸特曼	di mu kua te man
 帝师	di shi
 底特律	di te lv
-底特律活塞	di te lv huo sai
 丁维迪	ding wei di
-多伦多猛龙	duo lun duo meng long
 多纳塔斯	duo na ta si
 俄克拉荷马城	e ke la he ma cheng
 恩比德	en bi de
@@ -8795,49 +6965,27 @@ use_preset_vocabulary: true
 费沃斯	fei wo si
 菲兹戴尔	fei zi dai er
 芬尼史密斯	fen ni shi mi si
-弗雷德	fu lei de
-盖伊	gai yi
 戈贝尔	ge bei er
-戈登	ge deng
 戈尔吉	ge er ji
-格拉汉姆	ge la han mu
 戈兰德拉季奇	ge lan de la ji qi
-格兰特	ge lan te
-格里芬	ge li fen
-格林	ge lin
-戈塔特	ge ta te
 古德温	gu de wen
-国王	guo wang
-国王队	guo wang dui
 哈登	ha deng
 哈克利斯	ha ke li si
 哈雷尔	ha lei er
-哈里森	ha li sen
 哈蒙斯	ha meng si
-哈斯勒姆	ha si le mu
 海沃德	hai wo de
 海佐尼亚	hai zuo ni ya
-汉密尔顿	han mi er dun
 赫佐尼亚	he zuo ni ya
 亨弗里斯	heng fu li si
 亨利埃伦森	heng li ai lun sen
 胡德	hu de
-湖人	hu ren
 胡斯蒂斯	hu si di si
-华盛顿奇才	hua sheng dun qi cai
 怀特海德	huai te hai de
 怀特塞德	huai te sai de
-黄蜂	huang feng
-灰熊	hui xiong
-霍华德	huo hua de
 霍勒迪	huo le di
-活塞	huo sai
 霍伊斯	huo yi si
-吉布森	ji bu sen
 基尔帕特里克	ji er pa te li ke
 吉列尔莫	ji lie er mo
-吉诺比利	ji nuo bi li
-贾巴尔	jia ba er
 贾巴里	jia ba li
 加莱特	jia lai te
 贾雷尔马丁	jia lei er ma ding
@@ -8847,28 +6995,18 @@ use_preset_vocabulary: true
 加里佩顿二世	jia li pei dun er shi
 贾罗德	jia luo de
 加洛韦	jia luo wei
-贾马尔	jia ma er
 贾马尔穆雷	jia ma er mu lei
 贾马尔尼尔森	jia ma er ni er sen
-贾森史密斯	jia sen shi mi si
-贾森特里	jia sen te li
 贾斯汀安德森	jia si ting an de sen
-加索尔	jia suo er
 贾伊克劳德	jia yi ke lao de
 杰夫蒂格	jie fu di ge
-杰夫格林	jie fu ge lin
-杰弗森	jie fu sen
 杰夫维希	jie fu wei xi
 杰克莱曼	jie ke lai man
-杰拉德	jie la de
-杰拉德格林	jie la de ge lin
 杰拉米	jie la mi
 杰雷布科	jie lei bu ke
 杰里安	jie li an
 杰林布朗	jie lin bu lang
 杰迈克尔格林	jie mai ke er ge lin
-金州勇士队	jin zhou yong shi dui
-爵士	jue shi
 卡波科洛	ka bo ke luo
 卡尔德隆	ka er de long
 卡里斯	ka li si
@@ -8880,34 +7018,20 @@ use_preset_vocabulary: true
 卡温顿	ka wen dun
 凯尔安德森	kai er an de sen
 凯尔奥奎因	kai er ao kui yin
-凯尔科沃尔	kai er ke wo er
-凯尔洛瑞	kai er luo rui
 凯尔欧文	kai er ou wen
-凯尔特人	kai er te ren
 凯尔维尔彻	kai er wei er che
 凯尔辛格勒	kai er xin ge le
 凯菲尔德	kai fei er de
-凯文杜兰特	kai wen du lan te
-凯文乐福	kai wen le fu
 凯文卢尼	kai wen lu ni
-坎特	kan te
 康宁汉姆	kang ning han mu
 康特尼李	kang te ni li
 考利斯坦	kao li si tan
 考辛斯	kao xin si
-科比	ke bi
-科比布莱恩特	ke bi bu lai en te
 科迪泽勒	ke di ze le
-科尔	ke er
 科怀	ke huai
 科怀伦纳德	ke huai lun na de
 克莱汤普森	ke lai tang pu sen
-克劳福德	ke lao fu de
-科里布鲁尔	ke li bu lu er
 克利夫兰	ke li fu lan
-科里森	ke li sen
-克里斯	ke li si
-克里斯保罗	ke li si bao luo
 克里斯邓恩	ke li si deng en
 克里斯蒂亚诺	ke li si di ya nuo
 克里斯顿	ke li si dun
@@ -8917,80 +7041,48 @@ use_preset_vocabulary: true
 肯特贝兹莫尔	ken te bei zi mo er
 库佛斯	ku fo si
 库兹明斯卡斯	ku zi ming si ka si
-快船	kuai chuan
 奎因库克	kui yin ku ke
 昆西阿希	kun xi a xi
 拉比西埃	la bi xi ai
 拉基姆	la ji mu
-拉马库斯	la ma ku si
 拉塞尔	la sai er
 拉沙德沃恩	la sha de wo en
 拉沃伊	la wo yi
-莱恩	lai en
 莱恩安德森	lai en an de sen
 莱恩凯利	lai en kai li
 莱尔斯	lai er si
 兰德尔	lan de er
 兰登马绍尔	lan deng ma shao er
-兰迪弗耶	lan di fu ye
 兰姆	lan mu
 兰斯顿	lan si dun
 兰斯托马斯	lan si tuo ma si
-篮网	lan wang
 朗戴	lang dai
 劳尔内托	lao er nei tuo
-老鹰队	lao ying dui
-勒布朗	le bu lang
 勒夫特	le fu te
-雷阿伦	lei a lun
-雷迪克	lei di ke
 雷吉布洛克	lei ji bu luo ke
 雷吉杰克逊	lei ji jie ke xun
 雷蒙塞申斯	lei meng sai shen si
-雷霆	lei ting
-理查德森	li cha de sen
 理查恩霍姆斯	li cha en huo mu si
 里弗斯	li fu si
 里基卢比奥	li ji lu bi ao
 利金斯	li jin si
 利拉德	li la de
-利文斯顿	li wen si dun
 林来疯	lin lai feng
-林书豪	lin shu hao
 隆多	long duo
 鲁德兹	lu de zi
-鲁迪	lu di
 卢克巴比特	lu ke ba bi te
 卢克巴莫特	lu ke ba mo te
 鲁瓦乌	lu wa wu
 路威廉姆斯	lu wei lian mu si
 伦纳德	lun na de
-罗宾洛佩兹	luo bin luo pei zi
-罗德里格斯	luo de li ge si
 罗恩贝克	luo en bei ke
-罗尔邓	luo er deng
-罗尼普莱斯	luo ni pu lai si
 洛佩斯	luo pei si
-洛杉矶湖人	luo shan ji hu ren
-洛杉矶快船	luo shan ji kuai chuan
-罗伊希伯特	luo yi xi bo te
-马刺	ma ci
-马刺队	ma ci dui
 马尔科姆	ma er ke mu
 马基夫	ma ji fu
-马克加索尔	ma ke jia suo er
-马库斯	ma ku si
-马奎斯	ma kui si
 马拉奇	ma la qi
-马努	ma nu
-马绍尔	ma shao er
-马特巴恩斯	ma te ba en si
-马文	ma wen
 马辛米	ma xin mi
 马修斯	ma xiu si
 马扬诺维奇	ma yang nuo wei qi
-迈阿密热火	mai a mi re huo
-迈尔斯	mai er si
 迈尔斯特纳	mai er si te na
 麦格鲁德	mai ge lu de
 麦基	mai ji
@@ -8999,92 +7091,61 @@ use_preset_vocabulary: true
 麦康奈尔	mai kang nai er
 麦考	mai kao
 迈克德莫特	mai ke de mo te
-迈克邓利维	mai ke deng li wei
 迈克尔贝纳杰	mai ke er bei na jie
 迈克尔基德	mai ke er ji de
-迈克康利	mai ke kang li
 麦克莱伦	mai ke lai lun
 麦克莱默	mai ke lai mo
 迈克勒姆	mai ke le mu
-麦克罗伯茨	mai ke luo bo ci
-迈克米勒	mai ke mi le
 曼巴精神	man ba jing shen
 曼尼哈里斯	man ni ha li si
 梅森普拉姆利	mei sen pu la mu li
 梅耶斯	mei ye si
 门罗	men luo
-孟菲斯灰熊	meng fei si hui xiong
-猛龙	meng long
-蒙塔埃利斯	meng ta ai li si
 米德尔顿	mi de er dun
-米尔萨普	mi er sa pu
 米尔斯	mi er si
 密尔沃基	mi er wo ji
 米罗蒂奇	mi luo di qi
 明尼苏达	ming ni su da
 默里	mo li
-莫里斯	mo li si
 莫里斯恩多尔	mo li si en duo er
 莫罗	mo luo
-魔术	mo shu
-魔术师约翰逊	mo shu shi yue han xun
 莫泰	mo tai
 莫兹戈夫	mo zi ge fu
 穆迪埃	mu di ai
 穆斯卡拉	mu si ka la
-内内	nei nei
 内皮尔	nei pi er
 内托	nei tuo
 尼克尔森	ni ke er sen
-尼克斯	ni ke si
 尼克杨	ni ke yang
-纽约尼克斯队	niu yue ni ke si dui
 浓眉哥	nong mei ge
 努尔基奇	nu er ji qi
 诺阿冯莱	nuo a feng lai
-诺尔	nuo er
 诺奎拉	nuo kui la
 诺里斯	nuo li si
-诺维茨基	nuo wei ci ji
 欧努阿库	ou nu a ku
 欧文	ou wen
-帕楚里亚	pa chu li ya
-帕克	pa ke
 帕帕扬尼斯	pa pa yang ni si
 帕特康诺顿	pa te kang nuo dun
-帕特森	pa te sen
 潘大福	pan da fu
 庞德塞特	pang de sai te
-佩顿	pei dun
 佩恩	pei en
 佩科维奇	pei ke wei qi
 珀尔特尔	po er te er
 普拉姆利	pu la mu li
-普林斯	pu lin si
-奇才	qi cai
 齐默尔曼	qi mo er man
-骑士	qi shi
-钱德勒	qian de le
 钱德勒帕森斯	qian de le pa sen si
-钱宁弗莱	qian ning fu lai
-乔丹	qiao dan
 乔丹克拉克森	qiao dan ke la ke sen
 乔丹米奇	qiao dan mi qi
 乔丹希尔	qiao dan xi er
 乔恩洛伊尔	qiao en luo yi er
-乔尔安东尼	qiao er an dong ni
 乔尔博伦博伊	qiao er bo lun bo yi
 乔弗里洛韦尔	qiao fu li luo wei er
 乔哈里斯	qiao ha li si
-乔金诺阿	qiao jin nuo a
 乔纳森	qiao na sen
 乔杨	qiao yang
-乔约翰逊	qiao yue han xun
 乔治亨特	qiao zhi heng te
 乔治尼昂	qiao zhi ni ang
 乔治斯	qiao zhi si
-乔治希尔	qiao zhi xi er
-热火	re huo
 萨博尼斯	sa bo ni si
 萨克拉门托	sa ke la men tuo
 萨拉梅吉里	sa la mei ji li
@@ -9092,7 +7153,6 @@ use_preset_vocabulary: true
 塞弗罗萨	sai fu luo sa
 塞拉芬	sai la fen
 塞斯库里	sai si ku li
-森林狼	sen lin lang
 沙巴兹	sha ba zi
 沙里奇	sha li qi
 沙松兰德尔	sha song lan de er
@@ -9100,9 +7160,7 @@ use_preset_vocabulary: true
 史蒂芬森	shi di fen sen
 史蒂文亚当斯	shi di wen ya dang si
 施罗德	shi luo de
-史密斯	shi mi si
 斯贝茨	si bei ci
-斯宾塞	si bin sai
 斯蒂芬库里	si di fen ku li
 斯玛特	si ma te
 斯内尔	si nei er
@@ -9111,24 +7169,18 @@ use_preset_vocabulary: true
 斯陶斯卡斯	si tao si ka si
 索恩马克	suo en ma ke
 所罗门希尔	suo luo men xi er
-塔克	ta ke
 塔里克布莱克	ta li ke bu lai ke
 塔瓦雷斯	ta wa lei si
 泰尔斯琼斯	tai er si qiong si
 泰劳森	tai lao sen
-泰勒	tai le
 泰勒恩尼斯	tai le en ni si
 泰勒托维奇	tai le tuo wei qi
 泰勒尤利斯	tai le you li si
 泰勒约翰逊	tai le yue han xun
 泰勒泽勒	tai le ze le
-泰森	tai sen
-太阳	tai yang
-太阳队	tai yang dui
 坦普尔	tan pu er
 弹跳之王	tan tiao zhi wang
 唐佩恩	tang pei en
-汤普森	tang pu sen
 唐斯	tang si
 特雷伯克	te lei bo ke
 特雷沃布克	te lei wo bu ke
@@ -9144,33 +7196,23 @@ use_preset_vocabulary: true
 托马什	tuo ma shen
 托马斯罗宾逊	tuo ma si luo bin xun
 托尼艾伦	tuo ni ai lun
-托尼帕克	tuo ni pa ke
 瓦兰丘纳斯	wa lan qiu na si
 瓦伦丁	wa lun ding
-韦德	wei de
 维恩艾灵顿	wei en ai ling dun
 韦恩塞尔登	wei en sai er deng
 威尔巴顿	wei er ba dun
-威尔森钱德勒	wei er sen qian de le
 威金斯	wei jin si
 威利里德	wei li li de
-威廉姆斯	wei lian mu si
 威少	wei shao
 韦少	wei shao
 威斯布鲁克	wei si bu lu ke
 韦斯利约翰逊	wei si li yue han xun
-韦斯特	wei si te
 维特斯	wei te si
-文斯卡特	wen si ka te
 温斯洛	wen si luo
 沃伦	wo lun
-沃特森	wo te sen
 乌布雷	wu bu lei
-伍德	wu de
 武贾西奇	wu jia xi qi
 武切维奇	wu qie wei qi
-希尔	xi er
-西蒙斯	xi meng si
 西亚卡姆	xi ya ka mu
 夏洛特黄蜂	xia luo te huang feng
 小德里克琼斯	xiao de li ke qiong si
@@ -9182,27 +7224,20 @@ use_preset_vocabulary: true
 小隆多	xiao long duo
 效率狂魔	xiao lv kuang mo
 小南斯	xiao nan si
-小牛	xiao niu
 小佩顿	xiao pei dun
 小托马斯	xiao tuo ma si
 谢尔登	xie er deng
 谢尔登麦克	xie er deng mai ke
 谢尔文	xie er wen
 谢赫迪亚洛	xie he di ya luo
-新奥尔良	xin ao er liang
-雄鹿	xiong lu
 熊猫之友	xiong mao zhi you
-休斯顿火箭	xiu si dun huo jian
 亚历克	ya li ke
 亚历克斯	ya li ke si
-亚特兰大	ya te lan da
-亚特兰大老鹰队	ya te lan da lao ying dui
 扬尼斯	yang ni si
 野兽	ye shou
 伊安马辛米	yi an ma xin mi
 伊巴卡	yi ba ka
 伊恩克拉克	yi en ke la ke
-伊戈达拉	yi ge da la
 伊利亚索瓦	yi li ya suo wa
 伊曼香珀特	yi man xiang po te
 伊内斯	yi nei si
@@ -9214,27 +7249,19 @@ use_preset_vocabulary: true
 印第安纳	yin di an na
 英格尔斯	ying ge er si
 英格拉姆	ying ge la mu
-尤德里	you de li
 尤吉费雷尔	you ji fei lei er
-犹他爵士队	you ta jue shi dui
 约迪米克斯	yue di mi ke si
 约翰汉森	yue han han sen
 约翰沃尔	yue han wo er
-约翰逊	yue han xun
 约基奇	yue ji qi
 约什	yue shi
 约什理查德森	yue shi li cha de sen
 扎克拉文	zha ke la wen
-扎克兰多夫	zha ke lan duo fu
-扎扎	zha zha
 詹皇	zhan huang
-詹姆斯	zhan mu si
 詹姆斯哈登	zhan mu si ha deng
-詹姆斯琼斯	zhan mu si qiong si
 詹姆斯杨	zhan mu si yang
 詹姆斯约翰逊	zhan mu si yue han xun
 詹宁斯	zhan ning si
-芝加哥公牛	zhi jia ge gong niu
 中国弩	zhong guo nu
 状元西蒙斯	zhuang yuan xi meng si
 祖巴茨	zu ba ci
@@ -9245,7 +7272,6 @@ use_preset_vocabulary: true
 阿邦丹契里	a bang dan qi li
 阿邦丹切里	a bang dan qie li
 阿邦丹谢里	a bang dan xie li
-阿比达尔	a bi da er
 阿比尔德加德	a bi er de jia de
 阿比亚蒂	a bi ya di
 阿伯丁	a bo ding
@@ -9274,25 +7300,21 @@ use_preset_vocabulary: true
 阿达尼	a da ni
 阿代尔顿	a dai er dun
 阿丹	a dan
-阿德巴约	a de ba yue
 阿德巴约尔	a de ba yue er
 阿德拉诺	a de la nuo
 阿德莱德蓝鹰	a de lai de lan ying
 阿德莱德联	a de lai de lian
 阿德莱耶	a de lai ye
 阿德勒	a de le
-阿德里安	a de li an
 阿德里安洛佩斯	a de li an luo pei si
 阿德里安皮特	a de li an pi te
 阿德里恩席尔瓦	a de li en xi er wa
-阿德里亚诺	a de li ya nuo
 阿德里亚诺科雷亚	a de li ya nuo ke lei ya
 阿德里亚诺赞科佩	a de li ya nuo zan ke pei
 阿德莫维奇	a de mo wei qi
 阿德南根戈尔	a de nan gen ge er
 阿登科卡克	a deng ke ka ke
 阿蒂利奥特塞尔	a di li ao te sai er
-阿杜	a du
 阿杜比	a du bi
 阿杜尔巴尔德	a du er ba er de
 阿杜里斯	a du li si
@@ -9303,20 +7325,16 @@ use_preset_vocabulary: true
 阿尔阿拉比	a er a la bi
 阿尔阿拉比阿联酋	a er a la bi a lian qiu
 阿尔阿里萨纳	a er a li sa na
-阿尔艾因	a er ai yin
 阿尔巴卡阿	a er ba ka a
 阿尔巴隆戈	a er ba long ge
 阿尔巴内塞	a er ba nei sai
 阿尔巴尼亚贝萨	a er ba ni ya bei sa
 阿尔巴切特	a er ba qie te
 阿尔贝茨	a er bei ci
-阿尔贝尔达	a er bei er da
 阿尔贝罗阿	a er bei luo a
 阿尔贝塔齐	a er bei ta qi
 阿尔贝托	a er bei tuo
 阿尔贝托罗德里格斯	a er bei tuo luo de li ge si
-阿尔比	a er bi
-阿尔比奥尔	a er bi ao er
 阿尔比尔	a er bi er
 阿尔比诺勒菲	a er bi nuo le fei
 阿尔宾	a er bin
@@ -9351,11 +7369,9 @@ use_preset_vocabulary: true
 阿尔卡德西亚	a er ka de xi ya
 阿尔卡尔赫	a er ka er he
 阿尔卡拉马	a er ka la ma
-阿尔卡拉兹	a er ka la zi
 阿尔卡里奇	a er ka li qi
 阿尔卡亚	a er ka ya
 阿尔科拉	a er ke la
-阿尔克马尔	a er ke ma er
 阿尔科威特	a er ke wei te
 阿尔科亚诺	a er ke ya nuo
 阿尔库霍尔	a er ku huo er
@@ -9366,8 +7382,6 @@ use_preset_vocabulary: true
 阿尔迈季德	a er mai ji de
 阿尔曼多	a er man duo
 阿尔曼多萨	a er man duo sa
-阿尔梅达	a er mei da
-阿尔梅里亚	a er mei li ya
 阿尔门特罗斯	a er men te luo si
 阿尔米隆	a er mi long
 阿尔米纳阿	a er mi na a
@@ -9409,7 +7423,6 @@ use_preset_vocabulary: true
 阿尔瓦达萨纳	a er wa da sa na
 阿尔瓦克拉	a er wa ke la
 阿尔瓦雷	a er wa lei
-阿尔瓦雷斯	a er wa lei si
 阿尔瓦雷兹	a er wa lei zi
 阿尔瓦罗	a er wa luo
 阿尔瓦罗奥尔多内斯	a er wa luo ao er duo nei si
@@ -9418,7 +7431,6 @@ use_preset_vocabulary: true
 阿尔瓦罗内格雷多	a er wa luo nei ge lei duo
 阿尔瓦斯尔	a er wa si er
 阿尔维达特	a er wei da te
-阿尔维斯	a er wei si
 阿尔维斯竞技	a er wei si jing ji
 阿尔西德斯	a er xi de si
 阿尔西纳	a er xi na
@@ -9434,7 +7446,6 @@ use_preset_vocabulary: true
 阿尔祖	a er zu
 阿尔佐	a er zuo
 阿法足球协会	a fa zu qiu xie hui
-阿方索	a fang suo
 阿方索阿尔维斯	a fang suo a er wei si
 阿方索卡莫拉尼	a fang suo ka mo la ni
 阿菲尔德	a fei er de
@@ -9444,7 +7455,6 @@ use_preset_vocabulary: true
 阿富汗足球俱乐部	a fu han zu qiu ju le bu
 阿夫拉莫夫	a fu la mo fu
 阿弗耶斯	a fu ye si
-阿格	a ge
 阿格本拉霍	a ge ben la huo
 阿格布	a ge bu
 阿格里亚蒂	a ge li ya di
@@ -9467,7 +7477,6 @@ use_preset_vocabulary: true
 阿吉拉斯	a ji la si
 阿吉雷特塞	a ji lei te sai
 阿加霍瓦	a jia huo wa
-阿贾克斯	a jia ke si
 阿贾克斯海角城	a jia ke si hai jiao cheng
 阿加利	a jia li
 阿杰尔	a jie er
@@ -9499,7 +7508,6 @@ use_preset_vocabulary: true
 阿莱克斯桑托斯	a lai ke si sang tuo si
 阿莱桑德里亚	a lai sang de li ya
 阿莱桑德罗科雷亚	a lai sang de luo ke lei ya
-阿莱士	a lai shi
 阿莱士奥蒂兹	a lai shi ao di zi
 阿莱士加西亚	a lai shi jia xi ya
 阿莱士库珀尔	a lai shi ku po er
@@ -9507,7 +7515,6 @@ use_preset_vocabulary: true
 阿莱士席尔瓦	a lai shi xi er wa
 阿莱西斯	a lai xi si
 阿莱因陶尔	a lai yin tao er
-阿兰	a lan
 阿兰巴克延森	a lan ba ke yan sen
 阿兰贝耐特	a lan bei nai te
 阿兰布鲁	a lan bu lu
@@ -9518,7 +7525,6 @@ use_preset_vocabulary: true
 阿兰迈克格里格尔	a lan mai ke ge li ge er
 阿兰莫尔干	a lan mo er gan
 阿兰萨瓦尔	a lan sa wa er
-阿兰史密斯	a lan shi mi si
 阿兰苏比亚	a lan su bi ya
 阿兰汤普森	a lan tang pu sen
 阿兰希勒	a lan xi le
@@ -9558,7 +7564,6 @@ use_preset_vocabulary: true
 阿隆索	a long suo
 阿隆佐	a long zuo
 阿鲁阿巴雷纳	a lu a ba lei na
-阿鲁纳丁达内	a lu na ding da nei
 阿鲁纳科尼	a lu na ke ni
 阿洛内夫蒂斯	a luo nei fu di si
 阿罗尼卡	a luo ni ka
@@ -9582,7 +7587,6 @@ use_preset_vocabulary: true
 阿梅兹林	a mei zi lin
 阿门特罗斯	a men te luo si
 阿密达尔	a mi da er
-阿莫阿	a mo a
 阿莫雷别塔	a mo lei bie ta
 阿莫鲁索	a mo lu suo
 阿莫瑞比斯乔夫	a mo rui bi si qiao fu
@@ -9594,7 +7598,6 @@ use_preset_vocabulary: true
 阿穆尼亚	a mu ni ya
 阿纳斯塔西	a na si ta xi
 阿纳斯塔西乌	a na si ta xi wu
-阿内尔卡	a nei er ka
 阿尼尔卡拉尔	a ni er ka la er
 阿尼切贝	a ni qie bei
 阿尼什贝	a ni shen bei
@@ -9602,16 +7605,13 @@ use_preset_vocabulary: true
 阿帕姆	a pa mu
 阿帕奇	a pa qi
 阿佩尔坦斯	a pei er tan si
-阿皮亚	a pi ya
 阿奇巴尔德亨维利	a qi ba er de heng wei li
 阿奇迪孔	a qi di kong
 阿奇尔阿维拉泽	a qi er a wei la ze
 阿奇雷亚莱	a qi lei ya lai
-阿萨莫阿	a sa mo a
 阿萨斯体育	a sa si ti yu
 阿瑟德尔奥尔诺	a se de er ao er nuo
 阿瑟拉那	a se la na
-阿森纳	a sen na
 阿森纳卡基夫	a sen na ka ji fu
 阿森纳特瓦特	a sen na te wa te
 阿森内	a sen nei
@@ -9620,9 +7620,7 @@ use_preset_vocabulary: true
 阿什哈巴德阿苏达利	a shi ha ba de a su da li
 阿什哈巴德科佩达	a shi ha ba de ke pei da
 阿什哈巴德足球俱乐部	a shi ha ba de zu qiu ju le bu
-阿什利科尔	a shi li ke er
 阿什利杨	a shi li yang
-阿斯顿维拉	a si dun wei la
 阿斯科利	a si ke li
 阿斯库	a si ku
 阿斯塔纳杰尼斯	a si ta na jie ni si
@@ -9655,7 +7653,6 @@ use_preset_vocabulary: true
 阿西米奥托雷	a xi mi ao tuo lei
 阿仙奴	a xian nu
 阿雅克修	a ya ke xiu
-阿亚拉	a ya la
 阿伊达雷维奇	a yi da lei wei qi
 阿伊曼阿布德拉济	a yi man a bu de la ji
 阿伊萨蒂	a yi sa di
@@ -9685,7 +7682,6 @@ use_preset_vocabulary: true
 埃德尔加乌乔	ai de er jia wu qiao
 埃德尔佩雷斯	ai de er pei lei si
 埃德尔森	ai de er sen
-爱德华多	ai de hua duo
 埃德加	ai de jia
 埃德加安东尼阿尔瓦雷	ai de jia an dong ni a er wa lei
 埃德加卡尼	ai de jia ka ni
@@ -9709,7 +7705,6 @@ use_preset_vocabulary: true
 埃迪兹巴蒂亚罗格鲁	ai di zi ba di ya luo ge lu
 艾丁托斯卡利	ai ding tuo si ka li
 艾丁伊尔马兹	ai ding yi er ma zi
-埃杜	ai du
 埃杜德拉塞纳	ai du de la sai na
 埃杜尔多	ai du er duo
 埃杜尔多西塞	ai du er duo xi sai
@@ -9752,9 +7747,7 @@ use_preset_vocabulary: true
 埃菲埃姆雷	ai fei ai mu lei
 埃菲莱姆	ai fei lai mu
 埃菲伊南克	ai fei yi nan ke
-埃弗顿	ai fu dun
 艾夫华	ai fu hua
-埃夫拉	ai fu la
 埃弗雷姆	ai fu lei mu
 埃夫柳斯金	ai fu liu si jin
 埃弗伦奥兹伊吉特	ai fu lun ao zi yi ji te
@@ -9770,7 +7763,6 @@ use_preset_vocabulary: true
 艾禾斯堡	ai he si bao
 埃济奥罗西	ai ji ao luo xi
 艾基巴斯图泽茨	ai ji ba si tu ze ci
-埃吉曼	ai ji man
 埃吉门科尔克马兹	ai ji men ke er ke ma zi
 埃杰恩圭莱	ai jie en gui lai
 埃杰门根卡尔普	ai jie men gen ka er pu
@@ -9791,7 +7783,6 @@ use_preset_vocabulary: true
 埃克托方特	ai ke tuo fang te
 埃克托莫雷诺	ai ke tuo mo lei nuo
 艾库特厄尔塞丁	ai ku te e er sai ding
-埃拉诺	ai la nuo
 埃莱夫塞罗普洛斯	ai lai fu sai luo pu luo si
 埃雷夫特罗波罗斯	ai lei fu te luo bo luo si
 埃雷门科	ai lei men ke
@@ -9801,22 +7792,18 @@ use_preset_vocabulary: true
 埃里克博安德森	ai li ke bo an de sen
 埃里克斯格特	ai li ke si ge te
 埃利维尔顿	ai li wei er dun
-埃利亚	ai li ya
 埃利亚斯	ai li ya si
 埃卢钱斯	ai lu qian si
 埃略特	ai lue te
 艾洛亚竞技	ai luo ya jing ji
-艾马尔	ai ma er
 艾玛尔	ai ma er
 埃马卡	ai ma ka
 埃马卡安德森	ai ma ka an de sen
 埃马鲁尔森	ai ma lu er sen
-埃马纳	ai ma na
 埃马努尔森	ai ma nu er sen
 埃马努尔托马斯	ai ma nu er tuo ma si
 埃马努尔维拉	ai ma nu er wei la
 艾马逊	ai ma xun
-埃曼努埃尔埃布埃	ai man nu ai er ai bu ai
 埃曼努埃尔菲利皮尼	ai man nu ai er fei li pi ni
 艾美臣	ai mei chen
 埃梅里克	ai mei li ke
@@ -9830,7 +7817,6 @@ use_preset_vocabulary: true
 埃米尼奥	ai mi ni ao
 埃米尼奥鲁罗	ai mi ni ao lu luo
 艾默当踢球者	ai mo dang ti qiu zhe
-埃莫森	ai mo sen
 埃默森	ai mo sen
 埃姆拉厄伦	ai mu la e lun
 埃姆拉伊南克	ai mu la yi nan ke
@@ -9864,7 +7850,6 @@ use_preset_vocabulary: true
 埃斯库德	ai si ku de
 艾思莫茨	ai si mo ci
 埃斯皮纽	ai si pi niu
-埃斯皮诺萨	ai si pi nuo sa
 埃斯特班	ai si te ban
 埃斯特哈德	ai si te ha de
 埃斯特雷马杜拉	ai si te lei ma du la
@@ -9880,7 +7865,6 @@ use_preset_vocabulary: true
 埃特林顿	ai te lin dun
 埃特马迪	ai te ma di
 艾托	ai tuo
-埃托奥	ai tuo ao
 埃托奥西奥	ai tuo ao xi ao
 艾托尔	ai tuo er
 艾托尔奥西奥	ai tuo er ao xi ao
@@ -9897,11 +7881,9 @@ use_preset_vocabulary: true
 埃希奥古	ai xi ao gu
 艾希纳	ai xi na
 艾辛	ai xin
-埃辛	ai xin
 艾亚里	ai ya li
 埃伊登麦克杰迪	ai yi deng mai ke jie di
 埃因霍恩	ai yin huo en
-埃因霍温	ai yin huo wen
 埃泽奎亚斯	ai ze kui ya si
 艾治拿斯	ai zhi na si
 安布罗塞	an bu luo sai
@@ -9934,7 +7916,6 @@ use_preset_vocabulary: true
 安德雷斯奥特尔	an de lei si ao te er
 安德雷苏西	an de lei su xi
 安德里森	an de li sen
-安德里亚	an de li ya
 安德烈多塞纳	an de lie duo sai na
 安德烈卡波尼	an de lie ka bo ni
 安德烈坎帕尼奥洛	an de lie kan pa ni ao luo
@@ -10004,12 +7985,10 @@ use_preset_vocabulary: true
 安索特吉	an suo te ji
 安图内斯	an tu nei si
 安托伊内库里尔	an tuo yi nei ku li er
-安贞焕	an zhen huan
 奥巴梅扬	ao ba mei yang
 奥巴梅杨	ao ba mei yang
 奥贝唐	ao bei tang
 奥比米科尔	ao bi mi ke er
-奥比纳	ao bi na
 奥宾纳	ao bin na
 奥博迪什阿塔	ao bo di shen a ta
 奥波多	ao bo duo
@@ -10032,7 +8011,6 @@ use_preset_vocabulary: true
 奥迪亚姆博	ao di ya mu bo
 奥东科	ao dong ke
 奥东克尔	ao dong ke er
-奥多	ao duo
 奥多诺万	ao duo nuo wan
 奥尔	ao er
 奥尔巴萨诺安全	ao er ba sa nuo an quan
@@ -10048,7 +8026,6 @@ use_preset_vocabulary: true
 奥尔罕萨姆	ao er han sa mu
 奥尔昆巴尔	ao er kun ba er
 奥尔默斯	ao er mo si
-奥尔森	ao er sen
 奥尔特曼	ao er te man
 奥芬巴赫踢球者	ao fen ba he ti qiu zhe
 奥夫拉尼	ao fu la ni
@@ -10083,7 +8060,6 @@ use_preset_vocabulary: true
 奥莱科萨德里亚	ao lai ke sa de li ya
 奥莱尼克	ao lai ni ke
 奥莱汤姆森	ao lai tang mu sen
-奥兰多	ao lan duo
 奥兰多阿贾克斯	ao lan duo a jia ke si
 奥兰多海盗	ao lan duo hai dao
 奥兰多罗西	ao lan duo luo xi
@@ -10160,7 +8136,6 @@ use_preset_vocabulary: true
 奥斯托杰奇	ao si tuo jie qi
 奥斯托普	ao si tuo pu
 奥斯瓦尔多	ao si wa er duo
-奥索里奥	ao suo li ao
 奥特鲁尔	ao te lu er
 奥汀托普	ao ting tuo pu
 奥托阿多	ao tuo a duo
@@ -10177,7 +8152,6 @@ use_preset_vocabulary: true
 奥希金斯	ao xi jin si
 奥锡拉库扎	ao xi la ku zha
 奥西耶克	ao xi ye ke
-奥谢	ao xie
 奥耶尔	ao ye er
 奥泽尔法蒂赫	ao ze er fa di he
 奥泽尔胡尔马西	ao ze er hu er ma xi
@@ -10196,7 +8170,6 @@ use_preset_vocabulary: true
 巴巴卡古耶	ba ba ka gu ye
 巴巴坎沃尔坎	ba ba kan wo er kan
 巴巴雷茨	ba ba lei ci
-巴贝尔	ba bei er
 巴贝尔斯堡	ba bei er si bao
 巴贝尔斯伯格	ba bei er si bo ge
 巴比奇	ba bi qi
@@ -10219,7 +8192,6 @@ use_preset_vocabulary: true
 巴迪亚尼	ba di ya ni
 巴东赛门	ba dong sai men
 巴杜科雷	ba du ke lei
-巴恩斯	ba en si
 巴恩斯利	ba en si li
 巴尔巴斯特罗	ba er ba si te luo
 巴尔比	ba er bi
@@ -10230,10 +8202,8 @@ use_preset_vocabulary: true
 巴尔策斯	ba er ce si
 巴尔达奇诺	ba er da qi nuo
 巴尔德	ba er de
-巴尔德斯	ba er de si
 巴尔蒂奥林匹克	ba er di ao lin pi ke
 巴尔迪尼	ba er di ni
-巴尔迪维亚	ba er di wei ya
 巴尔多	ba er duo
 巴尔科施泰因	ba er ke shi tai yin
 巴尔蒙特	ba er meng te
@@ -10251,19 +8221,16 @@ use_preset_vocabulary: true
 巴基尔西奥格鲁	ba ji er xi ao ge lu
 巴卡尔	ba ka er
 巴卡约科	ba ka yue ke
-巴克利	ba ke li
 巴库奥林匹克	ba ku ao lin pi ke
 巴库迪纳摩	ba ku di na mo
 巴库尼福基	ba ku ni fu ji
 巴拉班	ba la ban
 巴拉查	ba la cha
-巴拉多利德	ba la duo li de
 巴拉尔迪尼	ba la er di ni
 巴拉圭宇宙	ba la gui yu zhou
 巴拉哈	ba la ha
 巴拉济特	ba la ji te
 巴拉卡尔多	ba la ka er duo
-巴拉克	ba la ke
 巴拉莫文斯	ba la mo wen si
 巴拉纳竞技	ba la na jing ji
 巴拉约萨	ba la yue sa
@@ -10271,13 +8238,9 @@ use_preset_vocabulary: true
 巴莱里	ba lai li
 巴莱斯特里	ba lai si te li
 巴勒里	ba le li
-巴勒莫	ba le mo
-巴雷拉	ba lei la
 巴雷伦斯	ba lei lun si
 巴雷斯特罗斯	ba lei si te luo si
-巴雷托	ba lei tuo
 巴雷托德索萨	ba lei tuo de suo sa
-巴里	ba li
 巴利	ba li
 巴利茨施	ba li ci shi
 巴里弗格森	ba li fu ge sen
@@ -10293,41 +8256,33 @@ use_preset_vocabulary: true
 巴林俱乐部	ba lin ju le bu
 巴鲁索	ba lu suo
 巴鲁特巴巴罗斯	ba lu te ba ba luo si
-巴伦西亚	ba lun xi ya
 巴洛姆皮	ba luo mu pi
 巴罗尼	ba luo ni
 巴罗尼奥	ba luo ni ao
-巴罗什	ba luo shi
 巴罗塔	ba luo ta
 巴洛特里	ba luo te li
 巴姆伯格	ba mu bo ge
 巴纳塔尔	ba na ta er
 巴南特斯	ba nan te si
 巴内加	ba nei jia
-巴内塔	ba nei ta
 巴努亚斯	ba nu ya si
 巴诺维奇	ba nuo wei qi
-巴普蒂斯塔	ba pu di si ta
 巴乔	ba qiao
 巴切洛纳	ba qie luo na
 把球丢了	ba qiu diu le
 巴裘考卡	ba qiu kao ka
-巴萨	ba sa
 巴萨奥莱	ba sa ao lai
 巴萨尼兹	ba sa ni zi
 巴萨诺维特斯	ba sa nuo wei te si
 巴塞尔肯考迪亚	ba sai er ken kao di ya
 巴塞吉奥	ba sai ji ao
-巴塞罗那	ba sai luo na
 巴斯克米	ba si ke mi
 巴斯克斯	ba si ke si
 巴斯林斯	ba si lin si
 巴斯特里尼	ba si te li ni
-巴斯滕	ba si teng
 巴斯图尔克	ba si tu er ke
 巴斯托	ba si tuo
 巴索托老虎	ba suo tuo lao hu
-巴特	ba te
 巴特尔斯	ba te er si
 巴特菲尔伯尔	ba te fei er bo er
 巴特芬比戈米斯	ba te fen bi ge mi si
@@ -10336,7 +8291,6 @@ use_preset_vocabulary: true
 巴特勒斯	ba te le si
 巴特雷斯	ba te lei si
 巴特斯	ba te si
-巴特兹	ba te zi
 巴统迪纳摩	ba tong di na mo
 巴图汉	ba tu han
 巴维斯塔	ba wei si ta
@@ -10355,7 +8309,6 @@ use_preset_vocabulary: true
 白俄罗斯布雷斯特迪纳摩	bai e luo si bu lei si te di na mo
 白俄罗斯联赛	bai e luo si lian sai
 拜恩阿尔策瑙	bai en a er ce nao
-拜尔	bai er
 拜拉克塔尔	bai la ke ta er
 柏雷素尔	bai lei su er
 拜罗伊特	bai luo yi te
@@ -10363,7 +8316,6 @@ use_preset_vocabulary: true
 拜尼	bai ni
 百年鲁能	bai nian lu neng
 拜仁霍夫	bai ren huo fu
-拜仁慕尼黑	bai ren mu ni hei
 柏天尼	bai tian ni
 摆脱防守	bai tuo fang shou
 白星乌留蔚竞技	bai xing wu liu wei jing ji
@@ -10376,7 +8328,6 @@ use_preset_vocabulary: true
 班菲尔德	ban fei er de
 半高球	ban gao qiu
 班贾尔	ban jia er
-半决赛	ban jue sai
 班凯	ban kai
 班克尔特	ban ke er te
 班克特	ban ke te
@@ -10400,7 +8351,6 @@ use_preset_vocabulary: true
 保级战	bao ji zhan
 保加利亚科内利亚诺	bao jia li ya ke nei li ya nuo
 保加利亚联赛	bao jia li ya lian sai
-保莱塔	bao lai ta
 保劳斯卡斯	bao lao si ka si
 保利尼奥	bao li ni ao
 保利尼奥贝塔尼恩	bao li ni ao bei ta ni en
@@ -10412,7 +8362,6 @@ use_preset_vocabulary: true
 保罗安德雷	bao luo an de lei
 保罗德拉菲奥雷	bao luo de la fei ao lei
 保罗恩里克	bao luo en li ke
-保罗费雷拉	bao luo fei lei la
 保罗卡纳瓦罗	bao luo ka na wa luo
 保罗科斯塔	bao luo ke si ta
 保罗奎因	bao luo kui yin
@@ -10458,32 +8407,25 @@ use_preset_vocabulary: true
 贝格维奇	bei ge wei qi
 贝格西奥	bei ge xi ao
 贝戈伊斯	bei ge yi si
-贝赫拉米	bei he la mi
 贝赫曼	bei he man
 背后铲球	bei hou chan qiu
 贝基尔奥赞哈斯	bei ji er ao zan ha si
 北京国安	bei jing guo an
 北京宏登	bei jing hong deng
-贝克	bei ke
 贝克博德莫塔鲁格	bei ke bo de mo ta lu ge
 贝克汉姆	bei ke han mu
-贝拉	bei la
 贝拉尔迪	bei la er di
 贝拉克拉吉那	bei la ke la ji na
 贝拉利亚	bei la li ya
-贝拉米	bei la mi
 贝拉斯科	bei la si ke
 贝拉丝特萨	bei la si te sa
 贝拉维斯塔	bei la wei si ta
 贝莱蒂	bei lai di
-贝莱隆	bei lai long
-贝利	bei li
 贝里克流浪者	bei li ke liu lang zhe
 贝利尼	bei li ni
 贝里沙	bei li sha
 贝里翁	bei li weng
 贝林佐纳	bei lin zuo na
-贝隆	bei long
 贝卢诺	bei lu nuo
 贝卢奇	bei lu qi
 贝卢斯奇	bei lu si qi
@@ -10492,16 +8434,12 @@ use_preset_vocabulary: true
 贝纳尔迪	bei na er di
 贝纳尔迪尼	bei na er di ni
 贝纳尔多	bei na er duo
-贝纳格里奥	bei na ge li ao
 贝纳利奥	bei na li ao
 贝纳洛瓦尼	bei na luo wa ni
-贝纳特	bei na te
 贝纳提亚	bei na ti ya
-贝纳永	bei na yong
 贝内佛蒂	bei nei fo di
 贝内文托	bei nei wen tuo
 贝尼多姆	bei ni duo mu
-贝尼特斯	bei ni te si
 贝纽西斯	bei niu xi si
 贝诺马尔	bei nuo ma er
 贝诺莫尔曼	bei nuo mo er man
@@ -10510,11 +8448,9 @@ use_preset_vocabulary: true
 贝斯克塔斯	bei si ke ta si
 贝斯利亚	bei si li ya
 贝斯尼克	bei si ni ke
-贝斯特	bei si te
 贝塔尼恩	bei ta ni en
 贝特范马尔维克	bei te fan ma er wei ke
 贝特加	bei te jia
-贝托	bei tuo
 贝托达席尔瓦	bei tuo da xi er wa
 贝托托	bei tuo tuo
 北维吉尼亚王室	bei wei ji ni ya wang shi
@@ -10525,7 +8461,6 @@ use_preset_vocabulary: true
 本阿尔法	ben a er fa
 本德尔迪纳摩	ben de er di na mo
 本迪克森	ben di ke sen
-本菲卡	ben fei ka
 本哈蒂拉	ben ha di la
 本哈钦森	ben ha qin sen
 本哈提拉	ben ha ti la
@@ -10538,11 +8473,8 @@ use_preset_vocabulary: true
 本特	ben te
 本特哈弗丹彼德森	ben te ha fu dan bi de sen
 本特利	ben te li
-本特纳	ben te na
-本田圭佑	ben tian gui you
 本耶霍达	ben ye huo da
 本泽尔加	ben ze er jia
-本泽马	ben ze ma
 本泽玛	ben ze ma
 比埃勒	bi ai le
 比埃罗夫卡	bi ai luo fu ka
@@ -10552,7 +8484,6 @@ use_preset_vocabulary: true
 比彻姆	bi che mu
 彼达蒂克瓦马卡比	bi da di ke wa ma ka bi
 彼达蒂克瓦夏普尔	bi da di ke wa xia pu er
-比达尔	bi da er
 彼德	bi de
 彼德彼德森	bi de bi de sen
 彼得伯勒联	bi de bo le lian
@@ -10598,8 +8529,6 @@ use_preset_vocabulary: true
 比利莫拉蒂	bi li mo la di
 比利时联合竞技	bi li shi lian he jing ji
 比利时联赛	bi li shi lian sai
-比利亚	bi li ya
-比利亚雷亚尔	bi li ya lei ya er
 比林德利	bi lin de li
 秘鲁联赛	bi lu lian sai
 比洛姆凯尔特人	bi luo mu kai er te ren
@@ -10617,7 +8546,6 @@ use_preset_vocabulary: true
 比绍夫	bi shao fu
 比什凯克迪纳莫	bi shi kai ke di na mo
 比朔夫	bi shuo fu
-比斯利	bi si li
 比斯乔夫	bi si qiao fu
 比斯卓夫	bi si zhuo fu
 比特勒	bi te le
@@ -10634,10 +8562,8 @@ use_preset_vocabulary: true
 边锋战术	bian feng zhan shu
 边界传	bian jie chuan
 卞军	bian jun
-边线	bian xian
 边线进攻	bian xian jin gong
 变阵	bian zhen
-标准列日	biao zhun lie ri
 别拉诺维奇	bie la nuo wei qi
 别利克	bie li ke
 宾哈诺夫斯	bin ha nuo fu si
@@ -10652,11 +8578,8 @@ use_preset_vocabulary: true
 博阿基耶	bo a ji ye
 博阿莫特	bo a mo te
 博阿腾	bo a teng
-博阿滕	bo a teng
 博阿维斯塔	bo a wei si ta
 博埃克斯	bo ai ke si
-博班	bo ban
-博比查尔顿	bo bi cha er dun
 博比佩塔	bo bi pei ta
 波波	bo bo
 波波夫	bo bo fu
@@ -10671,7 +8594,6 @@ use_preset_vocabulary: true
 博迪安斯基	bo di an si ji
 波蒂内利	bo di nei li
 博多尔	bo duo er
-波多尔斯基	bo duo er si ji
 伯恩巴赫	bo en ba he
 伯恩德内里格	bo en de nei li ge
 伯恩茅斯	bo en mao si
@@ -10682,8 +8604,6 @@ use_preset_vocabulary: true
 波尔蒂略	bo er di lue
 波尔蒂芒运动	bo er di mang yun dong
 博尔东	bo er dong
-博尔顿	bo er dun
-波尔多	bo er duo
 波尔多体育	bo er duo ti yu
 博尔哈尼	bo er ha ni
 博尔曼	bo er man
@@ -10694,7 +8614,6 @@ use_preset_vocabulary: true
 波尔森	bo er sen
 波尔塔	bo er ta
 波尔塔瓦沃斯克拉	bo er ta wa wo si ke la
-波尔图	bo er tu
 波尔瓦尔	bo er wa er
 博尔佐尼	bo er zuo ni
 波尔佐尼	bo er zuo ni
@@ -10708,7 +8627,6 @@ use_preset_vocabulary: true
 博格诺里吉斯	bo ge nuo li ji si
 博格沃尔德	bo ge wo er de
 波黑博拉克	bo hei bo la ke
-波鸿	bo hong
 博霍尔斯	bo huo er si
 博霍尔特	bo huo er te
 波加特兹	bo jia te zi
@@ -10716,14 +8634,11 @@ use_preset_vocabulary: true
 博卡	bo ka
 博卡里	bo ka li
 博卡内格拉	bo ka nei ge la
-博卡青年	bo ka qing nian
 博坎索德	bo kan suo de
 博科利尼	bo ke li ni
 波克里瓦奇	bo ke li wa qi
 波科尼奥利	bo ke ni ao li
-博拉蒂	bo la di
 波拉克	bo la ke
-博拉鲁兹	bo la lu zi
 波拉纳	bo la na
 博拉诺	bo la nuo
 博拉特	bo la te
@@ -10743,7 +8658,6 @@ use_preset_vocabulary: true
 博利雅西联	bo li ya xi lian
 博列洛	bo lie luo
 柏林迪纳摩	bo lin di na mo
-柏林赫塔	bo lin he ta
 柏林赫塔二队	bo lin he ta er dui
 柏林竞技	bo lin jing ji
 柏林联盟	bo lin lian meng
@@ -10754,7 +8668,6 @@ use_preset_vocabulary: true
 波伦茨	bo lun ci
 博罗夫斯基	bo luo fu si ji
 波罗夫斯基	bo luo fu si ji
-博洛尼亚	bo luo ni ya
 伯梅	bo mei
 波米格利亚诺	bo mi ge li ya nuo
 伯明翰	bo ming han
@@ -10765,7 +8678,6 @@ use_preset_vocabulary: true
 博纳佐利	bo na zuo li
 博内弗伊	bo nei fu yi
 博内拉	bo nei la
-博内特	bo nei te
 博尼格	bo ni ge
 博尼佩尔蒂	bo ni pei er di
 伯尼希	bo ni xi
@@ -10787,7 +8699,6 @@ use_preset_vocabulary: true
 波坦察竞技	bo tan cha jing ji
 伯特芬拉基	bo te fen la ji
 博特鲁切	bo te lu qie
-波特诺山丘	bo te nuo shan qiu
 波特圣特斯	bo te sheng te si
 波腾扎	bo teng zha
 波滕扎	bo teng zha
@@ -10810,14 +8721,12 @@ use_preset_vocabulary: true
 布岑斯卡	bu cen si ka
 布达里亚	bu da li ya
 布丹	bu dan
-布德尔	bu de er
 布迪安斯基	bu di an si ji
 布迪索	bu di suo
 布杜洛斯	bu du luo si
 布尔岑斯卡	bu er cen si ka
 布尔曾斯卡	bu er ceng si ka
 布尔达里奇	bu er da li qi
-布尔迪索	bu er di suo
 布尔格斯	bu er ge si
 布尔罕埃瑟尔	bu er han ai se er
 布尔赫尔特	bu er he er te
@@ -10832,12 +8741,9 @@ use_preset_vocabulary: true
 布尔歇特	bu er xie te
 布尔扎克维奇	bu er zha ke wei qi
 布费尔	bu fei er
-布冯	bu feng
 布格豪森	bu ge hao sen
 布加勒斯特迪纳摩	bu jia le si te di na mo
-布加勒斯特快速	bu jia le si te kuai su
 布加勒斯特民族	bu jia le si te min zu
-布加勒斯特星	bu jia le si te xing
 布卡拉曼加	bu ka la man jia
 布克	bu ke
 布克尔特	bu ke er te
@@ -10853,7 +8759,6 @@ use_preset_vocabulary: true
 布拉菲德	bu la fei de
 布拉干萨	bu la gan sa
 布拉戈	bu la ge
-布拉格斯巴达	bu la ge si ba da
 布拉格斯拉维亚	bu la ge si la wei ya
 布拉哈米	bu la ha mi
 布拉加竞技	bu la jia jing ji
@@ -10867,7 +8772,6 @@ use_preset_vocabulary: true
 布拉马	bu la ma
 布拉姆范登布切	bu la mu fan deng bu qie
 布拉热克	bu la re ke
-布拉沃	bu la wo
 布拉西	bu la xi
 布拉西格里亚诺	bu la xi ge li ya nuo
 布拉延安古洛	bu la yan an gu luo
@@ -10876,16 +8780,13 @@ use_preset_vocabulary: true
 布莱恩贝尔古戈诺克斯	bu lai en bei er gu ge nuo ke si
 布赖恩凯尔	bu lai en kai er
 布赖恩休斯	bu lai en xiu si
-布莱克本	bu lai ke ben
 布莱克普	bu lai ke pu
 不来梅港	bu lai mei gang
 布莱斯斯巴达	bu lai si si ba da
 布兰福勒斯	bu lan fu le si
 布兰卡港奥林匹克	bu lan ka gang ao lin pi ke
 布兰克	bu lan ke
-布兰科	bu lan ke
 布兰克博斯科维奇	bu lan ke bo si ke wei qi
-布朗	bu lang
 布劳利奥	bu lao li ao
 布雷茨科	bu lei ci ke
 布雷迪	bu lei di
@@ -10909,7 +8810,6 @@ use_preset_vocabulary: true
 布里夫拉盖亚尔德	bu li fu la gai ya er de
 布里格尔	bu li ge er
 布里吉	bu li ji
-布里奇	bu li qi
 布里森	bu li sen
 布里斯阿布里克	bu li si a bu li ke
 布里斯托城	bu li si tuo cheng
@@ -10926,7 +8826,6 @@ use_preset_vocabulary: true
 布鲁金克	bu lu jin ke
 布鲁明斯特	bu lu ming si te
 布鲁诺	bu lu nuo
-布鲁诺阿尔维斯	bu lu nuo a er wei si
 布鲁诺阿圭亚尔	bu lu nuo a gui ya er
 布鲁诺阿玛罗	bu lu nuo a ma luo
 布鲁诺巴斯托	bu lu nuo ba si tuo
@@ -10946,14 +8845,12 @@ use_preset_vocabulary: true
 布鲁诺塞维里诺	bu lu nuo sai wei li nuo
 布鲁诺提亚戈	bu lu nuo ti ya ge
 布鲁诺席尔瓦	bu lu nuo xi er wa
-布鲁日	bu lu ri
 布鲁塞尔	bu lu sai er
 布鲁斯特	bu lu si te
 布鲁特巴斯马兹	bu lu te ba si ma zi
 布鲁因涅尔	bu lu yin nie er
 布鲁因斯	bu lu yin si
 布鲁泽塞	bu lu ze sai
-不伦瑞克	bu lun rui ke
 布伦瑞克	bu lun rui ke
 布伦特阿塔曼	bu lun te a ta man
 布伦特博卢克巴西	bu lun te bo lu ke ba xi
@@ -10980,10 +8877,8 @@ use_preset_vocabulary: true
 布乔格奎斯特	bu qiao ge kui si te
 布什巴克斯	bu shi ba ke si
 布索法	bu suo fa
-布特	bu te
 布滕绍恩	bu teng shao en
 布瓦什奇科夫斯基	bu wa shen qi ke fu si ji
-补位	bu wei
 补位及时	bu wei ji shi
 布谢	bu xie
 布亚德斯	bu ya de si
@@ -10993,7 +8888,6 @@ use_preset_vocabulary: true
 布赞尼斯	bu zan ni si
 布泽戈利	bu ze ge li
 布泽林	bu ze lin
-裁判	cai pan
 蔡普旺	cai pu wang
 蔡晟	cai sheng
 蔡曦	cai xi
@@ -11013,7 +8907,6 @@ use_preset_vocabulary: true
 查理斯蒂斯	cha li si di si
 查里斯泰斯	cha li si tai si
 查里斯特亚斯	cha li si te ya si
-查理斯特亚斯	cha li si te ya si
 查马克	cha ma ke
 查内尔	cha nei er
 查普洛	cha pu luo
@@ -11026,20 +8919,17 @@ use_preset_vocabulary: true
 长传配合	chang chuan pei he
 长传突破	chang chuan tu po
 长春亚泰	chang chun ya tai
-长谷部诚	chang gu bu cheng
 长嘉利德	chang jia li de
 场上尺度	chang shang chi du
 超级联合	chao ji lian he
 超级联赛	chao ji lian sai
 超级运动联盟	chao ji yun dong lian meng
 朝鲜联赛	chao xian lian sai
-车杜里	che du li
 车范根	che fan gen
 车路士	che lu shi
 车向前	che xiang qian
 沉底传中	chen di chuan zhong
 陈方平	chen fang ping
-陈涛	chen tao
 陈晓政	chen xiao zheng
 成克伦	cheng ke lun
 城南一和天马	cheng nan yi he tian ma
@@ -11060,9 +8950,6 @@ use_preset_vocabulary: true
 楚斯耶罗	chu si ye luo
 穿插跑位	chuan cha pao wei
 传对方身后	chuan dui fang shen hou
-川口能活	chuan kou neng huo
-川崎前锋	chuan qi qian feng
-传球	chuan qiu
 传球不到位	chuan qiu bu dao wei
 传球失误	chuan qiu shi wu
 穿人墙	chuan ren qiang
@@ -11071,7 +8958,6 @@ use_preset_vocabulary: true
 茨维科夫	ci wei ke fu
 茨维塔诺维奇	ci wei ta nuo wei qi
 崔郭涛	cui guo tao
-崔鹏	cui peng
 崔肖佳	cui xiao jia
 村上范和	cun shang fan he
 大巴雷西	da ba lei xi
@@ -11151,7 +9037,6 @@ use_preset_vocabulary: true
 达斯托利	da si tuo li
 大田市民	da tian shi min
 大腿肌肉拉伤	da tui ji rou la shang
-大卫	da wei
 大卫道森	da wei dao sen
 大卫德根	da wei de gen
 大卫德考兹	da wei de kao zi
@@ -11171,7 +9056,6 @@ use_preset_vocabulary: true
 大卫汤普森	da wei tang pu sen
 大卫希利	da wei xi li
 大卫西芒	da wei xi mang
-达席尔瓦	da xi er wa
 打延长期	da yan chang qi
 达伊尔默菲	da yi er mo fei
 达伊内利	da yi nei li
@@ -11179,7 +9063,6 @@ use_preset_vocabulary: true
 打远角	da yuan jiao
 大冢一朗	da zhong yi lang
 黛布勒森	dai bu le sen
-代尔	dai er
 戴勒曼斯	dai le man si
 代尼兹利	dai ni zi li
 代尼兹利体育	dai ni zi li ti yu
@@ -11200,10 +9083,8 @@ use_preset_vocabulary: true
 戴维莫罗	dai wei mo luo
 戴维纳瓦罗	dai wei na wa luo
 戴维普列托	dai wei pu lie tuo
-戴维斯	dai wei si
 戴维索梅尔	dai wei suo mei er
 戴维威尔	dai wei wei er
-戴维席尔瓦	dai wei xi er wa
 戴维詹姆斯	dai wei zhan mu si
 戴维佐博里	dai wei zuo bo li
 戴宪荣	dai xian rong
@@ -11254,11 +9135,9 @@ use_preset_vocabulary: true
 倒地铲射	dao di chan she
 倒地扫射	dao di sao she
 道恩	dao en
-道格拉斯	dao ge la si
 倒勾球	dao gou qiu
 倒勾射门	dao gou she men
 倒脚	dao jiao
-道森	dao sen
 稻垣顺	dao yuan shun
 德阿布鲁	de a bu lu
 德阿森蒂斯	de a sen di si
@@ -11285,8 +9164,6 @@ use_preset_vocabulary: true
 德尔内里	de er nei li
 德尔内罗	de er nei luo
 德尔尼斯	de er ni si
-德尔皮埃尔	de er pi ai er
-德尔皮耶罗	de er pi ye luo
 德尔塞克	de er sai ke
 德尔维乔	de er wei qiao
 德尔维特	de er wei te
@@ -11307,7 +9184,6 @@ use_preset_vocabulary: true
 德吉布里尔西塞	de ji bu li er xi sai
 德卡尔马尔戈	de ka er ma er ge
 德卡尼奥	de ka ni ao
-德科	de ke
 德克尔维尔	de ke er wei er
 德克莱尔	de ke lai er
 德克鲁伊克	de ke lu yi ke
@@ -11340,27 +9216,22 @@ use_preset_vocabulary: true
 德鲁伊特	de lu yi te
 德伦特	de lun te
 德罗埃克	de luo ai ke
-德罗巴	de luo ba
 德罗布尼	de luo bu ni
 德罗尔格	de luo er ge
 德罗赫达联	de luo he da lian
 德罗斯特	de luo si te
-德罗西	de luo xi
 德罗伊尔斯登	de luo yi er si deng
 德罗因	de luo yin
 德马尔蒂诺	de ma er di nuo
 德米尔	de mi er
-德米凯利斯	de mi kai li si
 德米切利斯	de mi qie li si
 德米塔斯	de mi ta si
 德内博姆	de nei bo mu
 德尼尔森	de ni er sen
 德尼格里斯	de ni ge li si
-德容	de rong
 德塞格列	de sai ge lie
 德塞纳	de sai na
 德桑蒂斯	de sang di si
-德桑克蒂斯	de sang ke di si
 德沙赫特	de sha he te
 德尚	de shang
 德斯查特	de si cha te
@@ -11384,13 +9255,9 @@ use_preset_vocabulary: true
 德尤加登	de you jia deng
 德约卡夫	de yue ka fu
 登波斯奇	deng bo si qi
-邓迪联	deng di lian
-邓恩	deng en
 邓弗姆林竞技	deng fu mu lin jing ji
-邓加	deng jia
 邓乐军	deng le jun
 邓蓬鹏	deng peng peng
-邓普希	deng pu xi
 登斯莫尔	deng si mo er
 邓小飞	deng xiao fei
 邓卓祥	deng zhuo xiang
@@ -11399,7 +9266,6 @@ use_preset_vocabulary: true
 迪奥戈瓦伦特	di ao ge wa lun te
 迪奥利吉	di ao li ji
 蒂奥卢修斯	di ao lu xiu si
-迪奥普	di ao pu
 迪保斯基	di bao si ji
 第比利斯迪纳摩	di bi li si di na mo
 第比利斯罗克莫特夫	di bi li si luo ke mo te fu
@@ -11407,7 +9273,6 @@ use_preset_vocabulary: true
 迪达	di da
 迪迪	di di
 迪迪埃阿加特	di di ai a jia te
-迪迪尔佐科拉	di di er zuo ke la
 迪杜里卡	di du li ka
 蒂恩达利	di en da li
 迪恩麦克唐纳	di en mai ke tang na
@@ -11418,7 +9283,6 @@ use_preset_vocabulary: true
 迪尔纳	di er na
 第二守门员	di er shou men yuan
 蒂费特	di fei te
-迪福	di fu
 蒂弗顿城	di fu dun cheng
 迪高	di gao
 迪格姆运动	di ge mu yun dong
@@ -11438,18 +9302,15 @@ use_preset_vocabulary: true
 狄里布凡陆军尼泊尔	di li bu fan lu jun ni bo er
 蒂罗尔武士	di luo er wu shi
 迪洛雷托	di luo lei tuo
-迪马里亚	di ma li ya
 迪马特奥	di ma te ao
 迪米切莱	di mi qie lai
 迪米特里瑟乔夫	di mi te li se qiao fu
 迪米特罗夫斯基	di mi te luo fu si ji
 地面进攻	di mian jin gong
 蒂莫罗斯特	di mo luo si te
-蒂姆	di mu
 蒂姆卡希尔	di mu ka xi er
 蒂姆马西斯	di mu ma xi si
 蒂娜博伊克里斯滕森	di na bo yi ke li si teng sen
-迪纳塔莱	di na ta lai
 迪尼普	di ni pu
 第聂伯特兰斯马什	di nie bo te lan si ma shen
 低平球	di ping qiu
@@ -11469,14 +9330,9 @@ use_preset_vocabulary: true
 迪瓦约	di wa yue
 迪维尼冯乔克	di wei ni feng qiao ke
 迪维斯	di wei si
-迪乌夫	di wu fu
-底线	di xian
 底线突破	di xian tu po
 迪亚巴克尔	di ya ba ke er
-迪亚比	di ya bi
-蒂亚戈	di ya ge
 迪亚基特	di ya ji te
-迪亚拉	di ya la
 迪亚曼蒂	di ya man di
 迪亚蒙德	di ya meng de
 迪亚莫特尼	di ya mo te ni
@@ -11503,16 +9359,13 @@ use_preset_vocabulary: true
 吊空门	diao kong men
 吊射	diao she
 吊身后	diao shen hou
-迭戈	die ge
 迭戈阿隆索	die ge a long suo
 迭戈安杰罗	die ge an jie luo
 迭戈德阿森蒂斯	die ge de a sen di si
-迭戈戈丁	die ge ge ding
 迭戈卡马乔	die ge ka ma qiao
 迭戈科斯塔	die ge ke si ta
 迭戈里瓦斯	die ge li wa si
 迭戈洛佩斯	die ge luo pei si
-迭戈米利托	die ge mi li tuo
 迭戈莫莱斯	die ge mo lai si
 迭戈佩雷兹	die ge pei lei zi
 迭戈佩罗蒂	die ge pei luo di
@@ -11522,13 +9375,11 @@ use_preset_vocabulary: true
 迭特瓦尔德	die te wa er de
 顶球	ding qiu
 盯人不紧	ding ren bu jin
-盯人防守	ding ren fang shou
 盯人战术	ding ren zhan shu
 丁斯达格	ding si da ge
 定位球	ding wei qiu
 定位球战术	ding wei qiu zhan shu
 东方体育日报	dong fang ti yu ri bao
-董方卓	dong fang zhuo
 董罡	dong gang
 东拉夫法	dong la fu fa
 董启斌	dong qi bin
@@ -11537,7 +9388,6 @@ use_preset_vocabulary: true
 窦鹏程	dou peng cheng
 都柏林综合大学	du bo lin zong he da xue
 杜布尼卡	du bu ni ka
-杜达	du da
 杜德克	du de ke
 杜德兰格	du de lan ge
 杜迪克	du di ke
@@ -11568,7 +9418,6 @@ use_preset_vocabulary: true
 杜廷赫姆	du ting he mu
 杜威	du wei
 杜伊德斯	du yi de si
-杜伊科维奇	du yi ke wei qi
 杜伊拉德	du yi la de
 杜伊斯堡	du yi si bao
 短传	duan chuan
@@ -11600,13 +9449,9 @@ use_preset_vocabulary: true
 多纳德尔	duo na de er
 多纳蒂	duo na di
 多纳多尼	duo na duo ni
-多尼	duo ni
 多尼戈尔凯尔特	duo ni ge er kai er te
-多诺万	duo nuo wan
 多切斯特城	duo qie si te cheng
 多球制	duo qiu zhi
-多斯桑托斯	duo si sang tuo si
-多特蒙德	duo te meng de
 多特蒙德二队	duo te meng de er dui
 多伊梅兰德	duo yi mei lan de
 厄恩斯特	e en si te
@@ -11631,8 +9476,6 @@ use_preset_vocabulary: true
 厄伦艾丁	e lun ai ding
 厄罗尔杜尔巴坎	e luo er du er ba kan
 俄罗斯联赛	e luo si lian sai
-厄普森	e pu sen
-厄齐尔	e qi er
 俄斯特拉法巴尼克	e si te la fa ba ni ke
 厄兹蒂尔克	e zi di er ke
 恩波利	en bo li
@@ -11677,7 +9520,6 @@ use_preset_vocabulary: true
 法比奥卡拉乔洛	fa bi ao ka la qiao luo
 法比奥卡纳瓦罗	fa bi ao ka na wa luo
 法比奥卡佩罗	fa bi ao ka pei luo
-法比奥科恩特劳	fa bi ao ke en te lao
 法比奥夸利亚雷拉	fa bi ao kua li ya lei la
 法比奥卢西亚诺	fa bi ao lu xi ya nuo
 法比奥帕切科	fa bi ao pa qie ke
@@ -11688,10 +9530,8 @@ use_preset_vocabulary: true
 法比奥席尔瓦	fa bi ao xi er wa
 法比奥辛普里西奥	fa bi ao xin pu li xi ao
 法比尼奥	fa bi ni ao
-法比亚诺	fa bi ya nuo
 法比亚诺埃勒尔	fa bi ya nuo ai le er
 法比亚诺奥利维拉	fa bi ya nuo ao li wei la
-法布雷加斯	fa bu lei jia si
 法布里加斯	fa bu li jia si
 法布里克	fa bu li ke
 法布里克埃雷	fa bu li ke ai lei
@@ -11726,7 +9566,6 @@ use_preset_vocabulary: true
 法赫塔利	fa he ta li
 发角球	fa jiao qiu
 法克托尔	fa ke tuo er
-法兰克福	fa lan ke fu
 法里亚	fa li ya
 法里亚斯	fa li ya si
 法鲁克巴亚尔	fa lu ke ba ya er
@@ -11753,15 +9592,12 @@ use_preset_vocabulary: true
 范安霍尔特	fan an huo er te
 范拜滕	fan bai teng
 范比滕	fan bi teng
-范博梅尔	fan bo mei er
 范伯伊滕	fan bo yi teng
 范布克林	fan bu ke lin
 范布拉克尔	fan bu la ke er
 范布里克	fan bu li ke
-范布隆克霍斯特	fan bu long ke huo si te
 范德	fan de
 范德比斯特	fan de bi si te
-范德法特	fan de fa te
 范德古恩	fan de gu en
 范德海德	fan de hai de
 范德海登	fan de hai deng
@@ -11775,7 +9611,6 @@ use_preset_vocabulary: true
 范德林登	fan de lin deng
 范德梅德	fan de mei de
 范德全	fan de quan
-范德萨	fan de sa
 范德塞尔	fan de sai er
 范德斯特鲁伊克	fan de si te lu yi ke
 范德威尔	fan de wei er
@@ -11804,7 +9639,6 @@ use_preset_vocabulary: true
 范俊业	fan jun ye
 范凯克霍温	fan kai ke huo wen
 范鲁伊斯肯斯维尔德	fan lu yi si ken si wei er de
-范马尔维克	fan ma er wei ke
 范米尔洛	fan mi er luo
 范莫尔	fan mo er
 范穆里克	fan mu li ke
@@ -11814,7 +9648,6 @@ use_preset_vocabulary: true
 范纽文胡伊曾	fan niu wen hu yi ceng
 范纽文胡伊泽	fan niu wen hu yi ze
 范欧登霍温	fan ou deng huo wen
-范佩西	fan pei xi
 范佩西埃	fan pei xi ai
 范斯蒂恩伯格	fan si di en bo ge
 范斯蒂恩布鲁格	fan si di en bu lu ge
@@ -11831,7 +9664,6 @@ use_preset_vocabulary: true
 范育红	fan yu hong
 反越位	fan yue wei
 反越位战术	fan yue wei zhan shu
-范志毅	fan zhi yi
 范祖恩德尔特	fan zu en de er te
 方福荣	fang fu rong
 方根燮	fang gen xie
@@ -11853,7 +9685,6 @@ use_preset_vocabulary: true
 费德里科阿格利亚尔迪	fei de li ke a ge li ya er di
 费德里希	fei de li xi
 费迪南	fei di nan
-费迪南德	fei di nan de
 费迪南德科利	fei di nan de ke li
 费迪南多	fei di nan duo
 费迪南多科波拉	fei di nan duo ke bo la
@@ -11863,17 +9694,14 @@ use_preset_vocabulary: true
 菲尔迪厄尔马斯	fei er di e er ma si
 费尔干纳奈福特奇	fei er gan na nai fu te qi
 菲尔格里	fei er ge li
-费尔哈伯	fei er ha bo
 费尔哈特	fei er ha te
 费尔哈特奥兹托伦	fei er ha te ao zi tuo lun
 费尔哈特巴斯托斯	fei er ha te ba si tuo si
 费尔哈特基拉兹	fei er ha te ji la zi
 菲尔马尼	fei er ma ni
 费尔曼	fei er man
-费尔南德斯	fei er nan de si
 费尔南德斯维亚尔	fei er nan de si wei ya er
 费尔南迪尼奥	fei er nan di ni ao
-费尔南多	fei er nan duo
 费尔南多巴雷拉	fei er nan duo ba lei la
 费尔南多巴亚诺	fei er nan duo ba ya nuo
 费尔南多加戈	fei er nan duo jia ge
@@ -11888,10 +9716,8 @@ use_preset_vocabulary: true
 费尔南多索里亚诺	fei er nan duo suo li ya nuo
 费尔南多托雷斯	fei er nan duo tuo lei si
 费尔南多维加	fei er nan duo wei jia
-菲尔内维尔	fei er nei wei er
 菲尔斯特纳	fei er si te na
 费尔西克	fei er xi ke
-菲戈	fei ge
 菲格拉斯	fei ge la si
 菲戈莱恩	fei ge lai en
 菲格罗亚	fei ge luo ya
@@ -11908,7 +9734,6 @@ use_preset_vocabulary: true
 费拉利	fei la li
 费兰德	fei lan de
 费兰特	fei lan te
-费雷拉	fei lei la
 费雷拉平托	fei lei la ping tuo
 费里	fei li
 菲利波维奇	fei li bo wei qi
@@ -11935,7 +9760,6 @@ use_preset_vocabulary: true
 菲利普内维尔	fei li pu nei wei er
 菲利普萨维	fei li pu sa wei
 菲利普因扎吉	fei li pu yin zha ji
-费利西奥	fei li xi ao
 菲林格	fei lin ge
 费罗	fei luo
 费罗尔	fei luo er
@@ -11958,7 +9782,6 @@ use_preset_vocabulary: true
 费文尼	fei wen ni
 费耶德勒	fei ye de le
 菲耶诺德	fei ye nuo de
-费耶诺德	fei ye nuo de
 菲耶赛帕斯	fei ye sai pa si
 费因多诺	fei yin duo nuo
 非洲竞技	fei zhou jing ji
@@ -11977,12 +9800,10 @@ use_preset_vocabulary: true
 冯兰滕	feng lan teng
 丰塔纳	feng ta na
 丰田杯	feng tian bei
-冯潇霆	feng xiao ting
 佛尔兰	fo er lan
 佛尔西特	fo er xi te
 佛科特	fo ke te
 佛雷卡斯特	fo lei ka si te
-佛罗伦萨	fo luo lun sa
 佛蒙特伏特	fo meng te fu te
 佛斯特	fo si te
 佛特	fo te
@@ -11990,7 +9811,6 @@ use_preset_vocabulary: true
 符兵	fu bing
 福地玛利亚	fu di ma li ya
 弗恩拉布拉德	fu en la bu la de
-富恩特斯	fu en te si
 福尔蒂斯青年	fu er di si qing nian
 弗尔丁	fu er ding
 福尔柯克	fu er ke ke
@@ -12000,7 +9820,6 @@ use_preset_vocabulary: true
 富尔塔多	fu er ta duo
 弗尔佐吉奇	fu er zuo ji qi
 福弗尔竞技	fu fu er jing ji
-弗格森	fu ge sen
 腹股沟问题	fu gu gou wen ti
 弗吉亚	fu ji ya
 福贾	fu jia
@@ -12009,7 +9828,6 @@ use_preset_vocabulary: true
 弗拉德蒙泰亚努	fu la de meng tai ya nu
 弗拉多斯米特	fu la duo si mi te
 弗拉基	fu la ji
-弗拉门戈	fu la men ge
 弗拉米尼	fu la mi ni
 弗拉穆尔塔里	fu la mu er ta li
 弗拉尼奥	fu la ni ao
@@ -12030,7 +9848,6 @@ use_preset_vocabulary: true
 弗莱瑟斯	fu lai se si
 弗赖斯	fu lai si
 弗莱因	fu lai yin
-弗兰	fu lan
 弗兰德	fu lan de
 弗兰德森	fu lan de sen
 弗兰卡维拉	fu lan ka wei la
@@ -12046,7 +9863,6 @@ use_preset_vocabulary: true
 弗兰切斯基尼	fu lan qie si ji ni
 弗兰切斯奇尼	fu lan qie si qi ni
 弗兰西亚	fu lan xi ya
-弗朗茨	fu lang ci
 弗朗哥米兰达	fu lang ge mi lan da
 弗朗科伊斯	fu lang ke yi si
 弗朗科伊斯莫德斯托	fu lang ke yi si mo de si tuo
@@ -12072,9 +9888,6 @@ use_preset_vocabulary: true
 弗朗兹	fu lang zi
 弗劳	fu lao
 福勒	fu le
-富勒姆	fu le mu
-弗雷	fu lei
-弗雷德	fu lei de
 弗雷德尔	fu lei de er
 弗雷德里希	fu lei de li xi
 弗雷德鲁斯	fu lei de lu si
@@ -12091,7 +9904,6 @@ use_preset_vocabulary: true
 弗里茨	fu li ci
 弗里德赫尔姆	fu li de he er mu
 弗里德赫尔姆冯克尔	fu li de he er mu feng ke er
-弗里德里希	fu li de li xi
 弗利戈里亚巴西人	fu li ge li ya ba xi ren
 弗里克	fu li ke
 弗利斯皮科洛	fu li si pi ke luo
@@ -12099,7 +9911,6 @@ use_preset_vocabulary: true
 弗里扎斯	fu li zha si
 弗里兹	fu li zi
 弗列德里希	fu lie de li xi
-弗林斯	fu lin si
 弗卢拉	fu lu la
 弗鲁里瓦尔	fu lu li wa er
 弗鲁米嫩塞	fu lu mi nen sai
@@ -12118,7 +9929,6 @@ use_preset_vocabulary: true
 福琼	fu qiong
 富斯科	fu si ke
 弗斯科	fu si ke
-福斯特	fu si te
 福塔莱萨	fu ta lai sa
 福图纳托	fu tu na tuo
 富咸	fu xian
@@ -12142,7 +9952,6 @@ use_preset_vocabulary: true
 高大卫	gao da wei
 高大中锋	gao da zhong feng
 高丰文	gao feng wen
-郜林	gao lin
 高洛仙尼	gao luo xian ni
 高美斯	gao mei si
 高名奇	gao ming qi
@@ -12186,15 +9995,12 @@ use_preset_vocabulary: true
 格拉茨	ge la ci
 格拉茨斯图姆	ge la ci si tu mu
 格拉德巴赫	ge la de ba he
-格拉菲特	ge la fei te
 格拉夫兰德	ge la fu lan de
 戈拉夫斯基	ge la fu si ji
 格拉克斯	ge la ke si
 格拉鲁贝	ge la lu bei
 格拉梅内特竞技	ge la mei nei te jing ji
-格拉纳达	ge la na da
 格拉斯哥流浪	ge la si ge liu lang
-格拉斯哥流浪者	ge la si ge liu lang zhe
 格拉斯格流浪者	ge la si ge liu lang zhe
 格拉斯通	ge la si tong
 格拉特肯	ge la te ken
@@ -12244,7 +10050,6 @@ use_preset_vocabulary: true
 格列高利阿诺林	ge lie gao li a nuo lin
 格列格凯利	ge lie ge kai li
 格列拉	ge lie la
-格林	ge lin
 格林德海姆	ge lin de hai mu
 格林德维金	ge lin de wei jin
 格陵兰波尔斯	ge ling lan bo er si
@@ -12259,19 +10064,15 @@ use_preset_vocabulary: true
 格伦德波克	ge lun de bo ke
 格伦洛文斯	ge lun luo wen si
 格伦托兰	ge lun tuo lan
-格伦约翰逊	ge lun yue han xun
 格罗巴多夫	ge luo ba duo fu
 格罗拉巴赫	ge luo la ba he
 格罗里亚	ge luo li ya
-格罗宁根	ge luo ning gen
 格罗塞托	ge luo sai tuo
 格罗斯米勒	ge luo si mi le
 格罗斯穆勒	ge luo si mu le
 格罗斯特城	ge luo si te cheng
-格罗索	ge luo suo
 格罗塔列	ge luo ta lie
 格罗特马勒	ge luo te ma le
-戈麦斯	ge mai si
 戈麦斯保罗塞尔吉奥	ge mai si bao luo sai er ji ao
 戈麦兹	ge mai zi
 戈梅尔	ge mei er
@@ -12282,7 +10083,6 @@ use_preset_vocabulary: true
 戈斯林	ge si lin
 格特德弗列格	ge te de fu lie ge
 戈特尔	ge te er
-戈武	ge wu
 戈伊通	ge yi tong
 戈伊亚斯	ge yi ya si
 根古尔埃姆雷	gen gu er ai mu lei
@@ -12306,12 +10106,10 @@ use_preset_vocabulary: true
 古昌内哈德	gu chang nei ha de
 古德容松	gu de rong song
 古德约翰森	gu de yue han sen
-古蒂	gu di
 古迪仙尼	gu di xian ni
 古恩克尔	gu en ke er
 古尔	gu er
 古尔巴诺夫	gu er ba nuo fu
-古尔库夫	gu er ku fu
 古尔佩吉	gu er pei ji
 古广明	gu guang ming
 谷红星	gu hong xing
@@ -12320,7 +10118,6 @@ use_preset_vocabulary: true
 古斯蒂尼蒂	gu si di ni di
 古斯塔沃巴雷拉	gu si ta wo ba lei la
 古斯塔沃洛佩斯	gu si ta wo luo pei si
-古铁雷斯	gu tie lei si
 古文瓦罗尔	gu wen wa luo er
 故意犯规	gu yi fan gui
 故意拉人	gu yi la ren
@@ -12328,10 +10125,8 @@ use_preset_vocabulary: true
 瓜达尔本	gua da er ben
 瓜达尔拉阿尔卡罗	gua da er la a er ka luo
 瓜达卢皮	gua da lu pi
-瓜尔达多	gua er da duo
 瓜格里亚雷拉	gua ge li ya lei la
 观众的喊声	guan zhong de han sheng
-光州尚武	guang zhou shang wu
 圭埃尔默	gui ai er mo
 圭多你亚	gui duo ni ya
 圭曼迪亚	gui man di ya
@@ -12340,7 +10135,6 @@ use_preset_vocabulary: true
 过顶球	guo ding qiu
 国际	guo ji
 国际级级裁	guo ji ji ji cai
-国际米兰	guo ji mi lan
 国际米兰青岛足球学校	guo ji mi lan qing dao zu qiu xue xiao
 郭侃峰	guo kan feng
 国民竞技	guo min jing ji
@@ -12391,7 +10185,6 @@ use_preset_vocabulary: true
 哈姆卡姆	ha mu ka mu
 哈姆希克	ha mu xi ke
 哈内尔	ha nei er
-哈内曼	ha nei man
 哈尼梅尔	ha ni mei er
 哈佩尔	ha pei er
 哈奇	ha qi
@@ -12405,27 +10198,22 @@ use_preset_vocabulary: true
 哈桑伊吉特	ha sang yi ji te
 哈桑尤尔特	ha sang you er te
 哈瑟尔特克尔莫特	ha se er te ke er mo te
-哈什米安	ha shi mi an
 哈斯贝斯尼克	ha si bei si ni ke
 哈斯伯恩	ha si bo en
 哈斯廷斯	ha si ting si
 哈松卡马拉	ha song ka ma la
-哈特	ha te
 哈特尔浦联	ha te er pu lian
 哈瓦那眼镜蛇	ha wa na yan jing she
-哈维	ha wei
 哈维尔阿吉雷	ha wei er a ji lei
 哈维尔萨内蒂	ha wei er sa nei di
 哈维冈萨雷斯	ha wei gang sa lei si
 哈维格雷罗	ha wei ge lei luo
 哈维加西亚	ha wei jia xi ya
-哈维马丁内斯	ha wei ma ding nei si
 哈维莫雷诺	ha wei mo lei nuo
 哈维纳瓦罗	ha wei na wa luo
 哈维普列托	ha wei pu lie tuo
 哈维托雷斯	ha wei tuo lei si
 哈维文塔	ha wei wen ta
-哈耶斯	ha ye si
 哈伊梅加维兰	ha yi mei jia wei lan
 哈伊梅儒尼奥尔	ha yi mei ru ni ao er
 哈伊瑙尔	ha yi nao er
@@ -12443,9 +10231,7 @@ use_preset_vocabulary: true
 海宁	hai ning
 海皮亚	hai pi ya
 海塞尔林克	hai sai er lin ke
-海因策	hai yin ce
 海因泽	hai yin ze
-汉堡	han bao
 汉堡二队	han bao er dui
 汉达诺维奇	han da nuo wei qi
 汉格兰德	han ge lan de
@@ -12453,13 +10239,10 @@ use_preset_vocabulary: true
 韩国联赛	han guo lian sai
 韩金铭	han jin ming
 汉克	han ke
-汉密尔顿	han mi er dun
 汉纳达穆罕穆德	han na da mu han mu de
 汉努蒂希宁	han nu di xi ning
 汉诺巴利奇	han nuo ba li qi
-汉诺威	han nuo wei
 汉诺威阿米尼亚	han nuo wei a mi ni ya
-韩鹏	han peng
 汉莎罗斯托克	han sha luo si tuo ke
 汉斯冯克	han si feng ke
 汉斯赫宁	han si he ning
@@ -12472,14 +10255,11 @@ use_preset_vocabulary: true
 豪尔赫洛佩兹	hao er he luo pei zi
 豪尔斯	hao er si
 豪尔斯滕	hao er si teng
-郝海东	hao hai dong
 豪伊瑙尔	hao yi nao er
 河床	he chuang
 河床乌拉圭	he chuang wu la gui
 赫德尼斯福德	he de ni si fu de
-赫迪拉	he di la
 赫尔波尔	he er bo er
-赫尔城	he er cheng
 赫尔林斯	he er lin si
 赫尔马赫	he er ma he
 赫尔曼森	he er man sen
@@ -12522,13 +10302,11 @@ use_preset_vocabulary: true
 何塞索萨	he sai suo sa
 何塞特克索	he sai te ke suo
 何塞特索	he sai te suo
-赫斯基	he si ji
 赫苏斯	he su si
 赫苏斯巴斯克斯	he su si ba si ke si
 赫苏斯纳瓦斯	he su si na wa si
 赫苏斯瓦斯奎斯	he su si wa si kui si
 赫塔菲	he ta fei
-赫塔费	he ta fei
 赫特克	he te ke
 赫韦德斯	he wei de si
 河野大星	he ye da xing
@@ -12547,7 +10325,6 @@ use_preset_vocabulary: true
 亨德里	heng de li
 亨克兹	heng ke zi
 亨科兹	heng ke zi
-亨利	heng li
 亨利卡马拉	heng li ka ma la
 亨里克	heng li ke
 亨利克芳德克里斯滕森	heng li ke fang de ke li si teng sen
@@ -12564,7 +10341,6 @@ use_preset_vocabulary: true
 亨利马金瓦	heng li ma jin wa
 亨宁科纳德森	heng ning ke na de sen
 亨塞尔	heng sai er
-亨特拉尔	heng te la er
 横向带球	heng xiang dai qiu
 亨泽尔	heng ze er
 洪堡	hong bao
@@ -12587,7 +10363,6 @@ use_preset_vocabulary: true
 后卫	hou wei
 后卫漏人	hou wei lou ren
 后腰	hou yao
-胡安	hu an
 胡安巴勃罗卡里佐	hu an ba bo luo ka li zuo
 胡安巴雷拉	hu an ba lei la
 胡安迪亚斯	hu an di ya si
@@ -12615,7 +10390,6 @@ use_preset_vocabulary: true
 胡里奥巴普蒂斯塔	hu li ao ba pu di si ta
 胡里奥多斯桑托斯	hu li ao duo si sang tuo si
 胡里奥塞尔吉奥	hu li ao sai er ji ao
-胡里奥塞萨尔	hu li ao sai sa er
 胡礼菲腊斯	hu li fei la si
 胡里亚诺斯帕达西奥	hu li ya nuo si pa da xi ao
 胡里亚运动队	hu li ya yun dong dui
@@ -12626,24 +10400,19 @@ use_preset_vocabulary: true
 胡尼克尔	hu ni ke er
 胡赛因希姆希尔	hu sai yin xi mu xi er
 胡斯蒂	hu si di
-胡特	hu te
 胡韦纳尔	hu wei na er
 胡彦铭	hu yan ming
 胡伊格巴特	hu yi ge ba te
 胡伊塞根斯	hu yi sai gen si
 胡伊斯曼德容	hu yi si man de rong
 滑铲	hua chan
-华金	hua jin
 华金卡帕罗斯	hua jin ka pa luo si
-华莱士	hua lai shi
 华尼托	hua ni tuo
 华奇巴托	hua qi ba tuo
-华沙莱吉亚	hua sha lai ji ya
 华沙侨民	hua sha qiao min
 华盛顿联队	hua sheng dun lian dui
 华素尔	hua su er
 踝关节受伤	huai guan jie shou shang
-怀特海德	huai te hai de
 黄安嘉莱	huang an jia lai
 黄东春	huang dong chun
 皇家奥维多	huang jia ao wei duo
@@ -12654,12 +10423,10 @@ use_preset_vocabulary: true
 皇家哈恩	huang jia ha en
 皇家卡塔赫塔	huang jia ka ta he ta
 皇家卡西诺	huang jia ka xi nuo
-皇家马德里	huang jia ma de li
 皇家马萨默	huang jia ma sa mo
 皇家蒙特基奥	huang jia meng te ji ao
 皇家穆西亚	huang jia mu xi ya
 皇家萨拉戈萨	huang jia sa la ge sa
-皇家社会	huang jia she hui
 皇家圣路易斯	huang jia sheng lu yi si
 皇家盐湖城	huang jia yan hu cheng
 皇家祖鲁	huang jia zu lu
@@ -12676,7 +10443,6 @@ use_preset_vocabulary: true
 混凝土防线	hun ning tu fang xian
 获得单刀球机会	huo de dan dao qiu ji hui
 霍尔拜克	huo er bai ke
-霍尔登	huo er deng
 霍尔赫拉雷纳	huo er he la lei na
 霍尔克拉	huo er ke la
 霍尔诺斯	huo er nuo si
@@ -12688,7 +10454,6 @@ use_preset_vocabulary: true
 霍夫斯	huo fu si
 霍格兰德	huo ge lan de
 霍根多普	huo gen duo pu
-霍华德	huo hua de
 火火的足球	huo huo de zu qiu
 霍洛斯科	huo luo si ke
 霍曼特曼	huo man te man
@@ -12723,18 +10488,13 @@ use_preset_vocabulary: true
 吉大穆罕穆德	ji da mu han mu de
 济丹	ji dan
 济丹哈坎	ji dan ha kan
-基恩	ji en
 吉恩蒂尼	ji en di ni
 吉恩纳普	ji en na pu
 基尔巴尼	ji er ba ni
 基尔拜恩	ji er bai en
 吉尔贝托	ji er bei tuo
-吉尔伯特	ji er bo te
-吉尔伯托	ji er bo tuo
 吉尔伯托马丁内斯	ji er bo tuo ma ding nei si
 吉尔伯托梅罗	ji er bo tuo mei luo
-吉尔伯托席尔瓦	ji er bo tuo xi er wa
-基尔贾科斯	ji er jia ke si
 基尔加科斯	ji er jia ke si
 吉尔兰德	ji er lan de
 基尔马诺克	ji er ma nuo ke
@@ -12748,13 +10508,11 @@ use_preset_vocabulary: true
 济福伊克	ji fu yi ke
 基辅中央陆军	ji fu zhong yang lu jun
 吉格里奥蒂	ji ge li ao di
-吉格斯	ji ge si
 吉加克斯	ji jia ke si
 基克	ji ke
 基科	ji ke
 基克阿尔瓦雷斯	ji ke a er wa lei si
 基科卡西利亚	ji ke ka xi li ya
-吉拉迪诺	ji la di nuo
 吉拉尔多	ji la er duo
 吉拉费迪	ji la fei di
 吉拉齐亚尼	ji la qi ya ni
@@ -12792,7 +10550,6 @@ use_preset_vocabulary: true
 基思奥马	ji si ao ma
 基斯卡克	ji si ka ke
 吉斯拉松	ji si la song
-基斯林	ji si lin
 基斯马竞技	ji si ma jing ji
 基斯泰因	ji si tai yin
 基坦巴拉	ji tan ba la
@@ -12819,7 +10576,6 @@ use_preset_vocabulary: true
 技战术风格	ji zhan shu feng ge
 基治	ji zhi
 基兹诺维克	ji zi nuo wei ke
-加比	jia bi
 加比隆多	jia bi long duo
 加布里埃尔	jia bu li ai er
 加布里埃尔米利托	jia bu li ai er mi li tuo
@@ -12831,7 +10587,6 @@ use_preset_vocabulary: true
 加尔姆	jia er mu
 贾尔尼	jia er ni
 加尔斯布兰克斯	jia er si bu lan ke si
-加戈	jia ge
 加格费尔德特	jia ge fei er de te
 贾基	jia ji
 加济安泰普	jia ji an tai pu
@@ -12842,19 +10597,15 @@ use_preset_vocabulary: true
 加考伯斯塔兰德尼尔森	jia kao bo si ta lan de ni er sen
 贾科博尼尔森	jia ke bo ni er sen
 贾科博维格霍斯特	jia ke bo wei ge huo si te
-加拉	jia la
 加拉多	jia la duo
 加拉尔多	jia la er duo
 加拉赫	jia la he
 加拉塞克	jia la sai ke
-加拉斯	jia la si
-加拉塔萨雷	jia la ta sa lei
 加拉塔萨雷体育竞技	jia la ta sa lei ti yu jing ji
 加莱	jia lai
 加兰特	jia lan te
 加勒	jia le
 加雷斯巴里	jia lei si ba li
-加里	jia li
 加里奥尼尔	jia li ao ni er
 加里波利	jia li bo li
 加里多	jia li duo
@@ -12862,7 +10613,6 @@ use_preset_vocabulary: true
 加里格伦	jia li ge lun
 加里卡希尔	jia li ka xi er
 加里马森	jia li ma sen
-加里内维尔	jia li nei wei er
 加利尼维利	jia li ni wei li
 加里奇	jia li qi
 加里奇斯	jia li qi si
@@ -12874,7 +10624,6 @@ use_preset_vocabulary: true
 加门迪亚	jia men di ya
 加拿斯	jia na si
 加尼克夫联	jia ni ke fu lian
-加时赛	jia shi sai
 加斯巴罗尼	jia si ba luo ni
 加斯帕雷托	jia si pa lei tuo
 加斯佩里尼	jia si pei li ni
@@ -12884,13 +10633,11 @@ use_preset_vocabulary: true
 加塔诺	jia ta nuo
 加塔诺德罗萨	jia ta nuo de luo sa
 加泰乌西	jia tai wu xi
-加图索	jia tu suo
 加瓦农	jia wa nong
 加文霍伊特	jia wen huo yi te
 加文雷伊	jia wen lei yi
 贾文鹏	jia wen peng
 加乌伊里	jia wu yi li
-加西亚	jia xi ya
 加西亚加西亚	jia xi ya jia xi ya
 加西亚卡尔沃	jia xi ya ka er wo
 贾秀全	jia xiu quan
@@ -12939,7 +10686,6 @@ use_preset_vocabulary: true
 捷克联赛	jie ke lian sai
 杰克罗斯	jie ke luo si
 杰拉	jie la
-杰拉德	jie la de
 杰拉德皮克	jie la de pi ke
 杰拉德斯伯恩	jie la de si bo en
 杰雷米克莱门特	jie lei mi ke lai men te
@@ -12948,7 +10694,6 @@ use_preset_vocabulary: true
 杰罗梅	jie luo mei
 杰罗梅阿隆佐	jie luo mei a long zuo
 杰罗梅尔	jie luo mei er
-杰罗姆	jie luo mu
 杰梅巴尔德斯	jie mei ba er de si
 杰梅尼杰纳斯	jie mei ni jie na si
 杰米杜夫	jie mi du fu
@@ -13028,14 +10773,11 @@ use_preset_vocabulary: true
 卡博纳罗	ka bo na luo
 卡布尔	ka bu er
 喀布尔踢球者	ka bu er ti qiu zhe
-卡查尔	ka cha er
 卡德尔凯塔	ka de er kai ta
 卡迪尔贝克梅齐	ka di er bei ke mei qi
 卡迪尔凯雷斯	ka di er kai lei si
 卡迪夫城	ka di fu cheng
 卡杜席尔瓦	ka du xi er wa
-卡恩	ka en
-卡尔	ka er
 喀尔巴阡	ka er ba qian
 卡尔蔡斯耶拿	ka er cai si ye na
 卡尔达西奥	ka er da xi ao
@@ -13050,7 +10792,6 @@ use_preset_vocabulary: true
 卡尔克罗	ka er ke luo
 卡尔库里	ka er ku li
 卡尔内尔	ka er nei er
-卡尔森	ka er sen
 卡尔森布拉克	ka er sen bu la ke
 卡尔斯	ka er si
 卡尔斯利	ka er si li
@@ -13069,30 +10810,25 @@ use_preset_vocabulary: true
 卡尔维	ka er wei
 卡尔文尼斯	ka er wen ni si
 卡法萨巴	ka fa sa ba
-卡福	ka fu
 卡格达斯阿坦	ka ge da si a tan
 卡格尔马赫	ka ge er ma he
 卡格拉尔比林希	ka ge la er bi lin xi
 卡格里奥尼	ka ge li ao ni
 卡基夫阿森纳	ka ji fu a sen na
 卡济姆理查兹	ka ji mu li cha zi
-卡卡	ka ka
 卡卡帕	ka ka pa
 卡坎尼克利奇	ka kan ni ke li qi
-卡考	ka kao
 卡库塔	ka ku ta
 卡拉巴格	ka la ba ge
 卡拉巴尼	ka la ba ni
 卡拉布罗	ka la bu luo
 卡拉干达沙克哈特	ka la gan da sha ke ha te
-卡拉格	ka la ge
 卡拉科维亚	ka la ke wei ya
 卡拉里斯	ka la li si
 卡拉马耶	ka la ma ye
 卡拉奇	ka la qi
 卡拉奇港希望	ka la qi gang xi wang
 卡拉乔洛	ka la qiao luo
-卡拉索	ka la suo
 卡拉塔尤德	ka la ta you de
 卡拉泰乌德	ka la tai wu de
 卡拉约	ka la yue
@@ -13106,7 +10842,6 @@ use_preset_vocabulary: true
 卡雷维奇	ka lei wei qi
 卡里迪布拉鲁兹	ka li di bu la lu zi
 卡里夫顿维尔	ka li fu dun wei er
-卡里克	ka li ke
 卡利米	ka li mi
 卡里莫夫	ka li mo fu
 卡里姆哈吉	ka li mu ha ji
@@ -13115,10 +10850,7 @@ use_preset_vocabulary: true
 卡利特	ka li te
 卡里托斯	ka li tuo si
 卡利托斯	ka li tuo si
-卡利亚里	ka li ya li
 卡林科夫	ka lin ke fu
-卡鲁	ka lu
-卡卢	ka lu
 卡鲁利卡	ka lu li ka
 卡鲁斯卡	ka lu si ka
 卡伦博格	ka lun bo ge
@@ -13132,7 +10864,6 @@ use_preset_vocabulary: true
 卡洛马佐尼	ka luo ma zuo ni
 卡洛内尔沃	ka luo nei er wo
 卡罗齐耶里	ka luo qi ye li
-卡洛斯	ka luo si
 卡洛斯阿尔贝托	ka luo si a er bei tuo
 卡洛斯巴尔德斯	ka luo si ba er de si
 卡洛斯比安奇	ka luo si bi an qi
@@ -13147,16 +10878,13 @@ use_preset_vocabulary: true
 卡洛斯瓦尔德斯	ka luo si wa er de si
 卡洛斯维拉	ka luo si wei la
 卡玛迪尼	ka ma di ni
-卡马拉	ka ma la
 卡马尼希尔	ka ma ni xi er
 卡马森城	ka ma sen cheng
 卡梅隆贝尔	ka mei long bei er
 卡梅梅耶	ka mei mei ye
-卡梅尼	ka mei ni
 卡米尔瓦切克	ka mi er wa qie ke
 卡米穆莱	ka mi mu lai
 卡米尼科波拉	ka mi ni ke bo la
-卡莫拉内西	ka mo la nei xi
 卡莫拉尼	ka mo la ni
 卡默迈尔	ka mo mai er
 卡莫扎托	ka mo zha tuo
@@ -13164,7 +10892,6 @@ use_preset_vocabulary: true
 卡穆斯	ka mu si
 卡纳	ka na
 卡拿迪斯	ka na di si
-卡纳瓦罗	ka na wa luo
 卡纳维斯	ka na wei si
 卡奈利	ka nai li
 卡内尔	ka nei er
@@ -13179,10 +10906,8 @@ use_preset_vocabulary: true
 卡帕雷拉	ka pa lei la
 卡帕罗斯	ka pa luo si
 卡佩利	ka pei li
-卡佩罗	ka pei luo
 卡佩内多罗	ka pei nei duo luo
 卡皮	ka pi
-卡普德维拉	ka pu de wei la
 卡普芬贝格	ka pu fen bei ge
 卡普拉尼	ka pu la ni
 卡普亚诺	ka pu ya nuo
@@ -13192,7 +10917,6 @@ use_preset_vocabulary: true
 卡萨斯	ka sa si
 卡塞蒂	ka sai di
 卡塞尔塔	ka sai er ta
-卡塞雷斯	ka sai lei si
 卡斯蒂格里亚	ka si di ge li ya
 卡斯蒂格利亚	ka si di ge li ya
 卡斯蒂利翁	ka si di li weng
@@ -13215,7 +10939,6 @@ use_preset_vocabulary: true
 卡斯特里特斯	ka si te li te si
 卡斯特隆	ka si te long
 卡斯特伦	ka si te lun
-卡斯特罗	ka si te luo
 卡斯特罗曼	ka si te luo man
 卡斯特罗维拉里	ka si te luo wei la li
 卡斯特圣彼得	ka si te sheng bi de
@@ -13226,7 +10949,6 @@ use_preset_vocabulary: true
 卡塔尔迪	ka ta er di
 卡塔尔运动	ka ta er yun dong
 卡塔戈诺瓦	ka ta ge nuo wa
-卡塔尼亚	ka ta ni ya
 卡坦尼亚	ka tan ni ya
 卡坦扎罗	ka tan zha luo
 卡特莫尔	ka te mo er
@@ -13234,24 +10956,17 @@ use_preset_vocabulary: true
 卡托利卡古董	ka tuo li ka gu dong
 卡瓦兰纳斯	ka wa lan na si
 卡瓦雷罗	ka wa lei luo
-卡瓦略	ka wa lue
-卡位	ka wei
-卡维纳吉	ka wei na ji
 卡西奥拉莫斯	ka xi ao la mo si
 卡西奥尼	ka xi ao ni
-卡希尔	ka xi er
 卡西利亚	ka xi li ya
-卡西利亚斯	ka xi li ya si
 卡西姆帕萨体育	ka xi mu pa sa ti yu
 卡亚	ka ya
 卡伊塞多	ka yi sai duo
 卡兹米尔察克	ka zi mi er cha ke
 卡佐兰尼斯	ka zuo lan ni si
 开大脚	kai da jiao
-凯尔	kai er
 凯尔朗格	kai er lang ge
 凯尔斯沃思	kai er si wo si
-凯尔特人	kai er te ren
 凯福拉维克	kai fu la wei ke
 开角球	kai jiao qiu
 凯拉尔森	kai la er sen
@@ -13262,14 +10977,12 @@ use_preset_vocabulary: true
 凯尼亚	kai ni ya
 开球	kai qiu
 开球点	kai qiu dian
-凯日曼	kai ri man
 凯瑟里体育	kai se li ti yu
 凯思华生	kai si hua sheng
 凯斯泰勒拉诺	kai si tai le la nuo
 凯塔	kai ta
 凯特林城	kai te lin cheng
 凯文埃尔加德	kai wen ai er jia de
-凯文博阿滕	kai wen bo a teng
 凯文戴维斯	kai wen dai wei si
 凯文霍夫兰德	kai wen huo fu lan de
 凯文基尔巴尼	kai wen ji er ba ni
@@ -13279,9 +10992,7 @@ use_preset_vocabulary: true
 凯文汤姆森	kai wen tang mu sen
 凯泽尔	kai ze er
 凯泽尔首领	kai ze er shou ling
-凯泽斯劳滕	kai ze si lao teng
 坎阿拉特	kan a la te
-坎贝尔	kan bei er
 坎比亚索	kan bi ya suo
 坎德雷瓦	kan de lei wa
 坎迪多科斯塔	kan di duo ke si ta
@@ -13297,11 +11008,9 @@ use_preset_vocabulary: true
 坎佩尔	kan pei er
 坎珀	kan po
 坎普伯雷	kan pu bo lei
-坎切尔斯基	kan qie er si ji
 坎塔雷尔	kan ta lei er
 坎塔卢皮	kan ta lu pi
 坎特尔伯格	kan te er bo ge
-坎通纳	kan tong na
 坎于塞尔	kan yu sai er
 康塞普西翁	kang sai pu xi weng
 康斯贝	kang si bei
@@ -13323,7 +11032,6 @@ use_preset_vocabulary: true
 科比亚什维利	ke bi ya shi wei li
 科比亚施维利	ke bi ya shi wei li
 科波拉	ke bo la
-科布伦茨	ke bu lun ci
 客场	ke chang
 科达	ke da
 科达塞讷克	ke da sai ne ke
@@ -13367,7 +11075,6 @@ use_preset_vocabulary: true
 科克兰	ke ke lan
 科克舍套	ke ke she tao
 可可维奇	ke ke wei qi
-科库	ke ku
 科奎姆波	ke kui mu bo
 克拉比尔斯	ke la bi er si
 克拉茨	ke la ci
@@ -13381,19 +11088,16 @@ use_preset_vocabulary: true
 科拉雷斯	ke la lei si
 克拉雷镇	ke la lei zhen
 克拉利夫	ke la li fu
-科拉罗夫	ke la luo fu
 克拉默	ke la mo
 克拉尼	ke la ni
 克拉尼察尔	ke la ni cha er
 克拉帕尔特	ke la pa er te
-克拉什尼奇	ke la shi ni qi
 克拉托什维尔	ke la tuo shen wei er
 科拉伊阿夫希	ke la yi a fu xi
 克拉约瓦罗大学	ke la yue wa luo da xue
 科莱奥兹图尔克	ke lai ao zi tu er ke
 克莱伯奥利维拉	ke lai bo ao li wei la
 克莱伯桑塔纳	ke lai bo sang ta na
-克莱伯森	ke lai bo sen
 克莱顿泽维尔	ke lai dun ze wei er
 克赖尔斯海姆	ke lai er si hai mu
 克莱格	ke lai ge
@@ -13416,7 +11120,6 @@ use_preset_vocabulary: true
 克劳迪奥雷纳	ke lao di ao lei na
 克劳迪奥皮特布尔	ke lao di ao pi te bu er
 克劳迪诺洛佩斯	ke lao di nuo luo pei si
-克劳奇	ke lao qi
 克劳斯	ke lao si
 克劳斯奥根塔勒	ke lao si ao gen ta le
 克劳斯博拉尔森	ke lao si bo la er sen
@@ -13456,10 +11159,8 @@ use_preset_vocabulary: true
 科里尼	ke li ni
 克利奇	ke li qi
 克里桑图斯	ke li sang tu si
-克里斯	ke li si
 克里斯安图斯	ke li si an tu si
 克里斯拜尔德	ke li si bai er de
-克里斯波特	ke li si bo te
 克里斯布克	ke li si bu ke
 克里斯蒂安	ke li si di an
 克里斯蒂安阿尔瓦雷斯	ke li si di an a er wa lei si
@@ -13471,13 +11172,11 @@ use_preset_vocabulary: true
 克里斯蒂安莱尔	ke li si di an lai er
 克里斯蒂安雷瓦	ke li si di an lei wa
 克里斯蒂安穆勒	ke li si di an mu le
-克里斯蒂安森	ke li si di an sen
 克里斯蒂安泰利济	ke li si di an tai li ji
 克里斯蒂安韦伯	ke li si di an wei bo
 克里斯蒂安维海尔姆森	ke li si di an wei hai er mu sen
 克里斯蒂安扬森	ke li si di an yang sen
 克里斯蒂安赞帕塔	ke li si di an zan pa ta
-克里斯蒂亚诺	ke li si di ya nuo
 克里斯蒂亚诺卢卡雷利	ke li si di ya nuo lu ka lei li
 克里斯蒂亚诺罗纳尔多	ke li si di ya nuo luo na er duo
 克里斯克拉克	ke li si ke la ke
@@ -13508,7 +11207,6 @@ use_preset_vocabulary: true
 克林格	ke lin ge
 克林特普里茨亚	ke lin te pu li ci ya
 克林西安	ke lin xi an
-科隆	ke long
 科隆博	ke long bo
 克隆德利	ke long de li
 克隆霍尔姆	ke long huo er mu
@@ -13520,7 +11218,6 @@ use_preset_vocabulary: true
 克鲁尔斯	ke lu er si
 克卢格	ke lu ge
 克卢科夫斯基	ke lu ke fu si ji
-克鲁塞罗	ke lu sai luo
 克鲁斯卡	ke lu si ka
 克鲁伊夫	ke lu yi fu
 克鲁伊斯	ke lu yi si
@@ -13536,7 +11233,6 @@ use_preset_vocabulary: true
 克罗尔德鲁普	ke luo er de lu pu
 克洛格纳	ke luo ge na
 克罗坎普	ke luo kan pu
-科洛科洛	ke luo ke luo
 科罗拉多急流	ke luo la duo ji liu
 科洛姆孔	ke luo mu kong
 科罗纳	ke luo na
@@ -13544,14 +11240,10 @@ use_preset_vocabulary: true
 克洛彭堡	ke luo peng bao
 克洛普	ke luo pu
 科洛齐尼	ke luo qi ni
-科洛奇尼	ke luo qi ni
 科罗萨斯	ke luo sa si
 克洛斯	ke luo si
-克罗斯	ke luo si
-科洛图雷	ke luo tu lei
 克罗托内	ke luo tuo nei
 克罗伊尔斯	ke luo yi er si
-克洛泽	ke luo ze
 科马尔奥克亚伊	ke ma er ao ke ya yi
 科马尔伊尔迪里姆	ke ma er yi er di li mu
 克马拉普明	ke ma la pu ming
@@ -13565,13 +11257,11 @@ use_preset_vocabulary: true
 科纳德森	ke na de sen
 科南	ke nan
 科南奎伊	ke nan kui yi
-科内	ke nei
 科内茨基	ke nei ci ji
 克内泽维奇	ke nei ze wei qi
 科内泽维奇	ke nei ze wei qi
 科尼亚体育	ke ni ya ti yu
 科努克伊斯迈尔	ke nu ke yi si mai er
-科佩尔	ke pei er
 科皮亚波	ke pi ya bo
 科普里维奇	ke pu li wei qi
 科普特夫	ke pu te fu
@@ -13585,7 +11275,6 @@ use_preset_vocabulary: true
 科斯蒂尼亚	ke si di ni ya
 科斯米	ke si mi
 科斯莫帕伦博	ke si mo pa lun bo
-科斯塔	ke si ta
 科斯塔迪诺夫	ke si ta di nuo fu
 科斯塔基奇	ke si ta ji qi
 科斯坦蒂尼	ke si tan di ni
@@ -13599,7 +11288,6 @@ use_preset_vocabulary: true
 科特希尔	ke te xi er
 科瓦连科	ke wa lian ke
 科瓦奇	ke wa qi
-科威尔	ke wei er
 科维曼斯	ke wei man si
 科维尼奥	ke wei ni ao
 克沃尔宁	ke wo er ning
@@ -13629,7 +11317,6 @@ use_preset_vocabulary: true
 控球技术	kong qiu ji shu
 控球失误	kong qiu shi wu
 孔特拉	kong te la
-孔特雷拉斯	kong te lei la si
 控制球	kong zhi qiu
 控制一下比赛节奏	kong zhi yi xia bi sai jie zou
 控制中场	kong zhi zhong chang
@@ -13641,7 +11328,6 @@ use_preset_vocabulary: true
 库巴	ku ba
 库比利尔	ku bi li er
 库茨扎克	ku ci zha ke
-库迪奇尼	ku di qi ni
 库尔贝罗	ku er bei luo
 库尔蒂斯戴维斯	ku er di si dai wei si
 库尔丁竞技	ku er ding jing ji
@@ -13660,7 +11346,6 @@ use_preset_vocabulary: true
 库库塔竞技	ku ku ta jing ji
 库拉夏积杜克	ku la xia ji du ke
 库兰特	ku lan te
-库兰伊	ku lan yi
 库利巴利	ku li ba li
 库利纳	ku li na
 库利亚坎剑鱼	ku li ya kan jian yu
@@ -13669,25 +11354,20 @@ use_preset_vocabulary: true
 库姆胡尔博扎西	ku mu hu er bo zha xi
 库纳特	ku na te
 库内尔特	ku nei er te
-库佩	ku pei
 库佩鲁斯	ku pei lu si
 库佩特	ku pei te
 库切拉	ku qie la
 库塞拉	ku sai la
-库什恰克	ku shen qia ke
 库思贝特	ku si bei te
 库斯托维奇	ku si tuo wei qi
 库托	ku tuo
 库亚特	ku ya te
 库伊雷特	ku yi lei te
-库伊特	ku yi te
 库约维奇	ku yue wei qi
 库兹曼诺维奇	ku zi man nuo wei qi
 库兹扎克	ku zi zha ke
 夸德拉多	kua de la duo
 夸尔特罗	kua er te luo
-夸雷斯马	kua lei si ma
-夸利亚雷拉	kua li ya lei la
 快速插上	kuai su cha shang
 快速反击	kuai su fan ji
 快速跑动接住皮球	kuai su pao dong jie zhu pi qiu
@@ -13698,7 +11378,6 @@ use_preset_vocabulary: true
 奎拉尔	kui la er
 奎利亚尔	kui li ya er
 奎罗加	kui luo jia
-奎罗斯	kui luo si
 奎姆	kui mu
 奎维尔	kui wei er
 昆布兰城	kun bu lan cheng
@@ -13720,7 +11399,6 @@ use_preset_vocabulary: true
 拉恩	la en
 拉尔夫兰尼克	la er fu lan ni ke
 拉尔夫施米特	la er fu shi mi te
-拉尔森	la er sen
 拉尔斯彼得赫尔曼森	la er si bi de he er man sen
 拉尔斯波尔森	la er si bo er sen
 拉尔斯伯伦比约格汉森	la er si bo lun bi yue ge han sen
@@ -13757,7 +11435,6 @@ use_preset_vocabulary: true
 拉卡泽特	la ka ze te
 拉开的足球战术	la kai de zu qiu zhan shu
 拉科尔	la ke er
-拉科鲁尼亚	la ke lu ni ya
 拉克鲁兹	la ke lu zi
 拉克罗斯	la ke luo si
 拉夸伊特	la kua yi te
@@ -13773,12 +11450,9 @@ use_preset_vocabulary: true
 拉梅洛	la mei luo
 拉梅兹亚	la mei zi ya
 拉米劳	la mi lao
-拉米雷斯	la mi lei si
 拉米内迪亚塔	la mi nei di ya ta
 拉米内特劳雷	la mi nei te lao lei
 拉明斯克土星	la ming si ke tu xing
-拉莫斯	la mo si
-拉姆	la mu
 拉姆林根	la mu lin gen
 拉姆帕青年	la mu pa qing nian
 拉姆萨	la mu sa
@@ -13786,10 +11460,8 @@ use_preset_vocabulary: true
 拉内格罗竞技	la nei ge luo jing ji
 拉捏利	la nie li
 拉努涅斯	la nu nie si
-拉普拉塔大学生	la pu la ta da xue sheng
 拉普拉塔体操	la pu la ta ti cao
 拉普尼克	la pu ni ke
-拉齐奥	la qi ao
 拉萨纳迪亚拉	la sa na di ya la
 拉塞克里斯蒂安森	la sai ke li si di an sen
 拉塞雷纳	la sai lei na
@@ -13815,8 +11487,6 @@ use_preset_vocabulary: true
 拉泽蒂奇	la ze di qi
 拉扎里	la zha li
 拉扎罗尼	la zha luo ni
-拉佐维奇	la zuo wei qi
-莱昂	lai ang
 莱昂奥斯曼	lai ang ao si man
 莱昂德罗	lai ang de luo
 莱昂德罗巴里奥斯	lai ang de luo ba li ao si
@@ -13831,10 +11501,8 @@ use_preset_vocabulary: true
 莱奥邦菲姆	lai ao bang fei mu
 莱奥佛朗哥	lai ao fo lang ge
 莱奥内尔	lai ao nei er
-莱奥尼	lai ao ni
 莱奥维罗索	lai ao wei luo suo
 莱堡瑞尼	lai bao rui ni
-莱德利金	lai de li jin
 莱德斯马	lai de si ma
 莱蒂齐	lai di qi
 莱顿	lai dun
@@ -13847,16 +11515,13 @@ use_preset_vocabulary: true
 莱克兹纳	lai ke zi na
 莱里亚竞技	lai li ya jing ji
 莱罗塔列	lai luo ta lie
-莱曼	lai man
 莱姆博克	lai mu bo ke
 莱齐亚	lai qi ya
-莱切	lai qie
 莱切斯特城	lai qie si te cheng
 莱什流浪者	lai shen liu lang zhe
 莱斯加德	lai si jia de
 莱斯考特	lai si kao te
 莱斯科特	lai si ke te
-赖特菲利普斯	lai te fei li pu si
 莱瓦迪亚	lai wa di ya
 莱瓦卡贝西	lai wa ka bei xi
 莱万特	lai wan te
@@ -13877,7 +11542,6 @@ use_preset_vocabulary: true
 兰坎普	lan kan pu
 兰科维奇	lan ke wei qi
 蓝魔球迷俱乐部	lan mo qiu mi ju le bu
-兰帕德	lan pa de
 兰佩坦珀	lan pei tan po
 兰普雷希特	lan pu lei xi te
 蓝色申海	lan se shen hai
@@ -13888,12 +11552,10 @@ use_preset_vocabulary: true
 兰扎罗	lan zha luo
 兰扎特	lan zha te
 朗德罗	lang de luo
-狼队	lang dui
 朗坎普	lang kan pu
 朗斯	lang si
 朗斯伯利	lang si bo li
 劳德鲁普	lao de lu pu
-劳尔	lao er
 劳尔阿尔比奥尔	lao er a er bi ao er
 劳尔布拉沃	lao er bu la wo
 劳尔戈尼	lao er ge ni
@@ -13915,21 +11577,17 @@ use_preset_vocabulary: true
 勒克罗姆	le ke luo mu
 勒罗济奇	le luo ji qi
 勒麦特雷	le mai te lei
-勒芒	le mang
 勒皮勒尔	le pi le er
 勒斯库雷	le si ku lei
 勒塔雷奇	le ta lei qi
 勒文克兰斯	le wen ke lan si
 勒文特纳林希	le wen te na lin xi
-勒沃库森	le wo ku sen
 勒沃库森二队	le wo ku sen er dui
 雷奥科克尔	lei ao ke ke er
 雷奥塔	lei ao ta
 雷登哥散诺	lei deng ge san nuo
 雷蒂恩迪亚耶	lei di en di ya ye
 雷迪奇联	lei di qi lian
-雷丁	lei ding
-雷恩	lei en
 雷恩弗郎姆	lei en fu lang mu
 雷恩亨里克森	lei en heng li ke sen
 雷恩克里斯滕森	lei en ke li si teng sen
@@ -13938,11 +11596,9 @@ use_preset_vocabulary: true
 雷盖罗	lei gai luo
 雷根斯堡法雷尔	lei gen si bao fa lei er
 累积黄牌停赛	lei ji huang pai ting sai
-雷吉纳	lei ji na
 雷吉纳尔多	lei ji na er duo
 雷吉亚纳	lei ji ya na
 雷加利斯	lei jia li si
-雷科巴	lei ke ba
 雷克里塞昂	lei ke li sai ang
 雷梅林克	lei mei lin ke
 雷蒙	lei meng
@@ -13950,7 +11606,6 @@ use_preset_vocabulary: true
 雷米里乌	lei mi li wu
 雷米塞尔吉奥	lei mi sai er ji ao
 雷姆斯巴赫	lei mu si ba he
-雷纳	lei na
 雷纳尔多	lei na er duo
 雷纳托	lei na tuo
 雷纳托奎罗斯	lei na tuo kui luo si
@@ -13963,19 +11618,14 @@ use_preset_vocabulary: true
 雷塞普奥兹图尔克	lei sai pu ao zi tu er ke
 雷塞普乌卡尔	lei sai pu wu ka er
 雷维莱尔	lei wei lai er
-雷维耶	lei wei ye
 雷西斯奇西亚	lei xi si qi xi ya
 雷耶尔	lei ye er
-雷耶斯	lei ye si
 雷因哈德	lei yin ha de
 雷因哈特	lei yin ha te
-雷扎伊	lei zha yi
 冷射破门	leng she po men
 里埃拉	li ai la
 里埃梅尔	li ai mei er
 里安内尔森	li an nei er sen
-里昂	li ang
-里奥费迪南德	li ao fei di nan de
 里奥克拉鲁	li ao ke la lu
 里奥马约尔	li ao ma yue er
 里奥内尔	li ao nei er
@@ -13983,7 +11633,6 @@ use_preset_vocabulary: true
 里奥内格罗	li ao nei ge luo
 黎巴嫩阿尔安萨尔	li ba nen a er an sa er
 里贝劳	li bei lao
-里贝里	li bei li
 里贝利	li bei li
 李本舰	li ben jian
 黎兵	li bing
@@ -13992,7 +11641,6 @@ use_preset_vocabulary: true
 理查达菲	li cha da fei
 理查德邓恩	li cha de deng en
 理查德赖特	li cha de lai te
-理查德森	li cha de sen
 理查德瓦尼利	li cha de wa ni li
 李察士	li cha shi
 里查兹	li cha zi
@@ -14002,8 +11650,6 @@ use_preset_vocabulary: true
 里德尔	li de er
 利德尔	li de er
 里德勒维茨	li de le wei ci
-李东国	li dong guo
-里尔	li er
 利尔斯托姆	li er si tuo mu
 里费奥雷	li fei ao lei
 利夫拉门托	li fu la men tuo
@@ -14014,16 +11660,11 @@ use_preset_vocabulary: true
 李国旭	li guo xu
 李洪政	li hong zheng
 李华莱士	li hua lai shi
-里基	li ji
 里吉维尔	li ji wei er
-里加	li jia
 里加诺	li jia nuo
-里杰卡尔德	li jie ka er de
-李金羽	li jin yu
 笠井健太	li jing jian tai
 里卡德	li ka de
 里卡德汉密尔顿	li ka de han mi er dun
-里卡多	li ka duo
 里卡多奥利维拉	li ka duo ao li wei la
 里卡多巴蒂斯塔	li ka duo ba di si ta
 里卡多伯内托	li ka duo bo nei tuo
@@ -14032,7 +11673,6 @@ use_preset_vocabulary: true
 里卡多瓜雷斯马	li ka duo gua lei si ma
 里卡多卡瓦略	li ka duo ka wa lue
 里卡多科拉罗	li ka duo ke la luo
-里卡多科斯塔	li ka duo ke si ta
 里卡多内维斯	li ka duo nei wei si
 里卡多席尔瓦	li ka duo xi er wa
 里卡多赞帕尼亚	li ka duo zan pa ni ya
@@ -14047,7 +11687,6 @@ use_preset_vocabulary: true
 利克特斯特内尔	li ke te si te nei er
 里肯	li ken
 李扣成	li kou cheng
-李雷雷	li lei lei
 利马	li ma
 利马联盟	li ma lian meng
 利穆埃鲁	li mu ai lu
@@ -14055,37 +11694,30 @@ use_preset_vocabulary: true
 里纳乌多	li na wu duo
 里诺多	li nuo duo
 里佩特	li pei te
-里皮	li pi
 利普施塔特	li pu shi ta te
 里奇	li qi
 里奇奥尼	li qi ao ni
 里奇霍根多普	li qi huo gen duo pu
 里奇维尔	li qi wei er
 里切特	li qie te
-李荣杓	li rong biao
 利桑德罗	li sang de luo
 利桑德罗洛佩斯	li sang de luo luo pei si
 利桑德罗洛佩兹	li sang de luo luo pei zi
 里瑟	li se
-里斯本竞技	li si ben jing ji
 里斯科夫	li si ke fu
 利泰克斯	li tai ke si
 立陶宛亚特兰大	li tao wan ya te lan da
 利特马宁	li te ma ning
-李天秀	li tian xiu
-李铁	li tie
 里瓦尔多	li wa er duo
 里瓦尔塔	li wa er ta
 里瓦诺勒斯	li wa nuo le si
 里瓦斯	li wa si
 里维埃拉玛雅	li wei ai la ma ya
-李玮峰	li wei feng
 里维拉	li wei la
 里维拉尼	li wei la ni
 里维纳诺	li wei na nuo
 利沃纳皮奇	li wo na pi qi
 利沃诺	li wo nuo
-利物浦	li wu pu
 利希菲尔德	li xi fei er de
 李霄鹏	li xiao peng
 利亚姆卡伊格	li ya mu ka yi ge
@@ -14093,7 +11725,6 @@ use_preset_vocabulary: true
 里耶佩尔	li ye pei er
 李毅男	li yi nan
 栗原克志	li yuan ke zhi
-李云在	li yun zai
 里泽科耶库尔	li ze ke ye ku er
 里泽体育	li ze ti yu
 利扎拉佐	li zha la zuo
@@ -14142,7 +11773,6 @@ use_preset_vocabulary: true
 刘平雨	liu ping yu
 柳相铁	liu xiang tie
 刘谢栋	liu xie dong
-刘易斯	liu yi si
 刘震理	liu zhen li
 柳忠长	liu zhong chang
 隆安预备队	long an yu bei dui
@@ -14152,7 +11782,6 @@ use_preset_vocabulary: true
 卢阿卢阿	lu a lu a
 鲁阿西诺	lu a xi nuo
 鲁埃达	lu ai da
-鲁本	lu ben
 鲁本阿莫林	lu ben a mo lin
 鲁本奥利维拉	lu ben ao li wei la
 鲁本巴拉哈	lu ben ba la ha
@@ -14194,14 +11823,11 @@ use_preset_vocabulary: true
 卢卡斯	lu ka si
 卢卡斯卡尼克	lu ka si ka ni ke
 卢卡维吉亚尼	lu ka wei ji ya ni
-鲁卡维纳	lu ka wei na
 卢卡谢维茨	lu ka xie wei ci
-卢克	lu ke
 卢克摩尔	lu ke mo er
 卢克穆尔	lu ke mu er
 卢克斯	lu ke si
 鲁科维奇	lu ke wei qi
-卢科维奇	lu ke wei qi
 卢克扬	lu ke yang
 鲁兰克霍姆	lu lan ke huo mu
 鲁罗	lu luo
@@ -14228,7 +11854,6 @@ use_preset_vocabulary: true
 鲁能星工厂	lu neng xing gong chang
 鲁能一线队	lu neng yi xian dui
 鲁能足校	lu neng zu xiao
-鲁尼	lu ni
 卢帕特里	lu pa te li
 卢帕特利	lu pa te li
 卢森堡联	lu sen bao lian
@@ -14243,13 +11868,11 @@ use_preset_vocabulary: true
 卢斯滕贝格尔	lu si teng bei ge er
 鲁斯滕伯格	lu si teng bo ge
 鲁斯图	lu si tu
-鹿特丹斯巴达	lu te dan si ba da
 鲁托罗	lu tuo luo
 陆维凯	lu wei kai
 鲁维亚莱斯	lu wei ya lai si
 鲁文卡斯特罗	lu wen ka si te luo
 鲁文佩雷斯	lu wen pei lei si
-卢西奥	lu xi ao
 鲁锡斯基	lu xi si ji
 卢西亚诺	lu xi ya nuo
 卢西亚诺阿马拉尔	lu xi ya nuo a ma la er
@@ -14281,12 +11904,10 @@ use_preset_vocabulary: true
 路易斯费尔南德斯	lu yi si fei er nan de si
 路易斯费尔南多森蒂	lu yi si fei er nan duo sen di
 路易斯费利佩	lu yi si fei li pei
-路易斯加西亚	lu yi si jia xi ya
 路易斯洛雷罗	lu yi si luo lei luo
 路易斯马	lu yi si ma
 路易斯马丁内斯	lu yi si ma ding nei si
 路易斯普列托	lu yi si pu lie tuo
-路易斯苏亚雷斯	lu yi si su ya lei si
 路易斯希梅内斯	lu yi si xi mei nei si
 路易斯亚内斯	lu yi si ya nei si
 路易兹卡洛斯	lu yi zi ka luo si
@@ -14295,33 +11916,23 @@ use_preset_vocabulary: true
 鲁兹波瑞克	lu zi bo rui ke
 栾毅军	luan yi jun
 略论特	lue lun te
-略伦特	lue lun te
-伦农	lun nong
 伦诺	lun nuo
-伦斯	lun si
 伦特里亚	lun te li ya
 伦辛	lun xin
 罗贝蒙德	luo bei meng de
-罗本	luo ben
 罗比埃利奥特	luo bi ai li ao te
-罗比基恩	luo bi ji en
 罗比坚尼	luo bi jian ni
 罗比内尔森	luo bi nei er sen
-罗比尼奥	luo bi ni ao
 罗比威尔	luo bi wei er
 罗宾奴	luo bin nu
-罗宾逊	luo bin xun
 罗宾延森	luo bin yan sen
 洛波	luo bo
-罗伯特	luo bo te
 罗伯特布拉迪	luo bo te bu la di
 罗伯特戴维森	luo bo te dai wei sen
 罗伯特基亚帕拉	luo bo te ji ya pa la
-罗伯特卡洛斯	luo bo te ka luo si
 罗伯特科瓦奇	luo bo te ke wa qi
 罗伯特穆勒	luo bo te mu le
 罗伯特南尼	luo bo te nan ni
-罗伯特维特克	luo bo te wei te ke
 罗伯托	luo bo tuo
 罗伯托阿尔坎塔拉	luo bo tuo a er kan ta la
 罗伯托巴罗尼奥	luo bo tuo ba luo ni ao
@@ -14337,7 +11948,6 @@ use_preset_vocabulary: true
 罗伯托索尔达多	luo bo tuo suo er da duo
 罗伯托索萨	luo bo tuo suo sa
 罗布琼斯	luo bu qiong si
-罗布森	luo bu sen
 罗布斯特	luo bu si te
 洛德吉克斯	luo de ji ke si
 罗德里戈	luo de li ge
@@ -14347,7 +11957,6 @@ use_preset_vocabulary: true
 罗德里格迪亚斯	luo de li ge di ya si
 罗德里戈卡费	luo de li ge ka fei
 罗德里戈尼尼亚	luo de li ge ni ni ya
-罗德里格斯	luo de li ge si
 罗德里戈席尔瓦	luo de li ge xi er wa
 罗德维尔	luo de wei er
 罗德兹	luo de zi
@@ -14368,9 +11977,7 @@ use_preset_vocabulary: true
 洛卡特里	luo ka te li
 罗克儒尼奥尔	luo ke ru ni ao er
 罗兰德拉马	luo lan de la ma
-罗兰多	luo lan duo
 罗兰多比安奇	luo lan duo bi an qi
-洛里昂	luo li ang
 洛里奥特	luo li ao te
 罗里克	luo li ke
 罗里麦考利斯特	luo li mai kao li si te
@@ -14388,8 +11995,6 @@ use_preset_vocabulary: true
 罗迈尔联合	luo mai er lian he
 罗曼范哈伦	luo man fan ha lun
 罗曼萨特	luo man sa te
-罗梅达尔	luo mei da er
-罗梅罗	luo mei luo
 罗密欧	luo mi ou
 罗密欧卡斯特伦	luo mi ou ka si te lun
 罗缪里贝罗	luo miu li bei luo
@@ -14421,7 +12026,6 @@ use_preset_vocabulary: true
 罗森达尔	luo sen da er
 洛杉矶银河	luo shan ji yin he
 罗申巴克	luo shen ba ke
-罗斯	luo si
 罗斯巴赫	luo si ba he
 罗斯波特	luo si bo te
 罗斯华莱士	luo si hua lai shi
@@ -14444,14 +12048,11 @@ use_preset_vocabulary: true
 洛文克兰兹	luo wen ke lan zi
 洛文斯	luo wen si
 罗沃汉姆	luo wo han mu
-罗西	luo xi
-罗西基	luo xi ji
 罗西纳	luo xi na
 罗西内	luo xi nei
 罗西尼	luo xi ni
 罗耶尔	luo ye er
 落叶球	luo ye qiu
-罗伊基恩	luo yi ji en
 罗伊加里	luo yi jia li
 吕贝克	lv bei ke
 吕德勒维奇	lv de le wei qi
@@ -14466,19 +12067,16 @@ use_preset_vocabulary: true
 马达维基亚	ma da wei ji ya
 马丹诺维奇	ma dan nuo wei qi
 马德拉联	ma de la lian
-马德里竞技	ma de li jing ji
 马德里体育会	ma de li ti yu hui
 马德伦	ma de lun
 马德伦格	ma de lun ge
 马迪奥佐	ma di ao zuo
 马迪穆萨陶尔	ma di mu sa tao er
-马蒂普	ma di pu
 马蒂亚	ma di ya
 马蒂亚比索	ma di ya bi suo
 马蒂亚斯费尔南德斯	ma di ya si fei er nan de si
 马蒂亚斯莱曼	ma di ya si lai man
 马蒂亚图雷塔	ma di ya tu lei ta
-马丁	ma ding
 马丁阿梅迪克	ma ding a mei di ke
 马丁奥尔森	ma ding ao er sen
 马丁汉森	ma ding han sen
@@ -14492,7 +12090,6 @@ use_preset_vocabulary: true
 马丁梅切尔贝克	ma ding mei qie er bei ke
 马丁内斯	ma ding nei si
 马丁诺维奇	ma ding nuo wei qi
-马丁斯	ma ding si
 马丁泰勒	ma ding tai le
 马丁约根森	ma ding yue gen sen
 马杜罗	ma du luo
@@ -14512,7 +12109,6 @@ use_preset_vocabulary: true
 马尔海内克	ma er hai nei ke
 马尔基奥尼	ma er ji ao ni
 马尔基萨巴赫	ma er ji sa ba he
-马尔基西奥	ma er ji xi ao
 马尔卡诺	ma er ka nuo
 马尔凯塞	ma er kai sai
 马尔科安东尼奥	ma er ke an dong ni ao
@@ -14567,13 +12163,11 @@ use_preset_vocabulary: true
 马科保罗	ma ke bao luo
 马科博列洛	ma ke bo lie luo
 马克布朗	ma ke bu lang
-马克布雷西亚诺	ma ke bu lei xi ya nuo
 马克德武列斯	ma ke de wu lie si
 马克多尼加	ma ke duo ni jia
 马科费兰特	ma ke fei lan te
 马可费雷拉	ma ke fei lei la
 马可菲利皮尼	ma ke fei li pi ni
-马克冈萨雷斯	ma ke gang sa lei si
 马克亨德里克斯	ma ke heng de li ke si
 马克霍华德	ma ke huo hua de
 马科卡塞蒂	ma ke ka sai di
@@ -14586,8 +12180,6 @@ use_preset_vocabulary: true
 马可平托	ma ke ping tuo
 马克普费泽尔	ma ke pu fei ze er
 马克桑德	ma ke sang de
-马克思	ma ke si
-马科斯	ma ke si
 马科斯阿圭尔	ma ke si a gui er
 马科斯安东尼奥	ma ke si an dong ni ao
 马克斯克鲁斯	ma ke si ke lu si
@@ -14598,9 +12190,7 @@ use_preset_vocabulary: true
 马可塔布亚斯	ma ke ta bu ya si
 马克托雷翁	ma ke tuo lei weng
 马克威尔逊	ma ke wei er xun
-马克西罗德里格斯	ma ke xi luo de li ge si
 马克西洛佩斯	ma ke xi luo pei si
-马克休斯	ma ke xiu si
 马科赞博尼	ma ke zan bo ni
 马科赞奇	ma ke zan qi
 马库库拉	ma ku ku la
@@ -14615,7 +12205,6 @@ use_preset_vocabulary: true
 马奎尼奥斯	ma kui ni ao si
 马拉迪亚	ma la di ya
 马拉多纳	ma la duo na
-马拉加	ma la jia
 玛拉瓦	ma la wa
 马赖内克	ma lai nei ke
 马来西亚联赛	ma lai xi ya lian sai
@@ -14624,7 +12213,6 @@ use_preset_vocabulary: true
 马雷斯卡	ma lei si ka
 马里安波普	ma li an bo pu
 马里安尼尼	ma li an ni ni
-马里奥	ma li ao
 马里奥奥蒂兹	ma li ao ao di zi
 马里奥菲林格	ma li ao fei lin ge
 马里奥戈麦斯	ma li ao ge mai si
@@ -14638,7 +12226,6 @@ use_preset_vocabulary: true
 马里奥席尔瓦	ma li ao xi er wa
 马里奥耶佩斯	ma li ao ye pei si
 马里奥伊格纳西奥雷盖罗	ma li ao yi ge na xi ao lei gai luo
-马里博尔	ma li bo er
 玛丽港	ma li gang
 马里卡	ma li ka
 马里克法蒂	ma li ke fa di
@@ -14652,18 +12239,13 @@ use_preset_vocabulary: true
 马里尤斯斯坦科维修斯	ma li you si si tan ke wei xiu si
 马利兹堡联	ma li zi bao lian
 马良行	ma liang xing
-马林	ma lin
 马隆尼	ma long ni
-马卢达	ma lu da
-马洛卡	ma luo ka
 马马杜迪亚基特	ma ma du di ya ji te
 马马杜迪亚洛	ma ma du di ya luo
 马马杜尼昂	ma ma du ni ang
 马梅谢克尼昂	ma mei xie ke ni ang
-马明宇	ma ming yu
 马穆托库利巴利	ma mu tuo ku li ba li
 马尼安	ma ni an
-马尼切	ma ni qie
 马尼萨体育	ma ni sa ti yu
 马努查尔扬	ma nu cha er yang
 马努德尔莫拉尔	ma nu de er mo la er
@@ -14671,12 +12253,10 @@ use_preset_vocabulary: true
 马诺洛	ma nuo luo
 马诺洛加斯帕	ma nuo luo jia si pa
 马诺洛雷纳	ma nuo luo lei na
-马乔	ma qiao
 马切拉特斯	ma qie la te si
 马切塞迪	ma qie sai di
 马切西尼	ma qie xi ni
 马萨科斯洛克	ma sa ke si luo ke
-马赛	ma sai
 马塞尔施塔德尔	ma sai er shi ta de er
 马塞尔延森	ma sai er yan sen
 马赛回旋	ma sai hui xuan
@@ -14685,7 +12265,6 @@ use_preset_vocabulary: true
 马塞利尼奥	ma sai li ni ao
 马塞利斯	ma sai li si
 马赛罗	ma sai luo
-马塞洛	ma sai luo
 马塞洛博埃克	ma sai luo bo ai ke
 马塞洛戈伊安尼拉	ma sai luo ge yi an ni la
 马塞洛科塔法瓦	ma sai luo ke ta fa wa
@@ -14700,10 +12279,8 @@ use_preset_vocabulary: true
 马斯马尼季斯	ma si ma ni ji si
 马斯曼尼迪斯	ma si man ni di si
 马斯奈斯	ma si nai si
-马斯切拉诺	ma si qie la nuo
 马塔夫斯	ma ta fu si
 马塔武埃纳	ma ta wu ai na
-马泰森	ma tai sen
 马特奥瓜达尔本	ma te ao gua da er ben
 马特奥孔蒂尼	ma te ao kong di ni
 马特奥罗姆巴尔迪	ma te ao luo mu ba er di
@@ -14712,7 +12289,6 @@ use_preset_vocabulary: true
 马特奥塞拉费尼	ma te ao sai la fei ni
 马特奥塞雷尼	ma te ao sai lei ni
 马特奥斯	ma te ao si
-马特拉齐	ma te la qi
 马特拉奇	ma te la qi
 马特拉斯	ma te la si
 马特罗蒂	ma te luo di
@@ -14760,7 +12336,6 @@ use_preset_vocabulary: true
 马延	ma yan
 马祖赫	ma zu he
 麦卡恩	mai ka en
-麦卡锡	mai ka xi
 麦凯史蒂文	mai kai shi di wen
 麦考利斯特	mai kao li si te
 麦考斯兰	mai kao si lan
@@ -14811,21 +12386,17 @@ use_preset_vocabulary: true
 麦克斯威尔	mai ke si wei er
 麦克斯维尔	mai ke si wei er
 迈克斯文德森	mai ke si wen de sen
-迈克泰勒	mai ke tai le
 麦克唐纳	mai ke tang na
 麦克唐纳德	mai ke tang na de
 麦克肖恩	mai ke xiao en
 麦克谢夫雷	mai ke xie fu lei
 麦肯纳	mai ken na
-麦孔	mai kong
 麦库罗赫	mai ku luo he
 迈诺尔菲格罗阿	mai nuo er fei ge luo a
 迈歇尔贝克	mai xie er bei ke
 曼彻斯特城	man che si te cheng
 曼彻斯特联	man che si te lian
 曼彻斯特联队	man che si te lian dui
-曼城	man cheng
-曼丹达	man dan da
 曼德拉城	man de la cheng
 曼多里尼	man duo li ni
 曼多利尼	man duo li ni
@@ -14835,7 +12406,6 @@ use_preset_vocabulary: true
 曼瓜尔德	man gua er de
 曼海姆竞技	man hai mu jing ji
 曼济奥斯	man ji ao si
-曼联	man lian
 曼尼尼	man ni ni
 曼宁格	man ning ge
 曼宁巡游者	man ning xun you zhe
@@ -14910,7 +12480,6 @@ use_preset_vocabulary: true
 梅开二度	mei kai er du
 梅克斯	mei ke si
 没控制住球	mei kong zhi zhu qiu
-梅拉	mei la
 梅拉卡特尔空	mei la ka te er kong
 梅拉拉	mei la la
 梅勒曼斯	mei le man si
@@ -14935,19 +12504,16 @@ use_preset_vocabulary: true
 梅斯尼科斯	mei si ni ke si
 梅斯托	mei si tuo
 梅塔鲁吉	mei ta lu ji
-梅西	mei xi
 梅西纳	mei xi na
 梅希特海姆	mei xi te hai mu
 梅希亚	mei xi ya
 梅西亚城	mei xi ya cheng
 梅耶尔	mei ye er
 美茵茨	mei yin ci
-美因茨	mei yin ci
 没有控制住球	mei you kong zhi zhu qiu
 梅扎拉拉	mei zha la la
 美洲队巴西	mei zhou dui ba xi
 美洲狮关岛	mei zhou shi guan dao
-门德斯	men de si
 门德兹	men de zi
 门迭塔	men die ta
 门尼亚内扎	men ni ya nei zha
@@ -14959,7 +12525,6 @@ use_preset_vocabulary: true
 门萨	men sa
 门塞格斯	men sai ge si
 门文峰	men wen feng
-门兴	men xing
 门兴格拉德巴赫	men xing ge la de ba he
 门兴格拉德巴赫二队	men xing ge la de ba he er dui
 蒙巴干	meng ba gan
@@ -14975,7 +12540,6 @@ use_preset_vocabulary: true
 蒙斯	meng si
 蒙塔贝尔	meng ta bei er
 蒙塔尔奇诺	meng ta er qi nuo
-蒙塔里	meng ta li
 蒙泰亚努	meng tai ya nu
 蒙特别鲁那	meng te bie lu na
 蒙特迪奥	meng te di ao
@@ -14992,7 +12556,6 @@ use_preset_vocabulary: true
 米查尔克	mi cha er ke
 米达雷治鱼雷	mi da lei zhi yu lei
 米德尔塞克斯阿什福德	mi de er sai ke si a shen fu de
-米德尔斯堡	mi de er si bao
 米德莫耶尔	mi de mo ye er
 米德特日德兰	mi de te ri de lan
 米登多普	mi deng duo pu
@@ -15006,11 +12569,9 @@ use_preset_vocabulary: true
 米尔科皮耶里	mi er ke pi ye li
 米尔内	mi er nei
 密尔斯	mi er si
-米尔斯	mi er si
 米尔索姆	mi er suo mu
 米尔维奇	mi er wei qi
 米尔沃尔	mi er wo er
-米格尔	mi ge er
 米格尔安赫尔	mi ge er an he er
 米格尔加西亚	mi ge er jia xi ya
 米格尔利托	mi ge er li tuo
@@ -15029,7 +12590,6 @@ use_preset_vocabulary: true
 密集防守	mi ji fang shou
 米卡理查兹	mi ka li cha zi
 米凯尔热夫拉科夫	mi kai er re fu la ke fu
-米克尔	mi ke er
 米克尔阿尔特塔	mi ke er a er te ta
 米克尔阿兰布鲁	mi ke er a lan bu lu
 米克尔阿隆索	mi ke er a long suo
@@ -15053,10 +12613,8 @@ use_preset_vocabulary: true
 米兰体育报	mi lan ti yu bao
 米兰约万诺维奇	mi lan yue wan nuo wei qi
 米朗德尼斯	mi lang de ni si
-米勒	mi le
 米利安	mi li an
 米利奥尼科	mi li ao ni ke
-米利托	mi li tuo
 米洛舍维奇	mi luo she wei qi
 米洛斯米哈伊洛夫	mi luo si mi ha yi luo fu
 米洛斯帕夫洛维奇	mi luo si pa fu luo wei qi
@@ -15064,7 +12622,6 @@ use_preset_vocabulary: true
 米吕迈基	mi lv mai ji
 米纳姆布雷斯	mi na mu bu lei si
 米内利	mi nei li
-米内罗竞技	mi nei luo jing ji
 米尼奥莱特	mi ni ao lai te
 米尼奥特	mi ni ao te
 米诺舍维奇	mi nuo she wei qi
@@ -15109,8 +12666,6 @@ use_preset_vocabulary: true
 莫德斯特	mo de si te
 莫德斯特姆巴米	mo de si te mu ba mi
 莫德斯托	mo de si tuo
-莫尔	mo er
-墨尔本胜利	mo er ben sheng li
 莫尔德	mo er de
 莫尔德斯	mo er de si
 默尔德斯	mo er de si
@@ -15136,19 +12691,16 @@ use_preset_vocabulary: true
 默罕默德阿里西林	mo han mo de a li xi lin
 默罕默德萨尔	mo han mo de sa er
 默罕莫特阿里库尔图卢斯	mo han mo te a li ku er tu lu si
-莫科纳	mo ke na
 莫拉	mo la
 莫拉德梅格尼	mo la de mei ge ni
 莫拉顿	mo la dun
 莫拉费尔南多	mo la fei er nan duo
 莫拉雷斯	mo la lei si
-莫拉斯	mo la si
 莫莱诺	mo lai nuo
 莫赖斯	mo lai si
 莫雷蒂	mo lei di
 莫雷尔	mo lei er
 莫雷利亚	mo lei li ya
-莫雷诺	mo lei nuo
 莫雷诺弗雷尔	mo lei nuo fu lei er
 摩里伦斯	mo li lun si
 莫利纳罗	mo li na luo
@@ -15157,7 +12709,6 @@ use_preset_vocabulary: true
 摩连迪斯	mo lian di si
 莫伦特斯	mo lun te si
 莫伦特兹	mo lun te zi
-莫罗	mo luo
 莫罗帝奥	mo luo di ao
 莫罗西尼	mo luo xi ni
 莫洛伊	mo luo yi
@@ -15168,7 +12719,6 @@ use_preset_vocabulary: true
 莫诺普利	mo nuo pu li
 莫塞加德	mo sai jia de
 莫塞斯加尔维	mo sai si jia er wei
-莫斯科火车头	mo si ke huo che tou
 莫斯克拉	mo si ke la
 莫斯科水雷	mo si ke shui lei
 莫斯科斯巴达克	mo si ke si ba da ke
@@ -15176,7 +12726,6 @@ use_preset_vocabulary: true
 莫斯利	mo si li
 莫塔	mo ta
 莫塔拉迪亚基特	mo ta la di ya ji te
-默特萨克	mo te sa ke
 莫滕简森	mo teng jian sen
 墨西哥联赛	mo xi ge lian sai
 墨西哥美洲	mo xi ge mei zhou
@@ -15225,7 +12774,6 @@ use_preset_vocabulary: true
 穆拉特索兹格尔梅兹	mu la te suo zi ge er mei zi
 穆拉特托桑	mu la te tuo sang
 穆拉托里	mu la tuo li
-穆勒	mu le
 穆里略	mu li lue
 穆里尼奥	mu li ni ao
 穆隆戈蒂	mu long ge di
@@ -15264,7 +12812,6 @@ use_preset_vocabulary: true
 穆扬吉比亚	mu yang ji bi ya
 穆尤斯曼	mu you si man
 拿玻里	na bo li
-那不勒斯	na bu le si
 那德斯塔德斯加德	na de si ta de si jia de
 拿度甸奴	na du dian nu
 纳尔班托格鲁	na er ban tuo ge lu
@@ -15273,7 +12820,6 @@ use_preset_vocabulary: true
 纳伦道尔社	na lun dao er she
 纳穆尔联	na mu er lian
 纳穆齐	na mu qi
-纳尼	na ni
 纳诺	na nuo
 纳乔诺沃	na qiao nuo wo
 纳森科埃	na sen ke ai
@@ -15282,7 +12828,6 @@ use_preset_vocabulary: true
 纳塔利	na ta li
 纳坦沃尔夫	na tan wo er fu
 纳瓦尔竞技	na wa er jing ji
-纳瓦罗	na wa luo
 纳西门托里贝罗	na xi men tuo li bei luo
 纳西姆巴努亚斯	na xi mu ba nu ya si
 奈梅亨	nai mei heng
@@ -15301,12 +12846,10 @@ use_preset_vocabulary: true
 南美妖人	nan mei yao ren
 南墨尔本	nan mo er ben
 南斯拉夫人	nan si la fu ren
-南锡	nan xi
 男子足球	nan zi zu qiu
 讷德豪恩	ne de hao en
 内博伊萨帕夫洛维奇	nei bo yi sa pa fu luo wei qi
 内侧韧带撕裂	nei ce ren dai si lie
-内德维德	nei de wei de
 内尔加德	nei er jia de
 内尔梅罗	nei er mei luo
 内尔森里瓦斯	nei er sen li wa si
@@ -15324,15 +12867,11 @@ use_preset_vocabulary: true
 内纳德杰斯特罗维奇	nei na de jie si te luo wei qi
 内纳德科瓦塞维奇	nei na de ke wa sai wei qi
 内收肌受伤	nei shou ji shou shang
-内斯塔	nei si ta
 内坦亚马卡比	nei tan ya ma ka bi
-内维尔	nei wei er
 内野敬志	nei ye jing zhi
 尼昂	ni ang
 尼奥勒巴罗维	ni ao le ba luo wei
 尼尔列农	ni er lie nong
-尼尔马	ni er ma
-尼尔森	ni er sen
 尼尔斯费舍尔	ni er si fei she er
 尼尔斯霍格	ni er si huo ge
 尼尔斯克里斯蒂安约根森	ni er si ke li si di an yue gen sen
@@ -15383,11 +12922,9 @@ use_preset_vocabulary: true
 尼扎梅丁卡利斯坎	ni zha mei ding ka li si kan
 涅波姆尼亚奇	nie bo mu ni ya qi
 涅梅耶尔	nie mei ye er
-纽卡斯尔	niu ka si er
 纽卡斯尔联	niu ka si er lian
 纽卡斯尔联澳大利亚	niu ka si er lian ao da li ya
 纽卡素	niu ka su
-纽伦堡	niu lun bao
 纽维尔老男孩	niu wei er lao nan hai
 纽文达尔	niu wen da er
 纽文西亚	niu wen xi ya
@@ -15438,7 +12975,6 @@ use_preset_vocabulary: true
 诺威奇维多利亚	nuo wei qi wei duo li ya
 诺文布雷	nuo wen bu lei
 诺沃	nuo wo
-诺伊尔	nuo yi er
 诺伊卡塔罗	nuo yi ka ta luo
 诺伊鲁平	nuo yi lu ping
 诺伊迈尔	nuo yi mai er
@@ -15450,11 +12986,8 @@ use_preset_vocabulary: true
 区楚良	ou chu liang
 欧德菲尔德	ou de fei er de
 欧里亚克	ou li ya ke
-欧塞尔	ou sai er
-欧文	ou wen
 帕波尼	pa bo ni
 帕布洛奥拜斯	pa bu luo ao bai si
-帕德博恩	pa de bo en
 帕蒂森	pa di sen
 帕多因	pa duo yin
 帕尔马	pa er ma
@@ -15469,7 +13002,6 @@ use_preset_vocabulary: true
 帕济尼	pa ji ni
 帕吉斯	pa ji si
 帕加尼	pa jia ni
-帕克	pa ke
 帕克尔	pa ke er
 帕科佩纳	pa ke pei na
 帕科桑切斯	pa ke sang qie si
@@ -15480,9 +13012,7 @@ use_preset_vocabulary: true
 帕拉西奥斯	pa la xi ao si
 帕拉伊巴	pa la yi ba
 帕拉佐罗	pa la zuo luo
-帕勒莫	pa le mo
 帕勒斯蒂诺	pa le si di nuo
-帕雷德斯	pa lei de si
 帕里德斯	pa li de si
 帕里西奥	pa li xi ao
 帕利亚斯	pa li ya si
@@ -15497,12 +13027,10 @@ use_preset_vocabulary: true
 帕莫多卡	pa mo duo ka
 帕姆皮萨	pa mu pi sa
 帕纳比	pa na bi
-帕纳辛纳科斯	pa na xin na ke si
 帕南德蒂圭里	pa nan de di gui li
 帕尼尼斯	pa ni ni si
 帕努奇	pa nu qi
 帕帕多波洛斯	pa pa duo bo luo si
-帕帕多普洛斯	pa pa duo pu luo si
 帕帕圭耶	pa pa gui ye
 帕帕奇	pa pa qi
 帕帕萨兰蒂斯	pa pa sa lan di si
@@ -15562,7 +13090,6 @@ use_preset_vocabulary: true
 潘塔萨兰斯	pan ta sa lan si
 潘泰利奇	pan tai li qi
 潘特里奇	pan te li qi
-潘特利奇	pan te li qi
 潘特希尔	pan te xi er
 磐田茱比洛	pan tian zhu bi luo
 庞特贝德拉	pang te bei de la
@@ -15575,7 +13102,6 @@ use_preset_vocabulary: true
 佩德利尼奥	pei de li ni ao
 佩德里尼亚	pei de li ni ya
 佩德里托	pei de li tuo
-佩德罗	pei de luo
 佩德罗阿尔维斯	pei de luo a er wei si
 佩德罗埃马努尔	pei de luo ai ma nu er
 佩德罗夫	pei de luo fu
@@ -15594,7 +13120,6 @@ use_preset_vocabulary: true
 佩德罗西莫埃斯	pei de luo xi mo ai si
 佩蒂博斯	pei di bo si
 佩蒂纳里	pei di na li
-佩蒂特	pei di te
 佩尔阿布拉哈姆森	pei er a bu la ha mu sen
 佩尔彼德森	pei er bi de sen
 佩尔布滕绍恩	pei er bu teng shao en
@@ -15605,7 +13130,6 @@ use_preset_vocabulary: true
 佩尔奎斯	pei er kui si
 佩尔默特萨克	pei er mo te sa ke
 佩尔诺利加德	pei er nuo li jia de
-佩尔森	pei er sen
 佩尔斯卡巴	pei er si ka ba
 佩尔斯考塔	pei er si kao ta
 佩尔斯马马朗	pei er si ma ma lang
@@ -15619,7 +13143,6 @@ use_preset_vocabulary: true
 佩克哈特	pei ke ha te
 佩科拉里	pei ke la li
 佩克索托	pei ke suo tuo
-佩科维奇	pei ke wei qi
 佩克西托	pei ke xi tuo
 佩拉尔塔	pei la er ta
 佩拉戈蒂	pei la ge di
@@ -15627,20 +13150,16 @@ use_preset_vocabulary: true
 佩莱格里诺	pei lai ge li nuo
 佩莱摩吉	pei lai mo ji
 佩莱塔	pei lai ta
-佩雷拉	pei lei la
 佩雷拉竞技	pei lei la jing ji
 佩雷利尼亚	pei lei li ni ya
-佩雷斯	pei lei si
 佩雷亚	pei lei ya
 佩利西耶	pei li xi ye
 佩利佐利	pei li zuo li
 佩鲁贾	pei lu jia
 佩鲁齐尼	pei lu qi ni
-佩罗塔	pei luo ta
 裴明政	pei ming zheng
 佩纳菲尔	pei na fei er
 佩纳罗尔	pei na luo er
-佩佩	pei pei
 佩佩普拉	pei pei pu la
 佩奇亚	pei qi ya
 佩斯卡拉	pei si ka la
@@ -15667,15 +13186,12 @@ use_preset_vocabulary: true
 鹏羽组合	peng yu zu he
 皮埃尔多姆比	pi ai er duo mu bi
 皮埃纳尔	pi ai na er
-皮尔洛	pi er luo
 皮尔马森斯	pi er ma sen si
 皮尔玛森斯	pi er ma sen si
-皮尔斯	pi er si
 皮尔斯曼	pi er si man
 皮科洛	pi ke luo
 皮肯哈根	pi ken ha gen
 皮奎翁尼	pi kui weng ni
-皮雷	pi lei
 霹雳州运动	pi li zhou yun dong
 皮纳尔德	pi na er de
 皮纳尔迪	pi na er di
@@ -15714,24 +13230,19 @@ use_preset_vocabulary: true
 皮兹泽克	pi zi ze ke
 漂亮地控球转身	piao liang de kong qiu zhuan shen
 漂亮的停球	piao liang de ting qiu
-朴智星	piao zhi xing
 品巴策	pin ba ce
 拼中场	pin zhong chang
-平托	ping tuo
 平行线裁判法	ping xing xian cai pan fa
 破坏球	po huai qiu
 珀吉波斯	po ji bo si
 破门得分	po men de fen
 破密集防守	po mi ji fang shou
-普埃布拉	pu ai bu la
 普埃尔塔	pu ai er ta
 普埃托里亚诺	pu ai tuo li ya nuo
 普布云旦	pu bu yun dan
-朴茨茅斯	pu ci mao si
 普多斯基	pu duo si ji
 普尔瑟卡布帕斯	pu er se ka bu pa si
 普尔瑟拉	pu er se la
-普尔绍	pu er shao
 普尔斯比	pu er si bi
 普尔斯博姆	pu er si bo mu
 普尔斯加	pu er si jia
@@ -15748,7 +13259,6 @@ use_preset_vocabulary: true
 普拉茨	pu la ci
 普拉蒂尼	pu la di ni
 普拉丁斯	pu la ding si
-普拉努斯	pu la nu si
 普拉森里西	pu la sen li xi
 普拉斯尼卡	pu la si ni ka
 普拉塔里	pu la ta li
@@ -15770,7 +13280,6 @@ use_preset_vocabulary: true
 普里布拉姆	pu li bu la mu
 普利多	pu li duo
 普里杰尔	pu li jie er
-普利茅斯	pu li mao si
 普里穆斯	pu li mu si
 普里尼奇帕特	pu li ni qi pa te
 普里斯	pu li si
@@ -15804,14 +13313,10 @@ use_preset_vocabulary: true
 普特西洛	pu te xi luo
 普伊德波伊斯	pu yi de bo yi si
 普伊格雷涅尔	pu yi ge lei nie er
-普约尔	pu yue er
 奇奥尔诺莫里特奥德萨	qi ao er nuo mo li te ao de sa
 齐比希	qi bi xi
-齐达内	qi da nei
 奇达文士达	qi da wen shi da
 齐丹	qi dan
-齐格勒	qi ge le
-祁宏	qi hong
 奇加里尼	qi jia li ni
 起脚破门	qi jiao po men
 奇卡	qi ka
@@ -15822,7 +13327,6 @@ use_preset_vocabulary: true
 奇洛拉卡斯	qi luo la ka si
 奇门蒂	qi men di
 奇蒙蒂	qi meng di
-齐默尔曼	qi mo er man
 奇姆本达	qi mu ben da
 齐普里亚尼	qi pu li ya ni
 奇普里亚尼	qi pu li ya ni
@@ -15852,11 +13356,8 @@ use_preset_vocabulary: true
 乔波莫廷	qiao bo mo ting
 乔根杰普逊	qiao gen jie pu xun
 乔根米科尔森	qiao gen mi ke er sen
-乔哈特	qiao ha te
 乔加德纳	qiao jia de na
-乔科尔	qiao ke er
 乔肯尼迪	qiao ken ni di
-乔纳森	qiao na sen
 乔纳森埃万斯	qiao na sen ai wan si
 乔纳森巴奇尼	qiao na sen ba qi ni
 乔纳森比诺托	qiao na sen bi nuo tuo
@@ -15875,8 +13376,6 @@ use_preset_vocabulary: true
 切艾索	qie ai suo
 切尔米斯福德	qie er mi si fu de
 切尔滕纳姆城	qie er teng na mu cheng
-切尔西	qie er xi
-切赫	qie he
 切利尼	qie li ni
 切伦多洛	qie lun duo luo
 切伦多罗	qie lun duo luo
@@ -15886,14 +13385,12 @@ use_preset_vocabulary: true
 切塔德拉	qie ta de la
 切特科维奇	qie te ke wei qi
 切万顿	qie wan dun
-切沃	qie wo
 秦升	qin sheng
 青岛城甲联赛	qing dao cheng jia lian sai
 青岛城市联赛	qing dao cheng shi lian sai
 青岛城乙级赛	qing dao cheng yi ji sai
 青岛中能	qing dao zhong neng
 青少年队	qing shao nian dui
-琼斯	qiong si
 球被得到	qiu bei de dao
 丘布克丘	qiu bu ke qiu
 球场骚乱	qiu chang sao luan
@@ -15930,9 +13427,7 @@ use_preset_vocabulary: true
 全线压上	quan xian ya shang
 群星球迷俱乐部	qun xing qiu mi ju le bu
 让球过不让人过	rang qiu guo bu rang ren guo
-热刺	re ci
 热夫拉科夫	re fu la ke fu
-热那亚	re na ya
 仁川联队	ren chuan lian dui
 韧带撕裂	ren dai si lie
 仁德	ren de
@@ -15945,10 +13440,8 @@ use_preset_vocabulary: true
 日耳曼帕切科	ri er man pa qie ke
 日夫科	ri fu ke
 日吉奇	ri ji qi
-日基奇	ri ji qi
 茹拉夫	ru la fu
 儒尼奥尔	ru ni ao er
-儒尼尼奥	ru ni ni ao
 儒尼尼奥保利斯塔	ru ni ni ao bao li si ta
 瑞典联赛	rui dian lian sai
 瑞尔斯基体育	rui er si ji ti yu
@@ -15978,7 +13471,6 @@ use_preset_vocabulary: true
 若热洛佩斯	ruo re luo pei si
 若热马丁内斯	ruo re ma ding nei si
 若斯帕洛塔	ruo si pa luo ta
-若苏埃	ruo su ai
 萨奥维拉	sa ao wei la
 萨巴	sa ba
 萨巴巴特瑞	sa ba ba te rui
@@ -16002,13 +13494,11 @@ use_preset_vocabulary: true
 萨尔万	sa er wan
 萨尔希多	sa er xi duo
 萨尔扎尼斯	sa er zha ni si
-萨哈	sa ha
 萨哈尔	sa ha er
 萨基西安	sa ji xi an
 萨卡	sa ka
 萨卡里亚	sa ka li ya
 萨拉格里斯	sa la ge li si
-萨拉戈萨	sa la ge sa
 萨拉热窝塞尔维亚	sa la re wo sai er wei ya
 萨拉斯	sa la si
 萨拉斯石油公司	sa la si shi you gong si
@@ -16023,22 +13513,16 @@ use_preset_vocabulary: true
 萨洛蒙卡隆	sa luo meng ka long
 萨洛尼卡伊拉克里斯	sa luo ni ka yi la ke li si
 萨马尔科	sa ma er ke
-萨马拉斯	sa ma la si
 萨马瓦	sa ma wa
 萨米尔纳斯里	sa mi er na si li
 萨莫拉	sa mo la
-萨穆埃尔	sa mu ai er
 萨姆波尼法奇斯	sa mu bo ni fa qi si
-萨内蒂	sa nei di
 萨尼奥尔	sa ni ao er
-萨尼凯塔	sa ni kai ta
-萨尼亚	sa ni ya
 萨诺戈	sa nuo ge
 萨帕汉	sa pa han
 萨帕特尔	sa pa te er
 萨皮纳	sa pi na
 萨沙别拉诺维奇	sa sha bie la nuo wei qi
-萨斯菲尔德	sa si fei er de
 萨斯特雷	sa si te lei
 萨塔散奥勒斯	sa ta san ao le si
 萨瓦斯埃森	sa wa si ai sen
@@ -16053,7 +13537,6 @@ use_preset_vocabulary: true
 萨延科	sa yan ke
 萨伊维特	sa yi wei te
 塞阿拉	sai a la
-塞巴斯蒂安	sai ba si di an
 塞巴斯蒂安凯尔	sai ba si di an kai er
 塞巴斯蒂安拉尔森	sai ba si di an la er sen
 塞巴斯蒂安马特	sai ba si di an ma te
@@ -16077,7 +13560,6 @@ use_preset_vocabulary: true
 塞尔吉	sai er ji
 塞尔吉埃夫柳斯金	sai er ji ai fu liu si jin
 塞尔吉安特	sai er ji an te
-塞尔吉奥	sai er ji ao
 塞尔吉奥阿尔米隆	sai er ji ao a er mi long
 塞尔吉奥阿奎罗	sai er ji ao a kui luo
 塞尔吉奥阿莱扬德罗	sai er ji ao a lai yang de luo
@@ -16154,7 +13636,6 @@ use_preset_vocabulary: true
 塞特科维奇	sai te ke wei qi
 塞图巴尔	sai tu ba er
 塞万提斯	sai wan ti si
-塞维利亚	sai wei li ya
 塞维特	sai wei te
 赛文厄里斯	sai wen e li si
 塞西利奥洛佩斯	sai xi li ao luo pei si
@@ -16166,7 +13647,6 @@ use_preset_vocabulary: true
 三前锋	san qian feng
 桑布拉诺	sang bu la nuo
 桑德豪森	sang de hao sen
-桑德兰	sang de lan
 桑德罗莫雷拉	sang de luo mo lei la
 桑迪奥利塞赫	sang di ao li sai he
 桑蒂卡佐拉	sang di ka zuo la
@@ -16176,11 +13656,8 @@ use_preset_vocabulary: true
 桑利梅斯	sang li mei si
 桑利通盖伊	sang li tong gai yi
 桑尼	sang ni
-桑普多利亚	sang pu duo li ya
-桑切斯	sang qie si
 桑索维诺	sang suo wei nuo
 桑塔独立	sang ta du li
-桑坦德竞技	sang tan de jing ji
 桑特安东尼奥	sang te an dong ni ao
 桑特基迪尼斯	sang te ji di ni si
 桑特拉奇	sang te la qi
@@ -16192,9 +13669,7 @@ use_preset_vocabulary: true
 瑟克沃尔宁	se ke wo er ning
 瑟伦森	se lun sen
 瑟斯全雷范特	se si quan lei fan te
-森本贵幸	sen ben gui xing
 森布鲁	sen bu lu
-森德罗斯	sen de luo si
 森多利亚	sen duo li ya
 森基米亚诺	sen ji mi ya nuo
 森美兰州	sen mei lan zhou
@@ -16227,7 +13702,6 @@ use_preset_vocabulary: true
 山东泰山足球俱乐部	shan dong tai shan zu qiu ju le bu
 山姆哈钦森	shan mu ha qin sen
 山姆威廉姆斯	shan mu wei lian mu si
-上半场	shang ban chang
 上海联城中邦	shang hai lian cheng zhong bang
 上海女子球迷会	shang hai nv zi qiu mi hui
 上海浦东源深体育中心	shang hai pu dong yuan shen ti yu zhong xin
@@ -16242,7 +13716,6 @@ use_preset_vocabulary: true
 绍伯尔	shao bo er
 绍尔	shao er
 绍尔滕	shao er teng
-邵佳一	shao jia yi
 邵延杰	shao yan jie
 舍甫琴科	she fu qin ke
 射高	she gao
@@ -16265,10 +13738,8 @@ use_preset_vocabulary: true
 沈龙元	shen long yuan
 什鲁斯伯里城	shen lu si bo li cheng
 什切齐内克	shen qie qi nei ke
-申思	shen si
 沈阳金德	shen yang jin de
 深泽仁博	shen ze ren bo
-圣艾蒂安	sheng ai di an
 圣安德尔	sheng an de er
 圣安德鲁	sheng an de lu
 圣奥尔本斯城	sheng ao er ben si cheng
@@ -16285,7 +13756,6 @@ use_preset_vocabulary: true
 圣吉奥瓦尼	sheng ji ao wa ni
 圣卡埃塔诺	sheng ka ai ta nuo
 圣克拉拉运动	sheng ke la la yun dong
-圣克鲁斯	sheng ke lu si
 圣克鲁兹	sheng ke lu zi
 圣科罗马	sheng ke luo ma
 圣克罗塞	sheng ke luo sai
@@ -16353,15 +13823,12 @@ use_preset_vocabulary: true
 施利马流浪者	shi li ma liu lang zhe
 施廉志	shi lian zhi
 十六分之一决赛	shi liu fen zhi yi jue sai
-施罗德	shi luo de
 史洛特	shi luo te
 施罗特	shi luo te
 施米茨	shi mi ci
 施米德加尔	shi mi de jia er
-史密斯	shi mi si
 施密特	shi mi te
 施密特加尔	shi mi te jia er
-施耐德	shi nai de
 施奈德	shi nai de
 施内德林	shi nei de lin
 史尼积达	shi ni ji da
@@ -16384,14 +13851,11 @@ use_preset_vocabulary: true
 施托尔茨	shi tuo er ci
 施瓦尔姆施塔特	shi wa er mu shi ta te
 施瓦尼斯塔德	shi wa ni si ta de
-施瓦泽	shi wa ze
 施维恩斯泰格	shi wei en si tai ge
 施韦格勒	shi wei ge le
 施魏格勒	shi wei ge le
-施维格勒	shi wei ge le
 施维斯达	shi wei si da
 施魏因施泰格	shi wei yin shi tai ge
-施魏因斯泰格	shi wei yin si tai ge
 施翁希姆	shi weng xi mu
 施云奴	shi yun nu
 十指关	shi zhi guan
@@ -16444,7 +13908,6 @@ use_preset_vocabulary: true
 斯金内尔	si jin nei er
 斯卡采尔	si ka cai er
 斯卡尔皮	si ka er pi
-斯卡法蒂	si ka fa di
 斯卡拉莫济诺	si ka la mo ji nuo
 斯卡洛尼	si ka luo ni
 斯卡塞尔	si ka sai er
@@ -16463,7 +13926,6 @@ use_preset_vocabulary: true
 斯肯索普联	si ken suo pu lian
 斯库尔托	si ku er tuo
 斯库利	si ku li
-斯奎拉奇	si kui la qi
 斯奎拉希	si kui la xi
 斯拉夫科夫斯基	si la fu ke fu si ji
 斯拉干耶穆罕穆德	si la gan ye mu han mu de
@@ -16481,7 +13943,6 @@ use_preset_vocabulary: true
 斯莫尔德斯	si mo er de si
 斯摩尔洋车轮	si mo er yang che lun
 斯莫拉雷克	si mo la lei ke
-斯内德	si nei de
 斯内德尔	si nei de er
 斯内尔德斯	si nei er de si
 斯诺伊尔	si nuo yi er
@@ -16490,7 +13951,6 @@ use_preset_vocabulary: true
 斯皮尔林	si pi er lin
 斯皮拉诺维奇	si pi la nuo wei qi
 斯皮内西	si pi nei xi
-斯皮切尔	si pi qie er
 斯皮歇尔	si pi xie er
 斯普罗科尔	si pu luo ke er
 死球状态	si qiu zhuang tai
@@ -16503,7 +13963,6 @@ use_preset_vocabulary: true
 斯塔克	si ta ke
 斯塔兰德	si ta lan de
 斯塔利桥凯尔特	si ta li qiao kai er te
-斯塔姆	si ta mu
 斯塔尼斯拉夫	si ta ni si la fu
 斯塔尼斯拉夫瓦加	si ta ni si la fu wa jia
 斯塔特里	si ta te li
@@ -16512,7 +13971,6 @@ use_preset_vocabulary: true
 斯泰恩斯城	si tai en si cheng
 斯泰因森	si tai yin sen
 斯坦福	si tan fu
-斯坦科维奇	si tan ke wei qi
 斯坦内尔	si tan nei er
 斯坦契夫	si tan qi fu
 斯特恩巴赫	si te en ba he
@@ -16529,7 +13987,6 @@ use_preset_vocabulary: true
 斯特克勒姆博格	si te ke le mu bo ge
 斯特克伦博格	si te ke lun bo ge
 斯特拉瑟	si te la se
-斯特拉斯堡	si te la si bao
 斯特兰拉尔	si te lan la er
 斯特雷特	si te lei te
 斯特里姆尔	si te li mu er
@@ -16551,7 +14008,6 @@ use_preset_vocabulary: true
 斯徒登特	si tu deng te
 斯图尔	si tu er
 斯图尔特泰勒	si tu er te tai le
-斯图加特	si tu jia te
 斯图加特踢球者	si tu jia te ti qiu zhe
 斯图克尔	si tu ke er
 斯图里吉	si tu li ji
@@ -16561,7 +14017,6 @@ use_preset_vocabulary: true
 斯图亚尼	si tu ya ni
 斯托尔茨	si tuo er ci
 斯托尔兹	si tuo er zi
-斯托克城	si tuo ke cheng
 斯托克浦城	si tuo ke pu cheng
 斯托克斯	si tuo ke si
 斯托拉里	si tuo la li
@@ -16570,7 +14025,6 @@ use_preset_vocabulary: true
 斯托亚诺维奇	si tuo ya nuo wei qi
 斯托伊卡	si tuo yi ka
 斯托依科夫	si tuo yi ke fu
-斯托伊科维奇	si tuo yi ke wei qi
 斯瓦罗斯马洛卡	si wa luo si ma luo ka
 死亡小组	si wang xiao zu
 斯维迪克	si wei di ke
@@ -16580,7 +14034,6 @@ use_preset_vocabulary: true
 斯文克尔斯	si wen ke er si
 斯西格纳诺	si xi ge na nuo
 四一二三	si yi er san
-松井大辅	song jing da fu
 松克	song ke
 松莱尼格赫安	song lai ni ge he an
 宋黎辉	song li hui
@@ -16590,7 +14043,6 @@ use_preset_vocabulary: true
 苏博蒂奇	su bo di qi
 苏格迪亚纳	su ge di ya na
 苏格兰联赛	su ge lan lian sai
-苏克	su ke
 苏库塔帕苏	su ku ta pa su
 苏莱曼尼	su lai man ni
 苏雷曼库居克	su lei man ku ju ke
@@ -16601,7 +14053,6 @@ use_preset_vocabulary: true
 苏塔阿维拉泽	su ta a wei la ze
 苏特耶斯卡	su te ye si ka
 苏晓鸣	su xiao ming
-苏亚索	su ya suo
 苏亚佐	su ya zuo
 苏耀坚	su yao jian
 苏耀文	su yao wen
@@ -16610,9 +14061,6 @@ use_preset_vocabulary: true
 孙成耀	sun cheng yao
 孙峰浩	sun feng hao
 孙冠荣	sun guan rong
-孙吉	sun ji
-孙继海	sun ji hai
-孙祥	sun xiang
 孙新波	sun xin bo
 孙欣明	sun xin ming
 索比斯	suo bi si
@@ -16628,7 +14076,6 @@ use_preset_vocabulary: true
 索尔塔尼	suo er ta ni
 索尔兹伯里城	suo er zi bo li cheng
 索菲亚列夫斯基	suo fei ya lie fu si ji
-索菲亚斯拉维亚	suo fei ya si la wei ya
 索菲亚体育	suo fei ya ti yu
 索菲亚中央陆军	suo fei ya zhong yang lu jun
 索科塔	suo ke ta
@@ -16638,13 +14085,10 @@ use_preset_vocabulary: true
 索里格斯克沙科特	suo li ge si ke sha ke te
 索里亚	suo li ya
 索里亚诺	suo li ya nuo
-索林	suo lin
 索隆多	suo long duo
 索伦安德森	suo lun an de sen
 索伦蒂诺	suo lun di nuo
-索伦拉尔森	suo lun la er sen
 索伦鲁霍夫	suo lun lu huo fu
-索伦森	suo lun sen
 索伦尤恩格尔	suo lun you en ge er
 索罗蒙	suo luo meng
 索罗蒙奥科隆科沃	suo luo meng ao ke long ke wo
@@ -16659,7 +14103,6 @@ use_preset_vocabulary: true
 索泰尔斯	suo tai er si
 索提拉斯	suo ti la si
 索瓦尔德松	suo wa er de song
-索肖	suo xiao
 塔比历斯	ta bi li si
 塔博尔达	ta bo er da
 塔波尔达	ta bo er da
@@ -16692,7 +14135,6 @@ use_preset_vocabulary: true
 塔帕提奥	ta pa ti ao
 塔皮亚	ta pi ya
 塔奇纳蒂	ta qi na di
-塔什彻	ta shen che
 塔什干火车头	ta shi gan huo che tou
 塔什干棉农队	ta shi gan mian nong dui
 塔什干特拉克图	ta shi gan te la ke tu
@@ -16726,7 +14168,6 @@ use_preset_vocabulary: true
 汤姆金斯	tang mu jin si
 汤姆克罗尔	tang mu ke luo er
 汤姆皮特斯	tang mu pi te si
-唐宁	tang ning
 唐鹏举	tang peng ju
 唐晓程	tang xiao cheng
 特德斯科	te de si ke
@@ -16750,12 +14191,9 @@ use_preset_vocabulary: true
 特雷梅尔	te lei mei er
 特雷默尔	te lei mo er
 特雷莫利纳斯	te lei mo li na si
-特雷施	te lei shi
 特雷特科	te lei te ke
 特雷维索	te lei wei suo
 特雷沃辛克莱尔	te lei wo xin ke lai er
-特雷泽盖	te lei ze gai
-特里	te li
 特里埃斯蒂纳	te li ai si di na
 特里科	te li ke
 特里诺维切累斯	te li nuo wei qie lei si
@@ -16772,7 +14210,6 @@ use_preset_vocabulary: true
 特伦辛	te lun xin
 特罗德	te luo de
 特罗菲竞技	te luo fei jing ji
-特罗霍夫斯基	te luo huo fu si ji
 特罗姆瑟	te luo mu se
 特罗姆斯达恩	te luo mu si da en
 特罗乔夫斯基	te luo qiao fu si ji
@@ -16785,7 +14222,6 @@ use_preset_vocabulary: true
 特舍	te she
 特斯蒂德	te si di de
 特斯特罗特	te si te luo te
-特维斯	te wei si
 特文特	te wen te
 藤任军	teng ren jun
 替补门将	ti bu men jiang
@@ -16842,22 +14278,16 @@ use_preset_vocabulary: true
 图拉本莫塞加德	tu la ben mo sai jia de
 图拉本塞尔森	tu la ben sai er sen
 图拉本延森	tu la ben yan sen
-图拉姆	tu la mu
 图兰特夫茨	tu lan te fu ci
-图雷	tu lei
 图利奥德梅罗	tu li ao de mei luo
-图卢兹	tu lu zi
 图纳乌祖姆库	tu na wu zu mu ku
 图尼	tu ni
-突破	tu po
 突前后卫	tu qian hou wei
 突然起脚	tu ran qi jiao
 突然死亡法	tu ran si wang fa
 突入禁区	tu ru jin qu
 托比亚斯	tuo bi ya si
 托比亚斯劳	tuo bi ya si lao
-托蒂	tuo di
-托尔多	tuo er duo
 托尔格洛	tuo er ge luo
 托尔加奥兹根	tuo er jia ao zi gen
 托尔加曾金	tuo er jia ceng jin
@@ -16868,13 +14298,10 @@ use_preset_vocabulary: true
 拖后中卫	tuo hou zhong wei
 托拉兰	tuo la lan
 托勒尼提诺	tuo le ni ti nuo
-托雷斯	tuo lei si
 托里比奥	tuo li bi ao
 托利马	tuo li ma
 托利斯	tuo li si
-托马森	tuo ma sen
 托玛森	tuo ma sen
-托马斯	tuo ma si
 托马斯埃里克森	tuo ma si ai li ke sen
 托马斯布费尔	tuo ma si bu fei er
 托马斯多尔	tuo ma si duo er
@@ -16892,9 +14319,7 @@ use_preset_vocabulary: true
 托马斯延森	tuo ma si yan sen
 托马索尼	tuo ma suo ni
 托马西	tuo ma xi
-托米奇	tuo mi qi
 托米斯特因莱恩	tuo mi si te yin lai en
-托尼	tuo ni
 托尼奥济	tuo ni ao ji
 托尼波尔森	tuo ni bo er sen
 托尼卡伊格	tuo ni ka yi ge
@@ -16904,8 +14329,6 @@ use_preset_vocabulary: true
 托斯托	tuo si tuo
 托松奥卢	tuo song ao lu
 托特纳姆	tuo te na mu
-托特纳姆热刺	tuo te na mu re ci
-托西奇	tuo xi qi
 托希奇	tuo xi qi
 拖延战术	tuo yan zhan shu
 托伊尔考夫	tuo yi er kao fu
@@ -16944,7 +14367,6 @@ use_preset_vocabulary: true
 瓦雷拉	wa lei la
 瓦隆贝赫拉米	wa long bei he la mi
 瓦伦廷	wa lun ting
-瓦伦西亚	wa lun xi ya
 瓦伦西亚穆里洛	wa lun xi ya mu li luo
 瓦姆佛尔	wa mu fo er
 瓦纳斯巴达	wa na si ba da
@@ -16954,11 +14376,9 @@ use_preset_vocabulary: true
 瓦佩纳尔	wa pei na er
 瓦普拉斯	wa pu la si
 瓦切克	wa qie ke
-瓦塞尔	wa sai er
 瓦斯科达伽马	wa si ke da ga ma
 瓦斯科达迦马	wa si ke da jia ma
 瓦斯兰红星	wa si lan hong xing
-瓦斯鲁伊	wa si lu yi
 瓦索斯基	wa suo si ji
 瓦特克	wa te ke
 瓦滕沙伊德	wa teng sha yi de
@@ -16977,12 +14397,9 @@ use_preset_vocabulary: true
 万德尔	wan de er
 万登布切	wan deng bu qie
 万厚良	wan hou liang
-万乔普	wan qiao pu
 万象市政府	wan xiang shi zheng fu
 王大雷	wang da lei
-王栋	wang dong
 王锋庆	wang feng qing
-王刚	wang gang
 望加锡惨案	wang jia xi can an
 王军	wang jun
 王牌射手	wang pai she shou
@@ -16992,10 +14409,8 @@ use_preset_vocabulary: true
 王维满	wang wei man
 王小诗	wang xiao shi
 王永珀	wang yong po
-维埃拉	wei ai la
 维埃里	wei ai li
 维埃利尼亚	wei ai li ni ya
-韦伯	wei bo
 维布斯特	wei bu si te
 维达尔	wei da er
 维达尔森	wei da er sen
@@ -17006,8 +14421,6 @@ use_preset_vocabulary: true
 维登菲勒	wei deng fei le
 维登豪森	wei deng hao sen
 维迪加尔	wei di jia er
-维迪奇	wei di qi
-维杜卡	wei du ka
 维杜里格	wei du li ge
 维多里亚	wei duo li ya
 维多利亚	wei duo li ya
@@ -17077,7 +14490,6 @@ use_preset_vocabulary: true
 维加索拉	wei jia suo la
 维杰尔斯	wei jie er si
 韦康比流浪者	wei kang bi liu lang zhe
-维克多	wei ke duo
 维克多埃斯帕桑丁	wei ke duo ai si pa sang ding
 维克多卡斯塔诺	wei ke duo ka si ta nuo
 维克多桑切斯	wei ke duo sang qie si
@@ -17108,7 +14520,6 @@ use_preset_vocabulary: true
 威廉姆斯马丁内兹	wei lian mu si ma ding nei zi
 维鲁西纳	wei lu xi na
 威伦伯格	wei lun bo ge
-维罗索	wei luo suo
 维米尔伯根	wei mi er bo gen
 威尼斯	wei ni si
 维尼斯	wei ni si
@@ -17125,9 +14536,7 @@ use_preset_vocabulary: true
 魏森贝格尔	wei sen bei ge er
 维森伯格	wei sen bo ge
 维森博格	wei sen bo ge
-维森特	wei sen te
 维森特桑切斯	wei sen te sang qie si
-蔚山现代	wei shan xian dai
 韦舒亚	wei shu ya
 威斯巴登队	wei si ba deng dui
 韦斯布朗	wei si bu lang
@@ -17143,7 +14552,6 @@ use_preset_vocabulary: true
 威斯特法利亚黑讷	wei si te fa li ya hei ne
 威斯特加德	wei si te jia de
 维斯特加德	wei si te jia de
-韦斯特曼	wei si te man
 韦斯特维尔德	wei si te wei er de
 韦斯咸	wei si xian
 维泰比斯	wei tai bi si
@@ -17151,7 +14559,6 @@ use_preset_vocabulary: true
 维特克	wei te ke
 维特科洛	wei te ke luo
 维特塞勒	wei te sai le
-维特斯	wei te si
 威特斯大学	wei te si da xue
 维萜布斯克火车头	wei tie bu si ke huo che tou
 维托戈麦斯	wei tuo ge mai si
@@ -17167,12 +14574,10 @@ use_preset_vocabulary: true
 维耶里	wei ye li
 维也纳快速	wei ye na kuai su
 魏意民	wei yi min
-维泽	wei ze
 维泽拉	wei ze la
 魏占奎	wei zhan kui
 温布尔登竞技	wen bu er deng jing ji
 温蒂恩斯	wen di en si
-温格	wen ge
 文虎一	wen hu yi
 闻君武	wen jun wu
 文莱贝拉卡斯队	wen lai bei la ka si dui
@@ -17183,7 +14588,6 @@ use_preset_vocabulary: true
 文尼亚	wen ni ya
 温宁格尔	wen ning ge er
 文森特坎德拉	wen sen te kan de la
-文森佐格雷拉	wen sen zuo ge lei la
 文森佐斯西格纳诺	wen sen zuo si xi ge na nuo
 稳守反击	wen shou fan ji
 温特图尔	wen te tu er
@@ -17191,12 +14595,10 @@ use_preset_vocabulary: true
 翁格尔	weng ge er
 翁特哈兴	weng te ha xing
 沃德戈默斯	wo de ge mo si
-沃恩	wo en
 沃尔德斯	wo er de si
 沃尔顿	wo er dun
 沃尔夫	wo er fu
 沃尔夫冈沃尔夫	wo er fu gang wo er fu
-沃尔夫斯堡	wo er fu si bao
 沃尔坎阿尔斯兰	wo er kan a er si lan
 沃尔坎贝基罗格鲁	wo er kan bei ji luo ge lu
 沃尔坎德米雷尔	wo er kan de mi lei er
@@ -17204,7 +14606,6 @@ use_preset_vocabulary: true
 沃尔坎森	wo er kan sen
 沃尔考特	wo er kao te
 沃尔克芬克	wo er ke fen ke
-沃尔科特	wo er ke te
 沃尔奎特兹	wo er kui te zi
 沃尔隆流浪者	wo er long liu lang zhe
 沃尔诺克	wo er nuo ke
@@ -17224,18 +14625,14 @@ use_preset_vocabulary: true
 沃勒尔	wo le er
 沃罗宁	wo luo ning
 沃姆古尔	wo mu gu er
-沃诺克	wo nuo ke
 沃热尔	wo re er
 沃斯坎普	wo si kan pu
 沃特福	wo te fu
-沃特福德	wo te fu de
 沃特福德联	wo te fu de lian
 沃特雷乌斯	wo te lei wu si
 沃辛	wo xin
 吴承瑛	wu cheng ying
 伍德盖特	wu de gai te
-乌德勒支	wu de le zhi
-乌迪内斯	wu di nei si
 乌甸尼斯	wu dian ni si
 乌多恩沃科	wu duo en wo ke
 乌尔巴诺	wu er ba nuo
@@ -17283,7 +14680,6 @@ use_preset_vocabulary: true
 乌普斯特	wu pu si te
 吴奇顺	wu qi shun
 乌切	wu qie
-无球跑动	wu qiu pao dong
 无球人	wu qiu ren
 吴群立	wu qun li
 乌撒克奥尔昆	wu sa ke ao er kun
@@ -17297,14 +14693,12 @@ use_preset_vocabulary: true
 乌特勒支	wu te le zhi
 乌维拉波德	wu wei la bo de
 武西尼奇	wu xi ni qi
-乌伊法鲁西	wu yi fa lu xi
 乌伊法卢西	wu yi fa lu xi
 乌伊加尔里扎阿尔斯兰	wu yi jia er li zha a er si lan
 乌伊卡尼	wu yi ka ni
 武伊腾斯	wu yi teng si
 希巴里亚	xi ba li ya
 西班牙联赛	xi ban ya lian sai
-西班牙人	xi ban ya ren
 西班牙足球甲级联赛	xi ban ya zu qiu jia ji lian sai
 西班牙足球乙级联赛	xi ban ya zu qiu yi ji lian sai
 西比尔斯基	xi bi er si ji
@@ -17312,9 +14706,7 @@ use_preset_vocabulary: true
 希伯年	xi bo nian
 希伯特	xi bo te
 西部竞技队	xi bu jing ji dui
-西布朗	xi bu lang
 锡布里奇迅捷	xi bu li qi xun jie
-西布罗姆维奇	xi bu luo mu wei qi
 希策尔斯贝格	xi ce er si bei ge
 希策尔斯佩格	xi ce er si pei ge
 希茨尔斯贝格	xi ci er si bei ge
@@ -17324,9 +14716,7 @@ use_preset_vocabulary: true
 西迪比	xi di bi
 西迪凯塔	xi di kai ta
 希丁克	xi ding ke
-西多夫	xi duo fu
 西恩戴维斯	xi en dai wei si
-希尔	xi er
 希尔伯特	xi er bo te
 希尔德布兰德	xi er de bu lan de
 希尔卡塔尔	xi er ka ta er
@@ -17349,8 +14739,6 @@ use_preset_vocabulary: true
 膝关节半月板	xi guan jie ban yue ban
 西哈特阿尔斯兰	xi ha te a er si lan
 希汉哈斯波拉特利	xi han ha si bo la te li
-西汉姆	xi han mu
-西汉姆联	xi han mu lian
 希洪竞技	xi hong jing ji
 西甲	xi jia
 西加里尼	xi jia li ni
@@ -17365,7 +14753,6 @@ use_preset_vocabulary: true
 希伦布兰德	xi lun bu lan de
 西罗德卢卡	xi luo de lu ka
 西罗卡普亚诺	xi luo ka pu ya nuo
-西芒	xi mang
 西蒙埃略特	xi meng ai lue te
 西蒙波尔森	xi meng bo er sen
 西蒙戴维斯	xi meng dai wei si
@@ -17393,7 +14780,6 @@ use_preset_vocabulary: true
 席普洛克	xi pu luo ke
 西切罗	xi qie luo
 西切斯特火焰	xi qie si te huo yan
-西塞	xi sai
 希斯菲尔德	xi si fei er de
 希斯霍尔姆	xi si huo er mu
 西斯科	xi si ke
@@ -17401,7 +14787,6 @@ use_preset_vocabulary: true
 希思皮尔斯	xi si pi er si
 西索科	xi suo ke
 锡塔德福尔图纳	xi ta de fu er tu na
-西塔里迪斯	xi ta li di si
 西托尼	xi tuo ni
 锡瓦斯	xi wa si
 锡瓦斯体育	xi wa si ti yu
@@ -17409,10 +14794,8 @@ use_preset_vocabulary: true
 西维利亚	xi wei li ya
 西西尼奥	xi xi ni ao
 西亚尼	xi ya ni
-锡耶纳	xi ye na
 西乙	xi yi
 奚志康	xi zhi kang
-下半场	xia ban chang
 夏岱勒罗	xia dai le luo
 下底传中	xia di chuan zhong
 夏格维斯	xia ge wei si
@@ -17456,13 +14839,10 @@ use_preset_vocabulary: true
 斜传冲吊	xie chuan chong diao
 斜传球	xie chuan qiu
 斜传直插二过一	xie chuan zhi cha er guo yi
-协防	xie fang
 谢菲尔德联	xie fei er de lian
 谢菲尔德联队	xie fei er de lian dui
-谢晖	xie hui
 谢吉尔麦克唐纳德	xie ji er mai ke tang na de
 谢联	xie lian
-谢林汉姆	xie lin han mu
 谢斯塔克	xie si ta ke
 斜线传中	xie xian chuan zhong
 斜线防守	xie xian fang shou
@@ -17497,7 +14877,6 @@ use_preset_vocabulary: true
 辛西亚诺	xin xi ya nuo
 胸部停球	xiong bu ting qiu
 匈牙利联赛	xiong ya li lian sai
-休斯	xiu si
 休斯蒂	xiu si di
 休伊塞吉	xiu yi sai ji
 徐根宝	xu gen bao
@@ -17512,18 +14891,15 @@ use_preset_vocabulary: true
 薛锜铉	xue qi xuan
 薛琦铉	xue qi xuan
 薛申	xue shen
-雅博	ya bo
 亚琛	ya chen
 亚琛二队	ya chen er dui
 亚茨乔克	ya ci qiao ke
 亚当博格丹	ya dang bo ge dan
-亚当约翰逊	ya dang yue han xun
 雅蒂德	ya di de
 亚尔拜隆	ya er bai long
 亚尔维斯	ya er wei si
 亚戈	ya ge
 亚戈博宗	ya ge bo zong
-雅各布森	ya ge bu sen
 雅格布松	ya ge bu song
 亚戈法尔克	ya ge fa er ke
 雅戈费尔南德斯	ya ge fei er nan de si
@@ -17535,9 +14911,7 @@ use_preset_vocabulary: true
 亚科波尼	ya ke bo ni
 雅克布森	ya ke bu sen
 雅科文科	ya ke wen ke
-雅库布	ya ku bu
 雅库布艾耶贝尼	ya ku bu ai ye bei ni
-亚昆塔	ya kun ta
 亚利安德罗罗西	ya li an de luo luo xi
 亚历克西斯	ya li ke xi si
 亚历桑德罗	ya li sang de luo
@@ -17546,7 +14920,6 @@ use_preset_vocabulary: true
 亚历桑德罗冈巴多里	ya li sang de luo gang ba duo li
 亚历桑德罗帕里西	ya li sang de luo pa li xi
 亚利山大	ya li shan da
-亚历山大	ya li shan da
 亚历山大奥斯特伦德	ya li shan da ao si te lun de
 亚利山大巴德	ya li shan da ba de
 亚历山大弗雷	ya li shan da fu lei
@@ -17570,7 +14943,6 @@ use_preset_vocabulary: true
 亚什维利	ya shi wei li
 雅斯克莱宁	ya si ke lai ning
 雅斯科莱宁	ya si ke lai ning
-亚特兰大	ya te lan da
 亚特兰特	ya te lan te
 亚维尔巴拉哈	ya wei er ba la ha
 亚维尔多拉多	ya wei er duo la duo
@@ -17587,12 +14959,10 @@ use_preset_vocabulary: true
 雅西内希马	ya xi nei xi ma
 亚辛卡克马克	ya xin ka ke ma ke
 亚亚	ya ya
-亚亚图雷	ya ya tu lei
 岩布仙尼	yan bu xian ni
 延德里塞克	yan de li sai ke
 延缓一下比赛速度	yan huan yi xia bi sai su du
 延奇	yan qi
-延森	yan sen
 延斯杰里梅斯	yan si jie li mei si
 闫相闯	yan xiang chuang
 严重犯规	yan zhong fan gui
@@ -17605,7 +14975,6 @@ use_preset_vocabulary: true
 杨洪敏	yang hong min
 扬考斯卡斯	yang kao si ka si
 扬科夫	yang ke fu
-扬科勒	yang ke le
 扬科勒尔	yang ke le er
 杨克里斯蒂安森	yang ke li si di an sen
 扬克罗坎普	yang ke luo kan pu
@@ -17616,7 +14985,6 @@ use_preset_vocabulary: true
 扬罗森塔尔	yang luo sen ta er
 扬尼西奥	yang ni xi ao
 杨朋锋	yang peng feng
-扬森	yang sen
 杨善平	yang shan ping
 杨世卓	yang shi zhuo
 扬托尔诺	yang tuo er nuo
@@ -17633,7 +15001,6 @@ use_preset_vocabulary: true
 叶夫柳申	ye fu liu shen
 叶夫柳斯金	ye fu liu si jin
 叶海亚	ye hai ya
-耶卡斯	ye ka si
 耶克塔库尔图卢斯	ye ke ta ku er tu lu si
 耶拉维奇	ye la wei qi
 耶利米亚	ye li mi ya
@@ -17666,7 +15033,6 @@ use_preset_vocabulary: true
 易卜拉希马卡马拉	yi bu la xi ma ka ma la
 易卜拉希马陶尔	yi bu la xi ma tao er
 伊布拉西莫维奇	yi bu la xi mo wei qi
-伊布拉希莫维奇	yi bu la xi mo wei qi
 伊布拉辛阿金	yi bu la xin a jin
 伊布拉辛埃吉	yi bu la xin ai ji
 易卜拉辛巴	yi bu la xin ba
@@ -17713,14 +15079,11 @@ use_preset_vocabulary: true
 伊格纳齐奥	yi ge na qi ao
 伊格纳齐奥阿巴特	yi ge na qi ao a ba te
 伊格纳西奥	yi ge na xi ao
-伊格纳西奥冈萨雷斯	yi ge na xi ao gang sa lei si
 伊格纳西奥卡马乔	yi ge na xi ao ka ma qiao
 伊戈斯	yi ge si
 伊戈伊兹	yi ge yi zi
-伊瓜因	yi gua yin
 一记长传	yi ji chang chuan
 一记抽射	yi ji chou she
-意甲	yi jia
 意甲球员	yi jia qiu yuan
 一脚挡传	yi jiao dang chuan
 一脚定乾坤	yi jiao ding qian kun
@@ -17740,12 +15103,9 @@ use_preset_vocabulary: true
 伊姆霍夫	yi mu huo fu
 伊纳基拜阿	yi na ji bai a
 伊纳西奥皮亚	yi na xi ao pi ya
-伊内斯	yi nei si
-伊涅斯塔	yi nie si ta
 依诺伊阿史多德运动	yi nuo yi a shi duo de yun dong
 伊帕廷加	yi pa ting jia
 伊普萨	yi pu sa
-伊普斯维奇	yi pu si wei qi
 伊普塔菲拉格阿坎尼斯	yi pu ta fei la ge a kan ni si
 伊萨比	yi sa bi
 伊萨克	yi sa ke
@@ -17760,7 +15120,6 @@ use_preset_vocabulary: true
 伊斯马宁	yi si ma ning
 伊斯麦尔	yi si mai er
 伊斯迈尔古尔杜伦	yi si mai er gu er du lun
-伊斯梅尔	yi si mei er
 伊斯梅尔洛佩兹	yi si mei er luo pei zi
 伊斯梅尔米勒	yi si mei er mi le
 伊斯莫德斯	yi si mo de si
@@ -17789,7 +15148,6 @@ use_preset_vocabulary: true
 伊万莱斯加德	yi wan lai si jia de
 伊万勒科	yi wan le ke
 伊万尼尔多	yi wan ni er duo
-伊万诺维奇	yi wan nuo wei qi
 伊万桑托斯	yi wan sang tuo si
 伊韦尔东运动	yi wei er dong yun dong
 伊维斯范德海格	yi wei si fan de hai ge
@@ -17837,7 +15195,6 @@ use_preset_vocabulary: true
 英文西博	ying wen xi bo
 英乙	ying yi
 英扎吉	ying zha ji
-永贝里	yong bei li
 右边锋	you bian feng
 右边卫	you bian wei
 尤德博格	you de bo ge
@@ -17863,7 +15220,6 @@ use_preset_vocabulary: true
 尤文尼斯	you wen ni si
 尤文斯塔比亚	you wen si ta bi ya
 尤文图德	you wen tu de
-尤文图斯	you wen tu si
 尤文图斯竞技	you wen tu si jing ji
 右中卫	you zhong wei
 于大宝	yu da bao
@@ -17888,7 +15244,6 @@ use_preset_vocabulary: true
 于远伟	yu yuan wei
 预约冲顶	yu yue chong ding
 鱼跃顶球	yu yue ding qiu
-鱼跃救球	yu yue jiu qiu
 鱼跃扑球	yu yue pu qiu
 余振玄	yu zhen xuan
 于子千	yu zi qian
@@ -17903,8 +15258,6 @@ use_preset_vocabulary: true
 约尔吉尼奥	yue er ji ni ao
 约尔奎拉	yue er kui la
 约格科斯塔	yue ge ke si ta
-约根森	yue gen sen
-约翰	yue han
 约翰奥比米克尔	yue han ao bi mi ke er
 约翰波特	yue han bo te
 约翰弗兰德森	yue han fu lan de sen
@@ -17923,7 +15276,6 @@ use_preset_vocabulary: true
 约翰斯顿	yue han si dun
 约翰特鲁切特	yue han te lu qie te
 约加塞维奇	yue jia sai wei qi
-约克	yue ke
 约克城	yue ke cheng
 越南联赛	yue nan lian sai
 约内雷特	yue nei lei te
@@ -17949,7 +15301,6 @@ use_preset_vocabulary: true
 云尼斯达莱	yun ni si da lai
 云佩斯	yun pei si
 云施拉格	yun shi la ge
-赞布罗塔	zan bu luo ta
 赞古奴夫斯基	zan gu nu fu si ji
 赞帕尼亚	zan pa ni ya
 赞帕塔	zan pa ta
@@ -17966,7 +15317,6 @@ use_preset_vocabulary: true
 泽卡兰加	ze ka lan jia
 泽卡斯特罗	ze ka si te luo
 泽鲁道夫	ze lu dao fu
-泽罗伯托	ze luo bo tuo
 泽马利亚	ze ma li ya
 泽曼内尔	ze man nei er
 泽诺尼	ze nuo ni
@@ -17999,7 +15349,6 @@ use_preset_vocabulary: true
 翟彦鹏	zhai yan peng
 占邦达	zhan bang da
 占美尼斯	zhan mei ni si
-詹姆斯	zhan mu si
 詹姆斯奥布雷恩	zhan mu si ao bu lei en
 詹姆斯比蒂	zhan mu si bi di
 詹姆斯邓恩	zhan mu si deng en
@@ -18019,15 +15368,12 @@ use_preset_vocabulary: true
 张稀哲	zhang xi zhe
 张效瑞	zhang xiao rui
 张辛昕	zhang xin xin
-张耀坤	zhang yao kun
 张玉宁	zhang yu ning
 张增群	zhang zeng qun
 章知伟	zhang zhi wei
 兆迪奴鱼雷	zhao di nu yu lei
 肇俊哲	zhao jun zhe
-赵铭	zhao ming
 赵明剑	zhao ming jian
-赵旭日	zhao xu ri
 哲科	zhe ke
 振兴山东体育突出贡献奖	zhen xing shan dong ti yu tu chu gong xian jiang
 郑东七	zheng dong qi
@@ -18037,7 +15383,6 @@ use_preset_vocabulary: true
 争头球	zheng tou qiu
 正选门将	zheng xuan men jiang
 正选守门员	zheng xuan shou men yuan
-郑智	zheng zhi
 掷边线球	zhi bian xian qiu
 直川公俊	zhi chuan gong jun
 直传斜插二过一	zhi chuan xie cha er guo yi
@@ -18062,21 +15407,18 @@ use_preset_vocabulary: true
 志在争冠	zhi zai zheng guan
 制造越位战术	zhi zao yue wei zhan shu
 中部海岸海员	zhong bu hai an hai yuan
-中场	zhong chang
 中长传	zhong chang chuan
 中场发动机	zhong chang fa dong ji
 中场换人	zhong chang huan ren
 中场球员	zhong chang qiu yuan
 中场任意球	zhong chang ren yi qiu
 中场失控	zhong chang shi kong
-中场休息	zhong chang xiu xi
 中场组织者	zhong chang zu zhi zhe
 中超杯冠军	zhong chao bei guan jun
 中超射手王	zhong chao she shou wang
 中超最佳射手	zhong chao zui jia she shou
 中村俊辅	zhong cun jun fu
 中断比赛	zhong duan bi sai
-中锋	zhong feng
 中格里克	zhong ge li ke
 踵骨受伤	zhong gu shou shang
 中国裁判	zhong guo cai pan
@@ -18093,15 +15435,10 @@ use_preset_vocabulary: true
 中圈开球	zhong quan kai qiu
 中田英寿	zhong tian ying shou
 中线	zhong xian
-中泽佑二	zhong ze you er
-周海滨	zhou hai bin
 周何新	zhou he xin
 周伟新	zhou wei xin
-主场	zhu chang
 朱格里亚诺	zhu ge li ya nuo
-朱广沪	zhu guang hu
 朱慧谦	zhu hui qian
-主教练	zhu jiao lian
 朱锦新	zhu jin xin
 主客场制	zhu ke chang zhi
 助理裁判	zhu li cai pan
@@ -18112,7 +15449,6 @@ use_preset_vocabulary: true
 朱塞佩安布鲁泽斯	zhu sai pei an bu lu ze si
 朱塞佩罗西	zhu sai pei luo xi
 朱塞佩马特拉齐	zhu sai pei ma te la qi
-朱挺	zhu ting
 庄伟伦	zhuang wei lun
 坠球	zhui qiu
 兹德贝尔	zi de bei er
@@ -18174,10 +15510,8 @@ use_preset_vocabulary: true
 阿奎苏阿里	a kui su a li
 阿拉贡赛道	a la gong sai dao
 阿联酋大奖赛	a lian qiu da jiang sai
-阿隆索	a long suo
 阿斯卡里	a si ka li
 埃克莱斯通	ai ke lai si tong
-安德森	an de sen
 安东尼戴维森	an dong ni dai wei sen
 安全车	an quan che
 澳大利亚车手	ao da li ya che shou
@@ -18191,7 +15525,6 @@ use_preset_vocabulary: true
 巴西大奖赛	ba xi da jiang sai
 棒棒糖人	bang bang tang ren
 爆缸	bao gang
-保罗	bao luo
 宝马	bao ma
 宝马车队	bao ma che dui
 宝马公司	bao ma gong si
@@ -18212,7 +15545,6 @@ use_preset_vocabulary: true
 波尔戴斯	bo er dai si
 伯尼	bo ni
 布拉汉姆车队	bu la han mu che dui
-布朗	bu lang
 布朗车队	bu lang che dui
 布里亚托利	bu li ya tuo li
 不同等级	bu tong deng ji
@@ -18250,7 +15582,6 @@ use_preset_vocabulary: true
 达喀尔	da ka er
 大卫库特哈德	da wei ku te ha de
 戴维德森	dai wei de sen
-戴维森	dai wei sen
 德国车王	de guo che wang
 德国大奖赛	de guo da jiang sai
 德国赛车俱乐部	de guo sai che ju le bu
@@ -18295,7 +15626,6 @@ use_preset_vocabulary: true
 海菲尔德	hai fei er de
 海费尔德	hai fei er de
 海基科瓦莱宁	hai ji ke wa lai ning
-汉密尔顿	han mi er dun
 赫尔利	he er li
 核心地带	he xin di dai
 黑白方格旗	hei bai fang ge qi
@@ -18327,7 +15657,6 @@ use_preset_vocabulary: true
 杰米	jie mi
 节目解说	jie mu jie shuo
 进站	jin zhan
-经纪人	jing ji ren
 均衡制胜	jun heng zhi sheng
 卡丁车系列赛	ka ding che xi lie sai
 卡特斯克亚	ka te si ke ya
@@ -18342,12 +15671,10 @@ use_preset_vocabulary: true
 库比萨	ku bi sa
 库特哈德	ku te ha de
 扩散器	kuo san qi
-莱科	lai ke
 莱科宁	lai ke ning
 莱库宁	lai ku ning
 蓝旗	lan qi
 劳达	lao da
-勒芒	le mang
 雷克南	lei ke nan
 雷诺	lei nuo
 雷诺车队	lei nuo che dui
@@ -18385,11 +15712,9 @@ use_preset_vocabulary: true
 蒙特泽莫罗	meng te ze mo luo
 蒙特泽摩罗	meng te ze mo luo
 蒙托亚	meng tuo ya
-蒙扎	meng zha
 民用车	min yong che
 摩纳哥大奖赛	mo na ge da jiang sai
 摩纳哥蒙特卡罗赛道	mo na ge meng te ka luo sai dao
-莫斯利	mo si li
 尼尔森皮奎特	ni er sen pi kui te
 尼尔森小皮奎特	ni er sen xiao pi kui te
 尼基	ni ji
@@ -18402,7 +15727,6 @@ use_preset_vocabulary: true
 欧洲大奖赛	ou zhou da jiang sai
 欧洲基地	ou zhou ji di
 帕尔	pa er
-帕特	pa te
 排名垫底	pai ming dian di
 排气回压	pai qi hui ya
 排位	pai wei
@@ -18410,7 +15734,6 @@ use_preset_vocabulary: true
 碰撞测试	peng zhuang ce shi
 皮盖特	pi gai te
 皮奎特	pi kui te
-皮特	pi te
 普林斯通	pu lin si tong
 普罗斯特	pu luo si te
 汽车运动	qi che yun dong
@@ -18436,7 +15759,6 @@ use_preset_vocabulary: true
 萨宾娜	sa bin na
 萨基尔	sa ji er
 萨基尔赛道	sa ji er sai dao
-塞巴斯蒂安	sai ba si di an
 塞巴斯蒂安波尔戴	sai ba si di an bo er dai
 塞巴斯蒂安维特尔	sai ba si di an wei te er
 赛车产业	sai che chan ye
@@ -18459,7 +15781,6 @@ use_preset_vocabulary: true
 赛会干事	sai hui gan shi
 赛季结束	sai ji jie shu
 鳃孔	sai kong
-塞纳	sai na
 赛萨基尔赛道	sai sa ji er sai dao
 赛事直播	sai shi zhi bo
 赛事总监	sai shi zong jian
@@ -18474,7 +15795,6 @@ use_preset_vocabulary: true
 时间处罚	shi jian chu fa
 世界冠军	shi jie guan jun
 世界锦标赛	shi jie jin biao sai
-舒马赫	shu ma he
 双巴组合	shuang ba zu he
 斯帕赛道	si pa sai dao
 苏蒂尔	su di er
@@ -18494,15 +15814,12 @@ use_preset_vocabulary: true
 托德	tuo de
 托姆捷克	tuo mu jie ke
 瓦尔莫运动	wa er mo yun dong
-瓦伦西亚	wa lun xi ya
 瓦伦西亚街道	wa lun xi ya jie dao
 瓦伦西亚街道赛	wa lun xi ya jie dao sai
 瓦伦西亚站	wa lun xi ya zhan
 瓦塔宁	wa ta ning
 万宝路车队	wan bao lu che dui
-韦伯	wei bo
 违规行为	wei gui xing wei
-威廉姆斯	wei lian mu si
 威廉姆斯车队	wei lian mu si che dui
 威廉姆斯车手	wei lian mu si che shou
 未能跑完	wei neng pao wan
@@ -18603,136 +15920,75 @@ use_preset_vocabulary: true
 佐藤琢磨	zuo teng zhuo mo
 暗盘	an pan
 半蹲	ban dun
-半决赛	ban jue sai
 磅数	bang shu
-爆发力	bao fa li
-报分	bao fen
 爆冷	bao leng
-步法	bu fa
 蔡赟	cai yun
-持球	chi qiu
-抽球	chou qiu
 触地	chu di
-出界	chu jie
-处理球	chu li qiu
 触球	chu qiu
 穿线	chuan xian
-搓球	cuo qiu
 打比赛	da bi sai
-打法	da fa
 打球	da qiu
 打羽毛球	da yu mao qiu
-带球	dai qiu
-单打	dan da
 蹬地	deng di
 底角	di jiao
-低手击球	di shou ji qiu
-垫步	dian bu
 点杀	dian sha
 掉漆	diao qi
-吊球	diao qiu
 顶住	ding zhu
 短板	duan ban
 断线	duan xian
 对角	dui jiao
 对角线	dui jiao xian
 对垒	dui lei
-对练	dui lian
 对墙	dui qiang
 多拍	duo pai
-发高远球	fa gao yuan qiu
 发力	fa li
-发平球	fa ping qiu
-发球	fa qiu
-发球次序	fa qiu ci xu
-发球方	fa qiu fang
-发球区	fa qiu qu
-发球权	fa qiu quan
-发深球	fa shen qiu
-反拍	fan pai
-反手	fan shou
 防滑粉	fang hua fen
-防守	fang shou
-防守反击	fang shou fan ji
-分界线	fen jie xian
 分力	fen li
 分球	fen qiu
 封网	feng wang
-高手击球	gao shou ji qiu
 高远球	gao yuan qiu
 公开赛	gong kai sai
 攻守	gong shou
 勾球	gou qiu
 挂拍	gua pai
-过渡球	guo du qiu
 过线	guo xian
 横扫	heng sao
 横线	heng xian
 后摆	hou bai
 后侧	hou ce
-后场	hou chang
 后场高远球	hou chang gao yuan qiu
 后仰	hou yang
 还击	huan ji
 换线	huan xian
-挥拍	hui pai
-回球	hui qiu
 回弹	hui tan
 回中	hui zhong
-混合双打	hun he shuang da
 混双	hun shuang
 击出	ji chu
-击球	ji qiu
-击球点	ji qiu dian
 技术流	ji shu liu
-假动作	jia dong zuo
-夹发针球	jia fa zhen qiu
 加力	jia li
 捡球	jian qiu
-交叉步	jiao cha bu
-交换发球区	jiao huan fa qiu qu
-教练	jiao lian
 脚面	jiao mian
-接发球	jie fa qiu
 接球	jie qiu
 截杀	jie sha
-警戒线	jing jie xian
 开局	kai ju
-开球	kai qiu
 看球	kan qiu
 控球	kong qiu
-控制球	kong zhi qiu
-扣球	kou qiu
-扣杀	kou sha
-快平球	kuai ping qiu
 拉线	la xian
 拉直	la zhi
-连击	lian ji
 练球	lian qiu
 连杀	lian sha
-连续扣杀	lian xu kou sha
-轮换位置	lun huan wei zhi
 落点	luo dian
 男单	nan dan
 男双	nan shuang
 男团	nan tuan
-男子单打	nan zi dan da
-男子双打	nan zi shuang da
-男子团体	nan zi tuan ti
 内侧	nei ce
 内翻	nei fan
-内开球线	nei kai qiu xian
 内旋	nei xuan
 逆转	ni zhuan
 女单	nv dan
 女队	nv dui
 女双	nv shuang
-女子单打	nv zi dan da
-女子双打	nv zi shuang da
-女子团体	nv zi tuan ti
-女子羽毛球单打	nv zi yu mao qiu dan da
 欧锦赛	ou jin sai
-拍柄	pai bing
 拍打	pai da
 拍杆	pai gan
 拍框	pai kuang
@@ -18740,15 +15996,11 @@ use_preset_vocabulary: true
 拍子	pai zi
 劈吊	pi diao
 劈杀	pi sha
-平抽球	ping chou qiu
 平高	ping gao
-平高球	ping gao qiu
 平衡点	ping heng dian
 平推	ping tui
-前场	qian chang
 抢攻	qiang gong
 抢球	qiang qiu
-轻吊球	qing diao qiu
 球包	qiu bao
 球场	qiu chang
 球服	qiu fu
@@ -18756,7 +16008,6 @@ use_preset_vocabulary: true
 球后	qiu hou
 球技	qiu ji
 球路	qiu lu
-球拍	qiu pai
 球手	qiu shou
 球速	qiu su
 球头	qiu tou
@@ -18770,15 +16021,11 @@ use_preset_vocabulary: true
 伸直	shen zhi
 试打	shi da
 失利	shi li
-试球	shi qiu
-失误	shi wu
 手感	shou gan
 竖线	shu xian
-双打	shuang da
 说球	shuo qiu
 弹跳力	tan tiao li
 糖水拍	tang shui pai
-挑球	tiao qiu
 头重	tou zhong
 团体赛	tuan ti sai
 推球	tui qiu
@@ -18786,33 +16033,23 @@ use_preset_vocabulary: true
 推压	tui ya
 拖垮	tuo kua
 外侧	wai ce
-外开球线	wai kai qiu xian
 外旋	wai xuan
 网前	wang qian
-网前球	wang qian qiu
-违例	wei li
 卫冕	wei mian
 问鼎	wen ding
 下压	xia ya
-相持	xiang chi
 小球	xiao qiu
 小组赛	xiao zu sai
-协调性	xie tiao xing
 斜线	xie xian
 新拍	xin pai
 新线	xin xian
 亚锦赛	ya jin sai
 压线	ya xian
 腰力	yao li
-一发球员	yi fa qiu yuan
 赢面	ying mian
-右半场	you ban chang
 羽联	yu lian
 羽毛球	yu mao qiu
-羽毛球场	yu mao qiu chang
 羽毛球队	yu mao qiu dui
-羽毛球混合双打	yu mao qiu hun he shuang da
-羽毛球拍	yu mao qiu pai
 羽拍	yu pai
 羽球	yu qiu
 羽人	yu ren
@@ -18822,17 +16059,11 @@ use_preset_vocabulary: true
 预选赛	yu xuan sai
 再拉	zai la
 站位	zhan wei
-站桩	zhan zhuang
-正拍	zheng pai
-正赛	zheng sai
-正手	zheng shou
 执教	zhi jiao
 重锤	zhong chui
-重发球	zhong fa qiu
 中杆	zhong gan
 中国羽毛球队	zhong guo yu mao qiu dui
 重扣	zhong kou
 中羽	zhong yu
 追分	zhui fen
 追平	zhui ping
-左半场	zuo ban chang
