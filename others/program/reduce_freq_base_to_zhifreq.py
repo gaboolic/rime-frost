@@ -100,8 +100,8 @@ for file_name in cn_dicts_common_list:
             
             if freq > 0:
                 write_file.write(f"{character}\t{encoding}\t{freq}\n")
-            elif '8105' in file_name or '41448' in file_name or 'tencent' in file_name:
-                write_file.write(f"{character}\t{encoding}\t0\n")
+            else:
+                write_file.write(f"{character}\t{encoding}\t1\n")
 
            
 
