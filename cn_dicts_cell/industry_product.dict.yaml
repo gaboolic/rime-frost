@@ -17,7 +17,7 @@ use_preset_vocabulary: false
 玻璃类印刷	bo li lei yin shua	0
 玻璃油墨	bo li you mo	0
 不干胶印刷	bu gan jiao yin shua	0
-产品防伪	chan pin fang wei	1
+产品防伪	chan pin fang wei	3
 打样机	da yang ji	0
 电晕笔	dian yun bi	0
 镀锡板卷马口铁	du xi ban juan ma kou tie	0
@@ -27,7 +27,7 @@ use_preset_vocabulary: false
 分离薄膜	fen li bao mo	0
 复合类印刷	fu he lei yin shua	0
 覆膜机	fu mo ji	0
-功能薄膜	gong neng bao mo	1
+功能薄膜	gong neng bao mo	2
 挂历印刷	gua li yin shua	0
 刮墨刀	gua mo dao	0
 海报印刷	hai bao yin shua	6
@@ -182,7 +182,7 @@ use_preset_vocabulary: false
 制袋机	zhi dai ji	0
 中空吹塑机	zhong kong chui su ji	0
 铸塑加工	zhu su jia gong	0
-半金属	ban jin shu	56
+半金属	ban jin shu	52
 半金属矿产	ban jin shu kuang chan	0
 板卷材	ban juan cai	0
 板坯	ban pi	6
@@ -209,8 +209,8 @@ use_preset_vocabulary: false
 方坯	fang pi	2
 非金属粉末	fei jin shu fen mo	0
 非金属矿产	fei jin shu kuang chan	4
-非金属矿物制品	fei jin shu kuang wu zhi pin	0
-废铝	fei lv	7
+非金属矿物制品	fei jin shu kuang wu zhi pin	2
+废铝	fei lv	8
 废镁	fei mei	0
 废镍	fei nie	0
 废锡	fei xi	0
@@ -320,7 +320,7 @@ use_preset_vocabulary: false
 冶金设备	ye jin she bei	6
 冶金项目合作	ye jin xiang mu he zuo	0
 冶炼成套设备	ye lian cheng tao she bei	0
-冶炼加工	ye lian jia gong	4
+冶炼加工	ye lian jia gong	5
 异型钢	yi xing gang	0
 永奇昱祥	yong qi yu xiang	0
 有色金属板材	you se jin shu ban cai	0
@@ -343,7 +343,7 @@ use_preset_vocabulary: false
 重有色金属矿产	zhong you se jin shu kuang chan	0
 铸造及热处理设备	zhu zao ji re chu li she bei	0
 铸造设备	zhu zao she bei	1
-钻采设备	zuan cai she bei	0
+钻采设备	zuan cai she bei	1
 白灵菇	bai ling gu	1
 鳖类	bie lei	4
 饼干糕点	bing gan gao dian	2
@@ -354,7 +354,7 @@ use_preset_vocabulary: false
 豆荚类	dou jia lei	4
 二手食品机械	er shou shi pin ji xie	0
 改善记忆	gai shan ji yi	0
-改善视力	gai shan shi li	65
+改善视力	gai shan shi li	66
 改善胃肠	gai shan wei chang	3
 干果类	gan guo lei	20
 柑桔	gan ju	34
@@ -399,7 +399,7 @@ use_preset_vocabulary: false
 其他食用菌	qi ta shi yong jun	0
 其他食用油	qi ta shi yong you	5
 其他蔬菜制品	qi ta shu cai zhi pin	0
-其他糖类	qi ta tang lei	3
+其他糖类	qi ta tang lei	4
 其他鲜活水产品	qi ta xian huo shui chan pin	0
 其他新鲜蔬菜	qi ta xin xian shu cai	1
 其他休闲食品	qi ta xiu xian shi pin	0
@@ -407,7 +407,7 @@ use_preset_vocabulary: false
 肉制品加工设备	rou zhi pin jia gong she bei	0
 乳制品加工设备	ru zhi pin jia gong she bei	1
 深加工类	shen jia gong lei	0
-生鲜水果	sheng xian shui guo	25
+生鲜水果	sheng xian shui guo	23
 食品储运设备	shi pin chu yun she bei	0
 食品烘焙设备	shi pin hong bei she bei	0
 食品饮料代理	shi pin yin liao dai li	0
@@ -419,17 +419,17 @@ use_preset_vocabulary: false
 水生菜类	shui sheng cai lei	0
 速冻面点	su dong mian dian	0
 速溶茶	su rong cha	3
-碳酸饮料	tan suan yin liao	464
+碳酸饮料	tan suan yin liao	552
 调味品加工设备	tiao wei pin jia gong she bei	0
 鲜活水产品	xian huo shui chan pin	0
-蟹类	xie lei	14
-休闲食品	xiu xian shi pin	101
+蟹类	xie lei	15
+休闲食品	xiu xian shi pin	103
 休闲食品加工设备	xiu xian shi pin jia gong she bei	0
 腌制水产品	yan zhi shui chan pin	0
-养肾	yang shen	87
+养肾	yang shen	91
 野生菜类	ye sheng cai lei	0
 饮料加工设备	yin liao jia gong she bei	0
-营养饮品	ying yang yin pin	2
+营养饮品	ying yang yin pin	3
 鱼干鱼丝	yu gan yu si	0
 竹笋类	zhu sun lei	1
 安全仪器	an quan yi qi	0
@@ -476,7 +476,7 @@ use_preset_vocabulary: false
 机械量仪表	ji xie liang yi biao	0
 集中控制装置	ji zhong kong zhi zhuang zhi	0
 控制调节仪表	kong zhi tiao jie yi biao	0
-拉力试验机	la li shi yan ji	0
+拉力试验机	la li shi yan ji	1
 沥青试验仪器	li qing shi yan yi qi	0
 力学计量标准器具	li xue ji liang biao zhun qi ju	0
 力与变形检测仪	li yu bian xing jian ce yi	0
@@ -566,7 +566,7 @@ use_preset_vocabulary: false
 吹奏类乐器	chui zou lei yue qi	9
 打击类乐器	da ji lei yue qi	2
 大型游艺机	da xing you yi ji	0
-电动滑板车	dian dong hua ban che	20
+电动滑板车	dian dong hua ban che	21
 钓鱼帽	diao yu mao	0
 多功能鞋	duo gong neng xie	0
 二手体育休闲设施	er shou ti yu xiu xian she shi	0
@@ -620,7 +620,7 @@ use_preset_vocabulary: false
 排球用品	pai qiu yong pin	0
 攀岩用品	pan yan yong pin	0
 漂流用品	piao liu yong pin	0
-票务服务	piao wu fu wu	2
+票务服务	piao wu fu wu	3
 乒乓球用品	ping pang qiu yong pin	0
 汽动滑板车	qi dong hua ban che	0
 棋牌桌	qi pai zhuo	5
@@ -716,7 +716,7 @@ use_preset_vocabulary: false
 能源项目合作	neng yuan xiang mu he zuo	0
 耦合变压器	ou he bian ya qi	0
 配电屏	pei dian ping	1
-配电器	pei dian qi	0
+配电器	pei dian qi	1
 配电输电设备	pei dian shu dian she bei	0
 其他变压器	qi ta bian ya qi	0
 其他电池	qi ta dian chi	0
@@ -728,7 +728,7 @@ use_preset_vocabulary: false
 其他石油加工设备	qi ta shi you jia gong she bei	0
 其他石油燃料	qi ta shi you ran liao	0
 其他太阳能设备	qi ta tai yang neng she bei	0
-其他添加剂	qi ta tian jia ji	19
+其他添加剂	qi ta tian jia ji	21
 其他原煤	qi ta yuan mei	0
 汽油发电机组	qi you fa dian ji zu	0
 燃料油添加剂	ran liao you tian jia ji	0
@@ -737,7 +737,7 @@ use_preset_vocabulary: false
 燃气设备	ran qi she bei	0
 润滑油添加剂	run hua you tian jia ji	1
 石油产品添加剂	shi you chan pin tian jia ji	0
-石油和天然气	shi you he tian ran qi	82
+石油和天然气	shi you he tian ran qi	87
 石油加工设备	shi you jia gong she bei	0
 石油蜡	shi you la	0
 石油燃料	shi you ran liao	2
@@ -775,7 +775,7 @@ use_preset_vocabulary: false
 高纯水制取设备	gao chun shui zhi qu she bei	0
 高压水流清洗机	gao ya shui liu qing xi ji	0
 公共环卫设施	gong gong huan wei she shi	0
-供水设备	gong shui she bei	7
+供水设备	gong shui she bei	10
 工业风扇	gong ye feng shan	16
 工业吸尘设备	gong ye xi chen she bei	0
 工业噪声控制设备	gong ye zao sheng kong zhi she bei	0
@@ -797,11 +797,11 @@ use_preset_vocabulary: false
 离子风机	li zi feng ji	0
 离子交换设备	li zi jiao huan she bei	1
 滤板	lv ban	2
-滤片	lv pian	10
+滤片	lv pian	11
 滤油机	lv you ji	0
 美废	mei fei	2
 欧废	ou fei	0
-排风设备	pai feng she bei	1
+排风设备	pai feng she bei	2
 排风设备配件	pai feng she bei pei jian	0
 抛丸清理机	pao wan qing li ji	0
 喷洒车	pen sa che	1
@@ -837,7 +837,7 @@ use_preset_vocabulary: false
 尾气处理装置	wei qi chu li zhuang zhi	7
 污泥处理设备	wu ni chu li she bei	0
 污水处理成套设备	wu shui chu li cheng tao she bei	0
-污水处理设备	wu shui chu li she bei	13
+污水处理设备	wu shui chu li she bei	27
 消音降噪设备	xiao yin jiang zao she bei	0
 压滤设备	ya lv she bei	0
 泳池水处理设备	yong chi shui chu li she bei	0
@@ -848,11 +848,11 @@ use_preset_vocabulary: false
 真皮废料	zhen pi fei liao	0
 蒸汽清洗机	zheng qi qing xi ji	1
 装修污染清除剂	zhuang xiu wu ran qing chu ji	0
-安全绳	an quan sheng	124
+安全绳	an quan sheng	127
 办公锁	ban gong suo	0
 板岩	ban yan	23
 报警器材及系统	bao jing qi cai ji xi tong	0
-杯架	bei jia	52
+杯架	bei jia	64
 铲土运输机械	chan tu yun shu ji xie	0
 超市购物车	chao shi gou wu che	2
 厨卫设施	chu wei she shi	4
@@ -866,7 +866,7 @@ use_preset_vocabulary: false
 二手建材加工设备	er shou jian cai jia gong she bei	0
 法兰盘	fa lan pan	5
 阀片	fa pian	11
-阀芯	fa xin	18
+阀芯	fa xin	22
 防潮材料	fang chao cai liao	2
 防护耳塞耳罩	fang hu er sai er zhao	0
 防护面罩面具	fang hu mian zhao mian ju	0
@@ -888,7 +888,7 @@ use_preset_vocabulary: false
 花洒软管	hua sa ruan guan	2
 混凝土搅拌机械	hun ning tu jiao ban ji xie	0
 混水阀	hun shui fa	14
-机械门锁	ji xie men suo	1
+机械门锁	ji xie men suo	2
 家具锁	jia ju suo	0
 建材机械及用具	jian cai ji xie ji yong ju	0
 建材加工	jian cai jia gong	0
@@ -896,7 +896,7 @@ use_preset_vocabulary: false
 建材类管件	jian cai lei guan jian	0
 建材生产加工机械	jian cai sheng chan jia gong ji xie	0
 监控器材及系统	jian kong qi cai ji xi tong	0
-建筑玻璃	jian zhu bo li	3
+建筑玻璃	jian zhu bo li	4
 建筑门窗及五金	jian zhu men chuang ji wu jin	0
 建筑配套设施及其他	jian zhu pei tao she shi ji qi ta	0
 建筑图纸	jian zhu tu zhi	20
@@ -915,7 +915,7 @@ use_preset_vocabulary: false
 开门器	kai men qi	2
 库存及相关服务	ku cun ji xiang guan fu wu	0
 库存建材	ku cun jian cai	0
-快开	kuai kai	36
+快开	kuai kai	49
 冷热水系统	leng re shui xi tong	0
 楼梯及配件	lou ti ji pei jian	0
 楼宇对讲设备	lou yu dui jiang she bei	0
@@ -923,7 +923,7 @@ use_preset_vocabulary: false
 路面机械	lu mian ji xie	0
 毛巾杆	mao jin gan	19
 门窗挂钩	men chuang gua gou	0
-门夹	men jia	16
+门夹	men jia	19
 门禁考勤器材及系统	men jin kao qin qi cai ji xi tong	0
 门碰	men peng	0
 门吸	men xi	27
@@ -985,7 +985,7 @@ use_preset_vocabulary: false
 锁具配件	suo ju pei jian	0
 陶瓷生产加工机械	tao ci sheng chan jia gong ji xie	0
 特种建材	te zhong jian cai	1
-筒灯	tong deng	156
+筒灯	tong deng	165
 卫浴用五金件	wei yu yong wu jin jian	0
 污物桶	wu wu tong	2
 箱包锁	xiang bao suo	0
@@ -1063,7 +1063,7 @@ use_preset_vocabulary: false
 医疗器械加工	yi liao qi xie jia gong	0
 医疗器械制造设备	yi liao qi xie zhi zao she bei	0
 医药项目合作	yi yao xiang mu he zuo	0
-医用材料	yi yong cai liao	29
+医用材料	yi yong cai liao	36
 医用车	yi yong che	0
 医用器皿	yi yong qi min	1
 饮片机械	yin pian ji xie	0
@@ -1071,7 +1071,7 @@ use_preset_vocabulary: false
 诊察设备	zhen cha she bei	0
 制剂机械	zhi ji ji xie	0
 治疗设备	zhi liao she bei	0
-植物提取物	zhi wu ti qu wu	82
+植物提取物	zhi wu ti qu wu	88
 植物原药材	zhi wu yuan yao cai	0
 制药辅料	zhi yao fu liao	0
 制药设备	zhi yao she bei	6
@@ -1079,7 +1079,7 @@ use_preset_vocabulary: false
 注射穿刺器械	zhu she chuan ci qi xie	0
 办公设备维修及安装	ban gong she bei wei xiu ji an zhuang	0
 保险服务	bao xian fu wu	0
-财务咨询	cai wu zi xun	64
+财务咨询	cai wu zi xun	66
 餐饮娱乐加盟	can yin yu le jia meng	0
 仓储与配送	cang chu yu pei song	3
 产权债权转让	chan quan zhai quan zhuan rang	0
@@ -1119,14 +1119,14 @@ use_preset_vocabulary: false
 其他知识产权服务	qi ta zhi shi chan quan fu wu	0
 其他中介服务	qi ta zhong jie fu wu	0
 其他咨询	qi ta zi xun	0
-其他租赁	qi ta zu lin	0
+其他租赁	qi ta zu lin	3
 企业日常服务	qi ye ri chang fu wu	0
 迁厂搬家	qian chang ban jia	0
 清洗及保洁服务	qing xi ji bao jie fu wu	0
 认证服务	ren zheng fu wu	0
-商标注册申请	shang biao zhu ce shen qing	82
+商标注册申请	shang biao zhu ce shen qing	86
 商旅服务	shang lv fu wu	0
-设备展	she bei zhan	2
+设备展	she bei zhan	3
 摄影摄像服务	she ying she xiang fu wu	0
 生产设备维修及安装	sheng chan she bei wei xiu ji an zhuang	0
 特种物流	te zhong wu liu	0
@@ -1140,14 +1140,14 @@ use_preset_vocabulary: false
 语言培训	yu yan pei xun	0
 展会服务	zhan hui fu wu	3
 展览设计制作	zhan lan she ji zhi zuo	0
-知识产权服务	zhi shi chan quan fu wu	0
+知识产权服务	zhi shi chan quan fu wu	39
 纸业展	zhi ye zhan	0
 中介服务加盟	zhong jie fu wu jia meng	0
 专利版权申请	zhuan li ban quan shen qing	0
 专利版权转让	zhuan li ban quan zhuan rang	0
-资格考试培训	zi ge kao shi pei xun	2
+资格考试培训	zi ge kao shi pei xun	3
 综合类展会	zong he lei zhan hui	0
-租赁服务	zu lin fu wu	65
+租赁服务	zu lin fu wu	68
 邦定加工	bang ding jia gong	0
 杯灯	bei deng	1
 彩色灯泡	cai se deng pao	2
@@ -1175,7 +1175,7 @@ use_preset_vocabulary: false
 环型荧光灯管	huan xing ying guang deng guan	0
 机床灯具	ji chuang deng ju	0
 检修灯	jian xiu deng	0
-角灯	jiao deng	11
+角灯	jiao deng	12
 交通警示灯	jiao tong jing shi deng	1
 金卤灯	jin lu deng	2
 聚光灯泡	ju guang deng pao	0
@@ -1218,7 +1218,7 @@ use_preset_vocabulary: false
 水下灯泡	shui xia deng pao	0
 隧道灯具	sui dao deng ju	0
 太阳能手电筒	tai yang neng shou dian tong	0
-贴片加工	tie pian jia gong	0
+贴片加工	tie pian jia gong	1
 微型灯泡	wei xing deng pao	0
 无电源手电筒	wu dian yuan shou dian tong	0
 舞台灯具	wu tai deng ju	0
@@ -1366,7 +1366,7 @@ use_preset_vocabulary: false
 其他丝巾	qi ta si jin	0
 其他童鞋	qi ta tong xie	0
 其他拖鞋	qi ta tuo xie	0
-其他袜子	qi ta wa zi	0
+其他袜子	qi ta wa zi	2
 其他围巾	qi ta wei jin	1
 其他围巾帽子手套套件	qi ta wei jin mao zi shou tao tao jian	0
 其他鞋材化工	qi ta xie cai hua gong	0
@@ -1419,7 +1419,7 @@ use_preset_vocabulary: false
 橡胶鞋底	xiang jiao xie di	14
 鞋材化工	xie cai hua gong	0
 鞋材鞋件	xie cai xie jian	0
-鞋撑	xie cheng	7
+鞋撑	xie cheng	8
 鞋成型机	xie cheng xing ji	0
 鞋辅件	xie fu jian	0
 鞋花	xie hua	0
@@ -1467,7 +1467,7 @@ use_preset_vocabulary: false
 二手农业机械	er shou nong ye ji xie	0
 肥料加工设备	fei liao jia gong she bei	0
 工业用动植物油	gong ye yong dong zhi wu you	0
-灌溉工具	guan gai gong ju	0
+灌溉工具	guan gai gong ju	2
 含油子仁	han you zi ren	0
 花草盆景	hua cao pen jing	0
 花盆容器	hua pen rong qi	0
@@ -1484,13 +1484,13 @@ use_preset_vocabulary: false
 农业实验设备	nong ye shi yan she bei	0
 农业用具	nong ye yong ju	2
 农用工具	nong yong gong ju	4
-农作物种子	nong zuo wu zhong zi	7
-排灌机械	pai guan ji xie	1
+农作物种子	nong zuo wu zhong zi	8
+排灌机械	pai guan ji xie	2
 攀援植物	pan yuan zhi wu	3
 其他含油子仁	qi ta han you zi ren	0
 其他化肥	qi ta hua fei	0
 其他花卉	qi ta hua hui	6
-其他坚果	qi ta jian guo	0
+其他坚果	qi ta jian guo	9
 其他绿化苗木	qi ta lv hua miao mu	0
 其他农药原药	qi ta nong yao yuan yao	0
 其他农药制剂	qi ta nong yao zhi ji	0
@@ -1716,7 +1716,7 @@ use_preset_vocabulary: false
 其他混纺	qi ta hun fang	0
 其他麻类系列面料	qi ta ma lei xi lie mian liao	0
 其他毛纺系列面料	qi ta mao fang xi lie mian liao	0
-其他毛巾	qi ta mao jin	0
+其他毛巾	qi ta mao jin	1
 其他面料	qi ta mian liao	0
 其他坯布	qi ta pi bu	0
 其他人造革	qi ta ren zao ge	0
@@ -1760,7 +1760,7 @@ use_preset_vocabulary: false
 消光尼丝纺	xiao guang ni si fang	0
 消光塔丝隆	xiao guang ta si long	0
 新型功能性面料	xin xing gong neng xing mian liao	0
-新型纤维	xin xing xian wei	0
+新型纤维	xin xing xian wei	1
 绣花加工	xiu hua jia gong	0
 绣花面料	xiu hua mian liao	0
 休闲面料	xiu xian mian liao	0
@@ -1861,7 +1861,7 @@ use_preset_vocabulary: false
 其他陶瓷工艺品	qi ta tao ci gong yi pin	0
 其他相框	qi ta xiang kuang	0
 其他钥匙扣	qi ta yao shi kou	0
-其他钟表	qi ta zhong biao	0
+其他钟表	qi ta zhong biao	1
 其他字画	qi ta zi hua	0
 青瓷工艺品	qing ci gong yi pin	0
 日用挂摆饰	ri yong gua bai shi	0
@@ -1891,7 +1891,7 @@ use_preset_vocabulary: false
 藤编工艺品	teng bian gong yi pin	0
 天然工艺品	tian ran gong yi pin	0
 铁艺品	tie yi pin	0
-铜雕	tong diao	9
+铜雕	tong diao	10
 铜艺品	tong yi pin	0
 微型盆景	wei xing pen jing	0
 锡艺品	xi yi pin	0
@@ -1932,7 +1932,7 @@ use_preset_vocabulary: false
 光纤跳线	guang xian tiao xian	7
 红外线适配器	hong wai xian shi pei qi	0
 集团电话	ji tuan dian hua	0
-接入设备	jie ru she bei	35
+接入设备	jie ru she bei	36
 接续设备	jie xu she bei	0
 卡备份器	ka bei fen qi	1
 可视电话机	ke shi dian hua ji	0
@@ -1957,7 +1957,7 @@ use_preset_vocabulary: false
 其他移动电话	qi ta yi dong dian hua	0
 其他移动电话配附件	qi ta yi dong dian hua pei fu jian	0
 声讯系统	sheng xun xi tong	0
-手机按键	shou ji an jian	0
+手机按键	shou ji an jian	10
 手机充电器	shou ji chong dian qi	60
 手机读卡器	shou ji du ka qi	5
 手机耳机	shou ji er ji	0
@@ -1989,7 +1989,7 @@ use_preset_vocabulary: false
 信息面板	xin xi mian ban	0
 移动电话配附件	yi dong dian hua pei fu jian	0
 语音传真网关	yu yin chuan zhen wang guan	0
-中框	zhong kuang	133
+中框	zhong kuang	225
 半挂牵引车	ban gua qian yin che	5
 保温车	bao wen che	0
 边三轮摩托车	bian san lun mo tuo che	2
@@ -1999,7 +1999,7 @@ use_preset_vocabulary: false
 船用发动机配件	chuan yong fa dong ji pei jian	0
 船用五金配件	chuan yong wu jin pei jian	0
 登车桥	deng che qiao	0
-电动车电机	dian dong che dian ji	7
+电动车电机	dian dong che dian ji	8
 电动车控制器	dian dong che kong zhi qi	5
 堆高车	dui gao che	0
 二手船舶	er shou chuan bo	0
@@ -2041,7 +2041,7 @@ use_preset_vocabulary: false
 其他运输搬运设备	qi ta yun shu ban yun she bei	0
 其他专用汽车	qi ta zhuan yong qi che	0
 起重装卸设备	qi zhong zhuang xie she bei	0
-轻便摩托车	qing bian mo tuo che	10
+轻便摩托车	qing bian mo tuo che	20
 调速转把	tiao su zhuan ba	0
 停车场设备	ting che chang she bei	2
 通用输送设备	tong yong shu song she bei	0
@@ -2055,7 +2055,7 @@ use_preset_vocabulary: false
 闸把	zha ba	1
 正三轮摩托车	zheng san lun mo tuo che	0
 办公用纸	ban gong yong zhi	3
-板纸	ban zhi	3
+板纸	ban zhi	4
 包装用纸	bao zhuang yong zhi	1
 杯纸	bei zhi	1
 草浆	cao jiang	16
@@ -2071,7 +2071,7 @@ use_preset_vocabulary: false
 鸡皮纸	ji pi zhi	0
 卷烟用纸	juan yan yong zhi	0
 绝缘纸	jue yuan zhi	3
-淋膜纸	lin mo zhi	0
+淋膜纸	lin mo zhi	1
 其他办公用纸	qi ta ban gong yong zhi	0
 其他包装用纸	qi ta bao zhuang yong zhi	0
 其他工业用纸	qi ta gong ye yong zhi	0
@@ -2093,7 +2093,7 @@ use_preset_vocabulary: false
 纸袋纸	zhi dai zhi	3
 纸及纸品代理	zhi ji zhi pin dai li	0
 纸及纸品项目合作	zhi ji zhi pin xiang mu he zuo	0
-纸加工	zhi jia gong	1
+纸加工	zhi jia gong	0
 纸加工机械	zhi jia gong ji xie	0
 制浆助剂	zhi jiang zhu ji	0
 纸类设备及服务	zhi lei she bei ji fu wu	0
@@ -2204,7 +2204,7 @@ use_preset_vocabulary: false
 密封垫片	mi feng dian pian	4
 磨块	mo kuai	3
 磨抛光电动工具	mo pao guang dian dong gong ju	0
-磨片	mo pian	8
+磨片	mo pian	11
 木工锉	mu gong cuo	1
 木工雕刻机	mu gong diao ke ji	0
 木工锯	mu gong ju	1
@@ -2256,7 +2256,7 @@ use_preset_vocabulary: false
 气源处理器	qi yuan chu li qi	0
 铅封钳	qian feng qian	0
 壳体加工	qiao ti jia gong	0
-切刀	qie dao	207
+切刀	qie dao	211
 切割片	qie ge pian	0
 切削电动工具	qie xiao dian dong gong ju	0
 曲线锯条	qu xian ju tiao	0
@@ -2329,10 +2329,10 @@ use_preset_vocabulary: false
 伺服定位系统	ci fu ding wei xi tong	0
 倒顺开关	dao shun kai guan	1
 低压接触器	di ya jie chu qi	0
-低压开关柜	di ya kai guan gui	23
+低压开关柜	di ya kai guan gui	26
 低压控制器	di ya kong zhi qi	0
 低压熔断器	di ya rong duan qi	0
-电池充电器	dian chi chong dian qi	9
+电池充电器	dian chi chong dian qi	10
 电动车充电器	dian dong che chong dian qi	23
 电动车用电动机	dian dong che yong dian dong ji	0
 电动工具开关	dian dong gong ju kai guan	0
@@ -2357,7 +2357,7 @@ use_preset_vocabulary: false
 二手电工电气产品	er shou dian gong dian qi chan pin	0
 发热盘	fa re pan	35
 发热芯	fa re xin	0
-浮球开关	fu qiu kai guan	0
+浮球开关	fu qiu kai guan	1
 高压成套电器	gao ya cheng tao dian qi	0
 高压断路器	gao ya duan lu qi	6
 高压接触器	gao ya jie chu qi	0
@@ -2372,7 +2372,7 @@ use_preset_vocabulary: false
 家电用电动机	jia dian yong dian dong ji	0
 接线座	jie xian zuo	0
 矩形连接器	ju xing lian jie qi	0
-绝缘导线	jue yuan dao xian	11
+绝缘导线	jue yuan dao xian	15
 库存电工电气产品	ku cun dian gong dian qi chan pin	0
 流量开关	liu liang kai guan	1
 裸电线	luo dian xian	0
@@ -2409,11 +2409,11 @@ use_preset_vocabulary: false
 办公沙发	ban gong sha fa	2
 办公台	ban gong tai	1
 抱带	bao dai	0
-保温壶	bao wen hu	62
+保温壶	bao wen hu	63
 保温容器	bao wen rong qi	2
 彩妆化学品	cai zhuang hua xue pin	0
 餐具附件	can ju fu jian	0
-餐厅家具	can ting jia ju	9
+餐厅家具	can ting jia ju	7
 厕所刷	ce suo shua	2
 厨房清洁剂	chu fang qing jie ji	2
 除毛	chu mao	26
@@ -2424,13 +2424,13 @@ use_preset_vocabulary: false
 电灶具	dian zao ju	0
 定型水	ding xing shui	1
 儿童护肤品	er tong hu fu pin	0
-儿童家具	er tong jia ju	98
+儿童家具	er tong jia ju	99
 防蛀用品	fang zhu yong pin	0
 缝纫编织	feng ren bian zhi	0
 丰胸化学品	feng xiong hua xue pin	0
 个人护理用具	ge ren hu li yong ju	0
 公共场所家具	gong gong chang suo jia ju	0
-锅刷	guo shua	15
+锅刷	guo shua	16
 护肤膏霜	hu fu gao shuang	0
 护肤乳液	hu fu ru ye	3
 会客椅	hui ke yi	0
@@ -2627,7 +2627,7 @@ use_preset_vocabulary: false
 其他有线线缆设备	qi ta you xian xian lan she bei	0
 其他专业录音	qi ta zhuan ye lu yin	0
 前端设备	qian duan she bei	18
-社会科学类	she hui ke xue lei	53
+社会科学类	she hui ke xue lei	43
 摄录一体机	she lu yi ti ji	19
 摄像器材	she xiang qi cai	8
 摄影背景	she ying bei jing	0
@@ -2642,7 +2642,7 @@ use_preset_vocabulary: false
 文学艺术类	wen xue yi shu lei	15
 舞台机械	wu tai ji xie	1
 舞台幕布	wu tai mu bu	5
-舞台设备	wu tai she bei	0
+舞台设备	wu tai she bei	11
 无线微波设备	wu xian wei bo she bei	0
 无线卫星设备	wu xian wei xing she bei	0
 学习教育类	xue xi jiao yu lei	1
@@ -2688,7 +2688,7 @@ use_preset_vocabulary: false
 金属包装制品	jin shu bao zhuang zhi pin	0
 金属盖	jin shu gai	6
 金属盒	jin shu he	21
-金属桶	jin shu tong	11
+金属桶	jin shu tong	13
 金属托盘	jin shu tuo pan	1
 警示胶带	jing shi jiao dai	0
 捆扎机械	kun za ji xie	0
@@ -2732,17 +2732,17 @@ use_preset_vocabulary: false
 萃取设备	cui qu she bei	1
 带式干燥设备	dai shi gan zao she bei	0
 底阀	di fa	3
-蝶阀	die fa	0
+蝶阀	die fa	1
 二手化工设备	er shou hua gong she bei	0
 发酵提取设备	fa jiao ti qu she bei	0
 反应设备	fan ying she bei	0
 放料阀	fang liao fa	0
 沸腾干燥机	fei teng gan zao ji	0
-酚类	fen lei	65
-分离设备	fen li she bei	2
+酚类	fen lei	261
+分离设备	fen li she bei	3
 分凝器	fen ning qi	0
 分散机	fen san ji	0
-粉碎设备	fen sui she bei	5
+粉碎设备	fen sui she bei	7
 分析试剂	fen xi shi ji	4
 砜类	feng lei	3
 呋喃树脂	fu nan shu zhi	0
@@ -2833,7 +2833,7 @@ use_preset_vocabulary: false
 其他杂环化合物	qi ta za huan hua he wu	0
 其他制冷设备	qi ta zhi leng she bei	0
 铅氧化物	qian yang hua wu	0
-醛类	quan lei	97
+醛类	quan lei	133
 燃气阀	ran qi fa	3
 三元醇	san yuan chun	0
 砂磨机	sha mo ji	0
@@ -2890,8 +2890,8 @@ use_preset_vocabulary: false
 打胶机	da jiao ji	0
 导线剥皮机	dao xian bo pi ji	0
 等离子焊机	deng li zi han ji	0
-等离子切割机	deng li zi qie ge ji	4
-电镀加工	dian du jia gong	1
+等离子切割机	deng li zi qie ge ji	6
+电镀加工	dian du jia gong	2
 电镀设备	dian du she bei	2
 点胶设备	dian jiao she bei	2
 电容剪脚机	dian rong jian jiao ji	0
@@ -2924,7 +2924,7 @@ use_preset_vocabulary: false
 回流焊接机	hui liu han jie ji	0
 活动围栏	huo dong wei lan	0
 激光焊机	ji guang han ji	0
-激光切割机	ji guang qie ge ji	12
+激光切割机	ji guang qie ge ji	14
 机械项目合作	ji xie xiang mu he zuo	0
 家电制造设备	jia dian zhi zao she bei	0
 家具制造机械	jia ju zhi zao ji xie	0
@@ -2935,7 +2935,7 @@ use_preset_vocabulary: false
 捆钞机	kun chao ji	0
 螺纹加工机床	luo wen jia gong ji chuang	0
 铆接设备	mao jie she bei	0
-密码键盘	mi ma jian pan	14
+密码键盘	mi ma jian pan	16
 摩擦焊机	mo ca han ji	0
 木工机床	mu gong ji chuang	1
 排焊机	pai han ji	0
@@ -2952,7 +2952,7 @@ use_preset_vocabulary: false
 切割设备	qie ge she bei	2
 商超货架	shang chao huo jia	0
 商业专用设备	shang ye zhuan yong she bei	0
-塑焊机	su han ji	0
+塑焊机	su han ji	1
 梭织设备	suo zhi she bei	0
 跳线机	tiao xian ji	0
 涂装设备	tu zhuang she bei	2
@@ -2962,7 +2962,7 @@ use_preset_vocabulary: false
 鞋帽设备	xie mao she bei	0
 压焊机	ya han ji	1
 压接机	ya jie ji	0
-压力加工	ya li jia gong	0
+压力加工	ya li jia gong	1
 液压机械及部件	ye ya ji xie ji bu jian	0
 仪器仪表加工	yi qi yi biao jia gong	0
 印染整机械与设备	yin ran zheng ji xie yu she bei	0

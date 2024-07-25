@@ -10,9 +10,9 @@ sort: by_weight
 #象棋
 王天一	wang tian yi	183
 捉双	zhuo shuang	19
-大子	da zi	124
+大子	da zi	133
 出动大子	chu dong da zi	5
-子力	zi li	382
+子力	zi li	383
 棋理	qi li	99
 串打	chuan da	5
 炮碾丹砂	pao nian dan sha	5
@@ -91,7 +91,7 @@ sort: by_weight
 过河车	guo he che	12
 巡河线	xun he xian	8
 巡河车	xun he che	12
-飞象	fei xiang	91
+飞象	fei xiang	93
 飞相	fei xiang	15
 敢死车	gan si che	0
 敢死炮	gan si pao	3
@@ -129,7 +129,7 @@ sort: by_weight
 摸子走子	mo zi zou zi	1
 行棋	xing qi	139
 #五子棋
-做棋	zuo qi	27
+做棋	zuo qi	28
 连冲四	lian chong si	1
 连冲三	lian chong san	0
 二十六种开局	er shi liu zhong kai ju	6
@@ -149,13 +149,13 @@ sort: by_weight
 斜指	xie zhi	14
 长星	zhang xing	21
 峡月	xia yue	7
-云月	yun yue	7
+云月	yun yue	31
 浦月	pu yue	53
 岚月	lan yue	10
 斜月	xie yue	0
 名月	ming yue	1
 冲四	chong si	34
-活三	huo san	63
+活三	huo san	68
 眠三	mian san	18
 跳二	tiao er	0
 抓禁手	zhua jin shou	9

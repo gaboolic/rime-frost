@@ -86,7 +86,7 @@ use_preset_vocabulary: false
 车二退四	che er tui si	0
 车二退五	che er tui wu	0
 车二退一	che er tui yi	0
-车进	che jin	13
+车进	che jin	21
 车九进八	che jiu jin ba	0
 车九进二	che jiu jin er	1
 车九进九	che jiu jin jiu	0
@@ -1058,7 +1058,7 @@ use_preset_vocabulary: false
 馬二退一	ma er tui yi	0
 马二退一	ma er tui yi	1
 馬进	ma jin	0
-马进	ma jin	1
+马进	ma jin	10
 傌九进八	ma jiu jin ba	0
 馬九进八	ma jiu jin ba	0
 马九进八	ma jiu jin ba	0
@@ -2061,7 +2061,7 @@ use_preset_vocabulary: false
 蔡忠诚	cai zhong cheng	0
 曹岩磊	cao yan lei	6
 侧面虎	ce mian hu	5
-长打	chang da	44
+长打	chang da	47
 长兑	chang dui	0
 长跟	chang gen	0
 长将	chang jiang	0
@@ -2084,7 +2084,7 @@ use_preset_vocabulary: false
 从没捉到捉	cong mei zhuo dao zhuo	0
 大胆穿心	da dan chuan xin	1
 大连益春堂	da lian yi chun tang	0
-大占优势	da zhan you shi	5
+大占优势	da zhan you shi	6
 待过河兵	dai guo he bing	0
 待判局面	dai pan ju mian	1
 单兵擒王	dan bing qin wang	1
@@ -2261,8 +2261,8 @@ use_preset_vocabulary: false
 黎德志	li de zhi	0
 李鸿嘉	li hong jia	0
 李家华	li jia hua	0
-立马车	li ma che	0
-李群	li qun	239
+立马车	li ma che	1
+李群	li qun	243
 李少庚	li shao geng	1
 李望祥	li wang xiang	0
 敛炮	lian pao	1
@@ -2304,7 +2304,7 @@ use_preset_vocabulary: false
 棋理	qi li	99
 棋例裁决	qi li cai jue	0
 棋联大师	qi lian da shi	0
-起马	qi ma	0
+起马	qi ma	9
 起马对挺卒	qi ma dui ting zu	0
 起马局	qi ma ju	9
 弃马十三着	qi ma shi san zhao	11
@@ -2333,7 +2333,7 @@ use_preset_vocabulary: false
 三级棋士	san ji qi shi	3
 三仙炼丹	san xian lian dan	1
 三卒	san zu	0
-杀法	sha fa	227
+杀法	sha fa	231
 杀棋	sha qi	54
 杀着	sha zhao	40
 上海金外滩	shang hai jin wai tan	0
@@ -2392,7 +2392,7 @@ use_preset_vocabulary: false
 挺兵对金钩炮	ting bing dui jin gou pao	0
 挺兵对进马	ting bing dui jin ma	0
 挺兵对起马	ting bing dui qi ma	0
-停着	ting zhao	335
+停着	ting zhao	336
 挺卒	ting zu	3
 同线车	tong xian che	0
 突破战术	tu po zhan shu	0
@@ -2420,8 +2420,8 @@ use_preset_vocabulary: false
 仙人指路对卒底炮	xian ren zhi lu dui zu di pao	1
 仙人指路对卒底炮飞左象	xian ren zhi lu dui zu di pao fei zuo xiang	0
 仙人指路对卒底炮上马	xian ren zhi lu dui zu di pao shang ma	0
-先胜	xian sheng	147
-闲着	xian zhao	763
+先胜	xian sheng	148
+闲着	xian zhao	766
 象棋残局新论	xiang qi can ju xin lun	2
 象棋棋例与待判局面的裁决	xiang qi qi li yu dai pan ju mian de cai jue	0
 象棋史话	xiang qi shi hua	0
@@ -2470,7 +2470,7 @@ use_preset_vocabulary: false
 因敌变化	yin di bian hua	4
 应着	ying zhao	1405
 用时制度	yong shi zhi du	2
-有根子	you gen zi	4
+有根子	you gen zi	3
 宇兵	yu bing	1
 寓守于攻	yu shou yu gong	0
 袁洪梁	yuan hong liang	0
@@ -2575,19 +2575,19 @@ use_preset_vocabulary: false
 边卒	bian zu	11
 蹩马腿	bie ma tui	14
 兵八	bing ba	0
-兵二	bing er	0
+兵二	bing er	1
 兵二平四	bing er ping si	0
 兵九	bing jiu	1
 兵九进一卒	bing jiu jin yi zu	0
 并卡肋	bing ka lei	0
-兵六	bing liu	2
+兵六	bing liu	3
 兵破	bing po	2
 兵七	bing qi	0
-兵三	bing san	0
+兵三	bing san	1
 兵三平五	bing san ping wu	0
 兵四	bing si	13
 兵四进一士	bing si jin yi shi	0
-兵五	bing wu	4
+兵五	bing wu	2
 兵五进一炮	bing wu jin yi pao	0
 兵一	bing yi	1
 兵一进一马	bing yi jin yi ma	0
@@ -2614,7 +2614,7 @@ use_preset_vocabulary: false
 车九进	che jiu jin	0
 车九平	che jiu ping	0
 车九退	che jiu tui	0
-车控	che kong	10
+车控	che kong	14
 车六进	che liu jin	0
 车六平	che liu ping	0
 车六退	che liu tui	0
@@ -2643,7 +2643,7 @@ use_preset_vocabulary: false
 称为铁门栓妙杀	cheng wei tie men shuan miao sha	0
 吃底象	chi di xiang	0
 吃马	chi ma	0
-吃子	chi zi	137
+吃子	chi zi	145
 冲卒	chong zu	1
 抽将	chou jiang	0
 出帅	chu shuai	2
@@ -2656,7 +2656,7 @@ use_preset_vocabulary: false
 错着百例	cuo zhao bai li	0
 打死黑卒	da si hei zu	0
 打死红仕	da si hong shi	0
-打相	da xiang	0
+打相	da xiang	6
 打象	da xiang	0
 担竿炮	dan gan pao	1
 但黑方也有	dan hei fang ye you	0
@@ -2689,12 +2689,12 @@ use_preset_vocabulary: false
 二车	er che	3
 二打一还打	er da yi hai da	0
 而径走	er jing zou	0
-二退	er tui	29
+二退	er tui	36
 而占领叉点	er zhan ling cha dian	0
 二卒	er zu	0
-反先	fan xian	3
+反先	fan xian	9
 方车	fang che	0
-方的攻势	fang de gong shi	1
+方的攻势	fang de gong shi	3
 方多	fang duo	0
 方可按动	fang ke an dong	0
 方欠行认负	fang qian xing ren fu	0
@@ -2707,7 +2707,7 @@ use_preset_vocabulary: false
 飞错了马	fei cuo le ma	0
 飞高象	fei gao xiang	0
 非经对方提和一次	fei jing dui fang ti he yi ci	0
-分为红	fen wei hong	16
+分为红	fen wei hong	15
 封将门	feng jiang men	0
 封棋着法有误	feng qi zhao fa you wu	0
 封死将门	feng si jiang men	0
@@ -2742,14 +2742,14 @@ use_preset_vocabulary: false
 黑方只有	hei fang zhi you	1
 黑两组	hei liang zu	0
 黑马紧贴红马而行	hei ma jin tie hong ma er xing	0
-黑炮	hei pao	56
+黑炮	hei pao	64
 黑如	hei ru	2
 黑如改走	hei ru gai zou	0
 黑若	hei ruo	0
 黑胜定	hei sheng ding	0
 黑也	hei ye	0
 黑亦	hei yi	1
-横车	heng che	29
+横车	heng che	31
 横走	heng zou	55
 横走都可以	heng zou dou ke yi	0
 红败局已定	hong bai ju yi ding	0
@@ -2762,7 +2762,7 @@ use_preset_vocabulary: false
 轰卒照将	hong zu zhao jiang	0
 后兵	hou bing	4
 后兵平	hou bing ping	0
-后马	hou ma	2
+后马	hou ma	0
 后中先	hou zhong xian	2
 后卒进一	hou zu jin yi	0
 后卒平四	hou zu ping si	0
@@ -2792,12 +2792,12 @@ use_preset_vocabulary: false
 进二	jin er	1
 进九	jin jiu	9
 紧靠一直	jin kao yi zhi	0
-进六	jin liu	21
-进七	jin qi	4
+进六	jin liu	22
+进七	jin qi	3
 进七兵	jin qi bing	1
 进三	jin san	2
 进三兵	jin san bing	1
-进四	jin si	2
+进四	jin si	8
 进五	jin wu	0
 紧要之着	jin yao zhi zhao	0
 进一	jin yi	3
@@ -2834,7 +2834,7 @@ use_preset_vocabulary: false
 六士	liu shi	1
 六十回合规则	liu shi hui he gui ze	0
 路边卒	lu bian zu	0
-路车	lu che	63
+路车	lu che	66
 路河头	lu he tou	0
 路炮	lu pao	15
 掠黑	lue hei	0
@@ -2847,7 +2847,7 @@ use_preset_vocabulary: false
 马八进七车	ma ba jin qi che	0
 马长捉兵	ma chang zhuo bing	0
 马出路	ma chu lu	1
-马后炮杀	ma hou pao sha	2
+马后炮杀	ma hou pao sha	0
 马九	ma jiu	14
 马九进七车	ma jiu jin qi che	0
 马六进五车	ma liu jin wu che	0
@@ -2860,7 +2860,7 @@ use_preset_vocabulary: false
 马七进五车	ma qi jin wu che	0
 马三进五车	ma san jin wu che	0
 马四进五车	ma si jin wu che	0
-马五	ma wu	13
+马五	ma wu	14
 马五进六车	ma wu jin liu che	0
 马象牵	ma xiang qian	0
 马亦难逃遁	ma yi nan tao dun	0
@@ -2915,7 +2915,7 @@ use_preset_vocabulary: false
 炮三进	pao san jin	0
 炮三平	pao san ping	0
 炮三退	pao san tui	0
-炮四	pao si	0
+炮四	pao si	1
 炮四进	pao si jin	0
 炮四平	pao si ping	0
 炮四退	pao si tui	0
@@ -2923,23 +2923,23 @@ use_preset_vocabulary: false
 炮五进	pao wu jin	0
 炮五平	pao wu ping	0
 炮五退	pao wu tui	0
-炮一	pao yi	9
+炮一	pao yi	14
 炮一进	pao yi jin	1
 炮一平	pao yi ping	0
 炮一退	pao yi tui	0
 炮镇中路	pao zhen zhong lu	0
 炮卒	pao zu	2
 偏马局	pian ma ju	0
-平八	ping ba	38
+平八	ping ba	41
 平二	ping er	1
 平九	ping jiu	3
 平六	ping liu	2
 平炮	ping pao	9
 平炮打扫	ping pao da sao	0
-平七	ping qi	33
+平七	ping qi	32
 平七马	ping qi ma	0
-平三	ping san	0
-平四	ping si	9
+平三	ping san	8
+平四	ping si	8
 平五	ping wu	12
 平五卒	ping wu zu	0
 平中炮	ping zhong pao	0
@@ -2959,7 +2959,7 @@ use_preset_vocabulary: false
 弃卒破仕	qi zu po shi	0
 前兵	qian bing	15
 前兵平	qian bing ping	0
-前马	qian ma	2
+前马	qian ma	0
 前炮	qian pao	6
 前卒进一	qian zu jin yi	0
 去化解被	qu hua jie bei	1
@@ -3003,7 +3003,7 @@ use_preset_vocabulary: false
 仕六退五车	shi liu tui wu che	0
 仕六退五卒	shi liu tui wu zu	0
 实乃讹诈	shi nai e zha	0
-士四	shi si	1
+士四	shi si	2
 仕四进五车	shi si jin wu che	0
 仕四进五将	shi si jin wu jiang	0
 仕四进五炮	shi si jin wu pao	0
@@ -3062,7 +3062,7 @@ use_preset_vocabulary: false
 帅五退一炮	shuai wu tui yi pao	0
 双兵	shuang bing	14
 双方各走了一着	shuang fang ge zou liao yi zhao	0
-双方均无	shuang fang jun wu	22
+双方均无	shuang fang jun wu	23
 双方轮流各走一着	shuang fang lun liu ge zou yi zhao	1
 双方排阵	shuang fang pai zhen	0
 双方走棋	shuang fang zou qi	1
@@ -3088,7 +3088,7 @@ use_preset_vocabulary: false
 同时己方其它棋子	tong shi ji fang qi ta qi zi	0
 投子认负	tou zi ren fu	13
 退八	tui ba	1
-退二	tui er	10
+退二	tui er	12
 退九	tui jiu	0
 退六	tui liu	1
 退马反击	tui ma fan ji	0
@@ -3189,7 +3189,7 @@ use_preset_vocabulary: false
 则帅五	ze shuai wu	0
 则相三	ze xiang san	0
 则卒	ze zu	2
-战略思维	zhan lue si wei	101
+战略思维	zhan lue si wei	108
 战术技巧	zhan shu ji qiao	0
 张学潮	zhang xue chao	1
 着法红先	zhao fa hong xian	0

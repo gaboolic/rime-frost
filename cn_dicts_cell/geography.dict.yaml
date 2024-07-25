@@ -33,7 +33,7 @@ use_preset_vocabulary: false
 板块学说	ban kuai xue shuo	10
 斑粝岩	ban li yan	0
 板内地震	ban nei di zhen	0
-阪泉	ban quan	88
+阪泉	ban quan	122
 半日潮汐	ban ri chao xi	0
 斑铜矿	ban tong kuang	0
 斑纹带	ban wen dai	0
@@ -89,7 +89,7 @@ use_preset_vocabulary: false
 冰川退缩	bing chuan tui suo	11
 冰川物质平衡	bing chuan wu zhi ping heng	0
 冰川隙	bing chuan xi	0
-冰川学	bing chuan xue	3
+冰川学	bing chuan xue	4
 冰底碛	bing di qi	0
 冰斗冰川	bing dou bing chuan	2
 冰分凝	bing fen ning	0
@@ -116,7 +116,7 @@ use_preset_vocabulary: false
 波浪侵蚀	bo lang qin shi	0
 玻利瓦尔学院	bo li wa er xue yuan	0
 薄煤层	bo mei ceng	0
-波频率	bo pin lv	14
+波频率	bo pin lv	15
 波谱分辨率	bo pu fen bian lv	1
 波散效应	bo san xiao ying	0
 剥蚀面	bo shi mian	0
@@ -129,7 +129,7 @@ use_preset_vocabulary: false
 波压	bo ya	0
 波运动	bo yun dong	0
 波至	bo zhi	0
-波周期	bo zhou qi	3
+波周期	bo zhou qi	51
 不称河	bu cheng he	0
 不等厚	bu deng hou	3
 不对称水系	bu dui chen shui xi	0
@@ -223,7 +223,7 @@ use_preset_vocabulary: false
 城市化区域	cheng shi hua qu yu	0
 城市历史地理	cheng shi li shi di li	0
 城市连绵区	cheng shi lian mian qu	0
-城市蔓延	cheng shi man yan	7
+城市蔓延	cheng shi man yan	9
 城市生长极	cheng shi sheng zhang ji	0
 城市衰落区	cheng shi shuai luo qu	0
 城市蔓生	cheng shi wan sheng	0
@@ -474,7 +474,7 @@ use_preset_vocabulary: false
 地倾斜	di qing xie	2
 地球变化磁场	di qiu bian hua ci chang	0
 地球变形	di qiu bian xing	0
-地球潮汐	di qiu chao xi	12
+地球潮汐	di qiu chao xi	3
 地球潮汐因子	di qiu chao xi yin zi	0
 地球成因说	di qiu cheng yin shuo	0
 地球磁性	di qiu ci xing	0
@@ -619,7 +619,7 @@ use_preset_vocabulary: false
 地震分布图	di zhen fen bu tu	0
 地震复发	di zhen fu fa	0
 地震各向异性	di zhen ge xiang yi xing	0
-地震构造	di zhen gou zao	1
+地震构造	di zhen gou zao	0
 地震构造带	di zhen gou zao dai	0
 地震构造区	di zhen gou zao qu	0
 地震构造区划	di zhen gou zao qu hua	0
@@ -651,7 +651,7 @@ use_preset_vocabulary: false
 地震矩张量	di zhen ju zhang liang	0
 地震科学	di zhen ke xue	3
 地震空区	di zhen kong qu	0
-地震控制	di zhen kong zhi	1
+地震控制	di zhen kong zhi	0
 地震力	di zhen li	2
 地震历时	di zhen li shi	0
 地震烈度表	di zhen lie du biao	0
@@ -921,7 +921,7 @@ use_preset_vocabulary: false
 分层设色法	fen ceng she se fa	1
 分汊率	fen cha lv	0
 分岔系数	fen cha xi shu	0
-分解生物	fen jie sheng wu	1
+分解生物	fen jie sheng wu	2
 芬兰堡	fen lan bao	0
 分裂说	fen lie shuo	2
 分配结构模型	fen pei jie gou mo xing	0
@@ -1004,7 +1004,7 @@ use_preset_vocabulary: false
 工程地质力学	gong cheng di zhi li xue	0
 工程地质评价	gong cheng di zhi ping jia	0
 工程地质试验	gong cheng di zhi shi yan	0
-工程地质条件	gong cheng di zhi tiao jian	1
+工程地质条件	gong cheng di zhi tiao jian	2
 工程地质图	gong cheng di zhi tu	0
 工程地质问题	gong cheng di zhi wen ti	1
 工程地质学	gong cheng di zhi xue	2
@@ -1013,7 +1013,7 @@ use_preset_vocabulary: false
 工程动力地质学	gong cheng dong li di zhi xue	0
 工程范围	gong cheng fan wei	0
 工程活动	gong cheng huo dong	0
-工程勘察设计	gong cheng kan cha she ji	6
+工程勘察设计	gong cheng kan cha she ji	8
 工程手段	gong cheng shou duan	0
 工程岩土学	gong cheng yan tu xue	0
 工程震害预测	gong cheng zhen hai yu ce	0
@@ -1079,7 +1079,7 @@ use_preset_vocabulary: false
 古水文学	gu shui wen xue	1
 顾特卜塔	gu te bu ta	0
 固体潮振荡	gu ti chao zhen dang	0
-固体地球	gu ti di qiu	9
+固体地球	gu ti di qiu	8
 固体地球潮汐	gu ti di qiu chao xi	1
 固体地球化学	gu ti di qiu hua xue	0
 固体热力学	gu ti re li xue	0
@@ -1105,7 +1105,7 @@ use_preset_vocabulary: false
 硅铍石化	gui pi shi hua	0
 硅锌矿	gui xin kuang	0
 硅质灰岩	gui zhi hui yan	0
-贵族墓葬	gui zu mu zang	26
+贵族墓葬	gui zu mu zang	28
 滚动背斜构造	gun dong bei xie gou zao	0
 过渡型地壳	guo du xing di qiao	0
 国际和平公园	guo ji he ping gong yuan	1
@@ -1238,7 +1238,7 @@ use_preset_vocabulary: false
 华沙历史中心	hua sha li shi zhong xin	0
 华氏城	hua shi cheng	2
 华氏温度表	hua shi wen du biao	0
-化石遗址	hua shi yi zhi	0
+化石遗址	hua shi yi zhi	1
 滑塌	hua ta	1
 化探	hua tan	2
 化学剥蚀	hua xue bo shi	0
@@ -1356,7 +1356,7 @@ use_preset_vocabulary: false
 基岩反应谱	ji yan fan ying pu	0
 基岩扇	ji yan shan	0
 纪伊山脉	ji yi shan mai	0
-济阴	ji yin	18
+济阴	ji yin	17
 集约农业	ji yue nong ye	1
 基准标志	ji zhun biao zhi	0
 基准海平面	ji zhun hai ping mian	0
@@ -1373,9 +1373,9 @@ use_preset_vocabulary: false
 尖形滩	jian xing tan	0
 兼营农业	jian ying nong ye	0
 交错层理	jiao cuo ceng li	1
-角峰	jiao feng	11
+角峰	jiao feng	12
 郊区农业	jiao qu nong ye	1
-阶地	jie di	15
+阶地	jie di	25
 阶地沼泽	jie di zhao ze	0
 结构面	jie gou mian	0
 结壳作用	jie ke zuo yong	0
@@ -1385,7 +1385,7 @@ use_preset_vocabulary: false
 金德代克	jin de dai ke	0
 近期火山	jin qi huo shan	0
 近源地震学	jin yuan di zhen xue	0
-进展因素	jin zhan yin su	5
+进展因素	jin zhan yin su	6
 近震震级	jin zhen zhen ji	0
 近震走时表	jin zhen zou shi biao	0
 晶胞	jing bao	115
@@ -1454,7 +1454,7 @@ use_preset_vocabulary: false
 抗蚀岩石	kang shi yan shi	0
 抗弯曲强度	kang wan qu qiang du	2
 抗震加固措施	kang zhen jia gu cuo shi	0
-抗震能力	kang zhen neng li	15
+抗震能力	kang zhen neng li	16
 抗震设防区划	kang zhen she fang qu hua	0
 抗震性能鉴定	kang zhen xing neng jian ding	0
 颗粒灰岩	ke li hui yan	0
@@ -1513,7 +1513,7 @@ use_preset_vocabulary: false
 离散板块边界	li san ban kuai bian jie	0
 历史地图集	li shi de tu ji	33
 离石黄土	li shi huang tu	0
-历史气候	li shi qi hou	0
+历史气候	li shi qi hou	15
 历史人文地理	li shi ren wen di li	1
 历史自然地理	li shi zi ran di li	3
 里特维尔德	li te wei er de	7
@@ -1624,7 +1624,7 @@ use_preset_vocabulary: false
 逆向河	ni xiang he	0
 泥岩	ni yan	173
 逆掩断层	ni yan duan ceng	0
-泥质	ni zhi	40
+泥质	ni zhi	42
 泥质粉砂岩	ni zhi fen sha yan	1
 泥质砂岩	ni zhi sha yan	2
 粘滑地震	nian hua di zhen	0
@@ -1815,19 +1815,19 @@ use_preset_vocabulary: false
 溶滤作用	rong lv zuo yong	0
 溶蚀谷	rong shi gu	0
 溶蚀盆	rong shi pen	0
-融土	rong tu	3
+融土	rong tu	4
 融雪径流	rong xue jing liu	0
 熔岩被	rong yan bei	0
 熔岩塔	rong yan ta	4
 肉质植物	rou zhi zhi wu	3
-入渗	ru shen	52
+入渗	ru shen	53
 乳香之路	ru xiang zhi lu	0
 入字型构造	ru zi xing gou zao	0
 软地幔	ruan de man	0
 软砂岩沉积	ruan sha yan chen ji	0
 瑞利波相速度	rui li bo xiang su du	0
 瑞利原理	rui li yuan li	0
-瑞替	rui ti	2
+瑞替	rui ti	4
 弱风化	ruo feng hua	0
 萨瓦纳气候	sa wa na qi hou	1
 三点校正法	san dian jiao zheng fa	0
@@ -1915,7 +1915,7 @@ use_preset_vocabulary: false
 生态塔	sheng tai ta	0
 声望价值	sheng wang jia zhi	0
 生物地理群落	sheng wu di li qun luo	0
-生物分布	sheng wu fen bu	0
+生物分布	sheng wu fen bu	6
 生物分布学	sheng wu fen bu xue	1
 生物风化作用	sheng wu feng hua zuo yong	1
 生物礁	sheng wu jiao	0
@@ -2047,7 +2047,7 @@ use_preset_vocabulary: false
 同震区	tong zhen qu	0
 同震线	tong zhen xian	0
 透镜体	tou jing ti	27
-透水层	tou shui ceng	3
+透水层	tou shui ceng	4
 透水岩	tou shui yan	0
 投子山	tou zi shan	0
 凸岸坝	tu an ba	0
@@ -2065,7 +2065,7 @@ use_preset_vocabulary: false
 图幅尺寸	tu fu chi cun	0
 图根哈特	tu gen ha te	10
 图面自动注记	tu mian zi dong zhu ji	0
-土壤发生	tu rang fa sheng	2
+土壤发生	tu rang fa sheng	3
 土壤复区	tu rang fu qu	0
 土壤耗竭	tu rang hao jie	0
 土壤水分补充	tu rang shui fen bu chong	0
@@ -2133,7 +2133,7 @@ use_preset_vocabulary: false
 温带大陆气候	wen dai da lu qi hou	3
 温带落叶林	wen dai luo ye lin	0
 温迪亚	wen di ya	3
-文化边界	wen hua bian jie	0
+文化边界	wen hua bian jie	2
 文化汇合	wen hua hui he	0
 纹泥	wen ni	7
 沃达蒸汽泵站	wo da zheng qi beng zhan	0
@@ -2217,7 +2217,7 @@ use_preset_vocabulary: false
 信度国	xin du guo	0
 信度河	xin du he	1
 欣盖提	xin gai ti	7
-新构造	xin gou zao	0
+新构造	xin gou zao	7
 新构造期	xin gou zao qi	0
 新构造运动	xin gou zao yun dong	4
 辛哈拉加	xin ha la jia	0
@@ -2282,7 +2282,7 @@ use_preset_vocabulary: false
 岩盖	yan gai	0
 岩关阶	yan guan jie	0
 雁行式断裂	yan hang shi duan lie	0
-岩画遗址	yan hua yi zhi	0
+岩画遗址	yan hua yi zhi	1
 岩基	yan ji	2
 岩浆冲击说	yan jiang chong ji shuo	0
 岩浆活动	yan jiang huo dong	70
@@ -2316,7 +2316,7 @@ use_preset_vocabulary: false
 岩屑锥	yan xie zhui	0
 岩性	yan xing	30
 岩性界线	yan xing jie xian	0
-盐沼	yan zhao	27
+盐沼	yan zhao	41
 赝重力	yan zhong li	0
 岩株	yan zhu	0
 羊背石	yang bei shi	6
@@ -2333,7 +2333,7 @@ use_preset_vocabulary: false
 页状剥落	ye zhuang bo luo	0
 易北河谷	yi bei he gu	0
 易腐作物	yi fu zuo wu	0
-遗迹群	yi ji qun	3
+遗迹群	yi ji qun	4
 意境地图	yi jing di tu	0
 移流雾	yi liu wu	0
 夷平面	yi ping mian	1
@@ -2362,7 +2362,7 @@ use_preset_vocabulary: false
 英买力组	ying mai li zu	0
 硬磐	ying pan	0
 鹰山组	ying shan zu	0
-影响半径	ying xiang ban jing	0
+影响半径	ying xiang ban jing	2
 影象地图	ying xiang di tu	0
 影象分辨率	ying xiang fen bian lv	0
 影象灰度	ying xiang hui du	0
@@ -2395,7 +2395,7 @@ use_preset_vocabulary: false
 阈限应力	yu xian ying li	0
 语言地理学	yu yan di li xue	1
 预震	yu zhen	1
-宇治	yu zhi	59
+宇治	yu zhi	60
 宇宙地学	yu zhou di xue	0
 宇宙地质学	yu zhou di zhi xue	0
 宇宙科学	yu zhou ke xue	0
@@ -2414,9 +2414,9 @@ use_preset_vocabulary: false
 远震仪	yuan zhen yi	0
 圆柱投影	yuan zhu tou ying	24
 月亮港	yue liang gang	0
-月球潮汐	yue qiu chao xi	5
+月球潮汐	yue qiu chao xi	3
 月球章动	yue qiu zhang dong	0
-约塞米蒂	yue sai mi di	6
+约塞米蒂	yue sai mi di	12
 月震仪	yue zhen yi	5
 运动线法	yun dong xian fa	0
 运输地理学	yun shu di li xue	0
@@ -2559,7 +2559,7 @@ use_preset_vocabulary: false
 周家店组	zhou jia dian zu	0
 猪背脊	zhu bei ji	0
 筑垒村	zhu lei cun	1
-主量	zhu liang	1
+主量	zhu liang	3
 注水试验	zhu shui shi yan	0
 朱提	zhu ti	11
 住宅和工作室	zhu zhai he gong zuo shi	0
@@ -2585,7 +2585,7 @@ use_preset_vocabulary: false
 自然地理过程	zi ran di li guo cheng	0
 自然电位	zi ran dian wei	4
 自然电位法	zi ran dian wei fa	0
-自然森林	zi ran sen lin	0
+自然森林	zi ran sen lin	4
 自然生产潜力	zi ran sheng chan qian li	0
 自然疫源地	zi ran yi yuan di	4
 兹瓦尔特诺茨	zi wa er te nuo ci	0
@@ -2599,7 +2599,7 @@ use_preset_vocabulary: false
 棕钙土	zong gai tu	0
 综合地图集	zong he de tu ji	1
 综合评价地图	zong he ping jia di tu	0
-综合运输	zong he yun shu	1
+综合运输	zong he yun shu	3
 综合制图	zong he zhi tu	0
 综合自然区划	zong he zi ran qu hua	0
 宗教地理	zong jiao di li	0

@@ -40,7 +40,8 @@ with open(os.path.join('others', '多音字.txt'), 'r', encoding='utf-8') as dic
             
 
 word_freq_map = {}
-with open(os.path.join('others', '知频.txt'), 'r', encoding='utf-8') as dict_file:
+with open(os.path.join('cn_dicts_dazhu', 'zhihu_deal_sort_merge.txt'), 'r', encoding='utf-8') as dict_file:
+# with open(os.path.join('others', '知频.txt'), 'r', encoding='utf-8') as dict_file:
     for line in dict_file:
         line = line.strip()
         if not '\t' in line or line.startswith("#"):
