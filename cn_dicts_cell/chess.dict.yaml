@@ -9,16 +9,16 @@ sort: by_weight
 ...
 #象棋
 王天一	wang tian yi	183
-捉双	zhuo shuang	18
-大子	da zi	27
+捉双	zhuo shuang	19
+大子	da zi	133
 出动大子	chu dong da zi	5
-子力	zi li	344
+子力	zi li	383
 棋理	qi li	99
 串打	chuan da	5
 炮碾丹砂	pao nian dan sha	5
-兑车	dui che	11
+兑车	dui che	12
 抽将	chou jiang	0
-抽车	chou che	6
+抽车	chou che	7
 抽马	chou ma	1
 抽炮	chou pao	0
 将军抽车	jiang jun chou che	3
@@ -33,11 +33,11 @@ sort: by_weight
 重炮杀	chong pao sha	7
 夹车炮	jia che pao	8
 闷宫	men gong	20
-闷杀	men sha	42
+闷杀	men sha	44
 铁门栓	tie men shuan	15
 天地炮	tian di pao	10
 空头炮	kong tou pao	8
-挂角	gua jiao	55
+挂角	gua jiao	57
 八角马	ba jiao ma	8
 侧面虎	ce mian hu	5
 拔簧马	ba huang ma	5
@@ -91,16 +91,16 @@ sort: by_weight
 过河车	guo he che	12
 巡河线	xun he xian	8
 巡河车	xun he che	12
-飞象	fei xiang	92
+飞象	fei xiang	93
 飞相	fei xiang	15
 敢死车	gan si che	0
 敢死炮	gan si pao	3
 瞎眼狗	xia yan gou	2
-雷公炮	lei gong pao	8
+雷公炮	lei gong pao	9
 虎眼	hu yan	15
 虎眼炮	hu yan pao	0
 城墙炮	cheng qiang pao	0
-顺炮	shun pao	37
+顺炮	shun pao	40
 列炮	lie pao	17
 列手炮	lie shou pao	1
 大列手炮	da lie shou pao	0
@@ -118,45 +118,45 @@ sort: by_weight
 别马腿	bie ma tui	4
 无理手	wu li shou	5
 古棋谱	gu qi pu	1
-古谱	gu pu	33
+古谱	gu pu	34
 #国际象棋
 王车易位	wang che yi wei	80
 无子可动	wu zi ke dong	20
 吃过路兵	chi guo lu bing	20
-兵升变	bing sheng bian	11
-升变	sheng bian	65
+兵升变	bing sheng bian	12
+升变	sheng bian	80
 白先黑后	bai xian hei hou	0
 摸子走子	mo zi zou zi	1
-行棋	xing qi	135
+行棋	xing qi	139
 #五子棋
-做棋	zuo qi	6
+做棋	zuo qi	28
 连冲四	lian chong si	1
 连冲三	lian chong san	0
 二十六种开局	er shi liu zhong kai ju	6
 长连禁手	zhang lian jin shou	6
 三三禁	san san jin	0
 三三禁手	san san jin shou	9
-三手交换	san shou jiao huan	0
-五手两打	wu shou liang da	0
+三手交换	san shou jiao huan	35
+五手两打	wu shou liang da	35
 直指开局	zhi zhi kai ju	12
 溪月	xi yue	17
 疏星	shu xing	24
 雨月	yu yue	0
-松月	song yue	7
+松月	song yue	19
 丘月	qiu yue	3
 游星	you xing	75
 斜指开局	xie zhi kai ju	12
 斜指	xie zhi	14
 长星	zhang xing	21
 峡月	xia yue	7
-云月	yun yue	8
-浦月	pu yue	52
+云月	yun yue	31
+浦月	pu yue	53
 岚月	lan yue	10
 斜月	xie yue	0
 名月	ming yue	1
-冲四	chong si	33
-活三	huo san	6
-眠三	mian san	11
+冲四	chong si	34
+活三	huo san	68
+眠三	mian san	18
 跳二	tiao er	0
 抓禁手	zhua jin shou	9
 #围棋

@@ -1,0 +1,593 @@
+# Rime dictionary
+# encoding: utf-8
+# 动物
+#
+
+---
+name: animal
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+...
+阿拉斯加雪撬犬	a la si jia xue qiao quan	0
+阿拉斯加雪橇犬	a la si jia xue qiao quan	2
+爱尔兰长毛水狗	ai er lan chang mao shui gou	0
+爱尔兰㹴	ai er lan geng	0
+爱尔兰猎狼犬	ai er lan lie lang quan	0
+爱尔兰软毛㹴	ai er lan ruan mao geng	0
+爱尔兰水猎犬	ai er lan shui lie quan	0
+爱斯基摩犬	ai si ji mo quan	2
+澳大利亚㹴	ao da li ya geng	0
+澳洲㹴	ao zhou geng	0
+澳洲牧牛犬	ao zhou mu niu quan	0
+澳洲丝毛㹴	ao zhou si mao geng	0
+巴比伦犬	ba bi lun quan	0
+八哥犬	ba ge quan	1
+巴哥犬	ba ge quan	2
+巴吉度猎犬	ba ji du lie quan	1
+巴吉度犬	ba ji du quan	1
+巴赛特猎犬	ba sai te lie quan	0
+巴斯克猎犬	ba si ke lie quan	0
+巴西特犬	ba xi te quan	0
+巴仙吉犬	ba xian ji quan	0
+巴迅犬	ba xun quan	0
+斑点狗	ban dian gou	21
+斑点犬	ban dian quan	0
+伴侣犬	ban lv quan	0
+半毛犬	ban mao quan	0
+北京犬	bei jing quan	0
+贝林登㹴	bei lin deng geng	0
+贝灵顿㹴	bei ling dun geng	0
+贝生吉犬	bei sheng ji quan	0
+毕高犬	bi gao quan	0
+比格猎犬	bi ge lie quan	1
+比格犬	bi ge quan	13
+毕格犬	bi ge quan	0
+比利时牧羊犬	bi li shi mu yang quan	0
+边境㹴	bian jing geng	0
+标准曼彻斯特㹴	biao zhun man che si te geng	0
+伯德㹴	bo de geng	0
+伯恩山犬	bo en shan quan	0
+博美狗	bo mei gou	0
+波美拉尼亚犬	bo mei la ni ya quan	0
+博美犬	bo mei quan	8
+波士顿㹴	bo shi dun geng	0
+波士顿狗	bo shi dun gou	0
+波音达猎犬	bo yin da lie quan	0
+查理士王猎犬	cha li shi wang lie quan	0
+查理士王犬	cha li shi wang quan	0
+查理士王小猎犬	cha li shi wang xiao lie quan	2
+柴犬	chai quan	103
+长毛猎犬	chang mao lie quan	0
+长毛牧羊犬	chang mao mu yang quan	0
+长须牧羊犬	chang xu mu yang quan	0
+粗毛牧羊犬	cu mao mu yang quan	0
+大白熊犬	da bai xiong quan	0
+大丹犬	da dan quan	5
+大麦町	da mai ding	1
+大麦町犬	da mai ding quan	0
+德国笃宾犬	de guo du bin quan	0
+德国牧羊犬	de guo mu yang quan	10
+蝶耳犬	die er quan	0
+斗鸡獚	dou ji huang	0
+斗鸡犬	dou ji quan	0
+斗牛㹴	dou niu geng	0
+斗牛犬	dou niu quan	39
+杜宾狗	du bin gou	0
+短脚长身㹴	duan jiao chang shen geng	0
+短脚狄文㹴	duan jiao di wen geng	0
+短毛猎狐㹴	duan mao lie hu geng	0
+俄罗斯猎犬	e luo si lie quan	0
+法国斗牛犬	fa guo dou niu quan	0
+法兰德斯牧牛犬	fa lan de si mu niu quan	0
+法老王猎犬	fa lao wang lie quan	0
+刚果犬	gang guo quan	0
+刚毛猎狐㹴	gang mao lie hu geng	0
+高地牧羊犬	gao di mu yang quan	0
+格陵兰犬	ge ling lan quan	0
+㹴类犬	geng lei quan	0
+工作犬	gong zuo quan	13
+古典英国牧羊犬	gu dian ying guo mu yang quan	0
+古英国牧羊犬	gu ying guo mu yang quan	0
+冠毛犬	guan mao quan	1
+贵宾犬	gui bin quan	8
+贵妇犬	gui fu quan	2
+哈巴狗	ha ba gou	49
+哈巴犬	ha ba quan	0
+哈士奇	ha shi qi	289
+荷兰毛狮犬	he lan mao shi quan	0
+蝴蝶犬	hu die quan	1
+狐狸犬	hu li quan	0
+湖畔㹴	hu pan geng	0
+黄金猎犬	huang jin lie quan	1
+黄寻猎犬	huang xun lie quan	0
+惠比犬特	hui bi quan te	0
+惠比特	hui bi te	1
+惠比特犬	hui bi te quan	0
+基斯犬	ji si quan	0
+吉娃娃	ji wa wa	82
+吉娃娃犬	ji wa wa quan	1
+杰克拉西尔㹴	jie ke la xi er geng	0
+金毛猎犬	jin mao lie quan	2
+金毛寻回犬	jin mao xun hui quan	0
+金色猎犬	jin se lie quan	0
+金丝犬	jin si quan	0
+卷毛比雄犬	juan mao bi xiong quan	0
+卷毛寻回犬	juan mao xun hui quan	0
+凯恩㹴	kai en geng	0
+凯莉蓝㹴	kai li lan geng	0
+凯利兰㹴	kai li lan geng	0
+柯卡	ke ka	0
+可卡长毛猎犬	ke ka chang mao lie quan	0
+可卡獚	ke ka huang	0
+可卡猎鹬犬	ke ka lie yu quan	0
+可卡犬	ke ka quan	2
+柯利犬	ke li quan	0
+克伦伯长猎犬	ke lun bo chang lie quan	0
+昆明犬	kun ming quan	3
+拉不拉多	la bu la duo	2
+拉布拉多猎犬	la bu la duo lie quan	1
+腊肠狗	la chang gou	5
+腊肠犬	la chang quan	5
+拉萨狗	la sa gou	0
+拉萨犬	la sa quan	0
+莱卡	lai ka	375
+狼犬	lang quan	19
+老式英国牧羊犬	lao shi ying guo mu yang quan	0
+猎狐犬	lie hu quan	4
+猎麋	lie mi	0
+猎枪犬	lie qiang quan	0
+猎犬	lie quan	218
+猎雉犬	lie zhi quan	0
+灵缇	ling ti	7
+路路	lu lu	55
+洛德瓦拉笃宾犬	luo de wa la du bin quan	0
+罗得西亚背脊犬	luo de xi ya bei ji quan	0
+罗红犬	luo hong quan	0
+罗江犬	luo jiang quan	0
+罗威纳	luo wei na	9
+罗威那犬	luo wei na quan	0
+罗威纳犬	luo wei na quan	0
+罗威士㹴	luo wei shi geng	0
+马车犬	ma che quan	0
+马尔济斯	ma er ji si	3
+玛尔济斯	ma er ji si	0
+马耳济斯犬	ma er ji si quan	0
+马耳他犬	ma er ta quan	0
+马士提夫獒犬	ma shi ti fu ao quan	0
+马士提夫犬	ma shi ti fu quan	0
+曼彻斯特㹴	man che si te geng	0
+美国可卡犬	mei guo ke ka quan	0
+美国史塔副郡㹴	mei guo shi ta fu jun geng	0
+米格鲁	mi ge lu	4
+米格鲁犬	mi ge lu quan	0
+迷你宾沙犬	mi ni bin sha quan	0
+迷你笃宾犬	mi ni du bin quan	0
+迷你牛头㹴	mi ni niu tou geng	0
+迷你史劳策犬	mi ni shi lao ce quan	0
+迷你史纳莎	mi ni shi na sha	0
+迷你雪那瑞	mi ni xue na rui	0
+迷你雪娜瑞犬	mi ni xue na rui quan	0
+米尼雪纳瑞犬	mi ni xue na rui quan	0
+莫罗苏斯犬	mo luo su si quan	0
+莫洛索司犬	mo luo suo si quan	0
+魔天仙	mo tian xian	0
+牧场长毛猎犬	mu chang chang mao lie quan	0
+牡丹犬	mu dan quan	0
+牧羊犬	mu yang quan	93
+南非獒犬	nan fei ao quan	0
+纽芬兰犬	niu fen lan quan	1
+牛头㹴	niu tou geng	0
+诺福㹴	nuo fu geng	0
+诺里奇㹴	nuo li qi geng	0
+挪威糜提	nuo wei mi ti	0
+挪威糜缇	nuo wei mi ti	0
+帕森拉希尔㹴	pa sen la xi er geng	0
+彭布罗克歌基犬	peng bu luo ke ge ji quan	0
+骑士查理王猎犬	qi shi cha li wang lie quan	0
+枪猎犬	qiang lie quan	0
+秦得圣赫伯特犬	qin de sheng he bo te quan	0
+秋田犬	qiu tian quan	80
+拳师犬	quan shi quan	2
+确架獚	que jia huang	1
+日本狐狸犬	ri ben hu li quan	0
+日本獚	ri ben huang	0
+日本秋田犬	ri ben qiu tian quan	8
+日本狮子犬	ri ben shi zi quan	0
+日本跳跳犬	ri ben tiao tiao quan	0
+日本仲	ri ben zhong	0
+日本狆	ri ben zhong	0
+萨摩犬	sa mo quan	0
+萨西克斯长毛猎犬	sa xi ke si chang mao lie quan	0
+塞蒙地犬	sai meng di quan	0
+三斑犬	san ban quan	0
+沙克犬	sha ke quan	0
+沙皮	sha pi	8
+沙皮狗	sha pi gou	21
+沙皮犬	sha pi quan	1
+圣伯纳	sheng bo na	15
+圣伯纳犬	sheng bo na quan	1
+狮毛犬	shi mao quan	0
+史柔查㹴	shi rou cha geng	0
+史塔副郡牛头㹴	shi ta fu jun niu tou geng	0
+实用犬	shi yong quan	0
+狮子狗	shi zi gou	55
+狩猎犬	shou lie quan	2
+四国犬	si guo quan	0
+斯开岛㹴	si kai dao geng	0
+丝毛㹴	si mao geng	0
+松狮	song shi	21
+松狮犬	song shi quan	0
+松鼠犬	song shu quan	0
+苏俄牧羊犬	su e mu yang quan	0
+苏俄追踪犬	su e zhui zong quan	0
+苏格兰粗毛牧羊犬	su ge lan cu mao mu yang quan	0
+苏格兰㹴	su ge lan geng	0
+苏格兰牧羊犬	su ge lan mu yang quan	2
+特兰犬	te lan quan	0
+土佐犬	tu zuo quan	1
+万能㹴	wan neng geng	0
+玩赏犬	wan shang quan	0
+威尔士㹴	wei er shi geng	0
+威尔斯激飞可卡长毛猎犬	wei er si ji fei ke ka chang mao lie quan	0
+威尔斯柯基犬	wei er si ke ji quan	0
+威尔斯牧畜犬	wei er si mu xu quan	0
+威玛猎犬	wei ma lie quan	0
+威斯拉犬	wei si la quan	0
+沃尔皮诺	wo er pi nuo	0
+西伯利亚雪撬犬	xi bo li ya xue qiao quan	1
+西伯利亚雪橇犬	xi bo li ya xue qiao quan	0
+西部高地白㹴	xi bu gao di bai geng	0
+西高地白㹴	xi gao di bai geng	0
+西高地铁利亚	xi gao di tie li ya	0
+喜乐蒂牧羊犬	xi le di mu yang quan	0
+喜乐蒂犬	xi le di quan	0
+西里汉㹴	xi li han geng	0
+西摩犬	xi mo quan	0
+西帕凯犬	xi pa kai quan	0
+西施	xi shi	581
+西施犬	xi shi quan	0
+西藏㹴	xi zang geng	0
+小丹犬	xiao dan quan	0
+小猎犬	xiao lie quan	38
+小鹿犬	xiao lu quan	0
+小史揉查犬	xiao shi rou cha quan	0
+小型施诺泽犬	xiao xing shi nuo ze quan	0
+小型苏格兰犬	xiao xing su ge lan quan	0
+小型玩赏犬	xiao xing wan shang quan	0
+小雪娜瑞犬	xiao xue na rui quan	0
+熊狮犬	xiong shi quan	0
+雪达犬	xue da quan	0
+雪达犬种	xue da quan zhong	0
+雪梨犬	xue li quan	0
+血猎犬	xue lie quan	1
+寻血猎犬	xun xue lie quan	3
+英国斗鸡犬	ying guo dou ji quan	1
+英国斗牛犬	ying guo dou niu quan	4
+英国激飞可卡长毛猎犬	ying guo ji fei ke ka chang mao lie quan	0
+英国可卡长毛猎犬	ying guo ke ka chang mao lie quan	1
+英国可卡猎鹬犬	ying guo ke ka lie yu quan	1
+英国可卡犬	ying guo ke ka quan	2
+英国小型猎免犬	ying guo xiao xing lie mian quan	0
+约克夏	yue ke xia	13
+约克夏㹴	yue ke xia geng	0
+约瑟犬	yue se quan	0
+约瑟猩	yue se xing	0
+指标犬	zhi biao quan	0
+中国冠毛犬	zhong guo guan mao quan	1
+中国冠毛犬犬	zhong guo guan mao quan quan	0
+中国食犬	zhong guo shi quan	0
+中国狮子犬	zhong guo shi zi quan	0
+中国无毛犬	zhong guo wu mao quan	0
+仓鼠	cang shu	679
+鹿鹿	lu lu	20
+猛虎	meng hu	527
+狮狮	shi shi	2
+兔兔	tu tu	425
+白红眼	bai hong yan	0
+白化	bai hua	226
+白化蛋白石基因	bai hua dan bai shi ji yin	0
+彩虹	cai hong	2276
+蛋白石	dan bai shi	7
+蛋白石基因	dan bai shi ji yin	0
+蛋白石肉桂基因	dan bai shi rou gui ji yin	0
+淡雅彩虹	dan ya cai hong	0
+非黄脸蓝系	fei huang lian lan xi	0
+冠羽	guan yu	12
+华乐	hua le	12
+华乐蛋白石基因	hua le dan bai shi ji yin	0
+华乐基因	hua le ji yin	0
+黄脸	huang lian	21
+黄绿灰翅	huang lv hui chi	0
+灰翅	hui chi	1
+灰翅蛋白石基因	hui chi dan bai shi ji yin	0
+灰翅基因	hui chi ji yin	0
+灰翅肉桂基因	hui chi rou gui ji yin	0
+肉桂	rou gui	513
+肉桂蛋白石基因	rou gui dan bai shi ji yin	0
+肉桂隐派基因	rou gui yin pai ji yin	0
+天空蓝灰翅	tian kong lan hui chi	0
+显派	xian pai	2
+隐派	yin pai	4
+隐派基因	yin pai ji yin	0
+鱼鳞	yu lin	234
+原始蓝	yuan shi lan	0
+原始绿	yuan shi lv	0
+珍珠	zhen zhu	1780
+斑点狗	ban dian gou	21
+边境牧羊犬	bian jing mu yang quan	0
+大白熊犬	da bai xiong quan	0
+大麦町犬	da mai ding quan	0
+德国牧羊犬	de guo mu yang quan	10
+贵宾犬	gui bin quan	8
+蝴蝶犬	hu die quan	1
+吉娃娃	ji wa wa	82
+凯利蓝梗	kai li lan geng	0
+可蒙犬	ke meng quan	0
+腊肠犬	la chang quan	5
+马尔济斯犬	ma er ji si quan	0
+美国可卡犬	mei guo ke ka quan	0
+日本银狐	ri ben yin hu	0
+萨摩耶犬	sa mo ye quan	0
+沙皮犬	sha pi quan	1
+圣伯纳犬	sheng bo na quan	1
+松狮犬	song shi quan	0
+苏格兰梗	su ge lan geng	1
+苏格兰牧羊犬	su ge lan mu yang quan	2
+西伯利亚哈士奇	xi bo li ya ha shi qi	1
+雪纳瑞	xue na rui	10
+英国古代牧羊犬	ying guo gu dai mu yang quan	0
+约克夏	yue ke xia	13
+藏獒	zang ao	220
+暗脉菜粉蝶	an mai cai fen die	0
+巴黎翠凤蝶	ba li cui feng die	0
+白带凤蝶	bai dai feng die	0
+白点褐蚬蝶	bai dian he xian die	0
+白角星弄蝶	bai jiao xing nong die	0
+白弄蝶	bai nong die	0
+白室蚬蝶	bai shi xian die	0
+白蚬蝶	bai xian die	0
+斑凤蝶	ban feng die	0
+宝镜凤蝶	bao jing feng die	0
+报喜斑粉蝶	bao xi ban fen die	0
+碧凤蝶	bi feng die	0
+檗黄粉蝶	bo huang fen die	0
+布莱荫眼蝶	bu lai yin yan die	0
+长尾青凤蝶	chang wei qing feng die	0
+长须蝶	chang xu die	0
+橙翅方粉蝶	cheng chi fang fen die	0
+橙粉蝶	cheng fen die	0
+橙黄豆粉蝶	cheng huang dou fen die	0
+赤顶粉蝶	chi ding fen die	0
+齿缘红蛱蝶	chi yuan hong jia die	0
+串珠环蝶	chuan zhu huan die	0
+槌果藤粉蝶	chui guo teng fen die	0
+粗纹青斑蝶	cu wen qing ban die	0
+翠袖锯眼蝶	cui xiu ju yan die	0
+大翅绢粉蝶	da chi juan fen die	0
+大绢斑蝶	da juan ban die	0
+大伞弄蝶	da san nong die	0
+大透翅斑蝶	da tou chi ban die	0
+大纹白粉蝶	da wen bai fen die	0
+大紫蛱蝶	da zi jia die	0
+淡纹青斑蝶	dan wen qing ban die	0
+地珠环蝶	di zhu huan die	0
+电蛱蝶	dian jia die	0
+颠眼蝶	dian yan die	0
+东方菜粉蝶	dong fang cai fen die	0
+东亚矍眼蝶	dong ya jue yan die	0
+多型凤蝶	duo xing feng die	0
+峨眉大弄蝶	e mei da nong die	0
+二尾蛱蝶	er wei jia die	0
+飞龙粉蝶	fei long fen die	0
+凤蝶	feng die	16
+凤尾青凤蝶	feng wei qing feng die	0
+凤眼方环蝶	feng yan fang huan die	0
+柑橘凤蝶	gan ju feng die	0
+果神粉蝶	guo shen fen die	0
+鹤顶粉蝶	he ding fen die	0
+合欢黄粉蝶	he huan huang fen die	0
+黑斑伞弄蝶	hei ban san nong die	0
+黑豹弄蝶	hei bao nong die	0
+黑点菜粉蝶	hei dian cai fen die	0
+黑点小粉蝶	hei dian xiao fen die	0
+黑凤蝶	hei feng die	1
+黑绢斑蝶	hei juan ban die	0
+黑流蛱蝶	hei liu jia die	0
+黑脉桦斑蝶	hei mai hua ban die	0
+黑脉园粉蝶	hei mai yuan fen die	0
+黑燕尾蚬蝶	hei yan wei xian die	0
+横纹环蝶	heng wen huan die	0
+红灰蝶	hong hui die	0
+红襟粉蝶	hong jin fen die	0
+红锯蛱蝶	hong ju jia die	0
+红裙凤蝶	hong qun feng die	0
+红纹凤蝶	hong wen feng die	0
+红缘凤蝶	hong yuan feng die	0
+红缘灰蝶	hong yuan hui die	0
+红珠凤蝶	hong zhu feng die	0
+虎斑蝶	hu ban die	3
+虎纹斑蝶	hu wen ban die	0
+虎纹剑尾凤蝶	hu wen jian wei feng die	0
+虎纹针凤蝶	hu wen zhen feng die	0
+桦斑蝶	hua ban die	0
+花椒凤蝶	hua jiao feng die	0
+幻紫斑蝶	huan zi ban die	0
+黄带褐蚬蝶	huang dai he xian die	0
+黄凤蝶	huang feng die	0
+黄扇蝶	huang shan die	0
+黄裳凤蝶	huang shang feng die	0
+黄帅蛱蝶	huang shuai jia die	0
+灰翅串珠环蝶	hui chi chuan zhu huan die	0
+尖翅弄蝶	jian chi nong die	0
+尖翅银灰蝶	jian chi yin hui die	0
+箭环蝶	jian huan die	0
+姜黄弄蝶	jiang huang nong die	0
+金斑蝶	jin ban die	0
+金凤蝶	jin feng die	0
+金扇凤蝶	jin shan feng die	0
+金裳凤蝶	jin shang feng die	0
+锯粉蝶	ju fen die	0
+绢斑蝶	juan ban die	0
+枯叶蝶	ku ye die	1
+枯叶蛱蝶	ku ye jia die	0
+宽边黄粉蝶	kuan bian huang fen die	0
+宽带黛眼蝶	kuan dai dai yan die	0
+宽带凤蝶	kuan dai feng die	0
+宽带青凤蝶	kuan dai qing feng die	0
+宽尾凤蝶	kuan wei feng die	0
+莱灰蝶	lai hui die	0
+蓝点紫斑蝶	lan dian zi ban die	0
+蓝凤蝶	lan feng die	0
+楞凤蝶	leng feng die	0
+梨花粉蝶	li hua fen die	0
+梨花迁粉蝶	li hua qian fen die	0
+连纹黛眼蝶	lian wen dai yan die	0
+裂斑金灰蝶	lie ban jin hui die	0
+琉璃波纹小灰蝶	liu li bo wen xiao hui die	0
+琉璃纹凤蝶	liu li wen feng die	0
+绿斑凤蝶	lv ban feng die	0
+绿凤蝶	lv feng die	0
+绿灰蝶	lv hui die	0
+美凤蝶	mei feng die	0
+迷蛱蝶	mi jia die	1
+密纱眉眼蝶	mi sha mei yan die	0
+密纹飒弄蝶	mi wen sa nong die	0
+木兰青凤蝶	mu lan qing feng die	0
+拟斑凤蝶	ni ban feng die	0
+拟幻紫斑蝶	ni huan zi ban die	0
+拟旖斑蝶	ni yi ban die	0
+浓紫彩灰蝶	nong zi cai hui die	0
+朴喙蝶	pu hui die	0
+迁粉蝶	qian fen die	0
+牵牛灰蝶	qian niu hui die	0
+青斑蝶	qing ban die	0
+青城箭环蝶	qing cheng jian huan die	0
+青凤蝶	qing feng die	0
+蜻蜓蝶	qing ting die	0
+曲纹袖弄蝶	qu wen xiu nong die	0
+啬青斑蝶	se qing ban die	0
+僧袈眉眼蝶	seng jia mei yan die	0
+裳凤蝶	shang feng die	0
+蛇目褐蚬蝶	she mu he xian die	0
+榺凤蝶	sheng feng die	0
+鼠李粉蝶	shu li fen die	0
+双色带蛱蝶	shuang se dai jia die	0
+双尾蛱蝶	shuang wei jia die	0
+双星箭环蝶	shuang xing jian huan die	0
+双眼蚬蝶	shuang yan xian die	0
+丝链荫眼蝶	si lian yin yan die	0
+碎斑凤蝶	sui ban feng die	0
+碎斑青凤蝶	sui ban qing feng die	0
+藤粉蝶	teng fen die	0
+藤果蚬蝶	teng guo xian die	0
+天狗蝶	tian gou die	0
+铁刀木粉蝶	tie dao mu fen die	0
+铁木莱异灰蝶	tie mu lai yi hui die	0
+铁锈灰蝶	tie xiu hui die	0
+统帅青凤蝶	tong shuai qing feng die	0
+透翅斑蝶	tou chi ban die	0
+桅子灰蝶	wei zi hui die	0
+纹环蝶	wen huan die	0
+无尾灰蝶	wu wei hui die	0
+乌鸦凤蝶	wu ya feng die	0
+无趾弄蝶	wu zhi nong die	0
+细纹青斑蝶	xi wen qing ban die	0
+西藏翠蛱蝶	xi zang cui jia die	0
+纤粉蝶	xian fen die	0
+小青凤蝶	xiao qing feng die	0
+小透翅斑蝶	xiao tou chi ban die	0
+斜带缺尾蚬蝶	xie dai que wei xian die	0
+猩灰蝶	xing hui die	0
+蚜灰蝶	ya hui die	0
+雅灰蝶	ya hui die	0
+燕凤蝶	yan feng die	0
+烟环蝶	yan huan die	0
+瑶凤蝶	yao feng die	0
+椰眼蝶	ye yan die	0
+异型紫斑蝶	yi xing zi ban die	0
+银白蛱蝶	yin bai jia die	0
+银线灰蝶	yin xian hui die	0
+玉斑凤蝶	yu ban feng die	0
+玉带蝶	yu dai die	0
+玉带凤蝶	yu dai feng die	0
+鱼纹环蝶	yu wen huan die	0
+圆翅钩粉蝶	yuan chi gou fen die	0
+圆弧蛱蝶	yuan hu jia die	0
+月纹矩环蝶	yue wen ju huan die	0
+窄斑翠凤蝶	zhai ban cui feng die	0
+樟青凤蝶	zhang qing feng die	0
+赭灰蝶	zhe hui die	0
+甄蝶	zhen die	0
+苎麻斑蛱蝶	zhu ma ban jia die	0
+苎麻珍蝶	zhu ma zhen die	0
+竹蚜小灰蝶	zhu ya xiao hui die	0
+紫端斑蝶	zi duan ban die	0
+紫线黛眼蝶	zi xian dai yan die	0
+棕脉粉蝶	zong mai fen die	0
+阿拉斯加马拉密犬	a la si jia ma la mi quan	0
+阿拉斯加马拉缪特犬	a la si jia ma la miu te quan	0
+阿拉斯加雪橇犬	a la si jia xue qiao quan	2
+大型犬	da xing quan	94
+短毛阿拉斯加	duan mao a la si jia	0
+短毛阿拉斯加雪橇犬	duan mao a la si jia xue qiao quan	0
+短毛标准阿拉斯加	duan mao biao zhun a la si jia	0
+短毛正常毛质阿拉斯加	duan mao zheng chang mao zhi a la si jia	0
+福犬	fu quan	0
+西伯利亚哈士奇	xi bo li ya ha shi qi	1
+雪橇犬	xue qiao quan	20
+菜粉蝶	cai fen die	6
+单环蛱蝶	dan huan jia die	0
+黑弄蝶	hei nong die	0
+蛱蝶	jia die	12
+双环蛱蝶	shuang huan jia die	0
+眼碟	yan die	0
+阿比西尼亚猫	a bi xi ni ya mao	2
+埃及猫	ai ji mao	1
+奥西猫	ao xi mao	0
+巴厘猫	ba li mao	0
+伯曼猫	bo man mao	0
+波斯猫	bo si mao	63
+布偶猫	bu ou mao	29
+德文卷毛猫	de wen juan mao mao	42
+电烫卷猫	dian tang juan mao	0
+东方短毛猫	dong fang duan mao mao	0
+东奇尼猫	dong qi ni mao	0
+俄罗斯蓝猫	e luo si lan mao	2
+哈瓦那棕猫	ha wa na zong mao	0
+加拿大无毛猫	jia na da wu mao mao	1
+金吉拉	jin ji la	10
+科拉特猫	ke la te mao	0
+柯尼斯卷毛猫	ke ni si juan mao mao	0
+褴褛猫	lan lv mao	1
+狸猫	li mao	156
+狸花猫	li hua mao	30
+曼岛无尾猫	man dao wu wei mao	0
+美国短毛猫	mei guo duan mao mao	3
+美国短尾猫	mei guo duan wei mao	0
+美国卷耳猫	mei guo juan er mao	0
+美国硬毛猫	mei guo ying mao mao	0
+孟买猫	meng mai mao	2
+缅甸猫	mian dian mao	0
+缅因猫	mian yin mao	22
+挪威森林猫	nuo wei sen lin mao	1
+日本短尾猫	ri ben duan wei mao	0
+三花猫	san hua mao	13
+山东狮子猫	shan dong shi zi mao	0
+狮子猫	shi zi mao	3
+四川简州猫	si chuan jian zhou mao	0
+斯可可猫	si ke ke mao	0
+苏格兰折耳猫	su ge lan zhe er mao	4
+索马里猫	suo ma li mao	0
+土耳其安哥拉猫	tu er qi an ge la mao	1
+土耳其梵猫	tu er qi fan mao	0
+西伯利亚猫	xi bo li ya mao	6
+喜马拉雅猫	xi ma la ya mao	3
+夏特尔猫	xia te er mao	0
+暹罗猫	xian luo mao	24
+新加坡猫	xin jia po mao	0
+玄猫	xuan mao	2
+异国短毛猫	yi guo duan mao mao	10
+英国短毛猫	ying guo duan mao mao	7
+云猫	yun mao	31
+重点色短毛猫	zhong dian se duan mao mao	0

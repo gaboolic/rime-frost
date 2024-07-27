@@ -10,6 +10,7 @@ sancang.dict.yaml
 **/.idea/
 .vscode/
 dist/
+*.zip
 
 build/
 sync/

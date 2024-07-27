@@ -8,10 +8,10 @@ version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-完读	wan du	14
-完读率	wan du lv	0
-完播	wan bo	27
+完读	wan du	6
+完读率	wan du lv	10
+完播	wan bo	31
 完播率	wan bo lv	100
-大神码字	da shen ma zi	0
-橙瓜	cheng gua	31
-飞卢	fei lu	178
+大神码字	da shen ma zi	3
+橙瓜	cheng gua	33
+飞卢	fei lu	240

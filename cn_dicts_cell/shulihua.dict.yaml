@@ -18,10 +18,10 @@ use_preset_vocabulary: false
 低次谐波	di ci xie bo	2
 电力系统频率允许偏差	dian li xi tong pin lv yun xu pian cha	0
 电流不平衡	dian liu bu ping heng	1
-电能质量	dian neng zhi liang	26
+电能质量	dian neng zhi liang	29
 电能质量五项标准	dian neng zhi liang wu xiang biao zhun	0
 电能质量五项指标	dian neng zhi liang wu xiang zhi biao	0
-电压不平衡	dian ya bu ping heng	1
+电压不平衡	dian ya bu ping heng	0
 电压短时中断	dian ya duan shi zhong duan	0
 电压幅值	dian ya fu zhi	4
 电压偏差	dian ya pian cha	1
@@ -36,7 +36,7 @@ use_preset_vocabulary: false
 方均根值	fang jun gen zhi	0
 非线性负荷	fei xian xing fu he	0
 傅立叶分解	fu li ye fen jie	2
-负偏差	fu pian cha	10
+负偏差	fu pian cha	9
 负序电流	fu xu dian liu	16
 负序电压	fu xu dian ya	2
 负序分量	fu xu fen liang	1
@@ -53,7 +53,7 @@ use_preset_vocabulary: false
 偶次畸变率	ou ci ji bian lv	0
 偶次谐波	ou ci xie bo	10
 频率偏差	pin lv pian cha	2
-频谱特征	pin pu te zheng	4
+频谱特征	pin pu te zheng	5
 奇次	qi ci	1
 奇次畸变率	qi ci ji bian lv	0
 奇次谐波	qi ci xie bo	10
@@ -73,7 +73,7 @@ use_preset_vocabulary: false
 谐波抑制	xie bo yi zhi	1
 有源滤波器	you yuan lv bo qi	0
 载波干扰	zai bo gan rao	0
-暂态	zan tai	85
+暂态	zan tai	86
 暂态过电压	zan tai guo dian ya	0
 正偏差	zheng pian cha	4
 正序电流	zheng xu dian liu	2
@@ -90,21 +90,21 @@ use_preset_vocabulary: false
 玻色爱因斯坦统计	bo se ai yin si tan tong ji	1
 玻色场	bo se chang	3
 不定度规	bu ding du gui	1
-不可重整	bu ke chong zheng	27
+不可重整	bu ke chong zheng	18
 不连接图	bu lian jie tu	0
 产生算符	chan sheng suan fu	6
 超可重整	chao ke chong zheng	0
-重整化	chong zheng hua	134
+重整化	chong zheng hua	143
 重整化群	chong zheng hua qun	99
 重整化群流	chong zheng hua qun liu	5
-传播子	chuan bo zi	54
+传播子	chuan bo zi	55
 大统一	da tong yi	0
 带电流	dai dian liu	1
 单粒子不可约图	dan li zi bu ke yue tu	0
 单圈重整化	dan quan chong zheng hua	0
 单圈图	dan quan tu	0
 等时对易子	deng shi dui yi zi	0
-狄拉克方程	di la ke fang cheng	61
+狄拉克方程	di la ke fang cheng	64
 抵消项	di xiao xiang	4
 电磁流	dian ci liu	3
 电磁流守恒	dian ci liu shou heng	0
@@ -112,22 +112,22 @@ use_preset_vocabulary: false
 电弱统一	dian ruo tong yi	3
 电子自能	dian zi zi neng	5
 顶角函数	ding jiao han shu	2
-定域	ding yu	127
+定域	ding yu	152
 定域场论	ding yu chang lun	1
 定域对称性	ding yu dui chen xing	0
-对易	dui yi	55
+对易	dui yi	116
 对易关系	dui yi guan xi	48
 对易子	dui yi zi	31
 二次量子化	er ci liang zi hua	81
 反常磁矩	fan chang ci ju	27
-反对易	fan dui yi	20
+反对易	fan dui yi	22
 反对易子	fan dui yi zi	1
 非定域	fei ding yu	84
 非定域场论	fei ding yu chang lun	0
-非局域	fei ju yu	38
+非局域	fei ju yu	43
 费曼传播子	fei man chuan bo zi	1
 费曼规则	fei man gui ze	8
-费曼图	fei man tu	56
+费曼图	fei man tu	61
 费米场	fei mi chang	6
 费米狄拉克统计	fei mi di la ke tong ji	1
 非最小耦合	fei zui xiao ou he	1
@@ -141,26 +141,26 @@ use_preset_vocabulary: false
 共振态	gong zhen tai	8
 光锥规范	guang zhui gui fan	0
 鬼场	gui chang	4
-规范不变	gui fan bu bian	20
+规范不变	gui fan bu bian	21
 规范不变性	gui fan bu bian xing	56
-规范场	gui fan chang	200
+规范场	gui fan chang	206
 规范反常	gui fan fan chang	1
 海森堡方程	hai sen bao fang cheng	7
 海森堡绘景	hai sen bao hui jing	7
 横光子	heng guang zi	0
 红外发散	hong wai fa san	1
 绘景	hui jing	24
-减除	jian chu	349
-渐进自由	jian jin zi you	12
+减除	jian chu	178
+渐进自由	jian jin zi you	13
 简谐振子	jian xie zhen zi	15
-胶子	jiao zi	166
+胶子	jiao zi	168
 局域规范变换	ju yu gui fan bian huan	6
 卡比玻角	ka bi bo jiao	0
 可重整	ke chong zheng	21
 蝌蚪图	ke dou tu	0
 夸克胶子等离子体	kua ke jiao zi deng li zi ti	27
 夸克禁闭	kua ke jin bi	36
-快子	kuai zi	32
+快子	kuai zi	103
 朗道规范	lang dao gui fan	1
 朗道极点	lang dao ji dian	0
 勒让德	le rang de	27
@@ -168,13 +168,13 @@ use_preset_vocabulary: false
 连续对称性	lian xu dui chen xing	11
 量子反常	liang zi fan chang	34
 量子化方案	liang zi hua fang an	11
-路径积分	lu jing ji fen	227
+路径积分	lu jing ji fen	236
 裸参数	luo can shu	0
 裸场	luo chang	0
 裸电荷	luo dian he	0
 洛伦兹变换	luo lun zi bian huan	255
 裸质量	luo zhi liang	0
-内禀	nei bing	79
+内禀	nei bing	80
 能动张量	neng dong zhang liang	73
 耦合常数	ou he chang shu	50
 耦合常数跑动	ou he chang shu pao dong	1
@@ -187,24 +187,24 @@ use_preset_vocabulary: false
 平面波展开	ping mian bo zhan kai	5
 奇异数	qi yi shu	7
 强子弱流	qiang zi ruo liu	0
-圈图	quan tu	22
+圈图	quan tu	24
 圈图展开	quan tu zhan kai	0
 韧致辐射	ren zhi fu she	5
-散射截面	san she jie mian	29
+散射截面	san she jie mian	30
 散射矩阵	san she ju zhen	11
 散射振幅	san she zhen fu	37
-色散关系	se san guan xi	124
+色散关系	se san guan xi	125
 生成元	sheng cheng yuan	0
 实标量场	shi biao liang chang	5
-矢量场	shi liang chang	109
+矢量场	shi liang chang	115
 守恒菏	shou heng he	0
 守恒流	shou heng liu	10
-手征	shou zheng	56
+手征	shou zheng	58
 手征变换	shou zheng bian huan	0
 手正不变	shou zheng bu bian	0
 手征微扰论	shou zheng wei rao lun	0
 手征性	shou zheng xing	8
-树图	shu tu	16
+树图	shu tu	71
 双圈图	shuang quan tu	0
 瞬子	shun zi	21
 四动量	si dong liang	10
@@ -212,13 +212,13 @@ use_preset_vocabulary: false
 拓扑权	tuo pu quan	0
 拓扑权因子	tuo pu quan yin zi	0
 外尔旋量	wai er xuan liang	0
-外腿	wai tui	0
+外腿	wai tui	7
 微观因果性	wei guan yin guo xing	1
 微扰	wei rao	234
 维数正规化	wei shu zheng gui hua	1
-唯象	wei xiang	107
+唯象	wei xiang	108
 相互作用绘景	xiang hu zuo yong hui jing	2
-协变	xie bian	104
+协变	xie bian	223
 协变微分	xie bian wei fen	3
 协变微商	xie bian wei shang	3
 旋量	xuan liang	19
@@ -228,7 +228,7 @@ use_preset_vocabulary: false
 赝标量场	yan biao liang chang	0
 赝标量粒子	yan biao liang li zi	0
 湮灭算符	yan mie suan fu	53
-杨米尔斯	yang mi er si	52
+杨米尔斯	yang mi er si	58
 幺正算符	yao zheng suan fu	4
 幺正性	yao zheng xing	18
 引力微子	yin li wei zi	4
@@ -248,7 +248,7 @@ use_preset_vocabulary: false
 中性流	zhong xing liu	1
 紫外发散	zi wai fa san	5
 自旋统计关系	zi xuan tong ji guan xi	0
-自由场	zi you chang	0
+自由场	zi you chang	94
 纵光子	zong guang zi	0
 最小电磁耦合	zui xiao dian ci ou he	0
 最小减除	zui xiao jian chu	1
@@ -343,7 +343,7 @@ use_preset_vocabulary: false
 偏最小二乘法	pian zui xiao er cheng fa	1
 谱带宽度	pu dai kuan du	0
 气敏电极	qi min dian ji	0
-强带	qiang dai	11
+强带	qiang dai	13
 区分性溶剂	qu fen xing rong ji	0
 蜷曲振动	quan qu zhen dong	0
 全息光栅	quan xi guang shan	2
@@ -438,7 +438,7 @@ use_preset_vocabulary: false
 化学物质过敏	hua xue wu zhi guo min	0
 化妆品过敏	hua zhuang pin guo min	8
 激素依赖皮炎	ji su yi lai pi yan	0
-酒精过敏	jiu jing guo min	76
+酒精过敏	jiu jing guo min	81
 皮肤瘙痒症	pi fu sao yang zheng	0
 日光性皮炎	ri guang xing pi yan	8
 药物过敏金属过敏	yao wu guo min jin shu guo min	0
@@ -446,14 +446,14 @@ use_preset_vocabulary: false
 紫癜荨麻疹	zi dian xun ma zhen	0
 紫外线过敏	zi wai xian guo min	10
 边缘光束	bian yuan guang shu	0
-边缘厚度	bian yuan hou du	20
+边缘厚度	bian yuan hou du	23
 波象差	bo xiang cha	0
 布儒斯特角	bu ru si te jiao	8
 参考光线	can kao guang xian	0
 参考球	can kao qiu	0
 场点	chang dian	1
-场曲	chang qu	65
-出射	chu she	74
+场曲	chang qu	66
+出射	chu she	84
 出射光	chu she guang	29
 出射瞳孔	chu she tong kong	0
 出瞳	chu tong	13
@@ -503,7 +503,7 @@ use_preset_vocabulary: false
 尼科尔棱镜	ni ke er leng jing	0
 佩兹伐场曲	pei zi fa chang qu	2
 佩兹伐透镜	pei zi fa tou jing	0
-球差	qiu cha	62
+球差	qiu cha	229
 入射光束半径	ru she guang shu ban jing	0
 入射面	ru she mian	16
 入射瞳孔	ru she tong kong	0
@@ -519,18 +519,18 @@ use_preset_vocabulary: false
 锁模	suo mo	9
 梯度透镜	ti du tou jing	1
 梯度折射率	ti du zhe she lv	7
-体视	ti shi	8
+体视	ti shi	9
 调焦镜	tiao jiao jing	0
 通光孔径	tong guang kong jing	11
 瞳孔像差	tong kong xiang cha	0
-透镜组	tou jing zu	11
-透射光	tou she guang	15
+透镜组	tou jing zu	12
+透射光	tou she guang	17
 透射光栅	tou she guang shan	1
 物放焦点	wu fang jiao dian	0
 物高	wu gao	0
 无焦	wu jiao	3
-物空间	wu kong jian	0
-物面	wu mian	11
+物空间	wu kong jian	8
+物面	wu mian	13
 物平面	wu ping mian	3
 物像空间不变式	wu xiang kong jian bu bian shi	0
 像方焦点	xiang fang jiao dian	5
@@ -538,10 +538,10 @@ use_preset_vocabulary: false
 像空间	xiang kong jian	0
 像面	xiang mian	4
 像平面	xiang ping mian	0
-像散	xiang san	61
+像散	xiang san	66
 消色差物镜	xiao se cha wu jing	3
 衍射极限	yan she ji xian	83
-优化函数	you hua han shu	25
+优化函数	you hua han shu	29
 有效焦距	you xiao jiao ju	2
 远焦	yuan jiao	11
 远心光路	yuan xin guang lu	11
@@ -551,7 +551,7 @@ use_preset_vocabulary: false
 轴光束	zhou guang shu	0
 轴向色差	zhou xiang se cha	7
 主动锁模	zhu dong suo mo	0
-主光线	zhu guang xian	40
+主光线	zhu guang xian	42
 锥形常数	zhui xing chang shu	0
 子午光线	zi wu guang xian	2
 子午面	zi wu mian	7
@@ -626,11 +626,11 @@ use_preset_vocabulary: false
 克莱姆法则	ke lai mu fa ze	15
 克莱森重排	ke lai sen chong pai	1
 克莱森缩合	ke lai sen suo he	0
-科里	ke li	90
+科里	ke li	391
 科普重排	ke pu chong pai	0
 科普消除	ke pu xiao chu	0
 克氏蒸馏头	ke shi zheng liu tou	0
-拉曼光谱	la man guang pu	81
+拉曼光谱	la man guang pu	133
 兰尼镍	lan ni nie	55
 李比希	li bi xi	27
 里德堡常数	li de bao chang shu	1
@@ -649,7 +649,7 @@ use_preset_vocabulary: false
 莫尔法	mo er fa	0
 莫尔盐	mo er yan	0
 脑文格反应	nao wen ge fan ying	0
-能斯特	neng si te	43
+能斯特	neng si te	44
 能斯特方程	neng si te fang cheng	19
 纽曼投影	niu man tou ying	7
 普朗克量子论	pu lang ke liang zi lun	1
@@ -2068,7 +2068,7 @@ use_preset_vocabulary: false
 碘帕醇	dian pa chun	0
 靛青三磺酸钾盐	dian qing san huang suan jia yan	0
 碘球状	dian qiu zhuang	0
-碘酸	dian suan	4
+碘酸	dian suan	5
 碘酸钡一水合物	dian suan bei yi shui he wu	0
 碘酸钙	dian suan gai	0
 碘酸钾标准溶液	dian suan jia biao zhun rong ye	0
@@ -3194,7 +3194,7 @@ use_preset_vocabulary: false
 泛影葡胺	fan ying pu an	0
 泛影酸	fan ying suan	0
 泛影酸钠水合物	fan ying suan na shui he wu	0
-反应停	fan ying ting	42
+反应停	fan ying ting	43
 反油酸	fan you suan	0
 反油酸酐	fan you suan gan	0
 防己诺林碱	fang ji nuo lin jian	2
@@ -3253,7 +3253,7 @@ use_preset_vocabulary: false
 佛司可林	fo si ke lin	0
 氟胺氰菊酯标准溶液	fu an qing ju zhi biao zhun rong ye	0
 氟胞中啶核苷	fu bao zhong ding he gan	0
-氟苯	fu ben	3
+氟苯	fu ben	7
 氟比洛芬	fu bi luo fen	6
 氟比洛芬酯	fu bi luo fen zhi	0
 复壁碳纳米管	fu bi tan na mi guan	0
@@ -3353,7 +3353,7 @@ use_preset_vocabulary: false
 氟米龙醋酸酯	fu mi long cu suan zhi	0
 呋喃酚	fu nan fen	0
 呋喃核糖	fu nan he tang	0
-呋喃酮	fu nan tong	3
+呋喃酮	fu nan tong	4
 呋喃酮乙酸酯	fu nan tong yi suan zhi	0
 氟尼酸	fu ni suan	0
 氟尼辛葡甲胺	fu ni xin pu jia an	0
@@ -3669,7 +3669,7 @@ use_preset_vocabulary: false
 过钉酸四内胺	guo ding suan si nei an	0
 果壳黄金炭	guo ke huang jin tan	0
 过硫酸铵	guo liu suan an	2
-过硫酸钾	guo liu suan jia	16
+过硫酸钾	guo liu suan jia	18
 过硫酸钠	guo liu suan na	0
 过硫酸氢钾	guo liu suan qing jia	0
 过硼酸钠四水合物	guo peng suan na si shui he wu	0
@@ -3704,7 +3704,7 @@ use_preset_vocabulary: false
 海沙瑞林	hai sha rui lin	0
 海松酸	hai song suan	0
 海棠果醛	hai tang guo quan	0
-海因	hai yin	230
+海因	hai yin	68
 海因酸	hai yin suan	0
 海罂粟碱	hai ying su jian	0
 海藻多糖聚合物	hai zao duo tang ju he wu	0
@@ -3784,7 +3784,7 @@ use_preset_vocabulary: false
 华良姜素	hua liang jiang su	0
 桦木醇	hua mu chun	0
 花旗松素	hua qi song su	0
-花青	hua qing	12
+花青	hua qing	15
 花生四烯酸乙酯	hua sheng si xi suan yi zhi	0
 花生酸	hua sheng suan	8
 花生酸酐	hua sheng suan gan	0
@@ -4161,7 +4161,7 @@ use_preset_vocabulary: false
 己酰氯	ji xian lv	0
 积雪草苷	ji xue cao gan	12
 积雪草酸	ji xue cao suan	2
-基亚	ji ya	163
+基亚	ji ya	182
 甲氨蝶呤二钠	jia an die ling er na	0
 甲氨蝶呤水合物	jia an die ling shui he wu	0
 甲氨基磺酸	jia an ji huang suan	0
@@ -4635,7 +4635,7 @@ use_preset_vocabulary: false
 焦硫酸钾	jiao liu suan jia	0
 焦硫酸钠	jiao liu suan na	0
 胶霉毒素	jiao mei du su	0
-酵母多糖	jiao mu duo tang	0
+酵母多糖	jiao mu duo tang	1
 酵母浸粉	jiao mu jin fen	0
 酵母浸膏	jiao mu jin gao	1
 焦蓬莪术酮	jiao peng e zhu tong	0
@@ -4669,7 +4669,7 @@ use_preset_vocabulary: false
 金刚烷基腾	jin gang wan ji teng	0
 金合欢素	jin he huan su	0
 金精三羧酸	jin jing san suo suan	0
-金粒	jin li	33
+金粒	jin li	34
 金离子标准溶液	jin li zi biao zhun rong ye	0
 金莲葡糖硫苷钾盐	jin lian pu tang liu gan jia yan	0
 金纳米棒	jin na mi bang	0
@@ -4905,7 +4905,7 @@ use_preset_vocabulary: false
 壳聚糖季铵盐	ke ju tang ji an yan	22
 壳聚糖盐酸盐	ke ju tang yan suan yan	0
 克菌丹标准溶液	ke jun dan biao zhun rong ye	0
-可可碱	ke ke jian	64
+可可碱	ke ke jian	65
 可可壳酊	ke ke ke ding	0
 可可提取物	ke ke ti qu wu	0
 克拉夫定	ke la fu ding	0
@@ -4991,7 +4991,7 @@ use_preset_vocabulary: false
 赖诺普利二水合物	lai nuo pu li er shui he wu	0
 蓝桉醇	lan an chun	0
 镧离子标准溶液	lan li zi biao zhun rong ye	0
-蓝色染料	lan se ran liao	10
+蓝色染料	lan se ran liao	12
 兰索拉唑硫醚	lan suo la zuo liu mi	0
 榄香酮酸	lan xiang tong suan	0
 兰雪醌	lan xue kun	0
@@ -5353,7 +5353,7 @@ use_preset_vocabulary: false
 磷酸四钙	lin suan si gai	0
 磷酸特地唑胺	lin suan te di zuo an	0
 磷酸铁	lin suan tie	6
-磷酸铁锂	lin suan tie li	390
+磷酸铁锂	lin suan tie li	240
 磷酸烯醇式丙酮酸钾	lin suan xi chun shi bing tong suan jia	0
 磷酸西他列汀	lin suan xi ta lie ting	0
 磷酸锌水合物	lin suan xin shui he wu	0
@@ -6261,7 +6261,7 @@ use_preset_vocabulary: false
 纳米级氧化铝	na mi ji yang hua lv	0
 纳米金粉	na mi jin fen	0
 纳米金刚石	na mi jin gang shi	0
-纳米粒子	na mi li zi	41
+纳米粒子	na mi li zi	42
 纳米钼粉	na mi mu fen	0
 纳米镍粉	na mi nie fen	3
 纳米羟基磷灰石	na mi qiang ji lin hui shi	0
@@ -6630,7 +6630,7 @@ use_preset_vocabulary: false
 葡萄糖苷曲拉通	pu tao tang gan qu la tong	0
 葡萄糖浆	pu tao tang jiang	27
 葡萄糖明胶弗洛拿	pu tao tang ming jiao fu luo na	0
-葡萄糖溶液	pu tao tang rong ye	11
+葡萄糖溶液	pu tao tang rong ye	12
 葡萄糖酸钾	pu tao tang suan jia	0
 葡萄糖酸氯己定	pu tao tang suan lv ji ding	0
 葡萄糖酸镁	pu tao tang suan mei	1
@@ -8001,7 +8001,7 @@ use_preset_vocabulary: false
 水甘草碱	shui gan cao jian	0
 水合橙皮内酯	shui he cheng pi nei zhi	0
 水合胆酸钠	shui he dan suan na	0
-水合硅酸	shui he gui suan	3
+水合硅酸	shui he gui suan	1
 水合氢氧化铬	shui he qing yang hua ge	0
 水合碳酸钇	shui he tan suan yi	0
 水合五氯钉三酸钾	shui he wu lv ding san suan jia	0
@@ -8374,7 +8374,7 @@ use_preset_vocabulary: false
 松属素查尔酮	song shu su cha er tong	0
 松香酸	song xiang suan	0
 松香酸钠	song xiang suan na	0
-松油	song you	62
+松油	song you	65
 松油醇	song you chun	0
 松油烯	song you xi	0
 松茋	song zhi	0
@@ -8387,7 +8387,7 @@ use_preset_vocabulary: false
 苏尼替尼苹果酸盐	su ni ti ni ping guo suan yan	0
 速溶硅酸钾	su rong gui suan jia	0
 簌酰二氢三三苯基腾	su xian er qing san san ben ji teng	0
-蒜氨酸	suan an suan	8
+蒜氨酸	suan an suan	12
 蒜黎芦碱	suan li lu jian	0
 酸模素	suan mo su	0
 酸水解酪蛋白	suan shui jie lao dan bai	0
@@ -8399,7 +8399,7 @@ use_preset_vocabulary: false
 酸性品红钙	suan xing pin hong gai	0
 酸性氧化铝	suan xing yang hua lv	0
 酸性乙醇	suan xing yi chun	0
-酸盐	suan yan	31
+酸盐	suan yan	33
 穗花牡荆苷	sui hua mu jing gan	0
 穗花杉双黄酮	sui hua shan shuang huang tong	0
 羧苄青霉素钠	suo bian qing mei su na	0
@@ -8607,7 +8607,7 @@ use_preset_vocabulary: false
 铜铁试剂	tong tie shi ji	0
 通用内切酶缓冲液	tong yong nei qie mei huan chong ye	0
 通用洗柱液	tong yong xi zhu ye	0
-铜柱	tong zhu	49
+铜柱	tong zhu	51
 头孢泊肟酯	tou bao bo wo zhi	1
 头孢布烯	tou bao bu xi	0
 头孢地嗪钠	tou bao di qin na	0
@@ -9450,7 +9450,7 @@ use_preset_vocabulary: false
 亚麻酸甲酯	ya ma suan jia zhi	0
 亚麻酸乙酯	ya ma suan yi zhi	0
 亚麻酰氯	ya ma xian lv	0
-亚麻籽油	ya ma zi you	175
+亚麻籽油	ya ma zi you	176
 蚜灭磷标准溶液	ya mie lin biao zhun rong ye	0
 芽糖苷壬基	ya tang gan ren ji	0
 芽糖苷十六烷基麦	ya tang gan shi liu wan ji mai	0
@@ -10722,7 +10722,7 @@ use_preset_vocabulary: false
 原苯甲酸三乙酯	yuan ben jia suan san yi zhi	0
 原丙酸三甲酯	yuan bing suan san jia zhi	0
 原丙酸三乙酯	yuan bing suan san yi zhi	0
-原卟啉	yuan bu lin	5
+原卟啉	yuan bu lin	6
 原卟啉二甲酯	yuan bu lin er jia zhi	0
 圆齿火棘酸	yuan chi huo ji suan	0
 原丁酸三甲酯	yuan ding suan san jia zhi	0
@@ -11115,7 +11115,7 @@ use_preset_vocabulary: false
 對硝苯胺	dui xiao ben an	0
 對硝基甲苯	dui xiao ji jia ben	0
 對硝基氯苯	dui xiao ji lv ben	0
-二苯	er ben	80
+二苯	er ben	83
 二苯甲烷二異氰根酯	er ben jia wan er yi qing gen zhi	0
 二丙二醇甲醚	er bing er chun jia mi	0
 二丙酮	er bing tong	0
@@ -11222,7 +11222,7 @@ use_preset_vocabulary: false
 環氧乙烷	huan yang yi wan	0
 黃磷	huang lin	0
 己內醯胺	ji nei xi an	0
-加保利	jia bao li	2
+加保利	jia bao li	1
 甲苯胺	jia ben an	0
 甲丙酮	jia bing tong	0
 甲丁酮	jia ding tong	0
@@ -11356,7 +11356,7 @@ use_preset_vocabulary: false
 三氟化溴	san fu hua xiu	0
 三氟溴甲烷	san fu xiu jia wan	0
 三甲基硼酸酯	san jia ji peng suan zhi	0
-三氯	san lv	21
+三氯	san lv	9
 三氯苯	san lv ben	1
 三氯丙烷	san lv bing wan	0
 三氯酚	san lv fen	0
@@ -11518,15 +11518,15 @@ use_preset_vocabulary: false
 不纯物质	bu chun wu zhi	0
 澄清石灰水	cheng qing shi hui shui	39
 抽气管	chou qi guan	0
-除杂	chu za	86
+除杂	chu za	89
 除杂试剂	chu za shi ji	1
 除杂装置	chu za zhuang zhi	1
-纯金属	chun jin shu	49
+纯金属	chun jin shu	51
 灯帽	deng mao	13
 发生装置	fa sheng zhuang zhi	34
 反应板	fan ying ban	0
-反应容器	fan ying rong qi	20
-反应装置	fan ying zhuang zhi	20
+反应容器	fan ying rong qi	21
+反应装置	fan ying zhuang zhi	19
 酚醛塑料	fen quan su liao	0
 酚酞试液	fen tai shi ye	5
 符号表达式	fu hao biao da shi	2
@@ -11539,7 +11539,7 @@ use_preset_vocabulary: false
 恒温蒸发	heng wen zheng fa	1
 化学用语	hua xue yong yu	17
 辉铜矿	hui tong kuang	0
-集气瓶	ji qi ping	18
+集气瓶	ji qi ping	20
 碱式滴定管	jian shi di ding guan	12
 降温结晶	jiang wen jie jing	5
 胶头滴管	jiao tou di guan	16
@@ -11548,14 +11548,14 @@ use_preset_vocabulary: false
 井穴板	jing xue ban	0
 矿石标本	kuang shi biao ben	2
 矿物储量	kuang wu chu liang	0
-扩散过程	kuo san guo cheng	27
+扩散过程	kuo san guo cheng	29
 离心沉降器	li xin chen jiang qi	0
 离子符号	li zi fu hao	3
 硫酸钾溶液	liu suan jia rong ye	1
 硫酸钠溶液	liu suan na rong ye	0
 硫酸铜溶液	liu suan tong rong ye	22
-镁带	mei dai	5
-镁粉	mei fen	103
+镁带	mei dai	6
+镁粉	mei fen	107
 镁条	mei tiao	42
 内焰	nei yan	10
 脲醛塑料	niao quan su liao	0
@@ -11573,27 +11573,27 @@ use_preset_vocabulary: false
 天然有机高分子材料	tian ran you ji gao fen zi cai liao	0
 铁架台	tie jia tai	5
 铜矾	tong fan	0
-外焰	wai yan	32
+外焰	wai yan	34
 万能夹	wan neng jia	0
 文字表达式	wen zi biao da shi	0
 物理实验室	wu li shi yan shi	0
 稀醋酸	xi cu suan	4
 细口瓶	xi kou ping	9
 吸滤瓶	xi lv ping	2
-洗气	xi qi	5
+洗气	xi qi	6
 洗气装置	xi qi zhuang zhi	1
 吸收装置	xi shou zhuang zhi	8
 橡胶胶帽	xiang jiao jiao mao	0
 橡胶乳头	xiang jiao ru tou	0
 硝酸钡溶液	xiao suan bei rong ye	0
 硝酸钙溶液	xiao suan gai rong ye	0
-小液滴	xiao ye di	50
+小液滴	xiao ye di	53
 锌粒	xin li	21
 有机高分子化合物	you ji gao fen zi hua he wu	6
 圆底烧瓶	yuan di shao ping	11
 元素质量守恒	yuan su zhi liang shou heng	0
 增加溶质	zeng jia rong zhi	0
-蘸取	zhan qu	101
+蘸取	zhan qu	106
 蒸发池	zheng fa chi	2
 蒸发结晶	zheng fa jie jing	24
 蒸发溶剂	zheng fa rong ji	3
@@ -11656,7 +11656,7 @@ use_preset_vocabulary: false
 统计学量度离差	tong ji xue liang du li cha	0
 统计学统计图表	tong ji xue tong ji tu biao	0
 统计学正态分布	tong ji xue zheng tai fen bu	0
-图象	tu xiang	177
+图象	tu xiang	186
 图形周界	tu xing zhou jie	0
 外切圆	wai qie yuan	0
 无效数字	wu xiao shu zi	0
@@ -11694,7 +11694,7 @@ use_preset_vocabulary: false
 阿贝尔扩张	a bei er kuo zhang	0
 阿贝尔李代数	a bei er li dai shu	0
 阿贝耳求和法	a bei er qiu he fa	0
-阿贝尔群	a bei er qun	33
+阿贝尔群	a bei er qun	41
 阿贝尔群层	a bei er qun ceng	0
 阿贝尔群范畴	a bei er qun fan chou	0
 阿贝耳微分	a bei er wei fen	0
@@ -11783,11 +11783,11 @@ use_preset_vocabulary: false
 艾特肯插值算法	ai te ken cha zhi suan fa	0
 爱因斯坦场方程	ai yin si tan chang fang cheng	86
 爱因斯坦度量	ai yin si tan du liang	2
-爱因斯坦方程	ai yin si tan fang cheng	66
+爱因斯坦方程	ai yin si tan fang cheng	67
 爱因斯坦积分	ai yin si tan ji fen	0
 爱因斯坦凝聚	ai yin si tan ning ju	42
 安得列多项式	an de lie duo xiang shi	0
-鞍点	an dian	58
+鞍点	an dian	61
 鞍点定理	an dian ding li	0
 鞍点对策	an dian dui ce	0
 鞍点法	an dian fa	3
@@ -11872,9 +11872,9 @@ use_preset_vocabulary: false
 半负定二次形式	ban fu ding er ci xing shi	0
 半负定型	ban fu ding xing	0
 半弗雷德霍姆算子	ban fu lei de huo mu suan zi	0
-半格	ban ge	45
+半格	ban ge	46
 半贯轴	ban guan zhou	0
-半环	ban huan	6
+半环	ban huan	7
 半幻方	ban huan fang	0
 半极集	ban ji ji	0
 半加性范畴	ban jia xing fan chou	0
@@ -11899,7 +11899,7 @@ use_preset_vocabulary: false
 半平面	ban ping mian	2
 半强函数	ban qiang han shu	0
 半切线	ban qie xian	0
-半球面	ban qiu mian	4
+半球面	ban qiu mian	10
 半群	ban qun	7
 半群代数	ban qun dai shu	1
 半群环	ban qun huan	0
@@ -12096,7 +12096,7 @@ use_preset_vocabulary: false
 贝叶斯决策函数	bei ye si jue ce han shu	0
 贝叶斯判定函数	bei ye si pan ding han shu	0
 贝叶斯区间估计	bei ye si qu jian gu ji	0
-贝叶斯统计	bei ye si tong ji	101
+贝叶斯统计	bei ye si tong ji	126
 本迪克松定理	ben di ke song ding li	0
 本性奇点	ben xing qi dian	2
 本性奇核	ben xing qi he	0
@@ -12189,7 +12189,7 @@ use_preset_vocabulary: false
 比例定理	bi li ding li	0
 比例分量	bi li fen liang	0
 比例规	bi li gui	0
-比例极限	bi li ji xian	0
+比例极限	bi li ji xian	1
 比例量	bi li liang	0
 比例论	bi li lun	0
 闭黎曼面	bi li man mian	0
@@ -12203,7 +12203,7 @@ use_preset_vocabulary: false
 闭路空间	bi lu kong jian	0
 比率遍历定理	bi lv bian li ding li	0
 闭滤子	bi lv zi	0
-比姆	bi mu	7
+比姆	bi mu	37
 比内公式	bi nei gong shi	0
 闭壳层	bi qiao ceng	2
 闭球	bi qiu	2
@@ -12248,7 +12248,7 @@ use_preset_vocabulary: false
 边独立数	bian du li shu	0
 变度量法	bian du liang fa	0
 边对称	bian dui chen	0
-变分	bian fen	127
+变分	bian fen	286
 变分不等方程	bian fen bu deng fang cheng	0
 变分不等式	bian fen bu deng shi	2
 变分导数	bian fen dao shu	2
@@ -12260,11 +12260,11 @@ use_preset_vocabulary: false
 边覆盖	bian fu gai	0
 边覆盖数	bian fu gai shu	0
 边割集	bian ge ji	0
-变函数	bian han shu	3
+变函数	bian han shu	2
 变化性	bian hua xing	0
 变换方程	bian huan fang cheng	0
-变换函数	bian huan han shu	9
-变换矩阵	bian huan ju zhen	36
+变换函数	bian huan han shu	10
+变换矩阵	bian huan ju zhen	37
 变换论	bian huan lun	0
 变换因子	bian huan yin zi	1
 边集	bian ji	4
@@ -12299,7 +12299,7 @@ use_preset_vocabulary: false
 遍历马尔可夫链	bian li ma er ke fu lian	0
 遍历态	bian li tai	0
 遍历信源	bian li xin yuan	0
-遍历性	bian li xing	43
+遍历性	bian li xing	44
 遍历性假设	bian li xing jia she	3
 边连通度	bian lian tong du	0
 变量变换	bian liang bian huan	0
@@ -12332,7 +12332,7 @@ use_preset_vocabulary: false
 边缘似然函数	bian yuan si ran han shu	0
 边缘算子	bian yuan suan zi	0
 边缘同态	bian yuan tong tai	0
-边缘形式	bian yuan xing shi	0
+边缘形式	bian yuan xing shi	1
 边缘映射	bian yuan ying she	0
 边缘元素	bian yuan yuan su	0
 边缘运算	bian yuan yun suan	3
@@ -12360,7 +12360,7 @@ use_preset_vocabulary: false
 表示模	biao shi mo	1
 表示图	biao shi tu	0
 表示域	biao shi yu	0
-表值	biao zhi	0
+表值	biao zhi	1
 标志变异度	biao zhi bian yi du	0
 标值点过程	biao zhi dian guo cheng	0
 标准变分方程	biao zhun bian fen fang cheng	0
@@ -12377,7 +12377,7 @@ use_preset_vocabulary: false
 标准化正态变量	biao zhun hua zheng tai bian liang	0
 标准化正态分布	biao zhun hua zheng tai fen bu	0
 标准回归系数	biao zhun hui gui xi shu	0
-标准解	biao zhun jie	0
+标准解	biao zhun jie	2
 标准离差	biao zhun li cha	0
 标准满态射	biao zhun man tai she	0
 标准同态	biao zhun tong tai	0
@@ -12397,8 +12397,8 @@ use_preset_vocabulary: false
 标准正交基	biao zhun zheng jiao ji	16
 标准正交性	biao zhun zheng jiao xing	0
 标准正交序列	biao zhun zheng jiao xu lie	0
-标准正态分布	biao zhun zheng tai fen bu	53
-标准坐标	biao zhun zuo biao	0
+标准正态分布	biao zhun zheng tai fen bu	55
+标准坐标	biao zhun zuo biao	1
 表作业法	biao zuo ye fa	0
 并半格	bing ban ge	0
 并不可约元	bing bu ke yue yuan	0
@@ -12415,7 +12415,7 @@ use_preset_vocabulary: false
 并向量积	bing xiang liang ji	0
 并行进位	bing xing jin wei	0
 并运算	bing yun suan	0
-波动方程	bo dong fang cheng	192
+波动方程	bo dong fang cheng	193
 玻恩	bo en	103
 伯恩赛德问题	bo en sai de wen ti	0
 伯恩斯坦多项式	bo en si tan duo xiang shi	1
@@ -12455,7 +12455,7 @@ use_preset_vocabulary: false
 伯努利迭代法	bo nu li die dai fa	0
 伯努利多项式	bo nu li duo xiang shi	0
 伯努利法	bo nu li fa	0
-伯努利方程	bo nu li fang cheng	68
+伯努利方程	bo nu li fang cheng	70
 伯努利分割	bo nu li fen ge	0
 伯努利双纽线	bo nu li shuang niu xian	0
 伯努利推移	bo nu li tui yi	0
@@ -12501,7 +12501,7 @@ use_preset_vocabulary: false
 不变因子	bu bian yin zi	0
 不变因子理想	bu bian yin zi li xiang	0
 不变元	bu bian yuan	0
-不变原理	bu bian yuan li	49
+不变原理	bu bian yuan li	2
 不变中心流形	bu bian zhong xin liu xing	0
 不变子代数	bu bian zi dai shu	0
 不变子集	bu bian zi ji	0
@@ -12532,7 +12532,7 @@ use_preset_vocabulary: false
 布尔多项式	bu er duo xiang shi	0
 布尔方程	bu er fang cheng	0
 布尔方法	bu er fang fa	0
-布尔格	bu er ge	5
+布尔格	bu er ge	4
 布尔规划	bu er gui hua	0
 布尔函数	bu er han shu	7
 布尔环	bu er huan	2
@@ -12566,7 +12566,7 @@ use_preset_vocabulary: false
 捕获突发码	bu huo tu fa ma	0
 不尽根	bu jin gen	0
 不尽根数	bu jin gen shu	0
-不精密	bu jing mi	0
+不精密	bu jing mi	1
 步决策	bu jue ce	1
 不可辨元	bu ke bian yuan	0
 不可测集	bu ke ce ji	1
@@ -12607,7 +12607,7 @@ use_preset_vocabulary: false
 不可微规划	bu ke wei gui hua	0
 不可微最优化	bu ke wei zui you hua	0
 不可压缩曲面	bu ke ya suo qu mian	0
-不可约	bu ke yue	14
+不可约	bu ke yue	16
 不可约表示	bu ke yue biao shi	71
 不可约代数簇	bu ke yue dai shu cu	0
 不可约代数对应	bu ke yue dai shu dui ying	0
@@ -12699,7 +12699,7 @@ use_preset_vocabulary: false
 不相关随机变量	bu xiang guan sui ji bian liang	0
 不相关系数	bu xiang guan xi shu	0
 不相关样本	bu xiang guan yang ben	0
-不相交	bu xiang jiao	11
+不相交	bu xiang jiao	14
 不相交并集	bu xiang jiao bing ji	0
 不相交关系	bu xiang jiao guan xi	0
 不相交集	bu xiang jiao ji	0
@@ -12755,7 +12755,7 @@ use_preset_vocabulary: false
 测度空间	ce du kong jian	4
 测度支集	ce du zhi ji	0
 测角术	ce jiao shu	0
-策略	ce lue	34257
+策略	ce lue	33719
 策略变量	ce lue bian liang	0
 策略等价性	ce lue deng jia xing	0
 策略迭代法	ce lue die dai fa	0
@@ -12770,7 +12770,7 @@ use_preset_vocabulary: false
 策梅洛弗兰克尔集合论	ce mei luo fu lan ke er ji he lun	0
 侧面积	ce mian ji	2
 测面积学	ce mian ji xue	0
-层化	ceng hua	1
+层化	ceng hua	16
 层空间	ceng kong jian	0
 层理论	ceng li lun	0
 层邻域	ceng lin yu	0
@@ -12801,14 +12801,14 @@ use_preset_vocabulary: false
 差积	cha ji	3
 插空法	cha kong fa	5
 差群	cha qun	0
-差商	cha shang	23
+差商	cha shang	24
 差数序列	cha shu xu lie	0
 叉同态	cha tong tai	0
 差异上链	cha yi shang lian	0
 差异显著性检验	cha yi xian zhu xing jian yan	0
 差运算	cha yun suan	0
 插值逼近	cha zhi bi jin	0
-插值方法	cha zhi fang fa	22
+插值方法	cha zhi fang fa	23
 插值公式	cha zhi gong shi	4
 插值函数	cha zhi han shu	11
 插值节点	cha zhi jie dian	0
@@ -12836,7 +12836,7 @@ use_preset_vocabulary: false
 常峰态分布	chang feng tai fen bu	0
 长辐旋轮线	chang fu xuan lun xian	0
 常和对策	chang he dui ce	0
-常见函数	chang jian han shu	14
+常见函数	chang jian han shu	15
 常量变差	chang liang bian cha	0
 常量域	chang liang yu	0
 长菱形	chang ling xing	1
@@ -12857,7 +12857,7 @@ use_preset_vocabulary: false
 常微分算子	chang wei fen suan zi	1
 常系数线性微分方程	chang xi shu xian xing wei fen fang cheng	0
 常项	chang xiang	1
-场源	chang yuan	45
+场源	chang yuan	49
 常值函数	chang zhi han shu	6
 常值映射	chang zhi ying she	0
 超阿贝耳函数	chao a bei er han shu	0
@@ -12872,7 +12872,7 @@ use_preset_vocabulary: false
 超度量空间	chao du liang kong jian	0
 超二次曲面	chao er ci qu mian	0
 超复数	chao fu shu	8
-超共轭	chao gong e	7
+超共轭	chao gong e	8
 超广义函数	chao guang yi han shu	0
 超过函数	chao guo han shu	0
 超函数	chao han shu	0
@@ -12889,7 +12889,7 @@ use_preset_vocabulary: false
 超矩阵	chao ju zhen	0
 超均函数	chao jun han shu	0
 超可解群	chao ke jie qun	0
-超理想	chao li xiang	0
+超理想	chao li xiang	2
 超滤子	chao lv zi	0
 超滤子基	chao lv zi ji	0
 超密切	chao mi qie	0
@@ -13004,7 +13004,7 @@ use_preset_vocabulary: false
 斥性不动点	chi xing bu dong dian	0
 迟延更新过程	chi yan geng xin guo cheng	0
 重传递群	chong chuan di qun	0
-重分	chong fen	3
+重分	chong fen	10
 充分不必要条件	chong fen bu bi yao tiao jian	35
 重分链映射	chong fen lian ying she	0
 充分统计量	chong fen tong ji liang	14
@@ -13076,7 +13076,7 @@ use_preset_vocabulary: false
 初等阵	chu deng zhen	0
 初等子结构	chu deng zi jie gou	0
 初等子模型	chu deng zi mu xing	0
-出度	chu du	15
+出度	chu du	25
 除环	chu huan	13
 初积分	chu ji fen	0
 初检验	chu jian yan	0
@@ -13092,7 +13092,7 @@ use_preset_vocabulary: false
 初始近似	chu shi jin si	1
 初始廖	chu shi liao	0
 初始流形	chu shi liu xing	0
-初始位置	chu shi wei zhi	170
+初始位置	chu shi wei zhi	184
 初始误差	chu shi wu cha	3
 初始序数	chu shi xu shu	0
 出树	chu shu	0
@@ -13100,7 +13100,7 @@ use_preset_vocabulary: false
 除数问题	chu shu wen ti	0
 初态	chu tai	77
 初项	chu xiang	0
-初相	chu xiang	14
+初相	chu xiang	15
 出向量	chu xiang liang	2
 初值定理	chu zhi ding li	0
 除子	chu zi	3
@@ -13201,7 +13201,7 @@ use_preset_vocabulary: false
 次微分	ci wei fen	1
 次微分稳定性	ci wei fen wen ding xing	0
 次微分映射	ci wei fen ying she	0
-次线性	ci xian xing	2
+次线性	ci xian xing	4
 次线性泛函	ci xian xing fan han	0
 次序公理	ci xu gong li	0
 次优控制	ci you kong zhi	0
@@ -13218,7 +13218,7 @@ use_preset_vocabulary: false
 丛空间	cong kong jian	1
 从路独立性	cong lu du li xing	0
 从配极性	cong pei ji xing	0
-从切	cong qie	9
+从切	cong qie	15
 从切直线	cong qie zhi xian	0
 从属范畴	cong shu fan chou	0
 从属构造	cong shu gou zao	0
@@ -13244,7 +13244,7 @@ use_preset_vocabulary: false
 错误命题	cuo wu ming ti	2
 错误模式	cuo wu mo shi	0
 打靶法	da ba fa	2
-达布	da bu	16
+达布	da bu	18
 达布定理	da bu ding li	0
 达布方程	da bu fang cheng	0
 达布和	da bu he	0
@@ -13273,12 +13273,12 @@ use_preset_vocabulary: false
 大样本分析	da yang ben fen xi	1
 大样本检验	da yang ben jian yan	3
 大样本问题	da yang ben wen ti	0
-大于或等于	da yu huo deng yu	96
+大于或等于	da yu huo deng yu	97
 大运算	da yun suan	0
 带边界曲面	dai bian jie qu mian	0
 带边流形	dai bian liu xing	1
 代表系	dai biao xi	0
-代表样本	dai biao yang ben	0
+代表样本	dai biao yang ben	6
 殆不变集	dai bu bian ji	0
 带偿付随机规划	dai chang fu sui ji gui hua	0
 殆单代数群	dai dan dai shu qun	0
@@ -13331,7 +13331,7 @@ use_preset_vocabulary: false
 代数函数域	dai shu han shu yu	0
 代数化	dai shu hua	2
 代数集	dai shu ji	0
-代数计算	dai shu ji suan	12
+代数计算	dai shu ji suan	13
 代数精度	dai shu jing du	0
 代数空间	dai shu kong jian	1
 代数扩张	dai shu kuo zhang	0
@@ -13341,7 +13341,7 @@ use_preset_vocabulary: false
 代数奇点	dai shu qi dian	0
 代数曲面	dai shu qu mian	2
 代数群	dai shu qun	0
-代数数论	dai shu shu lun	17
+代数数论	dai shu shu lun	18
 代数体函数	dai shu ti han shu	0
 代数同构	dai shu tong gou	0
 代数同态	dai shu tong tai	0
@@ -13439,7 +13439,7 @@ use_preset_vocabulary: false
 单分枝点	dan fen zhi dian	0
 单峰函数	dan feng han shu	3
 单峰性	dan feng xing	0
-单格	dan ge	42
+单格	dan ge	43
 单根系	dan gen xi	0
 单回归系数	dan hui gui xi shu	1
 单极点	dan ji dian	1
@@ -13466,7 +13466,7 @@ use_preset_vocabulary: false
 单模数	dan mo shu	0
 丹齐格	dan qi ge	0
 单切线	dan qie xian	0
-单群	dan qun	18
+单群	dan qun	21
 单射	dan she	8
 单射半径	dan she ban jing	0
 单射包络	dan she bao luo	0
@@ -13512,7 +13512,7 @@ use_preset_vocabulary: false
 单位线	dan wei xian	0
 单位伊代尔	dan wei yi dai er	0
 单位因子	dan wei yin zi	1
-单位圆	dan wei yuan	31
+单位圆	dan wei yuan	46
 单位园板	dan wei yuan ban	0
 单位元群	dan wei yuan qun	0
 单位元素	dan wei yuan su	0
@@ -13529,7 +13529,7 @@ use_preset_vocabulary: false
 单项形式	dan xiang xing shi	0
 单项样条	dan xiang yang tiao	0
 单项因子	dan xiang yin zi	0
-单形	dan xing	8
+单形	dan xing	24
 单形表	dan xing biao	0
 单形乘数	dan xing cheng shu	0
 单形定理	dan xing ding li	0
@@ -13545,7 +13545,7 @@ use_preset_vocabulary: false
 单压缩	dan ya suo	0
 单演	dan yan	0
 单演函数	dan yan han shu	0
-单样本	dan yang ben	29
+单样本	dan yang ben	31
 单样本法	dan yang ben fa	0
 单叶函数	dan ye han shu	0
 单叶曲面	dan ye qu mian	0
@@ -13561,7 +13561,7 @@ use_preset_vocabulary: false
 单元定理	dan yuan ding li	0
 单元基准	dan yuan ji zhun	0
 但泽范德潘方法	dan ze fan de pan fang fa	0
-单增	dan zeng	5
+单增	dan zeng	7
 单折曲线	dan zhe qu xian	0
 单值	dan zhi	25
 单值定理	dan zhi ding li	0
@@ -13660,7 +13660,7 @@ use_preset_vocabulary: false
 等价无穷小	deng jia wu qiong xiao	18
 等价纤维丛	deng jia xian wei cong	0
 等价项	deng jia xiang	1
-等价形式	deng jia xing shi	10
+等价形式	deng jia xing shi	11
 等价阵	deng jia zhen	0
 等价状态	deng jia zhuang tai	0
 等角变换	deng jiao bian huan	0
@@ -13682,13 +13682,13 @@ use_preset_vocabulary: false
 等距圆	deng ju yuan	0
 邓肯图	deng ken tu	0
 等倾线	deng qing xian	0
-等势	deng shi	5
+等势	deng shi	27
 等势集	deng shi ji	0
 等时曲线	deng shi qu xian	0
 等势线	deng shi xian	14
-等式约束	deng shi yue shu	10
-等位面	deng wei mian	0
-等位线	deng wei xian	5
+等式约束	deng shi yue shu	12
+等位面	deng wei mian	4
+等位线	deng wei xian	6
 等温参数	deng wen can shu	0
 等温曲面	deng wen qu mian	0
 等温曲线系	deng wen qu xian xi	0
@@ -13846,7 +13846,7 @@ use_preset_vocabulary: false
 第一可数性公理	di yi ke shu xing gong li	0
 第一类贝塞尔函数	di yi lei bei sai er han shu	0
 第一类不连续点	di yi lei bu lian xu dian	0
-第一类错误	di yi lei cuo wu	15
+第一类错误	di yi lei cuo wu	22
 第一类典范坐标	di yi lei dian fan zuo biao	0
 第一类汉克尔函数	di yi lei han ke er han shu	0
 第一类尖点	di yi lei jian dian	0
@@ -13899,10 +13899,10 @@ use_preset_vocabulary: false
 点集拓扑学	dian ji tuo pu xue	2
 点理想	dian li xiang	0
 点连通度	dian lian tong du	0
-点列	dian lie	3
+点列	dian lie	18
 点列对合	dian lie dui he	1
 点偶	dian ou	0
-点谱	dian pu	30
+点谱	dian pu	33
 点式收敛拓扑	dian shi shou lian tuo pu	0
 点态不连续性	dian tai bu lian xu xing	0
 点态单射	dian tai dan she	0
@@ -13927,7 +13927,7 @@ use_preset_vocabulary: false
 典型基矩阵	dian xing ji ju zhen	0
 典型李代数	dian xing li dai shu	0
 典型平均	dian xing ping jun	0
-典型群	dian xing qun	6
+典型群	dian xing qun	7
 典型实单李代数	dian xing shi dan li dai shu	0
 典型双曲线系	dian xing shuang qu xian xi	0
 典型松弛分解	dian xing song chi fen jie	0
@@ -13944,7 +13944,7 @@ use_preset_vocabulary: false
 迭代步	die dai bu	0
 迭代插值法	die dai cha zhi fa	0
 迭代抽样方法	die dai chou yang fang fa	0
-迭代计算	die dai ji suan	30
+迭代计算	die dai ji suan	31
 迭代极限	die dai ji xian	0
 迭代团图	die dai tuan tu	0
 迭代序列	die dai xu lie	0
@@ -13973,14 +13973,14 @@ use_preset_vocabulary: false
 定二次型	ding er ci xing	0
 定发散	ding fa san	0
 定幅曲面	ding fu qu mian	0
-定货	ding huo	5
+定货	ding huo	6
 定阶问题	ding jie wen ti	0
 定阔曲线	ding kuo qu xian	0
 定量观测	ding liang guan ce	1
 定率折旧法	ding lv zhe jiu fa	0
 定倾曲线	ding qing qu xian	0
 定时对策	ding shi dui ce	0
-定态	ding tai	82
+定态	ding tai	84
 定态薛定谔方程	ding tai xue ding e fang cheng	43
 定向胞腔	ding xiang bao qiang	0
 定向单形	ding xiang dan xing	0
@@ -13999,13 +13999,13 @@ use_preset_vocabulary: false
 丢番图分析	diu fan tu fen xi	0
 丢番图关系	diu fan tu guan xi	0
 丢番图几何	diu fan tu ji he	0
-动力学方程	dong li xue fang cheng	73
+动力学方程	dong li xue fang cheng	76
 动量算子	dong liang suan zi	1
 动态变数	dong tai bian shu	0
 动态补偿器	dong tai bu chang qi	0
 动态数列	dong tai shu lie	1
 动态最优化	dong tai zui you hua	7
-逗留时间	dou liu shi jian	20
+逗留时间	dou liu shi jian	23
 杜阿梅尔法	du a mei er fa	0
 读出头	du chu tou	1
 杜福特	du fu te	0
@@ -14025,10 +14025,10 @@ use_preset_vocabulary: false
 独立系	du li xi	1
 独立信源	du li xin yuan	2
 独立性检验	du li xing jian yan	7
-独立样本	du li yang ben	59
+独立样本	du li yang ben	60
 独立增量过程	du li zeng liang guo cheng	0
 度量格	du liang ge	0
-度量化	du liang hua	0
+度量化	du liang hua	2
 度量可递性	du liang ke di xing	0
 度量联络	du liang lian luo	0
 度量密度	du liang mi du	0
@@ -14054,9 +14054,9 @@ use_preset_vocabulary: false
 对策模型	dui ce mo xing	0
 对策树	dui ce shu	0
 对策元素	dui ce yuan su	0
-对称变换	dui chen bian huan	5
+对称变换	dui chen bian huan	6
 对称波函数	dui chen bo han shu	0
-对称部分	dui chen bu fen	0
+对称部分	dui chen bu fen	2
 对称差	dui chen cha	1
 对称差分	dui chen cha fen	0
 对称差运算	dui chen cha yun suan	0
@@ -14076,7 +14076,7 @@ use_preset_vocabulary: false
 对称连续群	dui chen lian xu qun	0
 对称邻域	dui chen lin yu	0
 对称马尔可夫过程	dui chen ma er ke fu guo cheng	0
-对称面	dui chen mian	18
+对称面	dui chen mian	19
 对称曲面	dui chen qu mian	2
 对称区组设计	dui chen qu zu she ji	0
 对称群	dui chen qun	43
@@ -14095,7 +14095,7 @@ use_preset_vocabulary: false
 对分布方法	dui fen bu fang fa	0
 对分法	dui fen fa	0
 对分搜索	dui fen sou suo	0
-对合	dui he	38
+对合	dui he	41
 对合代数	dui he dai shu	0
 对合定理	dui he ding li	2
 对合对射变换	dui he dui she bian huan	0
@@ -14104,7 +14104,7 @@ use_preset_vocabulary: false
 对合矩阵	dui he ju zhen	0
 对合系	dui he xi	0
 对换矩阵	dui huan ju zhen	0
-对角化	dui jiao hua	79
+对角化	dui jiao hua	83
 对角化方法	dui jiao hua fang fa	1
 对角射	dui jiao she	0
 对角态射	dui jiao tai she	0
@@ -14168,7 +14168,7 @@ use_preset_vocabulary: false
 对偶投影	dui ou tou ying	0
 对偶图	dui ou tu	1
 对偶图形	dui ou tu xing	0
-对偶问题	dui ou wen ti	53
+对偶问题	dui ou wen ti	58
 对偶系统	dui ou xi tong	1
 对偶线性规划	dui ou xian xing gui hua	1
 对偶向量	dui ou xiang liang	0
@@ -14234,7 +14234,7 @@ use_preset_vocabulary: false
 多重共线性	duo chong gong xian xing	22
 多重弧	duo chong hu	0
 多重回归	duo chong hui gui	1
-多重积分	duo chong ji fen	5
+多重积分	duo chong ji fen	6
 多重级数	duo chong ji shu	0
 多重极限环	duo chong ji xian huan	0
 多重检验	duo chong jian yan	11
@@ -14284,7 +14284,7 @@ use_preset_vocabulary: false
 多阶段规划	duo jie duan gui hua	0
 多阶段决策过程	duo jie duan jue ce guo cheng	2
 多接入信道	duo jie ru xin dao	0
-多狂	duo kuang	2
+多狂	duo kuang	4
 多连通	duo lian tong	0
 多连通空间	duo lian tong kong jian	0
 多连通区域	duo lian tong qu yu	0
@@ -14310,10 +14310,10 @@ use_preset_vocabulary: false
 多人对策	duo ren dui ce	0
 多实元函数	duo shi yuan han shu	0
 多台服务系统	duo tai fu wu xi tong	0
-多体问题	duo ti wen ti	48
+多体问题	duo ti wen ti	49
 多维复空间	duo wei fu kong jian	0
 多维积分	duo wei ji fen	0
-多维空间	duo wei kong jian	81
+多维空间	duo wei kong jian	87
 多维系统	duo wei xi tong	0
 多相抽样法	duo xiang chou yang fa	0
 多项分布	duo xiang fen bu	5
@@ -14324,7 +14324,7 @@ use_preset_vocabulary: false
 多项式对策	duo xiang shi dui ce	0
 多项式多面体	duo xiang shi duo mian ti	0
 多项式伽罗瓦群	duo xiang shi ga luo wa qun	0
-多项式环	duo xiang shi huan	8
+多项式环	duo xiang shi huan	9
 多项式回归	duo xiang shi hui gui	9
 多项式加速	duo xiang shi jia su	0
 多项式解	duo xiang shi jie	0
@@ -14354,14 +14354,14 @@ use_preset_vocabulary: false
 多元方差分析	duo yuan fang cha fen xi	0
 多元分布	duo yuan fen bu	0
 多元分布函数	duo yuan fen bu han shu	0
-多元分析	duo yuan fen xi	6
+多元分析	duo yuan fen xi	7
 多元共线性	duo yuan gong xian xing	0
 多元回归方程	duo yuan hui gui fang cheng	0
 多元回归分析	duo yuan hui gui fen xi	8
 多元解析函数	duo yuan jie xi han shu	0
 多圆盘	duo yuan pan	0
 多元全纯函数	duo yuan quan chun han shu	0
-多元时间序列	duo yuan shi jian xu lie	15
+多元时间序列	duo yuan shi jian xu lie	14
 多元微积分	duo yuan wei ji fen	61
 多元线性模型	duo yuan xian xing mo xing	2
 多元相关系数	duo yuan xiang guan xi shu	0
@@ -14388,7 +14388,7 @@ use_preset_vocabulary: false
 二班曲面	er ban qu mian	0
 二班曲线	er ban qu xian	0
 二变项函子	er bian xiang han zi	0
-二部图	er bu tu	17
+二部图	er bu tu	22
 二重泊松分布	er chong bo song fen bu	0
 二重差分	er chong cha fen	0
 二重插值	er chong cha zhi	0
@@ -14425,7 +14425,7 @@ use_preset_vocabulary: false
 二次互反性	er ci hu fan xing	0
 二次交换子	er ci jiao huan zi	0
 二次可微函数	er ci ke wei han shu	0
-二次空间	er ci kong jian	0
+二次空间	er ci kong jian	1
 二次碰撞概率方法	er ci peng zhuang gai lv fang fa	0
 二次平均	er ci ping jun	0
 二次齐式	er ci qi shi	0
@@ -14480,7 +14480,7 @@ use_preset_vocabulary: false
 二体问题	er ti wen ti	18
 二维二次曲面	er wei er ci qu mian	0
 二维分布	er wei fen bu	0
-二维系统	er wei xi tong	6
+二维系统	er wei xi tong	8
 二维向量空间	er wei xiang liang kong jian	1
 二维小波	er wei xiao bo	1
 二维性	er wei xing	5
@@ -14519,13 +14519,13 @@ use_preset_vocabulary: false
 罚参数	fa can shu	2
 法丛	fa cong	0
 法都引理	fa dou yin li	0
-法方程	fa fang cheng	2
+法方程	fa fang cheng	1
 罚函数	fa han shu	3
 罚函数法	fa han shu fa	1
 法汇	fa hui	2
 法雷级数	fa lei ji shu	0
 法里序列	fa li xu lie	0
-法面	fa mian	0
+法面	fa mian	1
 法平面	fa ping mian	5
 法曲率	fa qu lv	0
 法曲率向量	fa qu lv xiang liang	0
@@ -14547,7 +14547,7 @@ use_preset_vocabulary: false
 反半不变量	fan ban bu bian liang	0
 泛包络代数	fan bao luo dai shu	0
 反比例量	fan bi li liang	0
-反变	fan bian	3
+反变	fan bian	5
 反变函子	fan bian han zi	0
 反变换	fan bian huan	26
 反变射函子	fan bian she han zi	0
@@ -14602,8 +14602,8 @@ use_preset_vocabulary: false
 繁分数	fan fen shu	1
 泛覆叠群	fan fu die qun	0
 反根式	fan gen shi	0
-反共振	fan gong zhen	18
-泛函	fan han	522
+反共振	fan gong zhen	2
+泛函	fan han	523
 泛函变换	fan han bian huan	0
 泛函微分方程	fan han wei fen fang cheng	0
 反换位子	fan huan wei zi	0
@@ -14637,7 +14637,7 @@ use_preset_vocabulary: false
 范数剩余符号	fan shu sheng yu fu hao	0
 反双曲函数	fan shuang qu han shu	0
 反四元数	fan si yuan shu	0
-反题	fan ti	19
+反题	fan ti	27
 反同构	fan tong gou	0
 反同构格	fan tong gou ge	0
 反同态	fan tong tai	0
@@ -14670,7 +14670,7 @@ use_preset_vocabulary: false
 反演中心	fan yan zhong xin	1
 反应扩散方程	fan ying kuo san fang cheng	1
 反应面	fan ying mian	0
-反应曲线	fan ying qu xian	0
+反应曲线	fan ying qu xian	5
 泛映射	fan ying she	0
 反有序集合	fan you xu ji he	0
 反余切函数	fan yu qie han shu	1
@@ -14853,7 +14853,7 @@ use_preset_vocabulary: false
 非挠联络	fei nao lian luo	0
 非挠群	fei nao qun	0
 菲涅耳积分	fei nie er ji fen	1
-非欧	fei ou	27
+非欧	fei ou	30
 非欧几里得几何学	fei ou ji li de ji he xue	0
 非欧几里得空间	fei ou ji li de kong jian	1
 非欧几里得平移	fei ou ji li de ping yi	0
@@ -14900,7 +14900,7 @@ use_preset_vocabulary: false
 非同余	fei tong yu	0
 非凸二次规划	fei tu er ci gui hua	0
 非凸规划	fei tu gui hua	0
-非退化	fei tui hua	14
+非退化	fei tui hua	16
 非退化二次曲线	fei tui hua er ci qu xian	0
 非退化二次型	fei tui hua er ci xing	0
 非退化分布	fei tui hua fen bu	0
@@ -14926,7 +14926,7 @@ use_preset_vocabulary: false
 非线性泛函分析	fei xian xing fan han fen xi	3
 非线性复杂度	fei xian xing fu za du	0
 非线性规划	fei xian xing gui hua	29
-非线性回归	fei xian xing hui gui	12
+非线性回归	fei xian xing hui gui	15
 非线性积分方程	fei xian xing ji fen fang cheng	0
 非线性滤波	fei xian xing lv bo	1
 非线性模型	fei xian xing mo xing	36
@@ -14937,10 +14937,10 @@ use_preset_vocabulary: false
 非线性算子	fei xian xing suan zi	1
 非线性同余方法	fei xian xing tong yu fang fa	0
 非线性椭圆	fei xian xing tuo yuan	0
-非线性问题	fei xian xing wen ti	31
+非线性问题	fei xian xing wen ti	34
 非线性限制	fei xian xing xian zhi	0
 非线性薛定谔方程	fei xian xing xue ding e fang cheng	1
-非线性映射	fei xian xing ying she	8
+非线性映射	fei xian xing ying she	11
 非线性约束	fei xian xing yue shu	3
 非线性振动	fei xian xing zhen dong	3
 非线性自回归模型	fei xian xing zi hui gui mo xing	0
@@ -15048,7 +15048,7 @@ use_preset_vocabulary: false
 分类样本单位	fen lei yang ben dan wei	0
 分类映射	fen lei ying she	0
 分类资料	fen lei zi liao	0
-分离变量	fen li bian liang	39
+分离变量	fen li bian liang	41
 分离变量法	fen li bian liang fa	33
 分离变数方程	fen li bian shu fang cheng	0
 分离变数型微分方程	fen li bian shu xing wei fen fang cheng	0
@@ -15070,7 +15070,7 @@ use_preset_vocabulary: false
 分离凸集	fen li tu ji	0
 分离系数	fen li xi shu	0
 分离性公理	fen li xing gong li	1
-分离原理	fen li yuan li	4
+分离原理	fen li yuan li	2
 分量表示	fen liang biao shi	6
 分裂格	fen lie ge	0
 分裂李代数	fen lie li dai shu	0
@@ -15078,7 +15078,7 @@ use_preset_vocabulary: false
 分裂域	fen lie yu	0
 分裂原理	fen lie yuan li	0
 分配数列	fen pei shu lie	0
-分配性	fen pei xing	0
+分配性	fen pei xing	1
 分配元	fen pei yuan	0
 分批试验法	fen pi shi yan fa	0
 分片线性流形	fen pian xian xing liu xing	0
@@ -15110,7 +15110,7 @@ use_preset_vocabulary: false
 芬斯莱廖	fen si lai liao	0
 芬斯勒流形	fen si le liu xing	0
 分图	fen tu	11
-分位数	fen wei shu	171
+分位数	fen wei shu	181
 分位数过程	fen wei shu guo cheng	0
 分析几何学	fen xi ji he xue	0
 分析解	fen xi jie	0
@@ -15146,14 +15146,14 @@ use_preset_vocabulary: false
 风险决策	feng xian jue ce	0
 否定带	fou ding dai	0
 否定命题	fou ding ming ti	5
-否命题	fou ming ti	20
+否命题	fou ming ti	21
 负半定二次型	fu ban ding er ci xing	0
 复比例	fu bi li	0
 富比尼定理	fu bi ni ding li	1
 负变差	fu bian cha	0
 复变量	fu bian liang	6
 复变数	fu bian shu	0
-附标	fu biao	33
+附标	fu biao	36
 复表示	fu biao shi	0
 负部分	fu bu fen	0
 复测度	fu ce du	0
@@ -15273,14 +15273,14 @@ use_preset_vocabulary: false
 傅里叶反演公式	fu li ye fan yan gong shi	0
 傅里叶分析仪	fu li ye fen xi yi	0
 傅里叶核	fu li ye he	0
-傅里叶积分	fu li ye ji fen	18
+傅里叶积分	fu li ye ji fen	19
 傅里叶积分定理	fu li ye ji fen ding li	0
 傅里叶积分方程	fu li ye ji fen fang cheng	0
 傅里叶积分算子	fu li ye ji fen suan zi	0
 傅立叶级数	fu li ye ji shu	44
 傅里叶逆变换	fu li ye ni bian huan	7
 傅里叶斯蒂尔吉斯变换	fu li ye si di er ji si bian huan	0
-傅里叶系数	fu li ye xi shu	25
+傅里叶系数	fu li ye xi shu	26
 傅里叶余弦变换	fu li ye yu xian bian huan	0
 傅里叶展开	fu li ye zhan kai	19
 傅里叶正弦变换	fu li ye zheng xian bian huan	0
@@ -15337,7 +15337,7 @@ use_preset_vocabulary: false
 辅助符号	fu zhu fu hao	3
 辅助统计量	fu zhu tong ji liang	0
 辅助推导法	fu zhu tui dao fa	0
-辅助圆	fu zhu yuan	5
+辅助圆	fu zhu yuan	6
 伽罗瓦代数	ga luo wa dai shu	0
 伽罗瓦对应	ga luo wa dui ying	0
 伽罗瓦方程	ga luo wa fang cheng	0
@@ -15359,7 +15359,7 @@ use_preset_vocabulary: false
 概率抽样	gai lv chou yang	7
 概率单位	gai lv dan wei	0
 概率度量空间	gai lv du liang kong jian	0
-概率幅	gai lv fu	55
+概率幅	gai lv fu	56
 概率积分	gai lv ji fen	0
 概率距离	gai lv ju li	0
 概率空间	gai lv kong jian	0
@@ -15415,7 +15415,7 @@ use_preset_vocabulary: false
 高斯插值公式	gao si cha zhi gong shi	0
 高斯方程	gao si fang cheng	1
 高斯公式	gao si gong shi	34
-高斯过程	gao si guo cheng	61
+高斯过程	gao si guo cheng	62
 高斯和	gao si he	0
 高斯积分	gao si ji fen	16
 高斯马尔可夫定理	gao si ma er ke fu ding li	0
@@ -15464,7 +15464,7 @@ use_preset_vocabulary: false
 隔离集	ge li ji	0
 格理想	ge li xiang	0
 格林公式	ge lin gong shi	20
-格林函数	ge lin han shu	112
+格林函数	ge lin han shu	119
 格林空间	ge lin kong jian	0
 格林容量	ge lin rong liang	0
 格林算子	ge lin suan zi	0
@@ -15496,7 +15496,7 @@ use_preset_vocabulary: false
 割圆整数	ge yuan zheng shu	0
 格运算	ge yun suan	0
 格子码	ge zi ma	0
-格子设计	ge zi she ji	0
+格子设计	ge zi she ji	2
 格子图	ge zi tu	1
 根函数	gen han shu	1
 根环	gen huan	0
@@ -15508,7 +15508,7 @@ use_preset_vocabulary: false
 根条件	gen tiao jian	0
 根心	gen xin	1
 根域	gen yu	20
-根轴	gen zhou	6
+根轴	gen zhou	4
 根子空间	gen zi kong jian	3
 更换策略	geng huan ce lue	4
 更换理论	geng huan li lun	0
@@ -15622,7 +15622,7 @@ use_preset_vocabulary: false
 共域变换方法	gong yu bian huan fang fa	0
 共圆点	gong yuan dian	0
 共振条件	gong zhen tiao jian	1
-共振现象	gong zhen xian xiang	49
+共振现象	gong zhen xian xiang	50
 共轴圆	gong zhou yuan	0
 工祖储器	gong zu chu qi	0
 构形	gou xing	96
@@ -15636,10 +15636,10 @@ use_preset_vocabulary: false
 孤点	gu dian	6
 古典概率	gu dian gai lv	3
 固定变量	gu ding bian liang	2
-固定模	gu ding mo	4
+固定模	gu ding mo	0
 固定模型	gu ding mo xing	0
 固定奇点	gu ding qi dian	0
-固定样本	gu ding yang ben	7
+固定样本	gu ding yang ben	4
 固定终点变分问题	gu ding zhong dian bian fen wen ti	0
 古尔丁法则	gu er ding fa ze	0
 估计法	gu ji fa	0
@@ -15659,7 +15659,7 @@ use_preset_vocabulary: false
 固有对偶理想	gu you dui ou li xiang	0
 固有凸体	gu you tu ti	0
 固有运动	gu you yun dong	0
-固有振荡	gu you zhen dang	3
+固有振荡	gu you zhen dang	5
 故障频度	gu zhang pin du	0
 拐渐近线	guai jian jin xian	0
 拐结点	guai jie dian	0
@@ -15669,9 +15669,9 @@ use_preset_vocabulary: false
 拐折	guai zhe	10
 观测函数	guan ce han shu	0
 观测误差	guan ce wu cha	8
-观测值	guan ce zhi	129
+观测值	guan ce zhi	130
 管道曲面	guan dao qu mian	0
-关键路	guan jian lu	0
+关键路	guan jian lu	9
 关键路方法	guan jian lu fang fa	0
 关联公理	guan lian gong li	0
 关联公式	guan lian gong shi	0
@@ -15692,7 +15692,7 @@ use_preset_vocabulary: false
 广播信道	guang bo xin dao	2
 光滑簇	guang hua cu	0
 光滑概形	guang hua gai xing	0
-光滑函数	guang hua han shu	18
+光滑函数	guang hua han shu	19
 光滑化	guang hua hua	1
 光滑化算子	guang hua hua suan zi	0
 光滑流形	guang hua liu xing	2
@@ -15725,7 +15725,7 @@ use_preset_vocabulary: false
 广义格林公式	guang yi ge lin gong shi	0
 广义格林函数	guang yi ge lin han shu	0
 广义过程	guang yi guo cheng	0
-广义函数	guang yi han shu	17
+广义函数	guang yi han shu	18
 广义函数局部化	guang yi han shu ju bu hua	0
 广义函数卷积	guang yi han shu juan ji	0
 广义函数空间	guang yi han shu kong jian	8
@@ -15775,7 +15775,7 @@ use_preset_vocabulary: false
 广义酉群	guang yi you qun	0
 广义约化梯度法	guang yi yue hua ti du fa	0
 广义指令	guang yi zhi ling	0
-广义坐标	guang yi zuo biao	178
+广义坐标	guang yi zuo biao	181
 光子信道	guang zi xin dao	0
 规避对策	gui bi dui ce	1
 轨道分解公式	gui dao fen jie gong shi	0
@@ -15785,7 +15785,7 @@ use_preset_vocabulary: false
 轨道稳定性	gui dao wen ding xing	6
 规范化函数	gui fan hua han shu	1
 规范面	gui fan mian	0
-规范群	gui fan qun	15
+规范群	gui fan qun	19
 规范正交函数系	gui fan zheng jiao han shu xi	0
 规范正交基	gui fan zheng jiao ji	1
 规范正交系	gui fan zheng jiao xi	0
@@ -15795,7 +15795,7 @@ use_preset_vocabulary: false
 归纳规则	gui na gui ze	0
 归纳极限	gui na ji xian	0
 归纳假设	gui na jia she	1
-归纳逻辑	gui na luo ji	16
+归纳逻辑	gui na luo ji	17
 归纳维数	gui na wei shu	0
 归纳系	gui na xi	0
 归纳限	gui na xian	0
@@ -15812,7 +15812,7 @@ use_preset_vocabulary: false
 过分识别	guo fen shi bie	0
 国际数学联合会	guo ji shu xue lian he hui	0
 国际统计学会	guo ji tong ji xue hui	1
-过滤群	guo lv qun	1
+过滤群	guo lv qun	0
 过剩逼近	guo sheng bi jin	0
 过剩近似值	guo sheng jin si zhi	0
 过剩数	guo sheng shu	0
@@ -15822,7 +15822,7 @@ use_preset_vocabulary: false
 哈尔测度	ha er ce du	2
 哈尔条件	ha er tiao jian	0
 哈密顿典范方程	ha mi dun dian fan fang cheng	0
-哈密顿方程	ha mi dun fang cheng	23
+哈密顿方程	ha mi dun fang cheng	24
 哈密顿公式	ha mi dun gong shi	0
 哈密顿函数	ha mi dun han shu	16
 哈密顿圈	ha mi dun quan	1
@@ -15864,7 +15864,7 @@ use_preset_vocabulary: false
 函数迭代法	han shu die dai fa	0
 函数方程	han shu fang cheng	17
 函数方程法	han shu fang cheng fa	0
-函数符号	han shu fu hao	10
+函数符号	han shu fu hao	11
 函数构造论	han shu gou zao lun	0
 函数行列式	han shu hang lie shi	0
 函数级数	han shu ji shu	0
@@ -15906,7 +15906,7 @@ use_preset_vocabulary: false
 豪斯霍尔德法	hao si huo er de fa	0
 豪斯霍尔德矩阵	hao si huo er de ju zhen	0
 好约化	hao yue hua	0
-合比	he bi	6
+合比	he bi	8
 合并误差	he bing wu cha	0
 合成除数	he cheng chu shu	0
 合成代数	he cheng dai shu	0
@@ -15954,7 +15954,7 @@ use_preset_vocabulary: false
 合同标准型	he tong biao zhun xing	1
 合同映射	he tong ying she	0
 赫维赛德函数	he wei sai de han shu	0
-合系	he xi	4
+合系	he xi	1
 和向量	he xiang liang	0
 核型估计	he xing gu ji	0
 核型空间	he xing kong jian	0
@@ -16050,7 +16050,7 @@ use_preset_vocabulary: false
 弧线搜索法	hu xian sou suo fa	0
 互相独立事件	hu xiang du li shi jian	0
 互相负穿样本	hu xiang fu chuan yang ben	0
-互相关	hu xiang guan	7
+互相关	hu xiang guan	10
 互相关函数	hu xiang guan han shu	1
 互相关系数	hu xiang guan xi shu	1
 互协方差函数	hu xie fang cha han shu	0
@@ -16076,7 +16076,7 @@ use_preset_vocabulary: false
 环面纽结	huan mian niu jie	1
 环面群	huan mian qun	0
 环绕空间	huan rao kong jian	2
-环绕数	huan rao shu	12
+环绕数	huan rao shu	13
 环上矩阵群	huan shang ju zhen qun	0
 环生成元	huan sheng cheng yuan	0
 环式空间	huan shi kong jian	0
@@ -16262,7 +16262,7 @@ use_preset_vocabulary: false
 极大环面	ji da huan mian	0
 极大或极小条件	ji da huo ji xiao tiao jian	0
 极大集	ji da ji	0
-极大极小	ji da ji xiao	3
+极大极小	ji da ji xiao	7
 极大可分扩张	ji da ke fen kuo zhang	0
 极大理想	ji da li xiang	4
 极大理想空间	ji da li xiang kong jian	0
@@ -16301,7 +16301,7 @@ use_preset_vocabulary: false
 积分变量	ji fen bian liang	14
 积分变数	ji fen bian shu	0
 积分表	ji fen biao	7
-积分表示	ji fen biao shi	0
+积分表示	ji fen biao shi	3
 积分不变式	ji fen bu bian shi	0
 积分不等式	ji fen bu deng shi	0
 积分抽样方法	ji fen chou yang fang fa	0
@@ -16309,14 +16309,14 @@ use_preset_vocabulary: false
 积分定理	ji fen ding li	3
 积分对数	ji fen dui shu	1
 积分方程核	ji fen fang cheng he	0
-积分符号	ji fen fu hao	15
+积分符号	ji fen fu hao	16
 积分公式	ji fen gong shi	34
 积分关系	ji fen guan xi	0
 积分号	ji fen hao	0
 积分核	ji fen he	0
 积分几何	ji fen ji he	1
 积分几何学	ji fen ji he xue	0
-积分计算	ji fen ji suan	0
+积分计算	ji fen ji suan	20
 积分极限	ji fen ji xian	1
 极分解	ji fen jie	1
 积分流形	ji fen liu xing	2
@@ -16367,9 +16367,9 @@ use_preset_vocabulary: false
 几何轨迹	ji he gui ji	1
 几何和	ji he he	0
 几何化	ji he hua	87
-几何基础	ji he ji chu	0
+几何基础	ji he ji chu	8
 几何截面	ji he jie mian	1
-几何解释	ji he jie shi	24
+几何解释	ji he jie shi	25
 几何均值	ji he jun zhi	4
 几何狂	ji he kuang	0
 几何亏格	ji he kui ge	0
@@ -16378,8 +16378,8 @@ use_preset_vocabulary: false
 几何实现	ji he shi xian	0
 几何数列	ji he shu lie	0
 几何向量	ji he xiang liang	0
-几何意义	ji he yi yi	132
-几何元素	ji he yuan su	20
+几何意义	ji he yi yi	146
+几何元素	ji he yuan su	21
 几何约束	ji he yue shu	17
 几何准问题	ji he zhun wen ti	0
 几乎必然	ji hu bi ran	0
@@ -16403,13 +16403,13 @@ use_preset_vocabulary: false
 极角	ji jiao	5
 集结法	ji jie fa	0
 季节性模型	ji jie xing mo xing	0
-极距	ji ju	14
+极距	ji ju	16
 积矩	ji ju	5
 积矩相关	ji ju xiang guan	0
 积可测集	ji ke ce ji	0
 积可测空间	ji ke ce kong jian	0
 迹空间	ji kong jian	0
-积空间	ji kong jian	5
+积空间	ji kong jian	3
 极类	ji lei	1
 迹理想	ji li xiang	0
 计量抽检	ji liang chou jian	0
@@ -16448,8 +16448,8 @@ use_preset_vocabulary: false
 计数问题	ji shu wen ti	6
 级数无穷	ji shu wu qiong	0
 奇数性	ji shu xing	0
-级数展开	ji shu zhan kai	13
-计算单元	ji suan dan yuan	107
+级数展开	ji shu zhan kai	17
+计算单元	ji suan dan yuan	109
 计算电路	ji suan dian lu	1
 计算寄存器	ji suan ji cun qi	0
 计算机语	ji suan ji yu	2
@@ -16460,7 +16460,7 @@ use_preset_vocabulary: false
 吉文斯法	ji wen si fa	0
 极系	ji xi	0
 极线	ji xian	32
-极限策略	ji xian ce lue	0
+极限策略	ji xian ce lue	1
 极限点型	ji xian dian xing	0
 极限定理	ji xian ding li	3
 极限分布	ji xian fen bu	4
@@ -16470,7 +16470,7 @@ use_preset_vocabulary: false
 极限集	ji xian ji	0
 极限集合	ji xian ji he	0
 极限球面	ji xian qiu mian	0
-极限圈	ji xian quan	1
+极限圈	ji xian quan	0
 极线图	ji xian tu	0
 极限序数	ji xian xu shu	0
 极限鞅	ji xian yang	0
@@ -16505,7 +16505,7 @@ use_preset_vocabulary: false
 极小极大解	ji xiao ji da jie	0
 极小极大判决函数	ji xiao ji da pan jue han shu	0
 极小极大原理	ji xiao ji da yuan li	0
-极小解	ji xiao jie	4
+极小解	ji xiao jie	2
 极小类型	ji xiao lei xing	0
 极小理想	ji xiao li xiang	0
 极小密度	ji xiao mi du	0
@@ -16552,7 +16552,7 @@ use_preset_vocabulary: false
 既约性	ji yue xing	0
 吉赞同构	ji zan tong gou	0
 集值	ji zhi	0
-己知	ji zhi	16
+己知	ji zhi	18
 集指标过程	ji zhi biao guo cheng	0
 极值场	ji zhi chang	0
 极值长度	ji zhi chang du	0
@@ -16565,7 +16565,7 @@ use_preset_vocabulary: false
 极值曲线场	ji zhi qu xian chang	0
 极值条件	ji zhi tiao jian	14
 极值统计	ji zhi tong ji	0
-极值问题	ji zhi wen ti	31
+极值问题	ji zhi wen ti	32
 极值性质	ji zhi xing zhi	1
 集值映射	ji zhi ying she	0
 极值原理	ji zhi yuan li	2
@@ -16578,7 +16578,7 @@ use_preset_vocabulary: false
 极坐标图	ji zuo biao tu	11
 加边矩阵	jia bian ju zhen	0
 加抽样方法	jia chou yang fang fa	0
-嘉当	jia dang	48
+嘉当	jia dang	50
 嘉当不变量	jia dang bu bian liang	0
 嘉当分解	jia dang fen jie	0
 嘉当公式	jia dang gong shi	3
@@ -16612,7 +16612,7 @@ use_preset_vocabulary: false
 加权不等式	jia quan bu deng shi	0
 加权残差	jia quan can cha	0
 加权抽样	jia quan chou yang	1
-加权方法	jia quan fang fa	12
+加权方法	jia quan fang fa	13
 加权权重	jia quan quan zhong	2
 加权算术平均	jia quan suan shu ping jun	1
 加权误差	jia quan wu cha	0
@@ -16622,7 +16622,7 @@ use_preset_vocabulary: false
 加同余方法	jia tong yu fang fa	0
 加托导数	jia tuo dao shu	0
 加托可微算子	jia tuo ke wei suan zi	0
-加细	jia xi	11
+加细	jia xi	15
 加细网格	jia xi wang ge	0
 加性范畴	jia xing fan chou	0
 加性泛函变换	jia xing fan han bian huan	0
@@ -16641,10 +16641,10 @@ use_preset_vocabulary: false
 假言总体	jia yan zong ti	0
 假值	jia zhi	5
 简并核	jian bing he	0
-检测概率	jian ce gai lv	0
+检测概率	jian ce gai lv	2
 减次阵	jian ci zhen	0
 简单闭曲线	jian dan bi qu xian	0
-简单波	jian dan bo	0
+简单波	jian dan bo	2
 简单抽样	jian dan chou yang	0
 简单打靶法	jian dan da ba fa	0
 简单道路	jian dan dao lu	0
@@ -16675,7 +16675,7 @@ use_preset_vocabulary: false
 尖点轨迹	jian dian gui ji	0
 尖点切线	jian dian qie xian	0
 尖点形式	jian dian xing shi	0
-间断点	jian duan dian	20
+间断点	jian duan dian	21
 间断分解	jian duan fen jie	0
 间断解	jian duan jie	1
 简分数	jian fen shu	0
@@ -16687,7 +16687,7 @@ use_preset_vocabulary: false
 简化范	jian hua fan	0
 简化方程	jian hua fang cheng	6
 简化分数	jian hua fen shu	0
-简化规则	jian hua gui ze	13
+简化规则	jian hua gui ze	14
 简化迹	jian hua ji	0
 简化牛顿法	jian hua niu dun fa	0
 简化梯度法	jian hua ti du fa	0
@@ -16800,7 +16800,7 @@ use_preset_vocabulary: false
 交点线	jiao dian xian	0
 焦点圆锥曲线	jiao dian yuan zhui qu xian	0
 交叠域	jiao die yu	0
-角动量守恒	jiao dong liang shou heng	112
+角动量守恒	jiao dong liang shou heng	131
 角度量	jiao du liang	0
 较多序	jiao duo xu	0
 较多有效点	jiao duo you xiao dian	0
@@ -16823,11 +16823,11 @@ use_preset_vocabulary: false
 交换积分	jiao huan ji fen	10
 交换李环	jiao huan li huan	0
 交换李群	jiao huan li qun	0
-交换群	jiao huan qun	9
+交换群	jiao huan qun	10
 交换上链	jiao huan shang lian	0
 交换图	jiao huan tu	0
 交换图表	jiao huan tu biao	0
-交换性	jiao huan xing	15
+交换性	jiao huan xing	18
 交换性规则	jiao huan xing gui ze	0
 交换序数	jiao huan xu shu	0
 交换子	jiao huan zi	1
@@ -16842,7 +16842,7 @@ use_preset_vocabulary: false
 交替方向隐式法	jiao ti fang xiang yin shi fa	0
 交替更新过程	jiao ti geng xin guo cheng	0
 交替码	jiao ti ma	0
-交图	jiao tu	15
+交图	jiao tu	43
 角微商	jiao wei shang	0
 交无穷分配	jiao wu qiong fen pei	0
 角系数	jiao xi shu	2
@@ -16878,7 +16878,7 @@ use_preset_vocabulary: false
 解公式	jie gong shi	7
 结构常数	jie gou chang shu	0
 结构定理	jie gou ding li	4
-结构方程	jie gou fang cheng	0
+结构方程	jie gou fang cheng	4
 结构复形	jie gou fu xing	0
 结构公式	jie gou gong shi	0
 结构函数	jie gou han shu	0
@@ -16895,13 +16895,13 @@ use_preset_vocabulary: false
 结合映射	jie he ying she	0
 结合原理	jie he yuan li	0
 结合子	jie he zi	0
-解集	jie ji	51
+解集	jie ji	55
 解集连续性	jie ji lian xu xing	0
 结晶体群	jie jing ti qun	0
 结晶系	jie jing xi	0
-阶矩	jie ju	22
+阶矩	jie ju	53
 结局空间	jie ju kong jian	0
-解空间	jie kong jian	0
+解空间	jie kong jian	49
 截口定理	jie kou ding li	0
 截口平面	jie kou ping mian	0
 截棱锥	jie leng zhui	0
@@ -16913,7 +16913,7 @@ use_preset_vocabulary: false
 阶抛物线	jie pao wu xian	0
 阶平均收敛	jie ping jun shou lian	0
 阶齐次函数	jie qi ci han shu	1
-结式	jie shi	2
+结式	jie shi	1
 解释真	jie shi zhen	0
 接受带	jie shou dai	0
 接受概率	jie shou gai lv	0
@@ -16932,7 +16932,7 @@ use_preset_vocabulary: false
 截尾样本	jie wei yang ben	0
 解析半群	jie xi ban qun	0
 解析变换	jie xi bian huan	3
-解析表达式	jie xi biao da shi	12
+解析表达式	jie xi biao da shi	13
 解析不可约簇	jie xi bu ke yue cu	0
 解析簇	jie xi cu	0
 解析多面体	jie xi duo mian ti	0
@@ -16941,7 +16941,7 @@ use_preset_vocabulary: false
 解析函数元素	jie xi han shu yuan su	0
 解析弧	jie xi hu	0
 解析集	jie xi ji	0
-解析解	jie xi jie	217
+解析解	jie xi jie	222
 解析开拓	jie xi kai tuo	0
 解析空间	jie xi kong jian	0
 解析廖	jie xi liao	0
@@ -16958,7 +16958,7 @@ use_preset_vocabulary: false
 解析同态	jie xi tong tai	0
 解析完全域	jie xi wan quan yu	0
 解析微分	jie xi wei fen	0
-解析性	jie xi xing	0
+解析性	jie xi xing	4
 解析亚椭圆算子	jie xi ya tuo yuan suan zi	0
 解析延拓	jie xi yan tuo	14
 解析映射	jie xi ying she	0
@@ -16984,11 +16984,11 @@ use_preset_vocabulary: false
 紧差分格式	jin cha fen ge shi	0
 进代数	jin dai shu	0
 近点角	jin dian jiao	0
-进法	jin fa	13
+进法	jin fa	17
 进分数	jin fen shu	0
 进赋值	jin fu zhi	0
 近乎处处	jin hu chu chu	0
-紧化	jin hua	10
+紧化	jin hua	11
 紧化定理	jin hua ding li	0
 紧集	jin ji	9
 紧接后元	jin jie hou yuan	0
@@ -17054,7 +17054,7 @@ use_preset_vocabulary: false
 径面	jing mian	0
 精确惩罚法	jing que cheng fa fa	0
 精确罚函数	jing que fa han shu	0
-精确解	jing que jie	83
+精确解	jing que jie	85
 径矢	jing shi	16
 晶体群	jing ti qun	0
 晶体上同调	jing ti shang tong diao	0
@@ -17069,7 +17069,7 @@ use_preset_vocabulary: false
 经验分布曲线	jing yan fen bu qu xian	0
 经验过程	jing yan guo cheng	0
 经验曲线	jing yan qu xian	0
-竞争均衡	jing zheng jun heng	40
+竞争均衡	jing zheng jun heng	43
 九点圆	jiu dian yuan	1
 纠多错码	jiu duo cuo ma	0
 久期项	jiu qi xiang	0
@@ -17099,7 +17099,7 @@ use_preset_vocabulary: false
 局部基	ju bu ji	1
 局部极大	ju bu ji da	0
 局部极限定理	ju bu ji xian ding li	0
-局部极小	ju bu ji xiao	3
+局部极小	ju bu ji xiao	5
 局部极值	ju bu ji zhi	17
 局部解析函数	ju bu jie xi han shu	0
 局部解析同构	ju bu jie xi tong gou	0
@@ -17162,7 +17162,7 @@ use_preset_vocabulary: false
 局部自由层	ju bu zi you ceng	0
 局部最优化	ju bu zui you hua	3
 局部最优值	ju bu zui you zhi	4
-聚点	ju dian	36
+聚点	ju dian	48
 聚点原理	ju dian yuan li	0
 矩法估计	ju fa gu ji	0
 拒绝概率	ju jue gai lv	0
@@ -17192,7 +17192,7 @@ use_preset_vocabulary: false
 矩形邻域	ju xing lin yu	0
 矩阵半群	ju zhen ban qun	0
 矩阵变量	ju zhen bian liang	7
-矩阵表示	ju zhen biao shi	25
+矩阵表示	ju zhen biao shi	28
 矩阵代数	ju zhen dai shu	21
 矩阵单位	ju zhen dan wei	0
 矩阵迭代分析	ju zhen die dai fen xi	0
@@ -17203,8 +17203,8 @@ use_preset_vocabulary: false
 矩阵环	ju zhen huan	0
 矩阵积	ju zhen ji	1
 矩阵级数	ju zhen ji shu	0
-矩阵解	ju zhen jie	3
-矩阵空间	ju zhen kong jian	0
+矩阵解	ju zhen jie	2
+矩阵空间	ju zhen kong jian	4
 矩阵幂级数	ju zhen mi ji shu	0
 矩阵帕德逼近	ju zhen pa de bi jin	0
 矩阵胚	ju zhen pei	0
@@ -17213,7 +17213,7 @@ use_preset_vocabulary: false
 矩阵狮理	ju zhen shi li	0
 矩阵收缩	ju zhen shou suo	0
 矩阵算子	ju zhen suan zi	0
-矩阵形式	ju zhen xing shi	46
+矩阵形式	ju zhen xing shi	51
 矩阵因子分解方法	ju zhen yin zi fen jie fang fa	0
 聚值集	ju zhi ji	0
 卷积方程	juan ji fang cheng	0
@@ -17284,7 +17284,7 @@ use_preset_vocabulary: false
 绝对值不等式	jue dui zhi bu deng shi	5
 绝对最优解	jue dui zui you jie	7
 绝妙定理	jue miao ding li	4
-角色散	jue se san	6
+角色散	jue se san	0
 均方遍历	jun fang bian li	0
 均方根差	jun fang gen cha	1
 均方根误差	jun fang gen wu cha	4
@@ -17334,7 +17334,7 @@ use_preset_vocabulary: false
 开关网络	kai guan wang luo	1
 开关系	kai guan xi	0
 开环系统	kai huan xi tong	18
-开集	kai ji	10
+开集	kai ji	29
 开集基	kai ji ji	0
 开浸入	kai jin ru	0
 凯莱变换	kai lai bian huan	0
@@ -17420,7 +17420,7 @@ use_preset_vocabulary: false
 可度量化一致空间	ke du liang hua yi zhi kong jian	0
 可度量性	ke du liang xing	2
 可对称化核	ke dui cheng hua he	0
-可对角化	ke dui jiao hua	3
+可对角化	ke dui jiao hua	2
 可对角化代数群	ke dui jiao hua dai shu qun	0
 可对角化矩阵	ke dui jiao hua ju zhen	0
 可对易性	ke dui yi xing	2
@@ -17484,7 +17484,7 @@ use_preset_vocabulary: false
 可和性	ke he xing	0
 可和性坐标	ke he xing zuo biao	0
 可化归性公理	ke hua gui xing gong li	1
-可积	ke ji	68
+可积	ke ji	95
 可积分	ke ji fen	0
 可计算关系	ke ji suan guan xi	0
 可计算映射	ke ji suan ying she	0
@@ -17526,9 +17526,9 @@ use_preset_vocabulary: false
 克莱因群	ke lai yin qun	0
 克莱茵坐标	ke lai yin zuo biao	0
 克兰克	ke lan ke	3
-柯朗	ke lang	12
+柯朗	ke lang	13
 克朗克尼克尔森格式	ke lang ke ni ke er sen ge shi	0
-柯朗数	ke lang shu	2
+柯朗数	ke lang shu	1
 克劳修斯不等式	ke lao xiu si bu deng shi	1
 克利福德代数	ke li fu de dai shu	0
 克里福特群	ke li fu te qun	0
@@ -17547,7 +17547,7 @@ use_preset_vocabulary: false
 克鲁尔拓扑	ke lu er tuo pu	0
 克鲁尔维数	ke lu er wei shu	0
 克卢斯特曼和	ke lu si te man he	0
-可略	ke lue	4
+可略	ke lue	28
 克伦肖	ke lun xiao	0
 克罗内克存在性定理	ke luo nei ke cun zai xing ding li	0
 克罗内克符号	ke luo nei ke fu hao	1
@@ -17600,12 +17600,12 @@ use_preset_vocabulary: false
 可数性公理	ke shu xing gong li	0
 科斯居尔复形	ke si ju er fu xing	0
 科斯坦特公式	ke si tan te gong shi	0
-可缩	ke suo	5
+可缩	ke suo	6
 可缩空间	ke suo kong jian	0
 可缩图	ke suo tu	0
 可缩拓扑空间	ke suo tuo pu kong jian	0
 克特根	ke te gen	0
-可通约性	ke tong yue xing	2
+可通约性	ke tong yue xing	6
 柯蔚	ke wei	0
 柯位等式	ke wei deng shi	0
 可微算子	ke wei suan zi	0
@@ -17617,7 +17617,7 @@ use_preset_vocabulary: false
 柯握敛判别准则	ke wo lian pan bie zhun ze	0
 柯握敛条件	ke wo lian tiao jian	0
 柯悟列	ke wu lie	0
-柯西	ke xi	88
+柯西	ke xi	103
 柯西插值	ke xi cha zhi	0
 柯锡程	ke xi cheng	0
 柯锡分	ke xi fen	0
@@ -17641,7 +17641,7 @@ use_preset_vocabulary: false
 可行控制	ke xing kong zhi	0
 可行区域	ke xing qu yu	4
 可行下降方向	ke xing xia jiang fang xiang	3
-可行域	ke xing yu	23
+可行域	ke xing yu	28
 可行约束	ke xing yue shu	0
 可修系统	ke xiu xi tong	0
 可延拓性	ke yan tuo xing	1
@@ -17689,7 +17689,7 @@ use_preset_vocabulary: false
 控制收敛	kong zhi shou lian	0
 控制收敛定理	kong zhi shou lian ding li	5
 控制图法	kong zhi tu fa	1
-控制线路	kong zhi xian lu	19
+控制线路	kong zhi xian lu	20
 控制向量	kong zhi xiang liang	0
 控制序列	kong zhi xu lie	4
 控制域	kong zhi yu	2
@@ -17699,10 +17699,10 @@ use_preset_vocabulary: false
 口径比	kou jing bi	0
 库存策略	ku cun ce lue	3
 库存管理论	ku cun guan li lun	0
-库存控制	ku cun kong zhi	6
+库存控制	ku cun kong zhi	8
 库存论	ku cun lun	0
 库存模型	ku cun mo xing	3
-库恩	ku en	84
+库恩	ku en	85
 库恩塔克约束规格	ku en ta ke yue shu gui ge	0
 库尔贝克	ku er bei ke	0
 库二克定理	ku er ke ding li	0
@@ -17731,7 +17731,7 @@ use_preset_vocabulary: false
 扩充复平面	kuo chong fu ping mian	0
 括号运算	kuo hao yun suan	0
 扩散常数	kuo san chang shu	1
-扩散方程	kuo san fang cheng	23
+扩散方程	kuo san fang cheng	24
 扩散核	kuo san he	0
 扩散算子	kuo san suan zi	0
 扩散问题	kuo san wen ti	0
@@ -17768,7 +17768,7 @@ use_preset_vocabulary: false
 拉格朗日乘子	la ge lang ri cheng zi	19
 拉格朗日乘子法	la ge lang ri cheng zi fa	29
 拉格朗日等式	la ge lang ri deng shi	0
-拉格朗日方程	la ge lang ri fang cheng	185
+拉格朗日方程	la ge lang ri fang cheng	189
 拉格朗日函数	la ge lang ri han shu	166
 拉格朗日括号	la ge lang ri kuo hao	0
 拉格朗日剩余项	la ge lang ri sheng yu xiang	0
@@ -17786,7 +17786,7 @@ use_preset_vocabulary: false
 拉姆齐数	la mu qi shu	0
 拉普拉斯贝尔特拉米算子	la pu la si bei er te la mi suan zi	0
 拉普拉斯变换法	la pu la si bian huan fa	1
-拉普拉斯方程	la pu la si fang cheng	40
+拉普拉斯方程	la pu la si fang cheng	41
 拉普拉斯分布	la pu la si fen bu	6
 拉普拉斯积分	la pu la si ji fen	0
 拉普拉斯逆变换	la pu la si ni bian huan	1
@@ -17849,9 +17849,9 @@ use_preset_vocabulary: false
 累积频数	lei ji pin shuo	0
 累积误差	lei ji wu cha	25
 累加分布函数	lei jia fen bu han shu	0
-类空	lei kong	7
+类空	lei kong	37
 类空廖	lei kong liao	0
-类群	lei qun	100
+类群	lei qun	301
 类时	lei shi	21
 类数	lei shu	2
 类算子	lei suan zi	0
@@ -17924,7 +17924,7 @@ use_preset_vocabulary: false
 利普希茨映射	li pu xi ci ying she	0
 李奇恒等式	li qi heng deng shi	0
 里奇曲率	li qi qu lv	5
-李群	li qun	206
+李群	li qun	243
 李群同构	li qun tong gou	0
 离群值	li qun zhi	29
 离散阿贝尔群	li san a bei er qun	0
@@ -17947,7 +17947,7 @@ use_preset_vocabulary: false
 离散模型	li san mo xing	6
 离散谱	li san pu	1
 离散群	li san qun	4
-离散时间	li san shi jian	124
+离散时间	li san shi jian	126
 离散事件动态系统	li san shi jian dong tai xi tong	0
 离散时间系统	li san shi jian xi tong	4
 离散随机变量	li san sui ji bian liang	4
@@ -17992,7 +17992,7 @@ use_preset_vocabulary: false
 力向量	li xiang liang	0
 理想码	li xiang ma	0
 理想群	li xiang qun	0
-理想数	li xiang shu	8
+理想数	li xiang shu	9
 理想约束	li xiang yue shu	21
 理想指数公式	li xiang zhi shu gong shi	0
 力心	li xin	8
@@ -18023,7 +18023,7 @@ use_preset_vocabulary: false
 联合置信区域	lian he zhi xin qu yu	0
 链级码	lian ji ma	0
 连加号	lian jia hao	0
-连结	lian jie	556
+连结	lian jie	581
 连接超几何函数	lian jie chao ji he han shu	0
 连接道路	lian jie dao lu	0
 连接群	lian jie qun	1
@@ -18069,7 +18069,7 @@ use_preset_vocabulary: false
 连续对策	lian xu dui ce	0
 连续法	lian xu fa	0
 连续方程	lian xu fang cheng	5
-连续分布	lian xu fen bu	0
+连续分布	lian xu fen bu	29
 连续分布函数	lian xu fen bu han shu	0
 连续分析器	lian xu fen xi qi	0
 连续格	lian xu ge	0
@@ -18077,13 +18077,13 @@ use_preset_vocabulary: false
 连续函数类	lian xu han shu lei	0
 连续几何	lian xu ji he	2
 连续奇数	lian xu ji shu	0
-连续极限	lian xu ji xian	5
+连续极限	lian xu ji xian	6
 连续近似	lian xu jin si	1
 连续均匀分布	lian xu jun yun fen bu	0
 连续可微函数	lian xu ke wei han shu	0
 连续可微性	lian xu ke wei xing	0
 连续偶数	lian xu ou shu	0
-连续谱	lian xu pu	37
+连续谱	lian xu pu	42
 连续区间	lian xu qu jian	17
 连续曲线	lian xu qu xian	7
 连续时间模型	lian xu shi jian mo xing	8
@@ -18106,7 +18106,7 @@ use_preset_vocabulary: false
 连续性公理	lian xu xing gong li	0
 连续性条件	lian xu xing tiao jian	0
 连续性原理	lian xu xing yuan li	4
-连续循环	lian xu xun huan	0
+连续循环	lian xu xun huan	3
 连续映射	lian xu ying she	5
 连续有序集	lian xu you xu ji	0
 连续原理	lian xu yuan li	0
@@ -18139,7 +18139,7 @@ use_preset_vocabulary: false
 量子估值	liang zi gu zhi	0
 量子化泛包络代数	liang zi hua fan bao luo dai shu	0
 量子决策	liang zi jue ce	0
-量子群	liang zi qun	5
+量子群	liang zi qun	6
 量子信道	liang zi xin dao	5
 量子信号	liang zi xin hao	1
 量子杨	liang zi yang	0
@@ -18156,7 +18156,7 @@ use_preset_vocabulary: false
 列紧性	lie jin xing	0
 列距离	lie ju li	0
 列举问题	lie ju wen ti	0
-列空间	lie kong jian	0
+列空间	lie kong jian	31
 列联表	lie lian biao	13
 列满秩矩阵	lie man zhi ju zhen	0
 列梅兹算法	lie mei zi suan fa	0
@@ -18199,7 +18199,7 @@ use_preset_vocabulary: false
 邻域系	lin yu xi	0
 零半群	ling ban qun	0
 零变换	ling bian huan	0
-零表示	ling biao shi	0
+零表示	ling biao shi	4
 岭参数	ling can shu	0
 零测度	ling ce du	0
 零测度集	ling ce du ji	0
@@ -18227,10 +18227,10 @@ use_preset_vocabulary: false
 岭迹	ling ji	0
 零加法群	ling jia fa qun	0
 菱角线	ling jiao xian	0
-零解	ling jie	8
+零解	ling jie	9
 零截面	ling jie mian	0
-零空间	ling kong jian	0
-零类	ling lei	0
+零空间	ling kong jian	24
+零类	ling lei	1
 零理想	ling li xiang	0
 铃力学	ling li xue	0
 零面	ling mian	0
@@ -18274,16 +18274,16 @@ use_preset_vocabulary: false
 流入边界点	liu ru bian jie dian	0
 流入边界条件	liu ru bian jie tiao jian	0
 六十进算术	liu shi jin suan shu	0
-留数	liu shu	48
+留数	liu shu	50
 六四面体	liu si mian ti	0
-流图	liu tu	2
+流图	liu tu	11
 刘维尔定理	liu wei er ding li	9
 刘维尔方程	liu wei er fang cheng	3
 刘维尔公式	liu wei er gong shi	0
 刘维尔数	liu wei er shu	0
 刘维尔算符	liu wei er suan fu	2
 流线曲率法	liu xian qu lv fa	0
-流形	liu xing	352
+流形	liu xing	393
 龙贝格积分	long bei ge ji fen	0
 龙格库塔法	long ge ku ta fa	4
 鲁棒回归	lu bang hui gui	0
@@ -18308,12 +18308,12 @@ use_preset_vocabulary: false
 落后回归	luo hou hui gui	0
 落后角	luo hou jiao	0
 落后协方差	luo hou xie fang cha	0
-逻辑悖论	luo ji bei lun	25
+逻辑悖论	luo ji bei lun	27
 逻辑比较	luo ji bi jiao	0
 逻辑乘法	luo ji cheng fa	0
 逻辑等价	luo ji deng jia	1
 逻辑等值	luo ji deng zhi	0
-逻辑符号	luo ji fu hao	0
+逻辑符号	luo ji fu hao	9
 逻辑加法	luo ji jia fa	0
 逻辑斯谛分布	luo ji si di fen bu	1
 逻辑斯谛回归	luo ji si di hui gui	6
@@ -18364,7 +18364,7 @@ use_preset_vocabulary: false
 马哈拉诺比斯距离	ma ha la nuo bi si ju li	0
 马赫角	ma he jiao	0
 马赫锥	ma he zhui	2
-码校验	ma jiao yan	4
+码校验	ma jiao yan	5
 马克劳林公式	ma ke lao lin gong shi	0
 马克劳林展开	ma ke lao lin zhan kai	0
 马利亚万随机分析	ma li ya wan sui ji fen xi	0
@@ -18386,7 +18386,7 @@ use_preset_vocabulary: false
 麦科马克格式	mai ke ma ke ge shi	0
 麦克斯事方程	mai ke si shi fang cheng	0
 麦克斯韦玻耳兹曼分布律	mai ke si wei bo er zi man fen bu lv	0
-麦克斯韦方程	mai ke si wei fang cheng	161
+麦克斯韦方程	mai ke si wei fang cheng	163
 麦克斯韦方程组	mai ke si wei fang cheng zu	472
 麦克斯韦速度分布	mai ke si wei su du fen bu	1
 麦克斯韦速率分布	mai ke si wei su lv fen bu	7
@@ -18452,13 +18452,13 @@ use_preset_vocabulary: false
 密度测定	mi du ce ding	0
 密度定理	mi du ding li	0
 密度估计	mi du gu ji	4
-密度矩阵	mi du ju zhen	78
+密度矩阵	mi du ju zhen	81
 密度算符	mi du suan fu	17
-密度涨落	mi du zhang luo	16
+密度涨落	mi du zhang luo	20
 密断统	mi duan tong	0
 米尔恩法	mi er en fa	0
-米尔斯方程	mi er si fang cheng	19
-米尔斯联络	mi er si lian luo	1
+米尔斯方程	mi er si fang cheng	14
+米尔斯联络	mi er si lian luo	0
 幂法	mi fa	1
 迷宫算法	mi gong suan fa	0
 幂函子	mi han zi	0
@@ -18529,7 +18529,7 @@ use_preset_vocabulary: false
 面积函数	mian ji han shu	0
 面积速度	mian ji su du	0
 面积仪	mian ji yi	0
-面积元素	mian ji yuan su	0
+面积元素	mian ji yuan su	2
 面束	mian shu	0
 面算子	mian suan zi	0
 面元素	mian yuan su	0
@@ -18606,7 +18606,7 @@ use_preset_vocabulary: false
 目标规划	mu biao gui hua	0
 目标空间	mu biao kong jian	0
 目标协调法	mu biao xie tiao fa	0
-目标约束	mu biao yue shu	0
+目标约束	mu biao yue shu	1
 穆迪代数	mu di dai shu	0
 穆尔史密斯收敛	mu er shi mi si shou lian	0
 穆曼	mu man	0
@@ -18628,7 +18628,7 @@ use_preset_vocabulary: false
 挠向量	nao xiang liang	0
 挠子群	nao zi qun	0
 内摆线	nei bai xian	0
-内比	nei bi	0
+内比	nei bi	2
 内逼近	nei bi jin	0
 内边值问题	nei bian zhi wen ti	0
 内部惩罚法	nei bu cheng fa fa	0
@@ -18643,7 +18643,7 @@ use_preset_vocabulary: false
 内导数	nei dao shu	0
 内导子	nei dao zi	0
 内点变换	nei dian bian huan	0
-内迭代	nei die dai	0
+内迭代	nei die dai	1
 内对角	nei dui jiao	0
 内法线	nei fa xian	0
 内分比	nei fen bi	0
@@ -18651,7 +18651,7 @@ use_preset_vocabulary: false
 内估计	nei gu ji	0
 内积空间	nei ji kong jian	18
 内积模	nei ji mo	0
-内结点	nei jie dian	16
+内结点	nei jie dian	17
 内接多边形	nei jie duo bian xing	0
 内截面测度	nei jie mian ce du	0
 内接三角形	nei jie san jiao xing	1
@@ -18690,7 +18690,7 @@ use_preset_vocabulary: false
 能量算子	neng liang suan zi	1
 能量原理	neng liang yuan li	0
 能量障碍	neng liang zhang ai	1
-能面	neng mian	28
+能面	neng mian	57
 能实现性	neng shi xian xing	0
 能识性	neng shi xing	0
 能稳性	neng wen xing	0
@@ -18701,9 +18701,9 @@ use_preset_vocabulary: false
 拟保角映射	ni bao jiao ying she	0
 拟保形	ni bao xing	0
 逆保序映射	ni bao xu ying she	0
-逆变换	ni bian huan	29
+逆变换	ni bian huan	30
 逆步	ni bu	0
-拟补	ni bu	9
+拟补	ni bu	10
 拟不变测度	ni bu bian ce du	0
 逆步表示	ni bu biao shi	0
 拟补格	ni bu ge	0
@@ -18738,7 +18738,7 @@ use_preset_vocabulary: false
 拟函数	ni han shu	0
 拟合良度	ni he liang du	0
 拟合模型	ni he mo xing	28
-拟合曲线	ni he qu xian	24
+拟合曲线	ni he qu xian	29
 拟合线	ni he xian	3
 拟合优度	ni he you du	18
 拟合优度检验	ni he you du jian yan	14
@@ -18798,7 +18798,7 @@ use_preset_vocabulary: false
 拟完备拓扑	ni wan bei tuo pu	0
 拟微分方程	ni wei fen fang cheng	0
 拟微分算子	ni wei fen suan zi	1
-逆问题	ni wen ti	0
+逆问题	ni wen ti	12
 逆系统	ni xi tong	0
 拟线性方程	ni xian xing fang cheng	0
 拟线性化	ni xian xing hua	0
@@ -18855,7 +18855,7 @@ use_preset_vocabulary: false
 拟左连续	ni zuo lian xu	0
 粘合映射	nian he ying she	0
 年收入率	nian shou ru lv	0
-粘性	nian xing	2345
+粘性	nian xing	2424
 粘性系数	nian xing xi shu	4
 粘性消失法	nian xing xiao shi fa	0
 粘着空间	nian zhe kong jian	0
@@ -18883,7 +18883,7 @@ use_preset_vocabulary: false
 牛顿位势	niu dun wei shi	0
 牛顿斜率	niu dun xie lv	0
 牛顿折线	niu dun zhe xian	0
-纽结理论	niu jie li lun	18
+纽结理论	niu jie li lun	21
 纽结群	niu jie qun	0
 扭曲层	niu qu ceng	0
 扭转定理	niu zhuan ding li	0
@@ -18935,7 +18935,7 @@ use_preset_vocabulary: false
 欧氏变换群	ou shi bian huan qun	0
 欧氏不变量	ou shi bu bian liang	0
 欧氏除法	ou shi chu fa	0
-欧氏几何	ou shi ji he	27
+欧氏几何	ou shi ji he	28
 欧氏空间	ou shi kong jian	40
 欧氏整环	ou shi zheng huan	0
 偶数同位	ou shu tong wei	0
@@ -18999,7 +18999,7 @@ use_preset_vocabulary: false
 旁支付	pang zhi fu	0
 旁轴光线	pang zhou guang xian	0
 泡利阵	pao li zhen	0
-抛物	pao wu	115
+抛物	pao wu	117
 抛物点	pao wu dian	0
 抛物回归	pao wu hui gui	0
 抛物尖点	pao wu jian dian	0
@@ -19068,10 +19068,10 @@ use_preset_vocabulary: false
 偏差分方程	pian cha fen fang cheng	0
 偏差商	pian cha shang	0
 偏导数	pian dao shu	220
-偏度	pian du	38
+偏度	pian du	68
 偏方差	pian fang cha	0
 偏分母	pian fen mu	0
-偏分子	pian fen zi	5
+偏分子	pian fen zi	2
 偏格	pian ge	1
 偏回归	pian hui gui	0
 偏回归系数	pian hui gui xi shu	2
@@ -19094,10 +19094,10 @@ use_preset_vocabulary: false
 频率图	pin lv tu	0
 频数多边形	pin shuo duo bian xing	0
 拼五小组	pin wu xiao zu	0
-频域分析	pin yu fen xi	32
+频域分析	pin yu fen xi	37
 平点	ping dian	1
 平凡赋值	ping fan fu zhi	0
-平凡化	ping fan hua	5
+平凡化	ping fan hua	6
 平凡绝对值	ping fan jue dui zhi	0
 平凡扩张	ping fan kuo zhang	0
 平凡纽结	ping fan niu jie	0
@@ -19127,7 +19127,7 @@ use_preset_vocabulary: false
 平衡测度	ping heng ce du	0
 平衡超图	ping heng chao tu	0
 平衡范畴	ping heng fan chou	0
-平衡方程	ping heng fang cheng	43
+平衡方程	ping heng fang cheng	44
 平衡分布	ping heng fen bu	6
 平衡函子	ping heng han zi	0
 平衡化	ping heng hua	0
@@ -19181,7 +19181,7 @@ use_preset_vocabulary: false
 平坦模	ping tan mo	0
 平坦射	ping tan she	0
 平坦态射	ping tan tai she	0
-平坦性	ping tan xing	8
+平坦性	ping tan xing	10
 平稳策略	ping wen ce lue	0
 平稳点过程	ping wen dian guo cheng	0
 平稳分布	ping wen fen bu	5
@@ -19191,14 +19191,14 @@ use_preset_vocabulary: false
 平稳集合	ping wen ji he	0
 平稳密切面	ping wen mi qie mian	0
 平稳曲线	ping wen qu xian	0
-平稳时间序列	ping wen shi jian xu lie	13
+平稳时间序列	ping wen shi jian xu lie	14
 平稳随机过程	ping wen sui ji guo cheng	7
 平稳问题	ping wen wen ti	0
 平稳信道	ping wen xin dao	0
 平稳信源	ping wen xin yuan	0
 平稳性态	ping wen xing tai	0
 平稳值	ping wen zhi	1
-平行带	ping xing dai	1
+平行带	ping xing dai	0
 平行缝隙	ping xing feng xi	0
 平行公理	ping xing gong li	3
 平行角	ping xing jiao	0
@@ -19221,7 +19221,7 @@ use_preset_vocabulary: false
 平行直尺	ping xing zhi chi	0
 平行子空间	ping xing zi kong jian	0
 平延	ping yan	0
-平移不变	ping yi bu bian	19
+平移不变	ping yi bu bian	108
 平移不变度量	ping yi bu bian du liang	0
 平移定理	ping yi ding li	1
 平移对称	ping yi dui chen	29
@@ -19247,7 +19247,7 @@ use_preset_vocabulary: false
 谱定理	pu ding li	6
 普法夫方程	pu fa fu fang cheng	0
 普法夫型	pu fa fu xing	0
-谱方法	pu fang fa	19
+谱方法	pu fang fa	20
 普菲斯特二次型	pu fei si te er ci xing	0
 谱分布	pu fen bu	6
 谱分布函数	pu fen bu han shu	0
@@ -19336,7 +19336,7 @@ use_preset_vocabulary: false
 奇异变换	qi yi bian huan	0
 奇异边界	qi yi bian jie	0
 奇异边界点	qi yi bian jie dian	2
-奇异部分	qi yi bu fen	0
+奇异部分	qi yi bu fen	1
 奇异单形	qi yi dan xing	0
 奇异二次曲面	qi yi er ci qu mian	0
 奇异二元正态分布	qi yi er yuan zheng tai fen bu	0
@@ -19388,7 +19388,7 @@ use_preset_vocabulary: false
 欠定组	qian ding zu	0
 前对偶	qian dui ou	0
 前概型	qian gai xing	0
-前件	qian jian	10
+前件	qian jian	14
 前进位势	qian jin wei shi	0
 前馈控制	qian kui kong zhi	0
 前钳数	qian qian shu	0
@@ -19434,7 +19434,7 @@ use_preset_vocabulary: false
 强级数	qiang ji shu	0
 强假设	qiang jia she	14
 强间断	qiang jian duan	0
-强解	qiang jie	24
+强解	qiang jie	27
 强局部极值	qiang ju bu ji zhi	0
 强可和性	qiang ke he xing	0
 强连通紧统	qiang lian tong jin tong	0
@@ -19465,7 +19465,7 @@ use_preset_vocabulary: false
 强制边界条件	qiang zhi bian jie tiao jian	0
 强制算子	qiang zhi suan zi	0
 强最大值原理	qiang zui da zhi yuan li	0
-壳层	qiao ceng	127
+壳层	qiao ceng	132
 瞧直线	qiao zhi xian	0
 切比雪夫	qie bi xue fu	7
 切比雪夫半径	qie bi xue fu ban jing	0
@@ -19488,9 +19488,9 @@ use_preset_vocabulary: false
 切除公理	qie chu gong li	0
 切触结构	qie chu jie gou	1
 切除同构	qie chu tong gou	0
-切丛	qie cong	10
+切丛	qie cong	25
 切断数	qie duan shu	0
-切割点	qie ge dian	0
+切割点	qie ge dian	5
 切割迹	qie ge ji	0
 切赫紧化	qie he jin hua	0
 切赫上同调	qie he shang tong diao	0
@@ -19522,10 +19522,10 @@ use_preset_vocabulary: false
 球贝塞耳函数	qiu bei sai er han shu	0
 求长	qiu chang	0
 球带	qiu dai	5
-求导法则	qiu dao fa ze	23
+求导法则	qiu dao fa ze	24
 球对称分布	qiu dui chen fen bu	0
 求根公式	qiu gen gong shi	37
-球函数	qiu han shu	3
+球函数	qiu han shu	4
 求和极限	qiu he ji xian	0
 求和器加法器	qiu he qi jia fa qi	0
 求极大	qiu ji da	2
@@ -19535,7 +19535,7 @@ use_preset_vocabulary: false
 求积仪	qiu ji yi	0
 球极坐标	qiu ji zuo biao	0
 球截形	qiu jie xing	0
-球壳	qiu ke	147
+球壳	qiu ke	155
 球面贝塞尔函数	qiu mian bei sai er han shu	2
 球面表示	qiu mian biao shi	0
 球面波方程	qiu mian bo fang cheng	0
@@ -19581,7 +19581,7 @@ use_preset_vocabulary: false
 区间分半搜索	qu jian fen ban sou suo	0
 区间分析	qu jian fen xi	0
 区间函数	qu jian han shu	0
-区间套	qu jian tao	26
+区间套	qu jian tao	28
 区间图	qu jian tu	0
 区间拓扑	qu jian tuo pu	0
 区间运算	qu jian yun suan	0
@@ -19603,7 +19603,7 @@ use_preset_vocabulary: false
 取平均数	qu ping jun shu	24
 曲三角剖分	qu san jiao pou fen	0
 曲线边界	qu xian bian jie	1
-曲线方程	qu xian fang cheng	39
+曲线方程	qu xian fang cheng	42
 曲线估计	qu xian gu ji	0
 曲线回归	qu xian hui gui	2
 曲线角	qu xian jiao	1
@@ -19615,7 +19615,7 @@ use_preset_vocabulary: false
 曲线网	qu xian wang	0
 曲线网格	qu xian wang ge	1
 曲线修匀	qu xian xiu yun	0
-曲线族	qu xian zu	6
+曲线族	qu xian zu	7
 曲线坐标	qu xian zuo biao	3
 曲线坐标系	qu xian zuo biao xi	1
 去心邻域	qu xin lin yu	4
@@ -19639,7 +19639,7 @@ use_preset_vocabulary: false
 全称闭包	quan cheng bi bao	0
 全称否定命题	quan cheng fou ding ming ti	0
 全称肯定命题	quan cheng ken ding ming ti	2
-全纯	quan chun	6
+全纯	quan chun	12
 全纯包	quan chun bao	0
 全纯部分	quan chun bu fen	0
 全纯除子	quan chun chu zi	0
@@ -19692,7 +19692,7 @@ use_preset_vocabulary: false
 全收敛	quan shou lian	1
 全斯蒂费尔惠特尼类	quan si di fei er hui te ni lei	0
 全谓词	quan wei ci	0
-全微分	quan wei fen	28
+全微分	quan wei fen	27
 全微分方程	quan wei fen fang cheng	2
 全稳定性	quan wen ding xing	0
 全误差	quan wu cha	0
@@ -19756,8 +19756,8 @@ use_preset_vocabulary: false
 群扩张等价类	qun kuo zhang deng jia lei	0
 群码	qun ma	5
 群内分散	qun nei fen san	0
-群频率	qun pin lv	5
-群平均	qun ping jun	0
+群频率	qun pin lv	2
+群平均	qun ping jun	3
 群速度	qun su du	0
 群同构	qun tong gou	1
 群同态	qun tong tai	3
@@ -19765,7 +19765,7 @@ use_preset_vocabulary: false
 群因子	qun yin zi	0
 群因子模型	qun yin zi mo xing	0
 群元素	qun yuan su	0
-群运算	qun yun suan	2
+群运算	qun yun suan	1
 群中心扩张	qun zhong xin kuo zhang	0
 群作用	qun zuo yong	0
 群作用等价	qun zuo yong deng jia	0
@@ -19842,7 +19842,7 @@ use_preset_vocabulary: false
 软决策	ruan jue ce	0
 软判决	ruan pan jue	0
 瑞利商	rui li shang	0
-瑞特	rui te	327
+瑞特	rui te	335
 弱闭包	ruo bi bao	0
 弱逼近定理	ruo bi jin ding li	0
 弱闭空间	ruo bi kong jian	0
@@ -19954,7 +19954,7 @@ use_preset_vocabulary: false
 三次样条函数	san ci yang tiao han shu	0
 三等分角线	san deng fen jiao xian	1
 三点问题	san dian wen ti	0
-散度	san du	490
+散度	san du	492
 三度割线	san du ge xian	0
 散度型	san du xing	1
 散度型方程	san du xing fang cheng	0
@@ -20082,7 +20082,7 @@ use_preset_vocabulary: false
 上核	shang he	0
 商环	shang huan	3
 上环道	shang huan dao	0
-上积	shang ji	10
+上积	shang ji	11
 上极限	shang ji xian	0
 上极限函数	shang ji xian han shu	0
 上积运算	shang ji yun suan	0
@@ -20091,13 +20091,13 @@ use_preset_vocabulary: false
 上解析集	shang jie xi ji	0
 上近似值	shang jin si zhi	0
 上境图	shang jing tu	0
-商空间	shang kong jian	0
+商空间	shang kong jian	3
 上控制限	shang kong zhi xian	0
 上类	shang lei	3
 商李代数	shang li dai shu	0
 商李群	shang li qun	0
 上理想	shang li xiang	0
-上链	shang lian	46
+上链	shang lian	325
 上链复形	shang lian fu xing	0
 上链同伦	shang lian tong lun	0
 上连续格	shang lian xu ge	0
@@ -20146,7 +20146,7 @@ use_preset_vocabulary: false
 上纤维	shang xian wei	0
 上纤维化	shang xian wei hua	0
 上纤维映射	shang xian wei ying she	0
-上象	shang xiang	5
+上象	shang xiang	9
 上循环	shang xun huan	0
 上鞅	shang yang	2
 商映射	shang ying she	2
@@ -20237,11 +20237,11 @@ use_preset_vocabulary: false
 射影坐标系	she ying zuo biao xi	0
 射有限群	she you xian qun	0
 伸长曲面	shen chang qu mian	0
-深度线	shen du xian	0
+深度线	shen du xian	3
 伸缩变换	shen suo bian huan	4
 伸缩商	shen suo shang	0
 肾脏线	shen zang xian	0
-生成程序	sheng cheng cheng xu	0
+生成程序	sheng cheng cheng xu	11
 生成多项式	sheng cheng duo xiang shi	0
 生成过程	sheng cheng guo cheng	0
 生成级数	sheng cheng ji shu	0
@@ -20262,7 +20262,7 @@ use_preset_vocabulary: false
 剩余方差	sheng yu fang cha	0
 剩余集	sheng yu ji	0
 剩余校验	sheng yu jiao yan	0
-剩余类	sheng yu lei	0
+剩余类	sheng yu lei	3
 剩余类环	sheng yu lei huan	0
 剩余类模	sheng yu lei mo	0
 剩余类域	sheng yu lei yu	0
@@ -20280,7 +20280,7 @@ use_preset_vocabulary: false
 失败联盟	shi bai lian meng	0
 实闭包	shi bi bao	0
 实闭域	shi bi yu	0
-时变	shi bian	36
+时变	shi bian	138
 实变量	shi bian liang	0
 时变系统	shi bian xi tong	2
 时变信道	shi bian xin dao	2
@@ -20288,7 +20288,7 @@ use_preset_vocabulary: false
 实表示	shi biao shi	1
 视差位移	shi cha wei yi	0
 市场模型	shi chang mo xing	0
-时程	shi cheng	8
+时程	shi cheng	56
 适当对策	shi dang dui ce	0
 施蒂克贝格理想	shi di ke bei ge li xiang	0
 适定问题	shi ding wen ti	1
@@ -20299,7 +20299,7 @@ use_preset_vocabulary: false
 十二进制变换	shi er jin zhi bian huan	0
 十二面体数	shi er mian ti shu	0
 十分位数	shi fen wei shu	0
-势函数	shi han shu	84
+势函数	shi han shu	87
 事件步长法	shi jian bu chang fa	0
 时间步长法	shi jian bu chang fa	0
 事件场	shi jian chang	0
@@ -20318,7 +20318,7 @@ use_preset_vocabulary: false
 十进制计数器	shi jin zhi ji shu qi	0
 十进制展开	shi jin zhi zhan kai	1
 实矩阵	shi ju zhen	9
-时空流形	shi kong liu xing	17
+时空流形	shi kong liu xing	16
 施拉夫利积分表示	shi la fu li ji fen biao shi	0
 施勒米希级数	shi le mi xi ji shu	0
 实李群	shi li qun	0
@@ -20337,12 +20337,12 @@ use_preset_vocabulary: false
 施密特正交化方法	shi mi te zheng jiao hua fang fa	1
 实内积空间	shi nei ji kong jian	0
 食谱问题	shi pu wen ti	0
-时齐	shi qi	4
+时齐	shi qi	9
 示嵌类	shi qian lei	0
 实射影空间	shi she ying kong jian	0
 实时运算	shi shi yun suan	13
 实数加法群	shi shu jia fa qun	0
-实数系	shi shu xi	13
+实数系	shi shu xi	15
 实数域	shi shu yu	34
 时态逻辑	shi tai luo ji	2
 施泰纳三元系	shi tai na san yuan xi	0
@@ -20380,7 +20380,7 @@ use_preset_vocabulary: false
 实用单位	shi yong dan wei	0
 实酉空间	shi you kong jian	0
 时域分析	shi yu fen xi	3
-时滞	shi zhi	70
+时滞	shi zhi	74
 实值函数	shi zhi han shu	2
 实质性对策	shi zhi xing dui ce	0
 实质蕴涵	shi zhi yun han	0
@@ -20391,7 +20391,7 @@ use_preset_vocabulary: false
 守恒方程	shou heng fang cheng	7
 守恒可测变换	shou heng ke ce bian huan	0
 守恒扩张	shou heng kuo zhang	0
-守恒律	shou heng lv	37
+守恒律	shou heng lv	40
 守恒律组	shou heng lv zu	0
 守恒向量场	shou heng xiang liang chang	0
 守恒形式	shou heng xing shi	1
@@ -20414,7 +20414,7 @@ use_preset_vocabulary: false
 收敛行为	shou lian xing wei	0
 收敛序列	shou lian xu lie	0
 收敛因子	shou lian yin zi	3
-收敛域	shou lian yu	17
+收敛域	shou lian yu	18
 收敛圆	shou lian yuan	2
 收敛指数	shou lian zhi shu	0
 收敛轴	shou lian zhou	0
@@ -20436,22 +20436,22 @@ use_preset_vocabulary: false
 首中时	shou zhong shi	0
 数变量	shu bian liang	0
 树表示	shu biao shi	0
-输出反馈	shu chu fan kui	0
+输出反馈	shu chu fan kui	3
 输出方程	shu chu fang cheng	0
-输出向量	shu chu xiang liang	16
+输出向量	shu chu xiang liang	15
 输出状态	shu chu zhuang tai	0
 输出装置	shu chu zhuang zhi	5
 输出字母表	shu chu zi mu biao	0
 舒尔指数	shu er zhi shu	0
 数环	shu huan	2
-数集	shu ji	19
+数集	shu ji	21
 疏集	shu ji	0
 数记法	shu ji fa	0
 数据修匀	shu ju xiu yun	0
 数控电子	shu kong dian zi	0
 束类群	shu lei qun	0
 束类域	shu lei yu	0
-数理统计学	shu li tong ji xue	25
+数理统计学	shu li tong ji xue	28
 数理统计学派	shu li tong ji xue pai	0
 输联盟	shu lian meng	0
 数量曲率	shu liang qu lv	2
@@ -20459,11 +20459,11 @@ use_preset_vocabulary: false
 数论函数	shu lun han shu	4
 树码	shu ma	0
 数区间	shu qu jian	0
-输入程序	shu ru cheng xu	0
+输入程序	shu ru cheng xu	6
 输入过程	shu ru guo cheng	0
 输入误差	shu ru wu cha	0
 输入向量	shu ru xiang liang	30
-输入值	shu ru zhi	0
+输入值	shu ru zhi	67
 输入状态	shu ru zhuang tai	0
 输入装置	shu ru zhuang zhi	8
 输入字母	shu ru zi mu	13
@@ -20478,7 +20478,7 @@ use_preset_vocabulary: false
 数学结构	shu xue jie gou	0
 数学近似法	shu xue jin si fa	0
 数学系统理论	shu xue xi tong li lun	0
-数域	shu yu	20
+数域	shu yu	25
 数域上代数群	shu yu shang dai shu qun	0
 数值逼近	shu zhi bi jin	3
 数值编码	shu zhi bian ma	4
@@ -20578,7 +20578,7 @@ use_preset_vocabulary: false
 双曲平面	shuang qu ping mian	1
 双曲奇点	shuang qu qi dian	0
 双曲椭圆运动	shuang qu tuo yuan yun dong	0
-双曲线轨道	shuang qu xian gui dao	6
+双曲线轨道	shuang qu xian gui dao	7
 双曲线性映射	shuang qu xian xing ying she	0
 双曲型	shuang qu xing	5
 双曲性	shuang qu xing	1
@@ -20605,7 +20605,7 @@ use_preset_vocabulary: false
 双射性	shuang she xing	0
 双斯通格	shuang si tong ge	0
 双态元件	shuang tai yuan jian	0
-双特征	shuang te zheng	0
+双特征	shuang te zheng	1
 双调和方程	shuang tiao he fang cheng	0
 双调和函数	shuang tiao he han shu	0
 双调和算子	shuang tiao he suan zi	0
@@ -20658,14 +20658,14 @@ use_preset_vocabulary: false
 水平子集	shui ping zi ji	0
 水平子空间	shui ping zi kong jian	0
 水平坐标	shui ping zuo biao	0
-水准面	shui zhun mian	5
+水准面	shui zhun mian	3
 瞬时描述	shun shi miao shu	0
 瞬时性态	shun shi xing tai	0
-顺时针旋转	shun shi zhen xuan zhuan	85
+顺时针旋转	shun shi zhen xuan zhuan	89
 瞬时状态	shun shi zhuang tai	7
 瞬态稳定性	shun tai wen ding xing	0
 顺向基	shun xiang ji	0
-顺序规划	shun xu gui hua	0
+顺序规划	shun xu gui hua	1
 顺序主子矩阵	shun xu zhu zi ju zhen	0
 顺序主子式	shun xu zhu zi shi	2
 四重表	si chong biao	0
@@ -20685,7 +20685,7 @@ use_preset_vocabulary: false
 四顶点定理	si ding dian ding li	0
 斯丁洛特代数	si ding luo te dai shu	0
 斯丁洛特运算	si ding luo te yun suan	0
-四分位	si fen wei	55
+四分位	si fen wei	57
 四分位数	si fen wei shu	26
 四分圆	si fen yuan	0
 四角柱	si jiao zhu	0
@@ -20723,13 +20723,13 @@ use_preset_vocabulary: false
 斯图谟链	si tu mo lian	0
 斯图谟刘维尔特盏问题	si tu mo liu wei er te zhan wen ti	0
 斯托克斯定理	si tuo ke si ding li	10
-斯托克斯方程	si tuo ke si fang cheng	12
+斯托克斯方程	si tuo ke si fang cheng	13
 斯托克斯公式	si tuo ke si gong shi	45
 斯托克斯现象	si tuo ke si xian xiang	0
 死亡率表	si wang lv biao	0
 四维动量	si wei dong liang	6
 四维矢量	si wei shi liang	17
-四维速度	si wei su du	24
+四维速度	si wei su du	27
 四维性	si wei xing	0
 四维张量	si wei zhang liang	0
 四元群	si yuan qun	0
@@ -20762,7 +20762,7 @@ use_preset_vocabulary: false
 搜索周期	sou suo zhou qi	0
 搜她程	sou ta cheng	0
 素除子	su chu zi	0
-素点	su dian	4
+素点	su dian	5
 素端	su duan	0
 速端曲线	su duan qu xian	0
 速端曲线法	su duan qu xian fa	0
@@ -20777,7 +20777,7 @@ use_preset_vocabulary: false
 素理想链	su li xiang lian	0
 素连接	su lian jie	0
 素滤子	su lv zi	0
-素模型	su mo xing	3
+素模型	su mo xing	4
 素数定理	su shu ding li	7
 素数对	su shu dui	2
 素数分布	su shu fen bu	4
@@ -20786,7 +20786,7 @@ use_preset_vocabulary: false
 苏斯林树	su si lin shu	0
 素因数	su yin shu	0
 素因子	su yin zi	14
-素域	su yu	9
+素域	su yu	10
 素元	su yuan	42
 算法化	suan fa hua	0
 算法论	suan fa lun	0
@@ -20829,7 +20829,7 @@ use_preset_vocabulary: false
 随机变数	sui ji bian shu	2
 随机步	sui ji bu	0
 随机测度	sui ji ce du	0
-随机场	sui ji chang	37
+随机场	sui ji chang	39
 随机动态规划	sui ji dong tai gui hua	5
 随机动态模型	sui ji dong tai mo xing	0
 随机独立	sui ji du li	0
@@ -20837,7 +20837,7 @@ use_preset_vocabulary: false
 随机对策	sui ji dui ce	0
 随机分析	sui ji fen xi	0
 随机服务系统	sui ji fu wu xi tong	0
-随机干扰	sui ji gan rao	5
+随机干扰	sui ji gan rao	4
 随机规划	sui ji gui hua	4
 随机规划法	sui ji gui hua fa	0
 随机过程统计	sui ji guo cheng tong ji	0
@@ -20850,27 +20850,27 @@ use_preset_vocabulary: false
 随机积分方程	sui ji ji fen fang cheng	0
 随机加权法	sui ji jia quan fa	0
 随机接入	sui ji jie ru	18
-随机控制	sui ji kong zhi	0
+随机控制	sui ji kong zhi	33
 随机控制理论	sui ji kong zhi li lun	0
 随机力学	sui ji li xue	1
 随机联络	sui ji lian luo	0
 随机连续	sui ji lian xu	0
-随机量	sui ji liang	11
+随机量	sui ji liang	12
 随机流	sui ji liu	0
 随机滤波	sui ji lv bo	0
-随机密码	sui ji mi ma	12
+随机密码	sui ji mi ma	13
 随机偏差	sui ji pian cha	1
 随机区组设计	sui ji qu zu she ji	0
 随机数表	sui ji shu biao	2
 随机输入	sui ji shu ru	8
 随机数种子	sui ji shu zhong zi	15
 随机顺序	sui ji shun xu	4
-随机搜索	sui ji sou suo	10
+随机搜索	sui ji sou suo	11
 随机完全区组设计	sui ji wan quan qu zu she ji	0
 随机微分法	sui ji wei fen fa	0
 随机微分方程	sui ji wei fen fang cheng	44
 随机微分几何	sui ji wei fen ji he	1
-随机现象	sui ji xian xiang	0
+随机现象	sui ji xian xiang	15
 随机向量	sui ji xiang liang	28
 随机相依	sui ji xiang yi	0
 随机相依事件	sui ji xiang yi shi jian	0
@@ -20901,8 +20901,8 @@ use_preset_vocabulary: false
 塔特图	ta te tu	0
 泰奥多森函数	tai ao duo sen han shu	0
 泰勒圆	tai le yuan	0
-泰勒展开	tai le zhan kai	183
-态射	tai she	13
+泰勒展开	tai le zhan kai	188
+态射	tai she	14
 泰特高	tai te gao	0
 泰特模	tai te mo	0
 泰特曲线	tai te qu xian	0
@@ -20921,7 +20921,7 @@ use_preset_vocabulary: false
 套设计	tao she ji	0
 特别积分	te bie ji fen	0
 特称命题	te cheng ming ti	2
-特定化	te ding hua	0
+特定化	te ding hua	28
 特里科米方程	te li ke mi fang cheng	0
 特里科米函数	te li ke mi han shu	0
 特里科米问题	te li ke mi wen ti	0
@@ -20998,7 +20998,7 @@ use_preset_vocabulary: false
 特征座标	te zheng zuo biao	0
 特指真值	te zhi zhen zhi	0
 剔除残差	ti chu can cha	0
-梯度方向	ti du fang xiang	66
+梯度方向	ti du fang xiang	68
 梯度搜索	ti du sou suo	0
 梯度投影法	ti du tou ying fa	4
 梯度向量场	ti du xiang liang chang	1
@@ -21037,7 +21037,7 @@ use_preset_vocabulary: false
 调和优函数	tiao he you han shu	0
 条件变分问题	tiao jian bian fen wen ti	0
 条件不等式	tiao jian bu deng shi	0
-条件不稳定	tiao jian bu wen ding	2
+条件不稳定	tiao jian bu wen ding	1
 条件定义	tiao jian ding yi	0
 条件方程	tiao jian fang cheng	3
 条件分布	tiao jian fen bu	0
@@ -21049,8 +21049,8 @@ use_preset_vocabulary: false
 条件蒙特卡罗方法	tiao jian meng te ka luo fang fa	0
 条件命题	tiao jian ming ti	2
 条件期望	tiao jian qi wang	0
-条件熵	tiao jian shang	11
-条件收敛	tiao jian shou lian	2
+条件熵	tiao jian shang	12
+条件收敛	tiao jian shou lian	3
 条件收敛带	tiao jian shou lian dai	0
 条件收敛级数	tiao jian shou lian ji shu	0
 条件数学期望	tiao jian shu xue qi wang	0
@@ -21068,8 +21068,8 @@ use_preset_vocabulary: false
 跳跃点	tiao yue dian	0
 跳跃函数	tiao yue han shu	0
 调整型抽检	tiao zheng xing chou jian	0
-调整子	tiao zheng zi	0
-停时	ting shi	15
+调整子	tiao zheng zi	1
+停时	ting shi	33
 停止定理	ting zhi ding li	0
 停止规则	ting zhi gui ze	0
 停止过程	ting zhi guo cheng	0
@@ -21077,7 +21077,7 @@ use_preset_vocabulary: false
 同步现象	tong bu xian xiang	0
 通常条件	tong chang tiao jian	0
 统筹法	tong chou fa	2
-同担	tong dan	28
+同担	tong dan	30
 同惮数	tong dan shu	0
 同单形	tong dan xing	0
 同单形映射	tong dan xing ying she	0
@@ -21128,13 +21128,13 @@ use_preset_vocabulary: false
 同痕不变量	tong hen bu bian liang	5
 同化拓扑	tong hua tuo pu	0
 通积分	tong ji fen	15
-统计分布	tong ji fen bu	28
+统计分布	tong ji fen bu	29
 统计分析纸	tong ji fen xi zhi	0
 统计分组法	tong ji fen zu fa	0
 统计覆盖区间	tong ji fu gai qu jian	0
 统计估计	tong ji gu ji	0
 统计估计方法	tong ji gu ji fang fa	0
-统计函数	tong ji han shu	31
+统计函数	tong ji han shu	34
 统计假设检验	tong ji jia she jian yan	4
 统计监督	tong ji jian du	0
 统计精确度	tong ji jing que du	0
@@ -21144,7 +21144,7 @@ use_preset_vocabulary: false
 统计判决函数	tong ji pan jue han shu	0
 统计判决问题	tong ji pan jue wen ti	0
 统计热力学	tong ji re li xue	50
-统计数据分析	tong ji shu ju fen xi	0
+统计数据分析	tong ji shu ju fen xi	17
 统计推断	tong ji tui duan	96
 统计误差	tong ji wu cha	14
 统计学原理	tong ji xue yuan li	55
@@ -21188,7 +21188,7 @@ use_preset_vocabulary: false
 同时对角化	tong shi dui jiao hua	1
 同时行迭代	tong shi xing die dai	0
 同宿点	tong su dian	1
-同态	tong tai	210
+同态	tong tai	70
 同态定理	tong tai ding li	0
 同态模	tong tai mo	0
 同态群	tong tai qun	0
@@ -21208,7 +21208,7 @@ use_preset_vocabulary: false
 通用丛	tong yong cong	0
 通用覆盖群	tong yong fu gai qun	0
 通用关系	tong yong guan xi	0
-通用函数	tong yong han shu	9
+通用函数	tong yong han shu	10
 通用集合	tong yong ji he	0
 通用结构	tong yong jie gou	0
 通用映射	tong yong ying she	0
@@ -21249,7 +21249,7 @@ use_preset_vocabulary: false
 投影寻踪法	tou ying xun zong fa	0
 投影柱面	tou ying zhu mian	0
 凸半径	tu ban jing	0
-凸包	tu bao	39
+凸包	tu bao	40
 凸超曲面	tu chao qu mian	0
 凸等价关系	tu deng jia guan xi	0
 图度	tu du	0
@@ -21279,7 +21279,7 @@ use_preset_vocabulary: false
 图录机	tu lu ji	0
 凸曲线	tu qu xian	4
 凸区域	tu qu yu	0
-图色	tu se	10
+图色	tu se	13
 凸算子	tu suan zi	0
 凸体	tu ti	6
 图同胚	tu tong pei	0
@@ -21299,9 +21299,9 @@ use_preset_vocabulary: false
 图自同构群	tu zi tong gou qun	0
 凸组合	tu zu he	7
 图作业法	tu zuo ye fa	0
-团图	tuan tu	0
+团图	tuan tu	1
 推迟基本解	tui chi ji ben jie	0
-推迟势	tui chi shi	8
+推迟势	tui chi shi	9
 推迟位势	tui chi wei shi	0
 推导集	tui dao ji	0
 退化本盏	tui hua ben zhan	0
@@ -21324,7 +21324,7 @@ use_preset_vocabulary: false
 退化阵	tui hua zhen	0
 蜕型线	tui xing xian	0
 推移变换	tui yi bian huan	0
-托姆	tuo mu	37
+托姆	tuo mu	46
 托姆法式解	tuo mu fa shi jie	0
 托姆复形	tuo mu fu xing	0
 托内利序列	tuo nei li xu lie	0
@@ -21393,7 +21393,7 @@ use_preset_vocabulary: false
 脱殊集	tuo shu ji	0
 椭圆点	tuo yuan dian	1
 椭圆规	tuo yuan gui	0
-椭圆轨道	tuo yuan gui dao	133
+椭圆轨道	tuo yuan gui dao	142
 椭圆函数域	tuo yuan han shu yu	0
 椭圆几何	tuo yuan ji he	3
 椭圆几何学	tuo yuan ji he xue	0
@@ -21415,7 +21415,7 @@ use_preset_vocabulary: false
 椭圆型微分算子	tuo yuan xing wei fen suan zi	1
 椭圆型域	tuo yuan xing yu	0
 椭圆悬链线	tuo yuan xuan lian xian	0
-椭圆运动	tuo yuan yun dong	21
+椭圆运动	tuo yuan yun dong	23
 椭圆柱函数	tuo yuan zhu han shu	0
 椭圆柱面	tuo yuan zhu mian	3
 椭圆坐标	tuo yuan zuo biao	2
@@ -21448,9 +21448,9 @@ use_preset_vocabulary: false
 外分	wai fen	3
 外分比	wai fen bi	1
 外分角线	wai fen jiao xian	0
-外积	wai ji	40
+外积	wai ji	43
 外角平分线	wai jiao ping fen xian	2
-外接球	wai jie qiu	66
+外接球	wai jie qiu	71
 歪扭位置	wai niu wei zhi	0
 外平面图	wai ping mian tu	0
 外切多边形	wai qie duo bian xing	1
@@ -21479,7 +21479,7 @@ use_preset_vocabulary: false
 完备测度空间	wan bei ce du kong jian	0
 完备度量空间	wan bei du liang kong jian	1
 完备公理系统	wan bei gong li xi tong	0
-完备集	wan bei ji	6
+完备集	wan bei ji	7
 完备空间	wan bei kong jian	2
 完备类	wan bei lei	0
 完备滤子	wan bei lv zi	0
@@ -21552,7 +21552,7 @@ use_preset_vocabulary: false
 完全连续性	wan quan lian xu xing	0
 完全码	wan quan ma	0
 完全拟有序集	wan quan ni you xu ji	0
-完全平方	wan quan ping fang	14
+完全平方	wan quan ping fang	17
 完全群	wan quan qun	0
 完全设计	wan quan she ji	0
 完全剩余系	wan quan sheng yu xi	1
@@ -21606,7 +21606,7 @@ use_preset_vocabulary: false
 完整系	wan zheng xi	0
 网格边界	wang ge bian jie	1
 网格步长	wang ge bu chang	0
-网格大小	wang ge da xiao	46
+网格大小	wang ge da xiao	47
 网格函数	wang ge han shu	0
 网格间距	wang ge jian ju	9
 网格交界	wang ge jiao jie	0
@@ -21645,7 +21645,7 @@ use_preset_vocabulary: false
 未定数	wei ding shu	0
 伪度量	wei du liang	0
 伪度量空间	wei du liang kong jian	0
-尾段	wei duan	133
+尾段	wei duan	135
 魏尔斯特拉斯	wei er si te la si	14
 维尔斯特拉斯逼近定理	wei er si te la si bi jin ding li	0
 维尔斯特拉斯点	wei er si te la si dian	0
@@ -21681,10 +21681,10 @@ use_preset_vocabulary: false
 微分算子法	wei fen suan zi fa	4
 微分同胚	wei fen tong pei	23
 微分同胚映射	wei fen tong pei ying she	0
-微分拓扑	wei fen tuo pu	24
+微分拓扑	wei fen tuo pu	26
 微分稳定性	wei fen wen ding xing	0
 微分系数	wei fen xi shu	0
-微分形式	wei fen xing shi	102
+微分形式	wei fen xing shi	103
 微分映射	wei fen ying she	0
 伪赋范空间	wei fu fan kong jian	0
 伪复廖	wei fu liao	0
@@ -21704,7 +21704,7 @@ use_preset_vocabulary: false
 微局部分析	wei ju bu fen xi	0
 伪距离	wei ju li	0
 维量分析	wei liang fen xi	0
-维列向量	wei lie xiang liang	3
+维列向量	wei lie xiang liang	4
 伪流形	wei liu xing	0
 纬洛平均	wei luo ping jun	0
 伪螺线	wei luo xian	0
@@ -21731,8 +21731,8 @@ use_preset_vocabulary: false
 微扰理论	wei rao li lun	20
 伪三角形	wei san jiao xing	0
 威沙特分布	wei sha te fen bu	0
-位势	wei shi	35
-位矢	wei shi	89
+位势	wei shi	36
+位矢	wei shi	92
 位势差	wei shi cha	0
 位势场	wei shi chang	0
 位势函数	wei shi han shu	0
@@ -21755,7 +21755,7 @@ use_preset_vocabulary: false
 伪素函数	wei su han shu	0
 伪素数	wei su shu	12
 伪随机码	wei sui ji ma	7
-伪随机数	wei sui ji shu	21
+伪随机数	wei sui ji shu	29
 维他里积分方程	wei ta li ji fen fang cheng	0
 维特比译码算法	wei te bi yi ma suan fa	0
 维特分解	wei te fen jie	0
@@ -21810,15 +21810,15 @@ use_preset_vocabulary: false
 稳定等价	wen ding deng jia	0
 稳定法	wen ding fa	0
 稳定分布	wen ding fen bu	0
-稳定轨道	wen ding gui dao	25
+稳定轨道	wen ding gui dao	26
 稳定规划	wen ding gui hua	0
 稳定过程	wen ding guo cheng	0
 稳定集合	wen ding ji he	1
 稳定极限环	wen ding ji xian huan	0
-稳定解	wen ding jie	12
+稳定解	wen ding jie	13
 稳定矩阵	wen ding ju zhen	1
 稳定廖	wen ding liao	0
-稳定区	wen ding qu	7
+稳定区	wen ding qu	10
 稳定区域	wen ding qu yu	0
 稳定群	wen ding qun	0
 稳定收敛	wen ding shou lian	3
@@ -21945,7 +21945,7 @@ use_preset_vocabulary: false
 无穷可分分布	wu qiong ke fen fen bu	0
 无穷逻辑	wu qiong luo ji	0
 无穷数列	wu qiong shu lie	1
-无穷维	wu qiong wei	80
+无穷维	wu qiong wei	101
 无穷微分方程组	wu qiong wei fen fang cheng zu	0
 无穷维系统	wu qiong wei xi tong	0
 无穷线性方程组	wu qiong xian xing fang cheng zu	0
@@ -21989,10 +21989,10 @@ use_preset_vocabulary: false
 无限矩阵	wu xian ju zhen	0
 无限局中人对策	wu xian ju zhong ren dui ce	0
 无限扩域	wu xian kuo yu	0
-无限扩张	wu xian kuo zhang	55
+无限扩张	wu xian kuo zhang	57
 无限连分数	wu xian lian fen shu	0
 无限区间	wu xian qu jian	0
-无限群	wu xian qun	2
+无限群	wu xian qun	3
 无限水库	wu xian shui ku	0
 无限素除子	wu xian su chu zi	0
 无限位	wu xian wei	0
@@ -22019,7 +22019,7 @@ use_preset_vocabulary: false
 希尔伯特计划	xi er bo te ji hua	4
 希耳伯特矩阵	xi er bo te ju zhen	0
 希耳伯特空间	xi er bo te kong jian	0
-希尔伯特空间	xi er bo te kong jian	159
+希尔伯特空间	xi er bo te kong jian	160
 希尔伯特类域	xi er bo te lei yu	0
 希耳伯特零点定理	xi er bo te ling dian ding li	0
 希尔伯特流形	xi er bo te liu xing	0
@@ -22041,7 +22041,7 @@ use_preset_vocabulary: false
 西罗子群	xi luo zi qun	0
 稀巯阵	xi qiu zhen	0
 析取项	xi qu xiang	0
-吸收壁	xi shou bi	3
+吸收壁	xi shou bi	4
 吸收边界条件	xi shou bian jie tiao jian	1
 吸收概率	xi shou gai lv	0
 吸收集	xi shou ji	0
@@ -22088,7 +22088,7 @@ use_preset_vocabulary: false
 下积分	xia ji fen	0
 下极限	xia ji xian	0
 下极限函数	xia ji xian han shu	0
-下降法	xia jiang fa	0
+下降法	xia jiang fa	6
 下降方向	xia jiang fang xiang	0
 下降算法	xia jiang suan fa	0
 下降算子	xia jiang suan zi	0
@@ -22116,12 +22116,12 @@ use_preset_vocabulary: false
 现代数学	xian dai shu xue	0
 先到先服务	xian dao xian fu wu	0
 显格式	xian ge shi	4
-线划分	xian hua fen	7
+线划分	xian hua fen	6
 线汇	xian hui	0
 线积分	xian ji fen	28
 暹辑斯谛	xian ji si di	0
 弦距离	xian ju li	2
-线列	xian lie	50
+线列	xian lie	55
 线临界图	xian lin jie tu	0
 陷门	xian men	26
 闲期	xian qi	11
@@ -22137,7 +22137,7 @@ use_preset_vocabulary: false
 线性逼近问题	xian xing bi jin wen ti	0
 线性变换群	xian xing bian huan qun	0
 线性表出	xian xing biao chu	1
-线性表示	xian xing biao shi	12
+线性表示	xian xing biao shi	13
 线性测度	xian xing ce du	0
 线性差分方程	xian xing cha fen fang cheng	2
 线性常微分方程	xian xing chang wei fen fang cheng	6
@@ -22161,7 +22161,7 @@ use_preset_vocabulary: false
 线性检验	xian xing jian yan	0
 线性结合代数	xian xing jie he dai shu	0
 线性近似	xian xing jin si	18
-线性空间	xian xing kong jian	215
+线性空间	xian xing kong jian	219
 线性空间同构	xian xing kong jian tong gou	0
 线性控制理论	xian xing kong zhi li lun	0
 线性狂	xian xing kuang	0
@@ -22204,7 +22204,7 @@ use_preset_vocabulary: false
 线性有序类	xian xing you xu lei	0
 线性元	xian xing yuan	0
 线性约束	xian xing yue shu	8
-线性运算	xian xing yun suan	15
+线性运算	xian xing yun suan	17
 线性秩统计量	xian xing zhi tong ji liang	0
 线性子簇	xian xing zi cu	0
 线性子空间	xian xing zi kong jian	2
@@ -22243,7 +22243,7 @@ use_preset_vocabulary: false
 相伴系	xiang ban xi	0
 相伴系数	xiang ban xi shu	0
 相伴元	xiang ban yuan	0
-相错	xiang cuo	9
+相错	xiang cuo	12
 相等公里	xiang deng gong li	0
 相等集	xiang deng ji	0
 相等可能事件	xiang deng ke neng shi jian	0
@@ -22338,13 +22338,13 @@ use_preset_vocabulary: false
 相交记号	xiang jiao ji hao	0
 相交角	xiang jiao jiao	0
 相交理论	xiang jiao li lun	3
-相交数	xiang jiao shu	7
+相交数	xiang jiao shu	8
 相交图	xiang jiao tu	0
-相界	xiang jie	18
+相界	xiang jie	19
 象空间	xiang kong jian	2
-向量表示	xiang liang biao shi	61
+向量表示	xiang liang biao shi	62
 向量测度	xiang liang ce du	0
-向量场	xiang liang chang	168
+向量场	xiang liang chang	197
 向量场正规形	xiang liang chang zheng gui xing	0
 向量丛	xiang liang cong	8
 向量导数	xiang liang dao shu	0
@@ -22401,7 +22401,7 @@ use_preset_vocabulary: false
 相似法	xiang si fa	1
 相似函数	xiang si han shu	0
 相似检验	xiang si jian yan	0
-相似矩阵	xiang si ju zhen	6
+相似矩阵	xiang si ju zhen	7
 相似扩大	xiang si kuo da	1
 相似平面	xiang si ping mian	0
 相似条件	xiang si tiao jian	0
@@ -22418,7 +22418,7 @@ use_preset_vocabulary: false
 相位误差	xiang wei wu cha	7
 相位滞后	xiang wei zhi hou	6
 相向量	xiang xiang liang	0
-相消	xiang xiao	118
+相消	xiang xiao	122
 相移分析	xiang yi fen xi	0
 响应曲线	xiang ying qu xian	17
 享泽莱化	xiang ze lai hua	0
@@ -22427,7 +22427,7 @@ use_preset_vocabulary: false
 小除数	xiao chu shu	0
 肖德不动点定理	xiao de bu dong dian ding li	0
 小范畴	xiao fan chou	0
-小集	xiao ji	10
+小集	xiao ji	22
 效率因子	xiao lv yin zi	0
 消没闭上链	xiao mei bi shang lian	0
 消没函数	xiao mei han shu	0
@@ -22444,7 +22444,7 @@ use_preset_vocabulary: false
 消息压缩	xiao xi ya suo	0
 小样本	xiao yang ben	0
 小样本问题	xiao yang ben wen ti	3
-效用理论	xiao yong li lun	54
+效用理论	xiao yong li lun	43
 小于或等于	xiao yu huo deng yu	81
 消元规则	xiao yuan gui ze	0
 消元矩阵	xiao yuan ju zhen	0
@@ -22457,7 +22457,7 @@ use_preset_vocabulary: false
 斜对称张量	xie dui chen zhang liang	0
 斜多项式环	xie duo xiang shi huan	0
 斜二测画法	xie er ce hua fa	0
-泄放	xie fang	22
+泄放	xie fang	26
 协方差泛函数	xie fang cha fan han shu	0
 协方差分析	xie fang cha fen xi	1
 协方差函数	xie fang cha han shu	1
@@ -22501,7 +22501,7 @@ use_preset_vocabulary: false
 心射图法	xin she tu fa	0
 信息测度	xin xi ce du	0
 信息集	xin xi ji	0
-信息几何	xin xi ji he	0
+信息几何	xin xi ji he	4
 信息可加性	xin xi ke jia xing	0
 信息率	xin xi lv	0
 信息散度	xin xi san du	0
@@ -22521,7 +22521,7 @@ use_preset_vocabulary: false
 型函数	xing han shu	0
 行和	xing he	0
 行矩阵	xing ju zhen	1
-行空间	xing kong jian	0
+行空间	xing kong jian	9
 行满秩矩阵	xing man zhi ju zhen	0
 型省略定理	xing sheng lue ding li	0
 形式伴随算子	xing shi ban sui suan zi	0
@@ -22582,7 +22582,7 @@ use_preset_vocabulary: false
 序贯设计	xu guan she ji	0
 序贯似然比值检验	xu guan si ran bi zhi jian yan	0
 序贯搜索	xu guan sou suo	0
-序关系	xu guan xi	9
+序关系	xu guan xi	10
 序贯译码	xu guan yi ma	0
 序贯字函数	xu guan zi han shu	0
 序函数	xu han shu	0
@@ -22591,7 +22591,7 @@ use_preset_vocabulary: false
 序结构	xu jie gou	3
 序列抽样法	xu lie chou yang fa	0
 序列估计	xu lie gu ji	2
-序列空间	xu lie kong jian	0
+序列空间	xu lie kong jian	2
 序列弱完备	xu lie ruo wan bei	0
 序列式紧空间	xu lie shi jin kong jian	0
 序列完备	xu lie wan bei	0
@@ -22615,16 +22615,16 @@ use_preset_vocabulary: false
 序同态算子	xu tong tai suan zi	0
 序同态象	xu tong tai xiang	0
 虚椭圆面	xu tuo yuan mian	0
-虚位移	xu wei yi	177
+虚位移	xu wei yi	178
 虚物	xu wu	2
 序域	xu yu	0
 虚圆	xu yuan	1
-旋度	xuan du	345
-悬挂点	xuan gua dian	7
+旋度	xuan du	346
+悬挂点	xuan gua dian	8
 选举模型	xuan ju mo xing	0
 悬链面	xuan lian mian	1
 悬链曲面	xuan lian qu mian	0
-悬链线	xuan lian xian	30
+悬链线	xuan lian xian	32
 旋量表示	xuan liang biao shi	2
 旋量范	xuan liang fan	0
 旋量狂	xuan liang kuang	0
@@ -22639,7 +22639,7 @@ use_preset_vocabulary: false
 旋转方向法	xuan zhuan fang xiang fa	0
 旋转公式	xuan zhuan gong shi	1
 旋转面	xuan zhuan mian	6
-旋转群	xuan zhuan qun	12
+旋转群	xuan zhuan qun	10
 旋转数	xuan zhuan shu	1
 旋转双曲面	xuan zhuan shuang qu mian	0
 旋转指向	xuan zhuan zhi xiang	1
@@ -22663,7 +22663,7 @@ use_preset_vocabulary: false
 循环对称	xun huan dui chen	0
 循环对称对策	xun huan dui chen dui ce	0
 循环多项式	xun huan duo xiang shi	0
-循环法	xun huan fa	0
+循环法	xun huan fa	10
 循环方程	xun huan fang cheng	0
 循环行列式	xun huan hang lie shi	0
 循环级数	xun huan ji shu	0
@@ -22679,7 +22679,7 @@ use_preset_vocabulary: false
 循环模	xun huan mo	0
 循环拟差集	xun huan ni cha ji	0
 循环排队	xun huan pai dui	1
-循环群	xun huan qun	7
+循环群	xun huan qun	9
 循环图	xun huan tu	0
 循环相关	xun huan xiang guan	0
 循环雅可比法	xun huan ya ke bi fa	0
@@ -22787,9 +22787,9 @@ use_preset_vocabulary: false
 样本大小	yang ben da xiao	16
 样本点	yang ben dian	0
 样本甸	yang ben dian	0
-样本方差	yang ben fang cha	6
+样本方差	yang ben fang cha	7
 样本分位数	yang ben fen wei shu	0
-样本个数	yang ben ge shu	11
+样本个数	yang ben ge shu	9
 样本广义方差	yang ben guang yi fang cha	0
 样本函数	yang ben han shu	4
 样本连续	yang ben lian xu	0
@@ -22825,7 +22825,7 @@ use_preset_vocabulary: false
 幺正	yao zheng	56
 幺正变换	yao zheng bian huan	26
 幺正基	yao zheng ji	0
-叶数	ye shu	22
+叶数	ye shu	39
 曳物线	ye wu xian	1
 叶形线	ye xing xian	0
 叶状结构	ye zhuang jie gou	2
@@ -22856,7 +22856,7 @@ use_preset_vocabulary: false
 一般有效性	yi ban you xiao xing	0
 异步计算机	yi bu ji suan ji	0
 依测度收敛	yi ce du shou lian	0
-异常值	yi chang zhi	166
+异常值	yi chang zhi	184
 溢出概率	yi chu gai lv	0
 遗传集	yi chuan ji	0
 遗传可数集	yi chuan ke shu ji	0
@@ -22875,10 +22875,10 @@ use_preset_vocabulary: false
 一点紧化	yi dian jin hua	0
 移动臂	yi dong bi	0
 移动目标搜索	yi dong mu biao sou suo	0
-移动平均	yi dong ping jun	0
+移动平均	yi dong ping jun	100
 移动平均法	yi dong ping jun fa	15
 移动平均数法	yi dong ping jun shu fa	0
-移动平均值	yi dong ping jun zhi	19
+移动平均值	yi dong ping jun zhi	20
 一对多对应	yi dui duo dui ying	1
 一对多映射	yi dui duo ying she	1
 依范数收敛	yi fan shu shou lian	0
@@ -22909,24 +22909,24 @@ use_preset_vocabulary: false
 伊藤过程	yi teng guo cheng	3
 伊藤积分	yi teng ji fen	7
 一维边值问题	yi wei bian zhi wen ti	0
-一维空间	yi wei kong jian	38
+一维空间	yi wei kong jian	39
 一维群	yi wei qun	0
 一维搜索	yi wei sou suo	2
 移位算子	yi wei suan zi	0
 一维微分方程	yi wei wei fen fang cheng	0
-移项	yi xiang	82
+移项	yi xiang	83
 伊辛模型	yi xin mo xing	33
 一一表示	yi yi biao shi	1
 一一关系	yi yi guan xi	0
 一一可归约性	yi yi ke gui yue xing	0
 一一平坦环	yi yi ping tan huan	0
 一一序列	yi yi xu lie	0
-一元多项式	yi yuan duo xiang shi	1
+一元多项式	yi yuan duo xiang shi	0
 一元多项武	yi yuan duo xiang wu	0
 一元二次不等式	yi yuan er ci bu deng shi	20
 一元关系	yi yuan guan xi	0
 一元谓词演算	yi yuan wei ci yan suan	0
-一元线性回归	yi yuan xian xing hui gui	14
+一元线性回归	yi yuan xian xing hui gui	15
 一元一次不等式	yi yuan yi ci bu deng shi	2
 一元一次不等式组	yi yuan yi ci bu deng shi zu	1
 一元一次方程	yi yuan yi ci fang cheng	36
@@ -23001,13 +23001,13 @@ use_preset_vocabulary: false
 因子分解方法	yin zi fen jie fang fa	0
 因子矩阵	yin zi ju zhen	0
 因子可分解性	yin zi ke fen jie xing	0
-因子模型	yin zi mo xing	121
+因子模型	yin zi mo xing	279
 因子群列	yin zi qun lie	0
 因子设计	yin zi she ji	0
 因子同余	yin zi tong yu	0
 因子载荷	yin zi zai he	9
 因子组	yin zi zu	0
-因子组合	yin zi zu he	37
+因子组合	yin zi zu he	38
 应变张量	ying bian zhang liang	2
 迎风差分	ying feng cha fen	0
 迎风格式	ying feng ge shi	0
@@ -23086,7 +23086,7 @@ use_preset_vocabulary: false
 有点集	you dian ji	0
 有点旋量	you dian xuan liang	0
 右端参数问题	you duan can shu wen ti	0
-右端点	you duan dian	29
+右端点	you duan dian	30
 右方半开区间	you fang ban kai qu jian	0
 右方导数	you fang dao shu	0
 右分解	you fen jie	0
@@ -23106,7 +23106,7 @@ use_preset_vocabulary: false
 酉几何	you ji he	0
 右极限	you ji xian	1
 右交错环	you jiao cuo huan	0
-有界	you jie	17
+有界	you jie	68
 有界闭集	you jie bi ji	0
 有界变差函数	you jie bian cha han shu	2
 有界变差奇异函数	you jie bian cha qi yi han shu	0
@@ -23219,7 +23219,7 @@ use_preset_vocabulary: false
 有偏统计量	you pian tong ji liang	0
 有偏样本	you pian yang ben	2
 右平衡函子	you ping heng han zi	0
-右平移	you ping yi	3
+右平移	you ping yi	4
 有穷级	you qiong ji	0
 酉群	you qun	8
 有色树	you se shu	0
@@ -23303,7 +23303,7 @@ use_preset_vocabulary: false
 有限性原理	you xian xing yuan li	0
 有限序数	you xian xu shu	0
 有限循环群	you xian xun huan qun	0
-有限域	you xian yu	68
+有限域	you xian yu	73
 有限值函数	you xian zhi han shu	0
 有限秩算子	you xian zhi suan zi	0
 有限总体	you xian zong ti	2
@@ -23338,7 +23338,7 @@ use_preset_vocabulary: false
 有效估计	you xiao gu ji	0
 有效估计量	you xiao gu ji liang	0
 有效极限	you xiao ji xian	0
-有效解	you xiao jie	8
+有效解	you xiao jie	9
 有效截面	you xiao jie mian	2
 有效利率	you xiao li lv	7
 右消去律	you xiao qu lv	0
@@ -23484,12 +23484,12 @@ use_preset_vocabulary: false
 圆摆	yuan bai	2
 圆变换	yuan bian huan	1
 远场边界条件	yuan chang bian jie tiao jian	0
-源点	yuan dian	11
+源点	yuan dian	33
 原点矩	yuan dian ju	2
 元定理	yuan ding li	0
 圆对称	yuan dui chen	0
 圆法	yuan fa	7
-圆方程	yuan fang cheng	4
+圆方程	yuan fang cheng	6
 圆弓形	yuan gong xing	0
 元关系	yuan guan xi	0
 元函数	yuan han shu	0
@@ -23521,15 +23521,15 @@ use_preset_vocabulary: false
 圆束	yuan shu	0
 元数学	yuan shu xue	0
 元调和方程	yuan tiao he fang cheng	0
-圆图	yuan tu	122
+圆图	yuan tu	145
 圆问题	yuan wen ti	0
 原象	yuan xiang	5
 圆心轨迹	yuan xin gui ji	1
 圆形裂纹域	yuan xing lie wen yu	0
 圆形域	yuan xing yu	0
 元语言	yuan yu yan	0
-圆运动	yuan yun dong	28
-元运算	yuan yun suan	0
+圆运动	yuan yun dong	29
+元运算	yuan yun suan	4
 圆柱螺旋线	yuan zhu luo xuan xian	0
 圆柱域	yuan zhu yu	0
 圆锥函数	yuan zhui han shu	0
@@ -23538,8 +23538,8 @@ use_preset_vocabulary: false
 原子格	yuan zi ge	0
 原子公式	yuan zi gong shi	0
 原子命题	yuan zi ming ti	4
-原子事件	yuan zi shi jian	0
-原子性	yuan zi xing	244
+原子事件	yuan zi shi jian	1
+原子性	yuan zi xing	249
 原子元素	yuan zi yuan su	1
 跃变	yue bian	13
 约当标准型	yue dang biao zhun xing	1
@@ -23555,7 +23555,7 @@ use_preset_vocabulary: false
 约当同态	yue dang tong tai	0
 约当域	yue dang yu	0
 约当自同构	yue dang zi tong gou	0
-约化	yue hua	80
+约化	yue hua	108
 约化表示	yue hua biao shi	0
 约化波	yue hua bo	0
 约化代数	yue hua dai shu	0
@@ -23594,7 +23594,7 @@ use_preset_vocabulary: false
 约束值域逼近	yue shu zhi yu bi jin	0
 约束最大化	yue shu zui da hua	2
 约束最小化	yue shu zui xiao hua	1
-约束最优化	yue shu zui you hua	5
+约束最优化	yue shu zui you hua	4
 约束最优化方法	yue shu zui you hua fang fa	0
 运动群	yun dong qun	0
 运动稳定性理论	yun dong wen ding xing li lun	0
@@ -23604,7 +23604,7 @@ use_preset_vocabulary: false
 运输问题	yun shu wen ti	0
 运算部件	yun suan bu jian	1
 运算对象	yun suan dui xiang	1
-运算规则	yun suan gui ze	41
+运算规则	yun suan gui ze	42
 运算特征	yun suan te zheng	0
 运算元素	yun suan yuan su	0
 允许失真	yun xu shi zhen	0
@@ -23637,14 +23637,14 @@ use_preset_vocabulary: false
 闸函数	zha han shu	0
 扎里斯基环	zha li si ji huan	0
 扎里斯基拓扑	zha li si ji tuo pu	0
-展开定理	zhan kai ding li	5
+展开定理	zhan kai ding li	3
 展开系数	zhan kai xi shu	12
 展开中心	zhan kai zhong xin	0
 占位时	zhan wei shi	1
 障碍函数	zhang ai han shu	0
 障碍理论	zhang ai li lun	0
 障碍问题	zhang ai wen ti	0
-张量	zhang liang	236
+张量	zhang liang	826
 张量表示	zhang liang biao shi	6
 张量乘法	zhang liang cheng fa	1
 张量乘积	zhang liang cheng ji	0
@@ -23758,7 +23758,7 @@ use_preset_vocabulary: false
 正负号函数	zheng fu hao han shu	0
 整概形	zheng gai xing	0
 正割曲线	zheng ge qu xian	0
-正根	zheng gen	19
+正根	zheng gen	23
 正根系	zheng gen xi	0
 正惯性指数	zheng guan xing zhi shu	0
 正规变换	zheng gui bian huan	0
@@ -23794,16 +23794,16 @@ use_preset_vocabulary: false
 正规密度	zheng gui mi du	0
 正规偏微分方程组	zheng gui pian wei fen fang cheng zu	0
 正规曲线	zheng gui qu xian	0
-正规数	zheng gui shu	24
+正规数	zheng gui shu	27
 正规双曲	zheng gui shuang qu	0
 正规双曲型方程	zheng gui shuang qu xing fang cheng	0
-正规算法	zheng gui suan fa	0
+正规算法	zheng gui suan fa	1
 正规算子	zheng gui suan zi	1
 正规同态	zheng gui tong tai	0
 正规误差模型	zheng gui wu cha mo xing	0
 正规线性算子	zheng gui xian xing suan zi	0
 正规形	zheng gui xing	0
-正规性	zheng gui xing	0
+正规性	zheng gui xing	62
 正规型对策	zheng gui xing dui ce	0
 正规性检验	zheng gui xing jian yan	0
 正规形式定理	zheng gui xing shi ding li	0
@@ -23841,7 +23841,7 @@ use_preset_vocabulary: false
 正交多项式回归	zheng jiao duo xiang shi hui gui	0
 正交多项式展开	zheng jiao duo xiang shi zhan kai	0
 正交方格	zheng jiao fang ge	0
-正交分解	zheng jiao fen jie	37
+正交分解	zheng jiao fen jie	46
 正交关系	zheng jiao guan xi	4
 正交轨线	zheng jiao gui xian	0
 正交轨线族	zheng jiao gui xian zu	0
@@ -23853,7 +23853,7 @@ use_preset_vocabulary: false
 正交化	zheng jiao hua	14
 正交化过程	zheng jiao hua guo cheng	1
 正交回归设计	zheng jiao hui gui she ji	0
-正交基	zheng jiao ji	63
+正交基	zheng jiao ji	66
 正交极	zheng jiao ji	0
 正交级数	zheng jiao ji shu	6
 正交矩阵	zheng jiao ju zhen	29
@@ -23866,7 +23866,7 @@ use_preset_vocabulary: false
 正交射影算子	zheng jiao she ying suan zi	0
 正交随机测度	zheng jiao sui ji ce du	0
 正交随机过程	zheng jiao sui ji guo cheng	0
-正交投影	zheng jiao tou ying	19
+正交投影	zheng jiao tou ying	21
 正交完全可约性	zheng jiao wan quan ke yue xing	0
 正交系	zheng jiao xi	2
 正交向量	zheng jiao xiang liang	5
@@ -23894,10 +23894,10 @@ use_preset_vocabulary: false
 正切曲线	zheng qie qu xian	0
 整权	zheng quan	1
 正矢	zheng shi	0
-正十二面体	zheng shi er mian ti	13
+正十二面体	zheng shi er mian ti	14
 正十二面体群	zheng shi er mian ti qun	0
 正实函数	zheng shi han shu	0
-正实数	zheng shi shu	14
+正实数	zheng shi shu	15
 整数表示	zheng shu biao shi	3
 整数多面体	zheng shu duo mian ti	0
 整数规划	zheng shu gui hua	20
@@ -23937,7 +23937,7 @@ use_preset_vocabulary: false
 正弦摆线	zheng xian bai xian	0
 正弦表	zheng xian biao	1
 正弦定律	zheng xian ding lv	0
-正弦函数	zheng xian han shu	65
+正弦函数	zheng xian han shu	66
 正弦积分	zheng xian ji fen	1
 正弦积分函数	zheng xian ji fen han shu	0
 正弦螺线	zheng xian luo xian	0
@@ -24051,9 +24051,9 @@ use_preset_vocabulary: false
 正锥	zheng zhui	0
 正自同态	zheng zi tong tai	0
 整左零理想	zheng zuo ling li xiang	0
-值表	zhi biao	7
+值表	zhi biao	12
 指标方程	zhi biao fang cheng	0
-指标函数	zhi biao han shu	5
+指标函数	zhi biao han shu	8
 指标集	zhi biao ji	3
 直并	zhi bing	0
 直不可分解格	zhi bu ke fen jie ge	0
@@ -24093,7 +24093,7 @@ use_preset_vocabulary: false
 置换码	zhi huan ma	0
 置换算子	zhi huan suan zi	1
 置换同胚	zhi huan tong pei	0
-直积	zhi ji	48
+直积	zhi ji	50
 直积代数	zhi ji dai shu	0
 直积集	zhi ji ji	0
 直积因子	zhi ji yin zi	0
@@ -24140,7 +24140,7 @@ use_preset_vocabulary: false
 指数级数	zhi shu ji shu	0
 指数律	zhi shu lv	0
 指数母函数	zhi shu mu han shu	0
-指数曲线	zhi shu qu xian	11
+指数曲线	zhi shu qu xian	13
 指数式渐近稳定	zhi shu shi jian jin wen ding	0
 指数时间算法	zhi shu shi jian suan fa	0
 指数稳定	zhi shu wen ding	0
@@ -24214,7 +24214,7 @@ use_preset_vocabulary: false
 终结面	zhong jie mian	0
 钟控序列	zhong kong xu lie	0
 重扩张	zhong kuo zhang	0
-种量	zhong liang	6
+种量	zhong liang	7
 种量法	zhong liang fa	0
 中列数	zhong lie shu	0
 中曲率	zhong qu lv	0
@@ -24229,7 +24229,7 @@ use_preset_vocabulary: false
 重调和函数	zhong tiao he han shu	0
 重调和算子	zhong tiao he suan zi	0
 仲统计法	zhong tong ji fa	0
-重图	zhong tu	1
+重图	zhong tu	0
 终拓扑	zhong tuo pu	0
 中位无偏估计	zhong wei wu pian gu ji	0
 中项	zhong xiang	8
@@ -24276,14 +24276,14 @@ use_preset_vocabulary: false
 轴对称流	zhou dui chen liu	0
 轴对称向量场	zhou dui chen xiang liang chang	0
 轴法	zhou fa	0
-轴方向	zhou fang xiang	97
-周环	zhou huan	17
+轴方向	zhou fang xiang	99
+周环	zhou huan	18
 周期边界条件	zhou qi bian jie tiao jian	5
 周期带	zhou qi dai	0
 周期关系式	zhou qi guan xi shi	0
 周期广义函数	zhou qi guang yi han shu	0
 周期轨道	zhou qi gui dao	1
-周期化	zhou qi hua	0
+周期化	zhou qi hua	7
 周期矩阵	zhou qi ju zhen	0
 周期平行四边形	zhou qi ping xing si bian xing	0
 周期群	zhou qi qun	0
@@ -24298,7 +24298,7 @@ use_preset_vocabulary: false
 轴向量	zhou xiang liang	2
 周转圆	zhou zhuan yuan	0
 周坐标	zhou zuo biao	0
-主部	zhu bu	57
+主部	zhu bu	59
 逐步积分	zhu bu ji fen	0
 主猜测	zhu cai ce	0
 柱测度	zhu ce du	0
@@ -24316,7 +24316,7 @@ use_preset_vocabulary: false
 逐次消元去	zhu ci xiao yuan qu	0
 逐次性	zhu ci xing	0
 逐次最小	zhu ci zui xiao	0
-主丛	zhu cong	31
+主丛	zhu cong	32
 主法线	zhu fa xian	9
 主方向	zhu fang xiang	0
 诸概率	zhu gai lv	0
@@ -24355,8 +24355,8 @@ use_preset_vocabulary: false
 柱形代数	zhu xing dai shu	0
 柱形面	zhu xing mian	0
 主型算子	zhu xing suan zi	0
-主元	zhu yuan	2
-主种	zhu zhong	2
+主元	zhu yuan	3
+主种	zhu zhong	4
 烛子	zhu zi	0
 主子式	zhu zi shi	0
 转动算符	zhuan dong suan fu	2
@@ -24364,7 +24364,7 @@ use_preset_vocabulary: false
 转向点	zhuan xiang dian	0
 转移概率	zhuan yi gai lv	29
 转移函数	zhuan yi han shu	3
-转移矩阵	zhuan yi ju zhen	24
+转移矩阵	zhuan yi ju zhen	37
 转移阵	zhuan yi zhen	0
 转运问题	zhuan yun wen ti	1
 转秩	zhuan zhi	1
@@ -24376,7 +24376,7 @@ use_preset_vocabulary: false
 转置逆矩阵	zhuan zhi ni ju zhen	0
 转置映射	zhuan zhi ying she	0
 转置阵	zhuan zhi zhen	0
-状态变换	zhuang tai bian huan	0
+状态变换	zhuang tai bian huan	1
 状态变数	zhuang tai bian shu	0
 状态反馈	zhuang tai fan kui	0
 状态估计	zhuang tai gu ji	0
@@ -24421,7 +24421,7 @@ use_preset_vocabulary: false
 准希耳伯特空间	zhun xi er bo te kong jian	0
 准希尔伯特空间	zhun xi er bo te kong jian	0
 准希耳伯特模	zhun xi er bo te mo	0
-准线	zhun xian	44
+准线	zhun xian	53
 准域	zhun yu	0
 准圆	zhun yuan	11
 准锥面	zhun zhui mian	0
@@ -24451,12 +24451,12 @@ use_preset_vocabulary: false
 子带编码	zi dai bian ma	0
 子代数	zi dai shu	2
 子底集	zi di ji	0
-字典式	zi dian shi	9
+字典式	zi dian shi	8
 字典顺序	zi dian shun xu	5
-自动积分	zi dong ji fen	1
-自动机理论	zi dong ji li lun	12
+自动积分	zi dong ji fen	0
+自动机理论	zi dong ji li lun	13
 自动机图	zi dong ji tu	0
-自动控制理论	zi dong kong zhi li lun	19
+自动控制理论	zi dong kong zhi li lun	21
 子对策	zi dui ce	0
 自对偶	zi dui ou	5
 自对偶范畴	zi dui ou fan chou	0
@@ -24474,7 +24474,7 @@ use_preset_vocabulary: false
 自反性	zi fan xing	15
 自反子范畴	zi fan zi fan chou	0
 自分配性	zi fen pei xing	0
-子覆盖	zi fu gai	1
+子覆盖	zi fu gai	0
 子复形	zi fu xing	0
 子概型	zi gai xing	0
 子格	zi ge	5
@@ -24484,8 +24484,8 @@ use_preset_vocabulary: false
 子关系	zi guan xi	0
 字函数	zi han shu	0
 子行列式	zi hang lie shi	0
-子环	zi huan	5
-自回归	zi hui gui	0
+子环	zi huan	6
+自回归	zi hui gui	61
 自回归变换	zi hui gui bian huan	0
 自回归方程	zi hui gui fang cheng	0
 自回归过程	zi hui gui guo cheng	3
@@ -24504,7 +24504,7 @@ use_preset_vocabulary: false
 子李代数	zi li dai shu	0
 子李群	zi li qun	0
 子理想	zi li xiang	0
-子链	zi lian	13
+子链	zi lian	14
 子连续统	zi lian xu tong	0
 子流形	zi liu xing	11
 自密集	zi mi ji	0
@@ -24519,7 +24519,7 @@ use_preset_vocabulary: false
 自切	zi qie	6
 子区间	zi qu jian	6
 子群化	zi qun hua	0
-自然变换	zi ran bian huan	0
+自然变换	zi ran bian huan	1
 自然边界	zi ran bian jie	0
 自然边界条件	zi ran bian jie tiao jian	0
 自然单射	zi ran dan she	0
@@ -24534,15 +24534,15 @@ use_preset_vocabulary: false
 自然约束	zi ran yue shu	0
 自然资源统计	zi ran zi yuan tong ji	0
 自然坐标	zi ran zuo biao	0
-子商	zi shang	7
+子商	zi shang	14
 子上代数	zi shang dai shu	0
 自身环	zi shen huan	0
-子式	zi shi	3
+子式	zi shi	12
 自适应网格	zi shi ying wang ge	13
 自守表示	zi shou biao shi	1
 自守函数	zi shou han shu	0
 自守形式	zi shou xing shi	0
-自同构	zi tong gou	22
+自同构	zi tong gou	23
 自同构群	zi tong gou qun	10
 自同态	zi tong tai	1
 自同态环	zi tong tai huan	0
@@ -24555,7 +24555,7 @@ use_preset_vocabulary: false
 自协方差函数	zi xie fang cha han shu	0
 自信息	zi xin xi	0
 自旋轨道耦合	zi xuan gui dao ou he	17
-自旋系统	zi xuan xi tong	5
+自旋系统	zi xuan xi tong	6
 自由阿尔贝群	zi you a er bei qun	0
 自由半群	zi you ban qun	0
 自由边界	zi you bian jie	4
@@ -24593,7 +24593,7 @@ use_preset_vocabulary: false
 自治微分方程组	zi zhi wei fen fang cheng zu	0
 自助法	zi zhu fa	8
 子自动机	zi zi dong ji	0
-子族	zi zu	4
+子族	zi zu	7
 纵场	zong chang	11
 总共和	zong gong he	0
 综合除法	zong he chu fa	0
@@ -24601,7 +24601,7 @@ use_preset_vocabulary: false
 综合几何学	zong he ji he xue	0
 综合证猫	zong he zheng mao	0
 纵横图	zong heng tu	1
-总回归	zong hui gui	0
+总回归	zong hui gui	1
 总量指标	zong liang zhi biao	9
 总平方和	zong ping fang he	1
 总曲率	zong qu lv	7
@@ -24662,7 +24662,7 @@ use_preset_vocabulary: false
 最大公因式	zui da gong yin shi	0
 最大公约	zui da gong yue	1
 最大互信息	zui da hu xin xi	1
-最大解	zui da jie	0
+最大解	zui da jie	1
 最大亏格	zui da kui ge	0
 最大流问题	zui da liu wen ti	2
 最大流最小割定理	zui da liu zui xiao ge ding li	3
@@ -24670,7 +24670,7 @@ use_preset_vocabulary: false
 最大模定理	zui da mo ding li	0
 最大模原理	zui da mo yuan li	0
 最大匹配问题	zui da pi pei wen ti	1
-最大偏差	zui da pian cha	0
+最大偏差	zui da pian cha	2
 最大熵方法	zui da shang fang fa	1
 最大熵估值	zui da shang gu zhi	0
 最大熵准则	zui da shang zhun ze	1
@@ -24763,14 +24763,14 @@ use_preset_vocabulary: false
 最优步长	zui you bu chang	0
 最优策略	zui you ce lue	182
 最优层数	zui you ceng shu	0
-最优分配	zui you fen pei	18
+最优分配	zui you fen pei	23
 最优分配问题	zui you fen pei wen ti	0
 最优分支	zui you fen zhi	0
 最优轨道	zui you gui dao	1
 最优规划	zui you gui hua	4
 最优过程	zui you guo cheng	0
 最优化模型	zui you hua mo xing	3
-最优化问题	zui you hua wen ti	62
+最优化问题	zui you hua wen ti	65
 最优基本可行解	zui you ji ben ke xing jie	0
 最优可用方向	zui you ke yong fang xiang	0
 最优控制理论	zui you kong zhi li lun	3
@@ -24785,7 +24785,7 @@ use_preset_vocabulary: false
 最优性判别	zui you xing pan bie	0
 最优性条件	zui you xing tiao jian	0
 最优性原理	zui you xing yuan li	0
-最优值	zui you zhi	101
+最优值	zui you zhi	102
 最优值函数	zui you zhi han shu	0
 最终检验	zui zhong jian yan	0
 最终校验	zui zhong jiao yan	0
@@ -24803,16 +24803,16 @@ use_preset_vocabulary: false
 坐标超平面	zuo biao chao ping mian	0
 坐标尺	zuo biao chi	0
 坐标环	zuo biao huan	0
-坐标卡	zuo biao ka	3
+坐标卡	zuo biao ka	4
 坐标邻域	zuo biao lin yu	0
 坐标邻域系	zuo biao lin yu xi	0
 坐标轮换法	zuo biao lun huan fa	0
 坐标面	zuo biao mian	0
 坐标平面	zuo biao ping mian	4
 坐标曲线	zuo biao qu xian	1
-左表示	zuo biao shi	0
+左表示	zuo biao shi	1
 坐标算子	zuo biao suan zi	0
-坐标线	zuo biao xian	6
+坐标线	zuo biao xian	7
 坐标映射	zuo biao ying she	3
 左不变	zuo bu bian	2
 左不变测度	zuo bu bian ce du	0
@@ -25182,7 +25182,7 @@ use_preset_vocabulary: false
 百里酚酞	bai li fen tai	0
 百里酚紫	bai li fen zi	0
 白软蜡	bai ruan la	0
-白色沉淀	bai se chen dian	53
+白色沉淀	bai se chen dian	64
 白色担体	bai se dan ti	0
 白色硅胶	bai se gui jiao	1
 白色酸洗担体	bai se suan xi dan ti	0
@@ -25555,18 +25555,18 @@ use_preset_vocabulary: false
 扁枝衣二酸	bian zhi yi er suan	0
 标本缸	biao ben gang	1
 标本瓶	biao ben ping	1
-标度	biao du	150
+标度	biao du	156
 标记原子	biao ji yuan zi	0
 表面不均匀性	biao mian bu jun yun xing	0
 表面处理剂	biao mian chu li ji	2
 表面电导	biao mian dian dao	0
-表面电势	biao mian dian shi	1
+表面电势	biao mian dian shi	0
 表面反应	biao mian fan ying	0
 表面结构分析	biao mian jie gou fen xi	0
 表面膜势	biao mian mo shi	0
 表面迁移率	biao mian qian yi lv	0
 标准苯甲酸	biao zhun ben jia suan	0
-标准蛋白	biao zhun dan bai	0
+标准蛋白	biao zhun dan bai	1
 标准燃烧热	biao zhun ran shao re	0
 别胱硫醚	bie guang liu mi	0
 别苏氨酸	bie su an suan	0
@@ -25670,7 +25670,7 @@ use_preset_vocabulary: false
 铂海棉	bo hai mian	0
 薄荷香精	bo he xiang jing	0
 铂活性炭	bo huo xing tan	0
-铂金属	bo jin shu	8
+铂金属	bo jin shu	9
 玻璃澄清剂	bo li cheng qing ji	0
 玻璃漏斗	bo li lou dou	1
 玻璃微纤维片	bo li wei xian wei pian	0
@@ -25810,7 +25810,7 @@ use_preset_vocabulary: false
 沉淀泵	chen dian beng	0
 沉淀聚合	chen dian ju he	0
 沉淀银	chen dian yin	0
-陈化	chen hua	121
+陈化	chen hua	125
 沉降硫	chen jiang liu	0
 沉降速度法	chen jiang su du fa	0
 成本核算部	cheng ben he suan bu	0
@@ -25848,7 +25848,7 @@ use_preset_vocabulary: false
 出碱槽	chu jian cao	0
 出碱调节阀	chu jian tiao jie fa	0
 出口阀	chu kou fa	0
-出口压力	chu kou ya li	0
+出口压力	chu kou ya li	14
 触媒层	chu mei ceng	0
 储水槽	chu shui cao	2
 出水混浊	chu shui hun zhuo	0
@@ -25874,7 +25874,7 @@ use_preset_vocabulary: false
 次碘酸	ci dian suan	0
 茨非醇	ci fei chun	0
 次氟酸	ci fu suan	4
-磁化强度	ci hua qiang du	46
+磁化强度	ci hua qiang du	48
 刺槐豆胶	ci huai dou jiao	4
 次甲基蓝	ci jia ji lan	0
 磁量子数	ci liang zi shu	56
@@ -25941,7 +25941,7 @@ use_preset_vocabulary: false
 催化重整	cui hua chong zheng	4
 催化氢波	cui hua qing bo	0
 催化氢化	cui hua qing hua	8
-催化氧化	cui hua yang hua	16
+催化氧化	cui hua yang hua	19
 催化荧光法	cui hua ying guang fa	0
 催眠醇	cui mian chun	0
 萃取柱	cui qu zhu	0
@@ -25996,7 +25996,7 @@ use_preset_vocabulary: false
 单光子发射计算机化断层显象	dan guang zi fa she ji suan ji hua duan ceng xian xiang	0
 胆红素试纸	dan hong su shi zhi	0
 氮化钡	dan hua bei	0
-氮化处理	dan hua chu li	70
+氮化处理	dan hua chu li	71
 氮化镁	dan hua mei	1
 蛋黄卵磷脂	dan huang luan lin zhi	1
 单甲脒	dan jia mi	0
@@ -26085,7 +26085,7 @@ use_preset_vocabulary: false
 等量吸附热	deng liang xi fu re	0
 等摩尔系列法	deng mo er xi lie fa	0
 等同周期	deng tong zhou qi	0
-等效平衡	deng xiao ping heng	5
+等效平衡	deng xiao ping heng	7
 碲棒	di bang	0
 低变废锅	di bian fei guo	0
 低变废热锅炉	di bian fei re guo lu	0
@@ -26126,7 +26126,7 @@ use_preset_vocabulary: false
 低压洗氨塔	di ya xi an ta	0
 低压蒸汽	di ya zheng qi	1
 地衣酚	di yi fen	0
-底釉	di you	1
+底釉	di you	0
 地质处置	di zhi chu zhi	2
 碘苯胺	dian ben an	0
 碘苯甲醚	dian ben jia mi	0
@@ -26240,9 +26240,9 @@ use_preset_vocabulary: false
 电子对互斥	dian zi dui hu chi	26
 电子给体受体络合物	dian zi gei ti shou ti luo he wu	0
 电子互斥	dian zi hu chi	8
-电子能级	dian zi neng ji	40
+电子能级	dian zi neng ji	41
 电子亲合势	dian zi qin he shi	3
-电子效应	dian zi xiao ying	0
+电子效应	dian zi xiao ying	86
 电子振动能量传递	dian zi zhen dong neng liang chuan di	0
 电子振动耦合	dian zi zhen dong ou he	0
 电子组态	dian zi zu tai	26
@@ -27459,7 +27459,7 @@ use_preset_vocabulary: false
 非晶态合金	fei jing tai he jin	1
 非晶态金属	fei jing tai jin shu	1
 非晶体学对称性	fei jing ti xue dui chen xing	0
-菲可	fei ke	0
+菲可	fei ke	1
 菲可派克	fei ke pai ke	0
 费林溶液	fei lin rong ye	0
 斐林试剂	fei lin shi ji	43
@@ -27510,7 +27510,7 @@ use_preset_vocabulary: false
 粉末丁腈橡胶	fen mo ding jing xiang jiao	0
 粉末焦糖色素	fen mo jiao tang se su	0
 粉末图拟合	fen mo tu ni he	0
-吩噻嗪	fen sai qin	11
+吩噻嗪	fen sai qin	12
 分散剂溶解槽	fen san ji rong jie cao	0
 分散剂溶液泵	fen san ji rong ye beng	0
 分散聚合	fen san ju he	2
@@ -27520,7 +27520,7 @@ use_preset_vocabulary: false
 酚酞试纸	fen tai shi zhi	0
 分液装置	fen ye zhuang zhi	1
 酚紫	fen zi	0
-分子重排	fen zi chong pai	6
+分子重排	fen zi chong pai	7
 分子反应动力学	fen zi fan ying dong li xue	2
 分子轨道能级	fen zi gui dao neng ji	5
 分子积分	fen zi ji fen	1
@@ -27758,7 +27758,7 @@ use_preset_vocabulary: false
 甘宝素	gan bao su	2
 干贝素	gan bei su	0
 甘草酸二钠盐	gan cao suan er na yan	0
-甘醇酸	gan chun suan	12
+甘醇酸	gan chun suan	14
 甘醇酸溶液	gan chun suan rong ye	0
 甘胆酸	gan dan suan	0
 甘恶啉	gan e lin	0
@@ -27767,7 +27767,7 @@ use_preset_vocabulary: false
 干粉培养基	gan fen pei yang ji	0
 感光胶三	gan guang jiao san	0
 酐化	gan hua	0
-甘菊环	gan ju huan	0
+甘菊环	gan ju huan	1
 甘蓝红色素	gan lan hong se su	0
 干酪素钠盐	gan lao su na yan	0
 甘露醇试纸	gan lu chun shi zhi	0
@@ -27844,7 +27844,7 @@ use_preset_vocabulary: false
 高溶点蜡	gao rong dian la	0
 高速离心泵	gao su li xin beng	0
 高铁氰化钾	gao tie qing hua jia	0
-高铁酸	gao tie suan	11
+高铁酸	gao tie suan	12
 高温架	gao wen jia	0
 高温胶剥离剂	gao wen jiao bo li ji	0
 高温石英	gao wen shi ying	0
@@ -27947,7 +27947,7 @@ use_preset_vocabulary: false
 汞氰化钾	gong qing hua jia	0
 共形溶液	gong xing rong ye	0
 工业纯碱	gong ye chun jian	0
-工业水	gong ye shui	0
+工业水	gong ye shui	26
 工业水泵	gong ye shui beng	0
 工业水箱	gong ye shui xiang	0
 工业制氧	gong ye zhi yang	1
@@ -27974,7 +27974,7 @@ use_preset_vocabulary: false
 钴标准溶液	gu biao zhun rong ye	0
 古蔡试验	gu cai shi yan	0
 古代原子论	gu dai yuan zi lun	0
-固定相	gu ding xiang	38
+固定相	gu ding xiang	40
 固定液	gu ding ye	8
 谷胱苷肽	gu guang gan tai	0
 钴海棉	gu hai mian	0
@@ -27993,7 +27993,7 @@ use_preset_vocabulary: false
 钴丝	gu si	0
 固体甲醛	gu ti jia quan	0
 固体石腊	gu ti shi la	0
-古希腊哲学	gu xi la zhe xue	81
+古希腊哲学	gu xi la zhe xue	95
 固相聚合	gu xiang ju he	0
 固相酶载体	gu xiang mei zai ti	0
 固猩红盐	gu xing hong yan	0
@@ -28062,11 +28062,11 @@ use_preset_vocabulary: false
 硅酸锂	gui suan li	2
 硅酸铝锂	gui suan lv li	0
 硅酸铝镁	gui suan lv mei	0
-硅酸镁	gui suan mei	10
+硅酸镁	gui suan mei	12
 硅酸铅	gui suan qian	0
 硅酸三钙	gui suan san gai	5
 硅酸铜钡	gui suan tong bei	1
-硅酸盐矿物	gui suan yan kuang wu	21
+硅酸盐矿物	gui suan yan kuang wu	23
 桂酸乙酯	gui suan yi zhi	0
 硅酸乙酯	gui suan yi zhi	2
 癸酮	gui tong	0
@@ -28098,7 +28098,7 @@ use_preset_vocabulary: false
 过铼酸钾	guo lai suan jia	0
 过铼酸铯	guo lai suan se	0
 过冷液体	guo leng ye ti	13
-过硫	guo liu	3
+过硫	guo liu	4
 过硫酸	guo liu suan	1
 过硫酸胺	guo liu suan an	0
 过硫酸钙	guo liu suan gai	0
@@ -28199,7 +28199,7 @@ use_preset_vocabulary: false
 合成废锅	he cheng fei guo	0
 合成分厂	he cheng fen chang	0
 合成硅酸铝	he cheng gui suan lv	0
-合成化学	he cheng hua xue	19
+合成化学	he cheng hua xue	21
 合成界区	he cheng jie qu	0
 合成开工加热炉	he cheng kai gong jia re lu	0
 合成配电班	he cheng pei dian ban	0
@@ -28294,7 +28294,7 @@ use_preset_vocabulary: false
 化学平衡常数	hua xue ping heng chang shu	20
 化学气相输运	hua xue qi xiang shu yun	0
 化学溶蚀	hua xue rong shi	0
-化学势	hua xue shi	178
+化学势	hua xue shi	180
 化学通式	hua xue tong shi	8
 化盐池	hua yan chi	0
 化妆品用蜡	hua zhuang pin yong la	0
@@ -28437,7 +28437,7 @@ use_preset_vocabulary: false
 黄樟油素	huang zhang you su	0
 挥发法	hui fa fa	0
 挥发顺序	hui fa shun xu	0
-挥发性酸	hui fa xing suan	16
+挥发性酸	hui fa xing suan	17
 回流液	hui liu ye	0
 辉绿岩粉	hui lv yan fen	0
 回收桶	hui shou tong	4
@@ -28455,7 +28455,7 @@ use_preset_vocabulary: false
 混合气三段	hun he qi san duan	0
 混合气四段	hun he qi si duan	0
 混合气一段	hun he qi yi duan	0
-混合酸	hun he suan	2
+混合酸	hun he suan	3
 混合盐	hun he yan	2
 混酸	hun suan	6
 活化吉布斯自由能	huo hua ji bu si zi you neng	0
@@ -28572,7 +28572,7 @@ use_preset_vocabulary: false
 挤压造粒	ji ya zao li	0
 极值法	ji zhi fa	9
 基准试剂盒	ji zhun shi ji he	0
-基组	ji zu	66
+基组	ji zu	69
 甲胺醇溶液	jia an chun rong ye	0
 甲氨基吡啶	jia an ji bi ding	0
 甲氨基丙二醇	jia an ji bing er chun	0
@@ -28596,7 +28596,7 @@ use_preset_vocabulary: false
 加成聚合物	jia cheng ju he wu	0
 甲醇标准溶液	jia chun biao zhun rong ye	0
 甲醇钽	jia chun tan	0
-价带	jia dai	153
+价带	jia dai	182
 甲二换	jia er huan	0
 甲二换热器	jia er huan re qi	0
 甲泛影钠	jia fan ying na	0
@@ -28675,7 +28675,7 @@ use_preset_vocabulary: false
 甲基菲尼酮	jia ji fei ni tong	0
 甲基氟苯甲腈	jia ji fu ben jia jing	0
 甲基富马酸	jia ji fu ma suan	0
-甲基呋喃	jia ji fu nan	2
+甲基呋喃	jia ji fu nan	1
 甲基钙黄蓝	jia ji gai huang lan	0
 甲基钙黄绿素	jia ji gai huang lv su	0
 甲基甘露糖苷	jia ji gan lu tang gan	0
@@ -29043,7 +29043,7 @@ use_preset_vocabulary: false
 碱式乙酸铍	jian shi yi suan pi	0
 碱式乙酸铁	jian shi yi suan tie	0
 碱式硬脂酸铝	jian shi ying zhi suan lv	0
-间位	jian wei	5
+间位	jian wei	16
 间位酯	jian wei zhi	0
 减温减压阀	jian wen jian ya fa	0
 间隙空位缺陷	jian xi kong wei que xian	0
@@ -29141,13 +29141,13 @@ use_preset_vocabulary: false
 界面超额	jie mian chao e	0
 界面缩聚	jie mian suo ju	0
 界面移动法	jie mian yi dong fa	0
-界区	jie qu	14
+界区	jie qu	28
 节瓦尔德合金	jie wa er de he jin	0
 介质弛豫	jie zhi chi yu	0
 接枝聚合物	jie zhi ju he wu	0
 近程分子内相互作用	jin cheng fen zi nei xiang hu zuo yong	0
 进出塔预热器	jin chu ta yu re qi	0
-近代化学	jin dai hua xue	14
+近代化学	jin dai hua xue	15
 近代原子论	jin dai yuan zi lun	0
 近代原子论使	jin dai yuan zi lun shi	0
 金刚醇	jin gang chun	0
@@ -29168,8 +29168,8 @@ use_preset_vocabulary: false
 金锰合金	jin meng he jin	0
 金试剂	jin shi ji	0
 金属簇	jin shu cu	1
-金属催化剂	jin shu cui hua ji	14
-金属粉	jin shu fen	11
+金属催化剂	jin shu cui hua ji	16
+金属粉	jin shu fen	13
 紧束缚近似	jin shu fu jin si	29
 金属钴	jin shu gu	5
 金属含氧酸	jin shu han yang suan	0
@@ -29178,7 +29178,7 @@ use_preset_vocabulary: false
 金属清洗液	jin shu qing xi ye	0
 金属砷	jin shu shen	1
 金属铊	jin shu ta	0
-金属氧化物	jin shu yang hua wu	68
+金属氧化物	jin shu yang hua wu	77
 金属氧酸盐	jin shu yang suan yan	0
 金属釉	jin shu you	0
 浸酸剂	jin suan ji	0
@@ -29467,7 +29467,7 @@ use_preset_vocabulary: false
 冷析结晶器	leng xi jie jing qi	0
 冷析桶	leng xi tong	0
 冷析轴流泵	leng xi zhou liu beng	0
-力常数	li chang shu	7
+力常数	li chang shu	9
 丽春红	li chun hong	3
 丽春红钠盐	li chun hong na yan	0
 锂带	li dai	1
@@ -29724,7 +29724,7 @@ use_preset_vocabulary: false
 磷酸精胺	lin suan jing an	0
 磷酸镁铵	lin suan mei an	0
 磷酸酶底物	lin suan mei di wu	0
-磷酸锰	lin suan meng	0
+磷酸锰	lin suan meng	2
 磷酸萘酚	lin suan nai fen	0
 磷酸萘酯	lin suan nai zhi	0
 磷酸萘酯钙盐	lin suan nai zhi gai yan	0
@@ -29816,7 +29816,7 @@ use_preset_vocabulary: false
 硫代鸟苷水合	liu dai niao gan shui he	0
 硫代尿嘧啶	liu dai niao mi ding	0
 硫代鸟嘌呤	liu dai niao piao ling	0
-硫代葡萄糖	liu dai pu tao tang	4
+硫代葡萄糖	liu dai pu tao tang	0
 硫代氰酸	liu dai qing suan	0
 硫代噻唑烷酮	liu dai sai zuo wan tong	0
 硫代双甲烷	liu dai shuang jia wan	0
@@ -29997,7 +29997,7 @@ use_preset_vocabulary: false
 六硝基二苯胺	liu xiao ji er ben an	0
 六亚甲基	liu ya jia ji	1
 六亚甲基亚胺	liu ya jia ji ya an	0
-硫氧化物	liu yang hua wu	20
+硫氧化物	liu yang hua wu	21
 硫叶立德	liu ye li de	1
 龙胆二糖	long dan er tang	0
 龙胆紫重号	long dan zi chong hao	0
@@ -30065,7 +30065,7 @@ use_preset_vocabulary: false
 氯苯并噻唑	lv ben bing sai zuo	0
 氯苯并三氮唑	lv ben bing san dan zuo	0
 氯苯二胺	lv ben er an	0
-氯苯酚	lv ben fen	3
+氯苯酚	lv ben fen	4
 氯苯磺酸	lv ben huang suan	0
 氯苯基叔丁醚	lv ben ji shu ding mi	0
 氯苯基乙醇	lv ben ji yi chun	0
@@ -30336,7 +30336,7 @@ use_preset_vocabulary: false
 氯三甲基戊烷	lv san jia ji wu wan	0
 氯三甲基吲哚	lv san jia ji yin duo	0
 氯三三苯膦铑	lv san san ben lin lao	0
-绿色化学	lv se hua xue	15
+绿色化学	lv se hua xue	16
 绿色碳化硅	lv se tan hua gui	0
 绿色一氧化镍	lv se yi yang hua nie	0
 氯十二烷	lv shi er wan	0
@@ -30452,7 +30452,7 @@ use_preset_vocabulary: false
 茂金属	mao jin shu	0
 毛细管常数	mao xi guan chang shu	0
 毛细管凝结	mao xi guan ning jie	0
-镁粉末	mei fen mo	3
+镁粉末	mei fen mo	1
 美芬妥英	mei fen tuo ying	0
 煤粉细度	mei fen xi du	0
 玫瑰红钠琼脂	mei gui hong na qiong zhi	0
@@ -30679,7 +30679,7 @@ use_preset_vocabulary: false
 逆王水	ni wang shui	0
 逆向伏安法	ni xiang fu an fa	0
 黏蛋白胃	nian dan bai wei	0
-粘度	nian du	639
+粘度	nian du	642
 粘度标准液	nian du biao zhun ye	0
 粘合剂	nian he ji	316
 粘合剂分散剂	nian he ji fen san ji	0
@@ -30861,7 +30861,7 @@ use_preset_vocabulary: false
 偏硅酸锂铝	pian gui suan li lv	0
 偏硅酸钠	pian gui suan na	0
 偏硅酸铅	pian gui suan qian	0
-片晶	pian jing	8
+片晶	pian jing	9
 偏酒石酸	pian jiu shi suan	0
 偏磷酸铵	pian lin suan an	0
 偏磷酸钡	pian lin suan bei	0
@@ -30925,7 +30925,7 @@ use_preset_vocabulary: false
 葡聚糖凝胶	pu ju tang ning jiao	3
 葡聚糖凝胶柱	pu ju tang ning jiao zhu	0
 葡糖苯腙	pu tang ben zong	0
-葡糖苷酶	pu tang gan mei	2
+葡糖苷酶	pu tang gan mei	1
 葡糖磷酸钡盐	pu tang lin suan bei yan	0
 葡糖磷酸钠盐	pu tang lin suan na yan	0
 葡糖醛酸	pu tang quan suan	2
@@ -30939,7 +30939,7 @@ use_preset_vocabulary: false
 葡糖脱氢酶	pu tang tuo qing mei	0
 葡萄糠	pu tao kang	0
 葡萄醛酸内酯	pu tao quan suan nei zhi	0
-葡萄糖口服	pu tao tang kou fu	1
+葡萄糖口服	pu tao tang kou fu	0
 葡萄糖酸钠	pu tao tang suan na	0
 葡萄香精	pu tao xiang jing	0
 葡萄子油	pu tao zi you	0
@@ -31080,7 +31080,7 @@ use_preset_vocabulary: false
 羟基十二酸	qiang ji shi er suan	0
 羟基十四酸	qiang ji shi si suan	0
 羟基水杨酸铅	qiang ji shui yang suan qian	0
-羟基酸	qiang ji suan	9
+羟基酸	qiang ji suan	10
 羟基托品酮	qiang ji tuo pin tong	0
 羟基纤维素钠	qiang ji xian wei su na	0
 羟基硝基吡啶	qiang ji xiao ji bi ding	0
@@ -31237,7 +31237,7 @@ use_preset_vocabulary: false
 青霉素胺	qing mei su an	0
 青酶酸	qing mei suan	0
 氰脲酸	qing niao suan	0
-氰尿酸	qing niao suan	0
+氰尿酸	qing niao suan	1
 氰尿酰氯	qing niao xian lv	0
 氢硼化钾	qing peng hua jia	0
 氢硼化锂	qing peng hua li	0
@@ -31375,7 +31375,7 @@ use_preset_vocabulary: false
 热解聚合物	re jie ju he wu	0
 热解消除	re jie xiao chu	0
 热聚合	re ju he	0
-热力学平衡	re li xue ping heng	14
+热力学平衡	re li xue ping heng	18
 热量计	re liang ji	1
 热释发光剂量计	re shi fa guang ji liang ji	0
 热稳	re wen	0
@@ -31388,10 +31388,10 @@ use_preset_vocabulary: false
 人工合成金银	ren gong he cheng jin yin	0
 人球蛋白	ren qiu dan bai	5
 壬醛	ren quan	4
-认识和改造	ren shi he gai zao	8
+认识和改造	ren shi he gai zao	9
 壬酮	ren tong	0
 壬溴酚	ren xiu fen	0
-人血清白蛋白	ren xue qing bai dan bai	1
+人血清白蛋白	ren xue qing bai dan bai	0
 人造物质	ren zao wu zhi	1
 日本木蜡	ri ben mu la	0
 熔剂	rong ji	2
@@ -31405,7 +31405,7 @@ use_preset_vocabulary: false
 熔融氯化钙	rong rong lv hua gai	0
 熔融缩聚	rong rong suo ju	0
 熔融指数	rong rong zhi shu	0
-熔融状态	rong rong zhuang tai	28
+熔融状态	rong rong zhuang tai	31
 溶血卵磷脂	rong xue luan lin zhi	0
 溶液泵	rong ye beng	0
 溶液换热器	rong ye huan re qi	0
@@ -31482,7 +31482,7 @@ use_preset_vocabulary: false
 噻吩异氰酸酯	sai fen yi qing suan zhi	0
 噻吩乙酸	sai fen yi suan	0
 赛甘油乙酸酯	sai gan you yi suan zhi	0
-赛罗	sai luo	704
+赛罗	sai luo	714
 噻嗪红	sai qin hong	0
 噻酮	sai tong	0
 塞托波林	sai tuo bo lin	0
@@ -31600,7 +31600,7 @@ use_preset_vocabulary: false
 三甲氧基甲苯	san jia yang ji jia ben	0
 三碱式硫酸铅	san jian shi liu suan qian	0
 三江自控	san jiang zi kong	0
-三角架	san jiao jia	59
+三角架	san jiao jia	61
 三角烧瓶	san jiao shao ping	1
 三角杂化	san jiao za hua	0
 三聚磷酸铝	san ju lin suan lv	0
@@ -31686,7 +31686,7 @@ use_preset_vocabulary: false
 三糖铁琼脂	san tang tie qiong zhi	0
 三烯丙胺	san xi bing an	0
 三仙丹	san xian dan	0
-三相点	san xiang dian	26
+三相点	san xiang dian	29
 三硝基苯胺	san xiao ji ben an	1
 三硝基苯酚	san xiao ji ben fen	2
 三硝基苯磺酸	san xiao ji ben huang suan	0
@@ -31760,7 +31760,7 @@ use_preset_vocabulary: false
 色甘酸二乙酯	se gan suan er yi zhi	0
 色谱分析仪	se pu fen xi yi	0
 色谱固定相	se pu gu ding xiang	0
-色谱图	se pu tu	12
+色谱图	se pu tu	13
 色素母	se su mu	0
 色素碳黑	se su tan hei	0
 瑟陶花青	se tao hua qing	0
@@ -31789,7 +31789,7 @@ use_preset_vocabulary: false
 上段触媒层	shang duan chu mei ceng	0
 上段换热器	shang duan huan re qi	0
 伤寒菌液	shang han jun ye	1
-熵流	shang liu	9
+熵流	shang liu	15
 烧石膏	shao shi gao	0
 蛇毒金环蛇	she du jin huan she	0
 蛇毒响尾蛇	she du xiang wei she	0
@@ -31920,7 +31920,7 @@ use_preset_vocabulary: false
 试亚铁灵指示液	shi ya tie ling zhi shi ye	0
 实验步骤	shi yan bu zhou	0
 试验瓶	shi yan ping	0
-实验用品	shi yan yong pin	10
+实验用品	shi yan yong pin	11
 实验原理	shi yan yuan li	0
 十一胺	shi yi an	0
 十一碳烷	shi yi tan wan	0
@@ -31940,7 +31940,7 @@ use_preset_vocabulary: false
 石油树脂	shi you shu zhi	0
 石竹素	shi zhu su	0
 首端过程	shou duan guo cheng	0
-手性分子	shou xing fen zi	30
+手性分子	shou xing fen zi	34
 手性碳	shou xing tan	16
 手性诱导	shou xing you dao	0
 手性助剂	shou xing zhu ji	0
@@ -32041,7 +32041,7 @@ use_preset_vocabulary: false
 水合分子	shui he fen zi	3
 水合硅酸铝	shui he gui suan lv	0
 水合机	shui he ji	0
-水合离子	shui he li zi	11
+水合离子	shui he li zi	12
 水合三氯乙醛	shui he san lv yi quan	0
 水合萜品	shui he tie pin	0
 水合乙醛酸	shui he yi quan suan	0
@@ -32196,7 +32196,7 @@ use_preset_vocabulary: false
 四氯酞酐	si lv tai gan	0
 四氯乙炔	si lv yi que	0
 四氯荧光素	si lv ying guang su	0
-四面体构型	si mian ti gou xing	10
+四面体构型	si mian ti gou xing	13
 四面体型	si mian ti xing	2
 司盘	si pan	0
 斯盘	si pan	0
@@ -32302,13 +32302,13 @@ use_preset_vocabulary: false
 塑性体	su xing ti	0
 酸苯酯	suan ben zhi	3
 酸催化剂	suan cui hua ji	3
-酸根离子	suan gen li zi	72
+酸根离子	suan gen li zi	85
 酸罐	suan guan	0
 酸碱理论	suan jian li lun	30
-酸碱盐	suan jian yan	40
+酸碱盐	suan jian yan	41
 酸碱中和滴定	suan jian zhong he di ding	3
 酸解干酪素	suan jie gan lao su	0
-酸钠盐	suan na yan	1
+酸钠盐	suan na yan	0
 酸奶乳化剂	suan nai ru hua ji	0
 酸式磷酸锰	suan shi lin suan meng	0
 酸式硫酸钾	suan shi liu suan jia	0
@@ -32356,7 +32356,7 @@ use_preset_vocabulary: false
 羧酸酐	suo suan gan	1
 羧酸衍生物	suo suan yan sheng wu	5
 羧酸吲哚	suo suan yin duo	0
-羧酸酯	suo suan zhi	6
+羧酸酯	suo suan zhi	7
 索烃	suo ting	1
 缩酮	suo tong	4
 羧硝偶氮	suo xiao ou dan	0
@@ -32461,7 +32461,7 @@ use_preset_vocabulary: false
 锑化三氢	ti hua san qing	0
 锑块	ti kuai	1
 梯普尔润湿剂	ti pu er run shi ji	0
-锑酸	ti suan	3
+锑酸	ti suan	4
 锑酸酐	ti suan gan	0
 甜菜糖密津	tian cai tang mi jin	0
 甜菜糖蜜滓	tian cai tang mi zi	0
@@ -32500,8 +32500,8 @@ use_preset_vocabulary: false
 铁电性	tie dian xing	10
 铁海棉	tie hai mian	0
 铁蓝粉	tie lan fen	0
-萜类	tie lei	20
-萜类化合物	tie lei hua he wu	14
+萜类	tie lei	23
+萜类化合物	tie lei hua he wu	5
 萜品	tie pin	0
 萜品醇	tie pin chun	0
 铁氢化钠	tie qing hua na	1
@@ -32511,8 +32511,8 @@ use_preset_vocabulary: false
 铁亚铁混合液	tie ya tie hun he ye	0
 铁氧化	tie yang hua	8
 铁氧化还原蛋白	tie yang hua huan yuan dan bai	0
-铁载体	tie zai ti	1
-烃的衍生物	ting de yan sheng wu	9
+铁载体	tie zai ti	0
+烃的衍生物	ting de yan sheng wu	11
 停止流动法	ting zhi liu dong fa	0
 铜保护液	tong bao hu ye	0
 铜标准溶液	tong biao zhun rong ye	0
@@ -32529,7 +32529,7 @@ use_preset_vocabulary: false
 桐酸	tong suan	0
 铜酞菁	tong tai jing	0
 酮体试纸	tong ti shi zhi	0
-同位素标记	tong wei su biao ji	12
+同位素标记	tong wei su biao ji	17
 同位素地球化学	tong wei su di qiu hua xue	6
 同位素富集	tong wei su fu ji	1
 同位素化学	tong wei su hua xue	1
@@ -32948,7 +32948,7 @@ use_preset_vocabulary: false
 稀释热	xi shi re	0
 吸收管	xi shou guan	1
 吸收光谱电化学	xi shou guang pu dian hua xue	0
-吸收剂量	xi shou ji liang	25
+吸收剂量	xi shou ji liang	29
 吸收截面	xi shou jie mian	3
 吸收瓶	xi shou ping	0
 吸收谱带	xi shou pu dai	1
@@ -32986,7 +32986,7 @@ use_preset_vocabulary: false
 苋莱红	xian lai hong	0
 纤链蛋白	xian lian dan bai	0
 腺嘌呤核苷酸	xian piao ling he gan suan	1
-纤维棉	xian wei mian	4
+纤维棉	xian wei mian	5
 纤维素薄层板	xian wei su bo ceng ban	0
 纤维素粉植物	xian wei su fen zhi wu	0
 纤维素纸	xian wei su zhi	0
@@ -33218,7 +33218,7 @@ use_preset_vocabulary: false
 新亚甲基蓝	xin ya jia ji lan	0
 辛乙硫醇	xin yi liu chun	0
 形成函数	xing cheng han shu	0
-形成物	xing cheng wu	0
+形成物	xing cheng wu	4
 猩红酸	xing hong suan	0
 杏仁香精	xing ren xiang jing	1
 型吸附剂	xing xi fu ji	0
@@ -33406,7 +33406,7 @@ use_preset_vocabulary: false
 溴糠酸甲酯	xiu kang suan jia zhi	0
 休克尔分子轨道法	xiu ke er fen zi gui dao fa	3
 溴喹啉	xiu kui lin	0
-溴联苯	xiu lian ben	2
+溴联苯	xiu lian ben	3
 溴邻苯三酚	xiu lin ben san fen	0
 溴邻苯三酚红	xiu lin ben san fen hong	0
 溴氯苯	xiu lv ben	0
@@ -33514,7 +33514,7 @@ use_preset_vocabulary: false
 血琼脂基础号	xue qiong zhi ji chu hao	0
 雪松醇	xue song chun	0
 雪松烯	xue song xi	0
-血糖试纸	xue tang shi zhi	10
+血糖试纸	xue tang shi zhi	9
 血纤维蛋白	xue xian wei dan bai	0
 血液琼脂基层	xue ye qiong zhi ji ceng	0
 血液琼脂基础	xue ye qiong zhi ji chu	0
@@ -33589,7 +33589,7 @@ use_preset_vocabulary: false
 亚铁氰化铵	ya tie qing hua an	0
 亚铁氰化钙	ya tie qing hua gai	3
 亚铁氰化铁	ya tie qing hua tie	2
-亚铁盐	ya tie yan	7
+亚铁盐	ya tie yan	8
 亚稳离子	ya wen li zi	0
 亚稳相	ya wen xiang	0
 亚硒酐	ya xi gan	0
@@ -33785,7 +33785,7 @@ use_preset_vocabulary: false
 氧化还原树脂	yang hua huan yuan shu zhi	0
 氧化还原引发剂	yang hua huan yuan yin fa ji	0
 氧化金	yang hua jin	0
-氧化聚合	yang hua ju he	5
+氧化聚合	yang hua ju he	6
 氧化抗震颤素	yang hua kang zhen chan su	0
 氧化理论	yang hua li lun	2
 氧化酶纸片	yang hua mei zhi pian	0
@@ -33997,7 +33997,7 @@ use_preset_vocabulary: false
 乙基环己酮	yi ji huan ji tong	0
 乙基环己烷	yi ji huan ji wan	0
 乙基环戊烷	yi ji huan wu wan	0
-乙基磺酸	yi ji huang suan	0
+乙基磺酸	yi ji huang suan	1
 乙基磺酸丁酯	yi ji huang suan ding zhi	0
 乙基磺酸铅	yi ji huang suan qian	0
 乙基磺酸乙酯	yi ji huang suan yi zhi	0
@@ -34458,7 +34458,7 @@ use_preset_vocabulary: false
 诱导分解	you dao fen jie	1
 诱导效应	you dao xiao ying	85
 油地下放空槽	you di xia fang kong cao	0
-油分	you fen	27
+油分	you fen	80
 釉化担体	you hua dan ti	0
 有机半导体	you ji ban dao ti	22
 有机沉淀剂	you ji chen dian ji	0
@@ -34650,7 +34650,7 @@ use_preset_vocabulary: false
 酯化反应器	zhi hua fan ying qi	0
 支化系数	zhi hua xi shu	0
 酯化液	zhi hua ye	0
-制碱	zhi jian	22
+制碱	zhi jian	55
 制胶类	zhi jiao lei	0
 直接冻黄	zhi jie dong huang	0
 直接黑	zhi jie hei	0
@@ -34697,7 +34697,7 @@ use_preset_vocabulary: false
 重钙	zhong gai	1
 仲高碘酸钠	zhong gao dian suan na	0
 中铬黄	zhong ge huang	0
-重铬酸	zhong ge suan	4
+重铬酸	zhong ge suan	3
 重铬酸铵	zhong ge suan an	1
 重铬酸钡	zhong ge suan bei	0
 重铬酸钙	zhong ge suan gai	0
@@ -34873,7 +34873,7 @@ use_preset_vocabulary: false
 丙烯酸正丁酯	bing xi suan zheng ding zhi	1
 丙烯酸脂	bing xi suan zhi	0
 薄水铝矿	bo shui lv kuang	0
-长石	chang shi	64
+长石	chang shi	71
 沉淀二氧化硅	chen dian er yang hua gui	0
 沉淀磷酸钙	chen dian lin suan gai	0
 沉淀碳酸钙	chen dian tan suan gai	0
@@ -35067,7 +35067,7 @@ use_preset_vocabulary: false
 聚亚苯基硫醚	ju ya ben ji liu mi	0
 聚氧化乙烷	ju yang hua yi wan	0
 聚异戊二烯	ju yi wu er xi	4
-聚乙烯塑料	ju yi xi su liao	4
+聚乙烯塑料	ju yi xi su liao	5
 聚乙烯缩丁醛	ju yi xi suo ding quan	0
 聚乙烯缩甲醛	ju yi xi suo jia quan	0
 聚脂树脂	ju zhi shu zhi	3
@@ -35094,7 +35094,7 @@ use_preset_vocabulary: false
 磷酸二钙	lin suan er gai	0
 菱铁矿石	ling tie kuang shi	0
 硫醇基苯并噻唑	liu chun ji ben bing sai zuo	0
-硫磺	liu huang	463
+硫磺	liu huang	471
 六甲基磷酰胺	liu jia ji lin xian an	0
 硫苦	liu ku	0
 六氯丙烯	liu lv bing xi	0
@@ -35152,8 +35152,8 @@ use_preset_vocabulary: false
 氢醌	qing kun	38
 氰尿酰胺	qing niao xian an	0
 氰酸铵	qing suan an	22
-全氟	quan fu	47
-群青	qun qing	58
+全氟	quan fu	50
+群青	qun qing	59
 染色细粉	ran se xi fen	0
 人造二氧化锰	ren zao er yang hua meng	0
 人造苦杏仁油	ren zao ku xing ren you	0
@@ -35386,7 +35386,7 @@ use_preset_vocabulary: false
 溴化碘	xiu hua dian	0
 氩气灯	ya qi deng	0
 背面进攻	bei mian jin gong	0
-波节	bo jie	26
+波节	bo jie	27
 纯手性的	chun shou xing de	0
 等偏微比容的	deng pian wei bi rong de	0
 对映异位的	dui ying yi wei de	0
@@ -35402,14 +35402,14 @@ use_preset_vocabulary: false
 两性的	liang xing de	0
 镣量滑石	liao liang hua shi	0
 溶液的依数性	rong ye de yi shu xing	6
-三聚	san ju	28
+三聚	san ju	23
 疏液的	shu ye de	0
 双晶	shuang jing	30
 调整保留时间	tiao zheng bao liu shi jian	0
 张力峰	zhang li feng	0
 质量选择性检测器	zhi liang xuan ze xing jian ce qi	0
 质子激发射线光谱法	zhi zi ji fa she xian guang pu fa	0
-主族	zhu zu	108
+主族	zhu zu	165
 饱和磁感应强度	bao he ci gan ying qiang du	0
 饱和磁化强度	bao he ci hua qiang du	0
 饱和磁极化强度	bao he ci ji hua qiang du	0
@@ -35427,7 +35427,7 @@ use_preset_vocabulary: false
 超导临界磁场强度	chao dao lin jie ci chang qiang du	0
 超导生物磁强计	chao dao sheng wu ci qiang ji	0
 超顺磁性	chao shun ci xing	4
-充磁	chong ci	20
+充磁	chong ci	27
 冲击检流计	chong ji jian liu ji	0
 畴壁	chou bi	6
 垂直磁化	chui zhi ci hua	0
@@ -35452,13 +35452,13 @@ use_preset_vocabulary: false
 磁化学效应	ci hua xue xiao ying	0
 磁极化强度	ci ji hua qiang du	1
 磁记录介质	ci ji lu jie zhi	0
-磁结构	ci jie gou	16
+磁结构	ci jie gou	17
 磁卡效应	ci ka xiao ying	0
 磁老化	ci lao hua	0
 磁路的有效尺寸	ci lu de you xiao chi cun	0
 磁能积曲线	ci neng ji qu xian	0
 磁粘滞性	ci nian zhi xing	0
-磁偶极子	ci ou ji zi	28
+磁偶极子	ci ou ji zi	29
 磁屏蔽因数	ci ping bi yin shu	0
 磁谱	ci pu	0
 磁损耗电阻	ci sun hao dian zu	0
@@ -35490,7 +35490,7 @@ use_preset_vocabulary: false
 非晶态磁性材料	fei jing tai ci xing cai liao	0
 幅照磁效应	fu zhao ci xiao ying	0
 光泵磁强计	guang beng ci qiang ji	0
-横向磁化	heng xiang ci hua	2
+横向磁化	heng xiang ci hua	1
 横向磁致伸缩系数	heng xiang ci zhi shen suo xi shu	0
 回复磁导率	hui fu ci dao lv	0
 回复线回线	hui fu xian hui xian	0
@@ -35571,7 +35571,7 @@ use_preset_vocabulary: false
 质子旋磁比	zhi zi xuan ci bi	0
 转动磁滞损耗	zhuan dong ci zhi sun hao	0
 自发磁化	zi fa ci hua	19
-纵向磁化	zong xiang ci hua	3
+纵向磁化	zong xiang ci hua	2
 纵向磁致伸缩系数	zong xiang ci zhi shen suo xi shu	0
 最大磁导率	zui da ci dao lv	0
 最大磁通密度	zui da ci tong mi du	0
@@ -35618,9 +35618,9 @@ use_preset_vocabulary: false
 灯黑	deng hei	6
 澄清度标准	deng qing du biao zhun	0
 敌百虫	di bai chong	5
-滴滴滴	di di di	89
+滴滴滴	di di di	94
 碲酸钠	di suan na	0
-地衣红	di yi hong	1
+地衣红	di yi hong	0
 地衣酸	di yi suan	0
 碘仿	dian fang	4
 靛酚	dian fen	0
@@ -35679,7 +35679,7 @@ use_preset_vocabulary: false
 硅烷偶联剂	gui wan ou lian ji	3
 硅砖	gui zhuan	0
 铪块	ha kuai	0
-海沙	hai sha	68
+海沙	hai sha	71
 海砂	hai sha	4
 还原型辅酶	hai yuan xing fu mei	25
 含羞草碱	han xiu cao jian	0
@@ -35689,7 +35689,7 @@ use_preset_vocabulary: false
 红珠	hong zhu	2
 后马托品	hou ma tuo pin	0
 胡罗卜素	hu luo bo su	5
-华兰	hua lan	68
+华兰	hua lan	69
 混苯	hun ben	0
 己醇	ji chun	1
 己二酸二己酯	ji er suan er ji zhi	0
@@ -35731,7 +35731,7 @@ use_preset_vocabulary: false
 磷酸镧	lin suan lan	0
 磷酸铈	lin suan shi	0
 磷钨酸铵	lin wu suan an	0
-硫化镍	liu hua nie	10
+硫化镍	liu hua nie	20
 六氯化钨	liu lv hua wu	0
 硫酸多粘菌素	liu suan duo zhan jun su	0
 硫酸铒	liu suan er	0
@@ -35877,7 +35877,7 @@ use_preset_vocabulary: false
 钨酸钾	wu suan jia	0
 芴酮	wu tong	0
 西湖蓝	xi hu lan	0
-西拉	xi la	230
+西拉	xi la	279
 锡片	xi pian	0
 锡酸	xi suan	0
 硒酸钠	xi suan na	0
@@ -35931,7 +35931,7 @@ use_preset_vocabulary: false
 油红	you hong	5
 愈创薁	yu chuang yu	0
 云杉苷	yun shan gan	0
-皂土	zao tu	2
+皂土	zao tu	3
 增亮剂	zeng liang ji	5
 增血压素	zeng xue ya su	0
 长叶薄荷酮	zhang ye bo he tong	0
@@ -36012,13 +36012,13 @@ use_preset_vocabulary: false
 大量富有	da liang fu you	5
 大楼的	da lou de	0
 大楼高官惊叹	da lou gao guan jing tan	0
-大难题之一	da nan ti zhi yi	6
+大难题之一	da nan ti zhi yi	1
 大批量的	da pi liang de	0
 大型电脑中心	da xing dian nao zhong xin	0
 大型国际合作	da xing guo ji he zuo	1
 代号为	dai hao wei	0
 殆尽质量	dai jin zhi liang	0
-带来最大的	dai lai zui da de	80
+带来最大的	dai lai zui da de	69
 戴森指出	dai sen zhi chu	0
 但不足	dan bu zu	0
 但不足以	dan bu zu yi	0
@@ -36081,7 +36081,7 @@ use_preset_vocabulary: false
 发生的一次强烈	fa sheng de yi ci qiang lie	0
 发生猛烈撞击	fa sheng meng lie zhuang ji	0
 发生碰触并湮灭	fa sheng peng chu bing yan mie	0
-发生湮灭	fa sheng yan mie	10
+发生湮灭	fa sheng yan mie	13
 发生在年月日	fa sheng zai nian yue ri	0
 发完牢骚	fa wan lao sao	6
 发现反物质	fa xian fan wu zhi	0
@@ -36137,7 +36137,7 @@ use_preset_vocabulary: false
 改变能源供应的模式	gai bian neng yuan gong ying de mo shi	0
 该国的军事	gai guo de jun shi	1
 该国的军事和社会活动彻底瘫痪	gai guo de jun shi he she hui huo dong che di tan huan	0
-概念的延伸	gai nian de yan shen	5
+概念的延伸	gai nian de yan shen	7
 概念延伸	gai nian yan shen	4
 概念研讨	gai nian yan tao	0
 干净的	gan jing de	0
@@ -36180,14 +36180,14 @@ use_preset_vocabulary: false
 核弹不同	he dan bu tong	0
 核辐射污染	he fu she wu ran	9
 合建了	he jian le	1
-和其它	he qi ta	1578
+和其它	he qi ta	1697
 和通信网络上空引爆	he tong xin wang luo shang kong yin bao	0
 核武器更可怕	he wu qi geng ke pa	1
 核子研究中心	he zi yan jiu zhong xin	1
 很得意地开始给	hen de yi de kai shi gei	0
 很多国家	hen duo guo jia	0
 很快就能	hen kuai jiu neng	0
-很难把它们	hen nan ba ta men	4
+很难把它们	hen nan ba ta men	5
 很难补给	hen nan bu ji	1
 很难控制	hen nan kong zhi	0
 后发现了	hou fa xian le	0
@@ -36201,7 +36201,7 @@ use_preset_vocabulary: false
 会是一场能源革命	hui shi yi chang neng yuan ge ming	0
 会污染战区的土壤水源和空气	hui wu ran zhan qu de tu rang shui yuan he kong qi	0
 会造成核辐射污染	hui zao cheng he fu she wu ran	0
-获得重大突破	huo de zhong da tu po	7
+获得重大突破	huo de zhong da tu po	8
 活动很难控制	huo dong hen nan kong zhi	0
 或局部战争中使用	huo ju bu zhan zheng zhong shi yong	0
 几个国家	ji ge guo jia	0
@@ -36218,14 +36218,14 @@ use_preset_vocabulary: false
 机长也同时看到了这一怪象	ji zhang ye tong shi kan dao le zhe yi guai xiang	0
 加速粒子	jia su li zi	10
 驾驭市场	jia yu shi chang	4
-价值的数据	jia zhi de shu ju	0
-价值可言	jia zhi ke yan	17
+价值的数据	jia zhi de shu ju	11
+价值可言	jia zhi ke yan	22
 将成为现实	jiang cheng wei xian shi	6
 将更加无所顾忌	jiang geng jia wu suo gu ji	0
 将会是一场革命	jiang hui shi yi chang ge ming	1
 将会是一场能源革命	jiang hui shi yi chang neng yuan ge ming	0
 将军们讲课	jiang jun men jiang ke	0
-将其称为	jiang qi cheng wei	192
+将其称为	jiang qi cheng wei	201
 将其归类为	jiang qi gui lei wei	10
 将是一场能源革命	jiang shi yi chang neng yuan ge ming	0
 将消失	jiang xiao shi	0
@@ -36235,13 +36235,13 @@ use_preset_vocabulary: false
 结构部分	jie gou bu fen	0
 结合释放出	jie he shi fang chu	0
 结合一般	jie he yi ban	0
-介绍了	jie shao liao	6344
+介绍了	jie shao liao	6257
 介绍了他的反物质武器	jie shao liao ta de fan wu zhi wu qi	0
 尽管人们	jin guan ren men	0
 近乎一项	jin hu yi xiang	0
 进行许多	jin xing xu duo	0
 进行一项	jin xing yi xiang	0
-进展缓慢	jin zhan huan man	132
+进展缓慢	jin zhan huan man	139
 精度和高能	jing du he gao neng	0
 经过三大	jing guo san da	0
 就加快了	jiu jia kuai le	0
@@ -36254,12 +36254,12 @@ use_preset_vocabulary: false
 巨大的蘑菇云	ju da de mo gu yun	10
 巨大的能量	ju da de neng liang	0
 巨大的人力物力	ju da de ren li wu li	30
-巨大伤害	ju da shang hai	0
+巨大伤害	ju da shang hai	39
 巨大外	ju da wai	0
-具有经济价值	ju you jing ji jia zhi	11
+具有经济价值	ju you jing ji jia zhi	13
 军事家们	jun shi jia men	8
 军事行动开始后	jun shi xing dong kai shi hou	1
-军事用途	jun shi yong tu	70
+军事用途	jun shi yong tu	72
 军事用途的研究	jun shi yong tu de yan jiu	0
 军事用途即将成为现实	jun shi yong tu ji jiang cheng wei xian shi	0
 开魔瓶的人	kai mo ping de ren	0
@@ -36291,8 +36291,8 @@ use_preset_vocabulary: false
 理论认为	li lun ren wei	0
 理论性的	li lun xing de	0
 例如因	li ru yin	0
-粒子构成	li zi gou cheng	13
-粒子构成的	li zi gou cheng de	14
+粒子构成	li zi gou cheng	18
+粒子构成的	li zi gou cheng de	18
 粒子加速器设施	li zi jia su qi she shi	0
 粒子物理试验设备	li zi wu li shi yan she bei	1
 粒子物理学里	li zi wu li xue li	0
@@ -36306,11 +36306,11 @@ use_preset_vocabulary: false
 美国阿拉斯加上空	mei guo a la si jia shang kong	0
 美国的	mei guo de	0
 美国费米	mei guo fei mi	14
-美国军方	mei guo jun fang	175
+美国军方	mei guo jun fang	205
 美国科学界	mei guo ke xue jie	5
 美国麻省理工学院毕业	mei guo ma sheng li gong xue yuan bi ye	0
 美国卫星拍到了	mei guo wei xing pai dao le	0
-美国五角大楼	mei guo wu jiao da lou	9
+美国五角大楼	mei guo wu jiao da lou	10
 美国研制出	mei guo yan zhi chu	16
 美军可能会	mei jun ke neng hui	1
 美军在战场上	mei jun zai zhan chang shang	1
@@ -36319,7 +36319,7 @@ use_preset_vocabulary: false
 没有核残留	mei you he can liu	0
 没有透露他的	mei you tou lu ta de	0
 猛烈撞击	meng lie zhuang ji	20
-灭绝人类	mie jue ren lei	0
+灭绝人类	mie jue ren lei	85
 魔瓶的人	mo ping de ren	0
 某种特殊手段	mou zhong te shu shou duan	0
 目前人为	mu qian ren wei	0
@@ -36330,17 +36330,17 @@ use_preset_vocabulary: false
 难把它们	nan ba ta men	0
 难题之一	nan ti zhi yi	0
 能长期有效	neng chang qi you xiao	0
-能力很强的	neng li hen qiang de	146
+能力很强的	neng li hen qiang de	253
 能量比重	neng liang bi zhong	0
 能投入实战	neng tou ru shi zhan	1
-能源革命	neng yuan ge ming	34
+能源革命	neng yuan ge ming	36
 能源供应的模式	neng yuan gong ying de mo shi	0
 能在常规战争	neng zai chang gui zhan zheng	0
 年方三十的他	nian fang san shi de ta	0
 喷射出的	pen she chu de	0
 碰触并湮灭	peng chu bing yan mie	0
 碰触湮灭	peng chu yan mie	0
-普遍认同	pu bian ren tong	104
+普遍认同	pu bian ren tong	110
 曝露了出来	pu lu le chu lai	0
 普通的	pu tong de	0
 普通物质是由普通	pu tong wu zhi shi you pu tong	0
@@ -36351,7 +36351,7 @@ use_preset_vocabulary: false
 其威力相当于	qi wei li xiang dang yu	1
 潜入国首都	qian ru guo shou du	0
 潜入首都	qian ru shou du	0
-前沿领域	qian yan ling yu	92
+前沿领域	qian yan ling yu	94
 强子对撞	qiang zi dui zhuang	3
 强子对撞器	qiang zi dui zhuang qi	1
 且生成	qie sheng cheng	0
@@ -36359,7 +36359,7 @@ use_preset_vocabulary: false
 且因而	qie yin er	0
 氢弹爆炸的威力	qing dan bao zha de wei li	0
 氢弹核辐射	qing dan he fu she	0
-轻核聚变	qing he ju bian	24
+轻核聚变	qing he ju bian	21
 全球科学界	quan qiu ke xue jie	3
 却不会造成核辐射污染	que bu hui zao cheng he fu she wu ran	0
 却不足以	que bu zu yi	0
@@ -36400,7 +36400,7 @@ use_preset_vocabulary: false
 尚没有发现	shang mei you fa xian	2
 上述三次大爆炸	shang shu san ci da bao zha	0
 少量存在	shao liang cun zai	0
-少数几个国家	shao shu ji ge guo jia	26
+少数几个国家	shao shu ji ge guo jia	28
 少许质量	shao xu zhi liang	0
 设备结构图	she bei jie gou tu	0
 社会瘫痪	she hui tan huan	0
@@ -36419,7 +36419,7 @@ use_preset_vocabulary: false
 实验室条件下	shi yan shi tiao jian xia	18
 实验室中	shi yan shi zhong	0
 实验数据的分析	shi yan shu ju de fen xi	6
-是一场革命	shi yi chang ge ming	21
+是一场革命	shi yi chang ge ming	13
 是一场能源革命	shi yi chang neng yuan ge ming	0
 是一个计划	shi yi ge ji hua	0
 是由质子	shi you zhi zi	1
@@ -36438,14 +36438,14 @@ use_preset_vocabulary: false
 搜索的使命	sou suo de shi ming	0
 速率极低	su lv ji di	3
 隧道内部	sui dao nei bu	2
-随后发生的	sui hou fa sheng de	8
+随后发生的	sui hou fa sheng de	15
 随后发现了	sui hou fa xian le	6
 随即与	sui ji yu	0
 虽说情况	sui shuo qing kuang	0
 损失殆尽	sun shi dai jin	65
 所产生的	suo chan sheng de	0
 所产生的威力	suo chan sheng de wei li	0
-所构成的	suo gou cheng de	214
+所构成的	suo gou cheng de	223
 所携的	suo xie de	2
 它更有可能投入实战	ta geng you ke neng tou ru shi zhan	0
 它毫无军事价值可言	ta hao wu jun shi jia zhi ke yan	0
@@ -36455,25 +36455,25 @@ use_preset_vocabulary: false
 它们都将消失	ta men dou jiang xiao shi	0
 它位于	ta wei yu	0
 它拥有	ta yong you	0
-他主持的	ta zhu chi de	15
+他主持的	ta zhu chi de	21
 探测卫星发现	tan ce wei xing fa xian	0
 特殊手段	te shu shou duan	0
 特制的容器中	te zhi de rong qi zhong	0
 提供粒子	ti gong li zi	0
-体系统的	ti xi tong de	26
+体系统的	ti xi tong de	27
 通古斯大爆炸	tong gu si da bao zha	18
 通古斯地区	tong gu si di qu	1
 同时爆炸	tong shi bao zha	0
 同时看到了	tong shi kan dao le	0
 同时看到了这一怪象	tong shi kan dao le zhe yi guai xiang	0
 通信网络上空引爆	tong xin wang luo shang kong yin bao	0
-投入实战	tou ru shi zhan	29
+投入实战	tou ru shi zhan	32
 头头是道地	tou tou shi dao di	14
 突破性进展后	tu po xing jin zhan hou	1
 突然出现了	tu ran chu xian le	0
 突然发生了	tu ran fa sheng le	0
 突然发现	tu ran fa xian	0
-突然现身	tu ran xian shen	25
+突然现身	tu ran xian shen	29
 土壤空气	tu rang kong qi	0
 土壤水源和空气	tu rang shui yuan he kong qi	0
 推进火箭	tui jin huo jian	5
@@ -36490,7 +36490,7 @@ use_preset_vocabulary: false
 为数众多的	wei shu zhong duo de	0
 卫星拍到了	wei xing pai dao le	0
 位于地下	wei yu di xia	18
-位于法	wei yu fa	0
+位于法	wei yu fa	6
 为战略威慑手段	wei zhan lue wei she shou duan	0
 我激情	wo ji qing	0
 我们成功研发了	wo men cheng gong yan fa le	0
@@ -36499,10 +36499,10 @@ use_preset_vocabulary: false
 无价值可言	wu jia zhi ke yan	2
 五角大楼的官员们	wu jiao da lou de guan yuan men	0
 五角大楼高官惊叹	wu jiao da lou gao guan jing tan	0
-无可避免地	wu ke bi mian di	109
+无可避免地	wu ke bi mian di	111
 物理猜想	wu li cai xiang	1
 物理试验设备	wu li shi yan she bei	0
-物理学博士学位	wu li xue bo shi xue wei	12
+物理学博士学位	wu li xue bo shi xue wei	13
 物理研究	wu li yan jiu	0
 物理之谜	wu li zhi mi	2
 武器之父	wu qi zhi fu	0
@@ -36512,8 +36512,8 @@ use_preset_vocabulary: false
 污染战区的土壤水源和空气	wu ran zhan qu de tu rang shui yuan he kong qi	0
 物质爆炸时	wu zhi bao zha shi	0
 物质存在	wu zhi cun zai	0
-物质的关系	wu zhi de guan xi	11
-物质的研究	wu zhi de yan jiu	9
+物质的关系	wu zhi de guan xi	12
+物质的研究	wu zhi de yan jiu	10
 物质关系	wu zhi guan xi	0
 物质和反物质	wu zhi he fan wu zhi	17
 物质就足以	wu zhi jiu zu yi	0
@@ -36537,9 +36537,9 @@ use_preset_vocabulary: false
 向美国军方兜售他的	xiang mei guo jun fang dou shou ta de	0
 向美军高官汇报他的	xiang mei jun gao guan hui bao ta de	0
 向四周扩散	xiang si zhou kuo san	29
-小的粒子	xiao de li zi	1
+小的粒子	xiao de li zi	3
 消耗掉了	xiao hao diao le	0
-小组的负责人	xiao zu de fu ze ren	3
+小组的负责人	xiao zu de fu ze ren	5
 携一枚反物质	xie yi mei fan wu zhi	0
 协助实验数据的分析	xie zhu shi yan shu ju de fen xi	0
 新能源的可行性	xin neng yuan de ke xing xing	0
@@ -36577,7 +36577,7 @@ use_preset_vocabulary: false
 也在做	ye zai zuo	0
 一般物质的	yi ban wu zhi de	0
 一般只作为战略威慑手段	yi ban zhi zuo wei zhan lue wei she shou duan	0
-一场革命	yi chang ge ming	68
+一场革命	yi chang ge ming	85
 一场能源革命	yi chang neng yuan ge ming	1
 一次代号为	yi ci dai hao wei	0
 一次强烈	yi ci qiang lie	0
@@ -36603,7 +36603,7 @@ use_preset_vocabulary: false
 一种有效	yi zhong you xiao	0
 一种在	yi zhong zai	0
 因而湮灭	yin er yan mie	0
-引发一场	yin fa yi chang	50
+引发一场	yin fa yi chang	49
 银河系上方	yin he xi shang fang	0
 引起人道主义灾难	yin qi ren dao zhu yi zai nan	1
 因为常规	yin wei chang gui	0
@@ -36620,7 +36620,7 @@ use_preset_vocabulary: false
 用途即将成为现实	yong tu ji jiang cheng wei xian shi	0
 用途将成为现实	yong tu jiang cheng wei xian shi	0
 用途研究	yong tu yan jiu	0
-拥有核武器	yong you he wu qi	28
+拥有核武器	yong you he wu qi	32
 用于战争	yong yu zhan zheng	0
 有多大威力呢	you duo da wei li ne	0
 又发现了	you fa xian le	0
@@ -36659,10 +36659,10 @@ use_preset_vocabulary: false
 再减速	zai jian su	0
 灾难的人身攻击	zai nan de ren shen gong ji	0
 灾难性攻击	zai nan xing gong ji	0
-在实验室中	zai shi yan shi zhong	103
+在实验室中	zai shi yan shi zhong	118
 在市中心临近	zai shi zhong xin lin jin	0
 在银河系上方	zai yin he xi shang fang	0
-在自然界中	zai zi ran jie zhong	203
+在自然界中	zai zi ran jie zhong	270
 在坐的	zai zuo de	0
 造成核辐射污染	zao cheng he fu she wu ran	0
 造成巨大辐射伤害	zao cheng ju da fu she shang hai	0
@@ -36693,7 +36693,7 @@ use_preset_vocabulary: false
 这种担忧	zhe zhong dan you	0
 真空环境里	zhen kong huan jing li	4
 正电子的活动	zheng dian zi de huo dong	0
-正反物质	zheng fan wu zhi	89
+正反物质	zheng fan wu zhi	90
 正反物质对称性破坏	zheng fan wu zhi dui chen xing po huai	0
 正物质构成	zheng wu zhi gou cheng	1
 直径米圆形隧道	zhi jing mi yuan xing sui dao	0
@@ -36706,7 +36706,7 @@ use_preset_vocabulary: false
 制造出来的话	zhi zao chu lai de hua	0
 制造出了	zhi zao chu le	0
 制造方式	zhi zao fang shi	0
-质子中子	zhi zi zhong zi	35
+质子中子	zhi zi zhong zi	36
 质子中子电子	zhi zi zhong zi dian zi	2
 只作为战略威慑手段	zhi zuo wei zhan lue wei she shou duan	0
 中国承担	zhong guo cheng dan	0
@@ -36718,7 +36718,7 @@ use_preset_vocabulary: false
 主结构的设计	zhu jie gou de she ji	0
 主要的	zhu yao de	0
 主要功能是	zhu yao gong neng shi	0
-转化成能量	zhuan hua cheng neng liang	35
+转化成能量	zhuan hua cheng neng liang	36
 专家们的	zhuan jia men de	0
 专门设计	zhuan men she ji	0
 状态的这是人类	zhuang tai de zhe shi ren lei	0
@@ -36726,7 +36726,7 @@ use_preset_vocabulary: false
 自然界的物质	zi ran jie de wu zhi	7
 自然界找到	zi ran jie zhao dao	0
 自然界中	zi ran jie zhong	0
-自旋方向	zi xuan fang xiang	29
+自旋方向	zi xuan fang xiang	37
 总参谋部大楼的	zong can mou bu da lou de	0
 总体设计部	zong ti she ji bu	10
 组成的	zu cheng de	0
@@ -36737,7 +36737,7 @@ use_preset_vocabulary: false
 最大型的	zui da xing de	0
 最关键部件	zui guan jian bu jian	0
 最新的	zui xin de	0
-最新研究成果	zui xin yan jiu cheng guo	96
+最新研究成果	zui xin yan jiu cheng guo	97
 最著名的	zui zhu ming de	0
 作为战略威慑手段	zuo wei zhan lue wei she shou duan	0
 左右的结果	zuo you de jie guo	0

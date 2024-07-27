@@ -11,7 +11,7 @@ import time
 
 # mnbvc 0.jsonl父级文件路径
 # 知乎 https://huggingface.co/datasets/liwu/MNBVC/tree/main/qa/20230196/zhihu
-MNBVC_PATH = "./mnbvc"
+MNBVC_PATH = "~/mnbvc"
 
 
 def scan_file(path):
@@ -60,7 +60,7 @@ def mnbvc_zhihu(file_name):
         return
     number = int(match.group(1))  # 获取第一个匹配组，并转换为整数            print_log("Read File: {}".format(file_name))
     write_file_name = os.path.join('cn_dicts_dazhu', "zhihu_deal{}.txt".format(number))
-    with open(file_name, 'r') as file, open(write_file_name, 'a+') as write_file:
+    with open(file_name, 'r') as file, open(write_file_name, 'w') as write_file:
         # 读取整个文件内容，减少IO读写
         lines = file.readlines()
         line_count = len(lines)
@@ -76,9 +76,9 @@ def mnbvc_zhihu(file_name):
                 print_log("JSONDecodeError")
                 print_log(line)
                 continue
-            # 过滤掉标点符号，加快后续处理速度
-            q_content = re.sub(r'[^\w\s]', '', data['问'])
-            a_content = re.sub(r'[^\w\s]', '', data['答'])
+
+            q_content = data['问']
+            a_content = data['答']
             q_length = len(q_content)
             a_length = len(a_content)
             write_file.write(q_content + "\n" + a_content + "\n")

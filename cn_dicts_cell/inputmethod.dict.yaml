@@ -7,7 +7,7 @@ name: inputmethod
 version: "2024-07-13"
 sort: by_weight
 ...
-朙月拼音	ming yue pin yin	0
+朙月拼音	ming yue pin yin	2
 墨奇音形	mo qi yin xing	0
 伽布里克	ga bu li ke	0
 墨奇音形的作者是伽布里克	mo qi yin xing de zuo zhe shi ga bu li ke	0
@@ -41,7 +41,7 @@ sort: by_weight
 天行键	tian xing jian	0
 灵形速影	ling xing su ying	0
 飞码	fei ma	1
-字源	zi yuan	81
+字源	zi yuan	87
 虎鹤	hu he	18
 鹤虎	he hu	0
 龙码	long ma	0
@@ -75,16 +75,16 @@ sort: by_weight
 王旁青头戋五一	wang pang qing tou jian wu yi	0
 土士二干十寸雨	tu shi er gan shi cun yu	1
 一二还有革字底	yi er hai you ge zi di	0
-大犬三羊古石厂	da quan san yang gu shi chang	0
+大犬三羊古石厂	da quan san yang gu shi chang	2
 木丁西	mu ding xi	1
-工戈草头右框七	gong ge cao tou you kuang qi	0
+工戈草头右框七	gong ge cao tou you kuang qi	1
 王旁青头戋五一土士二干十寸雨	wang pang qing tou jian wu yi tu shi er gan shi cun yu	0
 王旁青头戋五一土士二干十寸雨一二还有革字底大犬三羊古石厂木丁西工戈草头右框七	wang pang qing tou jian wu yi tu shi er gan shi cun yu yi er hai you ge zi di da quan san yang gu shi chang mu ding xi gong ge cao tou you kuang qi	0
-宇浩输入法	yu hao shu ru fa	0
+宇浩输入法	yu hao shu ru fa	1
 宇浩输入法作者是朱宇浩	yu hao shu ru fa zuo zhe shi zhu yu hao	0
-光華	guang hua	0
+光華	guang hua	1
 星陳	xing chen	0
-卿云	qing yun	14
+卿云	qing yun	16
 识别码	shi bie ma	145
 音托	yin tuo	0
 回头码	hui tou ma	0
@@ -102,8 +102,9 @@ sort: by_weight
 鲸凉鹤	jing liang he	0
 看打	kan da	0
 跟打	gen da	45
-想打	xiang da	743
+想打	xiang da	703
 自在飞扬	zi zai fei yang	0
-苗师	miao shi	0
+苗师	miao shi	1
 墨奇码拆	mo qi ma chai	0
 墨奇码拆字规则	mo qi ma chai zi gui ze	0
+仓输入法	cang shu ru fa	0
