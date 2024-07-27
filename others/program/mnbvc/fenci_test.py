@@ -57,3 +57,10 @@ print("精确模式: " + "/ ".join(seg_list))
 str = "住宾馆时让人感觉最不好的体验是什么？有什么解决办法吗？"
 seg_list = jieba.cut(str, cut_all=False)
 print("精确模式: " + "/ ".join(seg_list))
+
+str = "为什么领导喜欢说“我只要看结果”？"
+seg_list = jieba.cut(str, cut_all=False)
+print("精确模式: " + "/ ".join(seg_list))
+str = re.sub(r'[^\w\s]', '', str)
+seg_list = jieba.cut(str, cut_all=False)
+print("精确模式: " + "/ ".join(seg_list))
