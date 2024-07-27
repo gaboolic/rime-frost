@@ -18,8 +18,10 @@ import_tables:
   - cn_dicts_cell/exthot
   - cn_dicts_cell/chess
   - cn_dicts_cell/chess2
+  - cn_dicts_cell/animal
   - cn_dicts_cell/game
   - cn_dicts_cell/idiom
+  - cn_dicts_cell/sport
   - cn_dicts_cell/media
   - cn_dicts_cell/shulihua
   - cn_dicts_cell/food
