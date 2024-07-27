@@ -8,6 +8,7 @@ recipe:
 install_files: >-
   cn_dicts/*.*
   en_dicts/*.*
+  cn_dicts_cell/*.*
   opencc/*.*
   rime.lua
   lua/*.*
