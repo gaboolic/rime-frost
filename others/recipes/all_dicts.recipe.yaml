@@ -7,6 +7,7 @@ recipe:
     所有词库安装、更新
 install_files: >-
   cn_dicts/*.*
+  cn_dicts_cell/*.*
   en_dicts/*.*
   opencc/*.*
   radical_pinyin.dict.yaml

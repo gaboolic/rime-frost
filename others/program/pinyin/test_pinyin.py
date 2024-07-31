@@ -13,3 +13,6 @@ print(pinyin('禁着点',heteronym=True))
 
 
 print(pinyin('鸂鶒',heteronym=True))
+print(pinyin('寻思',heteronym=True))
+print(lazy_pinyin('寻思'))
+print(pinyin('寻'))

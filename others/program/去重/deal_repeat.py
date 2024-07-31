@@ -31,7 +31,7 @@ file_names = os.listdir("cn_dicts_cell")
 
 # 打印出所有找到的文件名
 for file_name in file_names:
-    print("- cn_dicts_cell/"+file_name)
+    print("- cn_dicts_cell/"+file_name[0:-10])
     read_file_name = os.path.join('cn_dicts_cell', file_name)
 
     word_map = OrderedDict()
