@@ -80,6 +80,7 @@ engine:
     - lua_translator@unicode            # Unicode
     - lua_translator@number_translator  # 数字、金额大写
     - lua_translator@force_gc           # 暴力 GC
+    - lua_translator@*calculator    # 计算器
   filters:
     - lua_filter@*is_in_user_dict # 用户词典的词加上一个*
     - lua_filter@corrector                          # 错音错字提示
@@ -254,14 +255,14 @@ traditionalize:
 # punctuator 下面有三个子项：
 #   full_shape 全角标点映射
 #   half_shape 半角标点映射
-#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符，自定义的 symbols_caps_v.yaml 修改成了 'V' 开头。
+#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符
 punctuator:
   full_shape:
     __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
   half_shape:
     __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
   symbols:
-    __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
+    __include: symbols_v:/symbols         # 从 symbols_v.yaml 导入配置
 
 
 # 部件拆字反查
@@ -289,12 +290,12 @@ radical_reverse_lookup:
 recognizer:
   import_preset: default  # 从 default.yaml 继承通用的
   patterns:  # 再增加方案专有的：
-    punct: "^V([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_caps_v.yaml 的 symbols
+    punct: "^/([0-9]|10|[A-Za-z]+)$"    # 响应 symbols_v.yaml 的 symbols
     radical_lookup: "^uU[a-z;]+$"       # 响应部件拆字的反查，与 radical_lookup/prefix 匹配
     unicode: "^U[a-f0-9]+"              # 脚本将自动获取第 2 个字符 U 作为触发前缀，响应 lua_translator@unicode，输出 Unicode 字符
     number: "^R[0-9]+[.]?[0-9]*"        # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@number_translator，数字金额大写
     gregorian_to_lunar: "^N[0-9]{1,8}"  # 脚本将自动获取第 2 个字符 N 作为触发前缀，响应 lua_translator@lunar，公历转农历，输入 N20240115 得到「二〇二三年腊月初五」
-
+    calculator: "^V.*$"                 #计算器功能引导
 
 # 从 default 继承快捷键
 key_binder:
@@ -306,7 +307,7 @@ key_binder:
 # 拼写设定
 speller:
   # 如果不想让什么标点直接上屏，可以加在 alphabet，或者编辑标点符号为两个及以上的映射
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;`
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;`/
   # initials 定义仅作为始码的按键，排除 ` ; 让单个的 ` ; 可以直接上屏
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
