@@ -1,3 +1,13 @@
+import opencc
+import re
+# pip install opencc
+
+converter = opencc.OpenCC('t2s.json')
+
+def is_all_chinese(input_str):
+    pattern = re.compile(r'[\u4e00-\u9fa5]+')  # 匹配所有的中文字符
+    return True if pattern.fullmatch(input_str) else False
+
 # 找出在fenci_word_map并且不在dict_word_map中的词
 dict_file = ('cn_dicts_dazhu/custom_fenci_dict.txt')
 dict_word_map = {}
@@ -22,6 +32,8 @@ with open(fenci_file, 'r', encoding='utf-8') as fenci_file:
             continue
         params = line.split("\t")
         word = params[0]
+        
+        word = converter.convert(word)
         freq = params[1]
         fenci_word_map[word] = int(freq)
 print(len(fenci_word_map))
@@ -41,7 +53,9 @@ with open(output_file, 'w', encoding='utf-8') as file:
             continue
         if len(word) == 1:
             continue
-
-        file.write(f"{word}\t{freq}\n")
+        if not is_all_chinese(word):
+            continue
+        # file.write(f"{word}\t{freq}\n")
+        file.write(f"{word}\n")
 
 print(f"The words not in dict_word_map have been written to {output_file}.")
