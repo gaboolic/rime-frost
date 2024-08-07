@@ -3,7 +3,7 @@ import string
 
 
 word_map = {}
-file_list = ['8105.dict.yaml','base.dict.yaml','ext.dict.yaml']
+file_list = ['8105.dict.yaml','base.dict.yaml','ext.dict.yaml','tencent.dict.yaml']
 for file in file_list:
     file_name = os.path.join('cn_dicts', file)
     with open(file_name, 'r') as file:
