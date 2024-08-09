@@ -45,12 +45,16 @@ for file_name in file_names:
                 word_map[line]=''
                 continue
             word = params[0]
-            #freq = params[1]
+
+            if len(params) == 2:
+                freq = params[1]
+            else:
+                freq = '0'
             print(word)
             pinyin_list = lazy_pinyin(word)
             pinyin = ' '.join(pinyin_list)
             #print(pinyin)
-            new_line = word +"\t" + pinyin + "\t0"
+            new_line = word +"\t" + pinyin + "\t"+freq
             print(new_line)
             word_map[new_line]=''
     
