@@ -16164,12 +16164,12 @@ sort: by_weight
 七龙珠第一部	qi long zhu di yi bu	2
 七龙珠里面	qi long zhu li mian	3
 七龙纪	qi long ji	0
-万多公里
-万多个
-万平方
-万平方米	wan ping fang mi 1
-万日元	wan ri yuan 1
-万美元	wan mei yuan 1
+万多公里	wan duo gong li	0
+万多个	wan duo ge	0
+万平方	wan ping fang	0
+万平方米	wan ping fang mi	0
+万日元	wan ri yuan	0
+万美元	wan mei yuan	0
 万一一	wan yi yi	0
 万一两	wan yi liang	1
 万一出事	wan yi chu shi	28
@@ -41228,8 +41228,8 @@ sort: by_weight
 推蛋糕	tui dan gao	0
 推诿扯皮	tui wei che pi	0
 推诿责任	tui wei ze ren	0
-里三层外三层
-那碗面
+里三层外三层	li san ceng wai san ceng	0
+那碗面	na wan mian	0
 沙漠中心	sha mo zhong xin	0
 沙漠中的绿洲	sha mo zhong de lv zhou	0
 沙漠之城	sha mo zhi cheng	0
@@ -41273,6 +41273,6 @@ sort: by_weight
 沙漠风光	sha mo feng guang	0
 沙漠骆驼	sha mo luo tuo	0
 沙漠黄	sha mo huang	0
-三十多个
-三十几个
-二十几个
+三十多个	san shi duo ge	0
+三十几个	san shi ji ge	0
+二十几个	er shi ji ge	0
