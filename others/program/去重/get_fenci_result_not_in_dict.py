@@ -49,13 +49,13 @@ output_file = 'cn_dicts_dazhu/not_in_dict.txt'
 with open(output_file, 'w', encoding='utf-8') as file:
     for word in not_in_dict:
         freq = int(fenci_word_map[word])
-        if freq < 100:
+        if freq < 10:
             continue
         if len(word) == 1:
             continue
         if not is_all_chinese(word):
             continue
-        # file.write(f"{word}\t{freq}\n")
-        file.write(f"{word}\n")
+        file.write(f"{word}\t{freq}\n")
+        # file.write(f"{word}\n")
 
 print(f"The words not in dict_word_map have been written to {output_file}.")
