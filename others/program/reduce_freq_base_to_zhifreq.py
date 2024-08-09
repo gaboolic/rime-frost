@@ -70,7 +70,7 @@ with open(os.path.join('cn_dicts_dazhu', 'zhihu_deal_sort_merge.txt'), 'r', enco
         freq = params[1]
         word_freq_map[character] = freq
 
-cn_dicts_common_list = [ '8105.dict.yaml','41448.dict.yaml','base.dict.yaml','ext.dict.yaml','tencent.dict.yaml']
+cn_dicts_common_list = [ '8105.dict.yaml','41448.dict.yaml','base.dict.yaml','ext.dict.yaml','others.dict.yaml','tencent.dict.yaml']
 for file_name in cn_dicts_common_list:
     # File paths
     yaml_file_path = os.path.join('cn_dicts', file_name)

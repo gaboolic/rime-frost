@@ -120,8 +120,8 @@ use_preset_vocabulary: false
 对易子	dui yi zi	31
 二次量子化	er ci liang zi hua	81
 反常磁矩	fan chang ci ju	27
-反对易	fan dui yi	22
-反对易子	fan dui yi zi	1
+反对易运算	fan dui yi yun suan	0
+反对易算符	fan dui yi suan fu	0
 非定域	fei ding yu	84
 非定域场论	fei ding yu chang lun	0
 非局域	fei ju yu	43
@@ -36747,3 +36747,9 @@ use_preset_vocabulary: false
 乙螨唑	yi man zuo	1
 噻虫胺	sai chong an	1
 苯二酚	ben er fen	2
+标碳烷	biao tan wan	101
+标键烷	biao jian wan	101
+水磁双阻	shui ci shuang zu	100
+基弧	ji hu	100
+静定问题	jing ding wen ti	16
+束缚电子	shu fu dian zi	16

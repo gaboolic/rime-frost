@@ -1595,7 +1595,7 @@ use_preset_vocabulary: false
 墨卡托投影	mo ka tuo tou ying	18
 模拟地震动	mo ni de zhen dong	0
 模拟地震学	mo ni di zhen xue	0
-漠漆	mo qi	0
+沙漠漆	sha mo qi	0
 木材生产基地	mu cai sheng chan ji di	0
 穆鲁山	mu lu shan	0
 母质层	mu zhi ceng	0
@@ -2616,3 +2616,4 @@ use_preset_vocabulary: false
 最可信地震	zui ke xin di zhen	0
 作物布局	zuo wu bu ju	0
 作物组合	zuo wu zu he	0
+雨极	yu ji	3

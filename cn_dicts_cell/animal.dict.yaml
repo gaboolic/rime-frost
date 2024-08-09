@@ -314,30 +314,16 @@ use_preset_vocabulary: true
 原始蓝	yuan shi lan	0
 原始绿	yuan shi lv	0
 珍珠	zhen zhu	1780
-斑点狗	ban dian gou	21
 边境牧羊犬	bian jing mu yang quan	0
-大白熊犬	da bai xiong quan	0
-大麦町犬	da mai ding quan	0
-德国牧羊犬	de guo mu yang quan	10
-贵宾犬	gui bin quan	8
-蝴蝶犬	hu die quan	1
-吉娃娃	ji wa wa	82
 凯利蓝梗	kai li lan geng	0
 可蒙犬	ke meng quan	0
-腊肠犬	la chang quan	5
 马尔济斯犬	ma er ji si quan	0
-美国可卡犬	mei guo ke ka quan	0
 日本银狐	ri ben yin hu	0
 萨摩耶犬	sa mo ye quan	0
-沙皮犬	sha pi quan	1
-圣伯纳犬	sheng bo na quan	1
-松狮犬	song shi quan	0
 苏格兰梗	su ge lan geng	1
-苏格兰牧羊犬	su ge lan mu yang quan	2
 西伯利亚哈士奇	xi bo li ya ha shi qi	1
 雪纳瑞	xue na rui	10
 英国古代牧羊犬	ying guo gu dai mu yang quan	0
-约克夏	yue ke xia	13
 藏獒	zang ao	220
 暗脉菜粉蝶	an mai cai fen die	0
 巴黎翠凤蝶	ba li cui feng die	0
@@ -527,14 +513,12 @@ use_preset_vocabulary: true
 棕脉粉蝶	zong mai fen die	0
 阿拉斯加马拉密犬	a la si jia ma la mi quan	0
 阿拉斯加马拉缪特犬	a la si jia ma la miu te quan	0
-阿拉斯加雪橇犬	a la si jia xue qiao quan	2
 大型犬	da xing quan	94
 短毛阿拉斯加	duan mao a la si jia	0
 短毛阿拉斯加雪橇犬	duan mao a la si jia xue qiao quan	0
 短毛标准阿拉斯加	duan mao biao zhun a la si jia	0
 短毛正常毛质阿拉斯加	duan mao zheng chang mao zhi a la si jia	0
 福犬	fu quan	0
-西伯利亚哈士奇	xi bo li ya ha shi qi	1
 雪橇犬	xue qiao quan	20
 菜粉蝶	cai fen die	6
 单环蛱蝶	dan huan jia die	0
@@ -549,6 +533,7 @@ use_preset_vocabulary: true
 伯曼猫	bo man mao	0
 波斯猫	bo si mao	63
 布偶猫	bu ou mao	29
+田园猫	tian yuan mao	0
 德文卷毛猫	de wen juan mao mao	42
 电烫卷猫	dian tang juan mao	0
 东方短毛猫	dong fang duan mao mao	0

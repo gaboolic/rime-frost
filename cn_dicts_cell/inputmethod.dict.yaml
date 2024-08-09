@@ -7,6 +7,7 @@ name: inputmethod
 version: "2024-07-13"
 sort: by_weight
 ...
+打词	da ci	0
 朙月拼音	ming yue pin yin	2
 墨奇音形	mo qi yin xing	0
 伽布里克	ga bu li ke	0
@@ -18,7 +19,7 @@ sort: by_weight
 雾凇词库	wu song ci ku	0
 雾凇拼音	wu song pin yin	0
 大竹	da zhu	39
-聆竹听风	ling zhu ting feng	1
+聆竹听风	ling zhu ting feng	0
 魔然	mo ran	0
 雾凇鹤	wu song he	0
 小鹤音形	xiao he yin xing	0
@@ -109,3 +110,8 @@ sort: by_weight
 墨奇码拆	mo qi ma chai	0
 墨奇码拆字规则	mo qi ma chai zi gui ze	0
 仓输入法	cang shu ru fa	0
+混输模式	hun shu mo shi	0
+小字集	xiao zi ji	0
+大字集	da zi ji	0
+整句模式	zheng ju mo shi	0
+字词模式	zi ci mo shi	0

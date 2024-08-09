@@ -5,6 +5,11 @@ import re
 
 import jieba
 
+# 判断字符串是否包含字母
+def has_letters_or_digits(s):
+    return any(c.isalpha() for c in s) or any(c.isdigit() for c in s)
+
+
 # 此脚本是把txt格式的文件进行分词，词和词之间加空格，逗号和句号替换成换行
 def is_all_punctuation(text):
     # 定义一个正则表达式模式，匹配所有标点符号
@@ -14,17 +19,16 @@ def is_all_punctuation(text):
 
 def replace_punctuation_with_newline(text):
     # 定义需要替换的标点符号的正则表达式模式
-    punctuation_pattern = r'[.,!?;:。，！？；：]'
+    punctuation_pattern = r'[.,!?;:。，！？；：<>《》]'
     #print("pre:"+text)
     # 使用 re.sub() 函数将符合正则表达式的字符替换为换行符
     replaced_text = re.sub(punctuation_pattern, '\n', text).strip()
     #print("after "+replaced_text)
     return replaced_text
 
-def match_chinese(text):
-    # 定义正则表达式模式匹配中文字符
-    pattern = re.compile("[\u4e00-\u9fa5]{1}")  # 匹配连续两个中文字符
-    return re.findall(pattern, text)
+def is_all_chinese(input_str):
+    pattern = re.compile(r'[\u4e00-\u9fa5]+')  # 匹配所有的中文字符
+    return True if pattern.fullmatch(input_str) else False
 
 jieba.load_userdict('cn_dicts_dazhu/custom_fenci_dict.txt')
 # 精确模式分词
@@ -51,6 +55,10 @@ for i in range(0,5):
         for new_line in new_lines:
             new_line = new_line.strip()
             if new_line == '':
+                continue
+            if len(new_line) <= 4:
+                continue
+            if not is_all_chinese(new_line):
                 continue
             seg_list = jieba.cut(new_line, cut_all=False)
             
