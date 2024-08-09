@@ -16164,12 +16164,12 @@ sort: by_weight
 七龙珠第一部	qi long zhu di yi bu	2
 七龙珠里面	qi long zhu li mian	3
 七龙纪	qi long ji	0
-万多公里	wan duo gong li	0
-万多个	wan duo ge	0
-万平方	wan ping fang	0
-万平方米	wan ping fang mi	0
-万日元	wan ri yuan	0
-万美元	wan mei yuan	0
+万多公里	wan duo gong li	128
+万多个	wan duo ge	111
+万平方	wan ping fang	128
+万平方米	wan ping fang mi	500
+万日元	wan ri yuan	738
+万美元	wan mei yuan	7122
 万一一	wan yi yi	0
 万一两	wan yi liang	1
 万一出事	wan yi chu shi	28
@@ -23364,12 +23364,12 @@ sort: by_weight
 人间体	ren jian ti	424
 人间疾苦	ren jian ji ku	121
 人际交往能力	ren ji jiao wang neng li	139
-亿光年	yi guang nian	11
+亿光年	yi guang nian	440
 亿元人民币	yi yuan ren min bi	686
 亿方云	yi fang yun	176
 亿欧元	yi ou yuan	888
-亿韩元	yi han yuan	888
-亿港元	yi gang yuan	888
+亿韩元	yi han yuan	116
+亿港元	yi gang yuan	384
 亿点点	yi dian dian	130
 仅代表个人	jin dai biao ge ren	423
 仅代表个人观点	jin dai biao ge ren guan dian	346
@@ -26111,7 +26111,7 @@ sort: by_weight
 外贸独立站	wai mao du li zhan	109
 外贸订单	wai mao ding dan	116
 外轮廓	wai lun kuo	135
-多亿美元	duo yi mei yuan	106
+多亿美元	duo yi mei yuan	204
 多与少	duo yu shao	106
 多么厉害	duo me li hai	193
 多么可怕	duo me ke pa	215
@@ -34632,9 +34632,9 @@ sort: by_weight
 鼠标宏	shu biao hong	116
 鼻腔内	bi qiang nei	167
 假扮的	jia ban de	0
-捂一捂	wu yi wu	1
-尝不出味	chang bu chu wei	1
-各门各派	ge men ge pai	1
+捂一捂	wu yi wu	0
+尝不出味	chang bu chu wei	0
+各门各派	ge men ge pai	0
 不甚在意	bu shen zai yi	0
 不甚好	bu shen hao	0
 不甚高	bu shen gao	0
@@ -34642,7 +34642,7 @@ sort: by_weight
 不甚理想	bu shen li xiang	0
 不甚活跃	bu shen huo yue	0
 不甚得士众心	bu shen de shi zhong xin	0
-不甚了解	bu shen liao jie	0
+不甚了解	bu shen liao jie	325
 不甚理解	bu shen li jie	0
 不甚合理	bu shen he li	0
 不甚通晓	bu shen tong xiao	0
@@ -34658,7 +34658,7 @@ sort: by_weight
 妆发造型	zhuang fa zao xing	0
 妆台镜	zhuang tai jing	0
 妆太浓	zhuang tai nong	0
-操作不慎	cao zuo bu shen	1
+操作不慎	cao zuo bu shen	0
 最一流	zui yi liu	0
 最一线	zui yi xian	0
 最一般	zui yi ban	0
@@ -41228,7 +41228,7 @@ sort: by_weight
 推蛋糕	tui dan gao	0
 推诿扯皮	tui wei che pi	0
 推诿责任	tui wei ze ren	0
-里三层外三层	li san ceng wai san ceng	0
+里三层外三层	li san ceng wai san ceng	100
 那碗面	na wan mian	0
 沙漠中心	sha mo zhong xin	0
 沙漠中的绿洲	sha mo zhong de lv zhou	0
@@ -41273,6 +41273,6 @@ sort: by_weight
 沙漠风光	sha mo feng guang	0
 沙漠骆驼	sha mo luo tuo	0
 沙漠黄	sha mo huang	0
-三十多个	san shi duo ge	0
-三十几个	san shi ji ge	0
-二十几个	er shi ji ge	0
+三十多个	san shi duo ge	175
+三十几个	san shi ji ge	51
+二十几个	er shi ji ge	174
