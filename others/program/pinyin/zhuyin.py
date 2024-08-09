@@ -5,15 +5,16 @@ from pypinyin import pinyin, lazy_pinyin, Style
 # pip install pypinyin
 
 jianpin_word_map = {}
+deal_path = 'cn_dicts_cell'
 
 # file_names = ['literature.dict.yaml','computer.dict.yaml']
 # 使用 os 模块中的 listdir 函数列出指定文件夹中的所有文件和子目录
-file_names = os.listdir("cn_dicts")
+file_names = os.listdir(deal_path)
 
 # 打印出所有找到的文件名
 for file_name in file_names:
     print(file_name)
-    read_file_name = os.path.join('cn_dicts', file_name)
+    read_file_name = os.path.join(deal_path, file_name)
 
     
     word_map = OrderedDict()
@@ -58,7 +59,7 @@ for file_name in file_names:
             print(new_line)
             word_map[new_line]=''
     
-    write_file_name = os.path.join('cn_dicts', file_name)
+    write_file_name = os.path.join(deal_path, file_name)
     write_file = open(write_file_name, 'w')
 
     for word in word_map:
