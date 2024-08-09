@@ -3,6 +3,24 @@ import string
 
 
 word_map = {}
+file_list = ['错字词.txt']
+for file in file_list:
+    file_name = os.path.join('others', file)
+    with open(file_name, 'r') as file:
+        # 逐行读取文件内容
+        for line in file:
+            # 去除行尾的换行符
+            line = line.rstrip()
+            if line.startswith('#') or '\t' not in line:
+                continue
+            params = line.split("\t")
+            word = params[0]
+            
+            if word in word_map:
+                cur_freq = word_map[word]
+                continue
+            word_map[word] = 10
+
 file_list = ['8105.dict.yaml','base.dict.yaml','ext.dict.yaml','others.dict.yaml','tencent.dict.yaml']
 for file in file_list:
     file_name = os.path.join('cn_dicts', file)
