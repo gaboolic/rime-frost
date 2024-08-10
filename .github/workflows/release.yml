@@ -41,7 +41,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
       with:
-        asset_path: rime-schemas.zip
-        asset_name: rime-schemas.zip
+        asset_path: rime-frost-schemas.zip
+        asset_name: rime-frost-schemas.zip
         asset_content_type: application/zip
         upload_url: ${{ github.event.release.upload_url }}
