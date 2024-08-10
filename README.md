@@ -85,8 +85,13 @@ kenlm教程、python调用 <https://github.com/mattzheng/py-kenlm-model>
 
 ### 友情链接
 
+使用白霜词库的方案
+
 墨奇音形 <https://github.com/gaboolic/rime-shuangpin-fuzhuma>
+
 墨奇五笔整句 <https://github.com/gaboolic/rime-wubi-sentence>
+
+薄荷拼音 <https://github.com/Mintimate/oh-my-rime>
 
 ## Star History
 
