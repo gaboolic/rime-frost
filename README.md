@@ -59,6 +59,10 @@
 
 写自动化脚本，把句子转成拼音，再用拼音调用rime_api生成句子，比对正确率，迭代
 
+加上墨奇码首末字形反查，例如amq引导符再打mu cun可以打出“村 櫉 梼 树”等字
+
+加上lua引导辅助码的功能
+
 2字词，动词+名词结构，中间加入“了” “完”，结尾加入“没”自动派生词汇。例如拔牙： 拔了牙 拔完牙 拔牙没 没拔牙 拔没拔牙。形容词中间加“不”，例如厉害：厉不厉害
 
 统计中文语料中的英文词频
@@ -81,8 +85,13 @@ kenlm教程、python调用 <https://github.com/mattzheng/py-kenlm-model>
 
 ### 友情链接
 
+使用白霜词库的方案
+
 墨奇音形 <https://github.com/gaboolic/rime-shuangpin-fuzhuma>
+
 墨奇五笔整句 <https://github.com/gaboolic/rime-wubi-sentence>
+
+薄荷拼音 <https://github.com/Mintimate/oh-my-rime>
 
 ## Star History
 

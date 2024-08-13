@@ -24,7 +24,7 @@ def zip_folders_and_files(zip_name, folders, files):
                 zipf.write(file, os.path.basename(file))  
   
 # todo
-remove_list = ['cn_dicts_dazhu','others','program','recipes','./','build','sync','.DS_Store']
+remove_list = ['cn_dicts_dazhu','others','program','recipes','./','build','sync','.DS_Store','frost_dict_for_fcitx5.txt']
 folders = []
 # 使用 os 模块中的 listdir 函数列出指定文件夹中的所有文件和子目录
 files = []
@@ -41,4 +41,4 @@ for file_name in file_names:
 print(folders)
 print(files)
 
-zip_folders_and_files('rime-schemas.zip', folders, files)
+zip_folders_and_files('rime-frost-schemas.zip', folders, files)
