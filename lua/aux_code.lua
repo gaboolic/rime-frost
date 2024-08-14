@@ -68,7 +68,7 @@ function AuxFilter.readAuxTxt(txtpath)
     -- log.info("** AuxCode filter", 'read Aux code txt:', txtpath)
 
     local defaultFile = 'moqi_aux_code.txt'
-    local userPath = rime_api.get_user_data_dir() .. "/lua/aux_code"
+    local userPath = rime_api.get_user_data_dir() .. "/lua/aux_code/"
     local fileAbsolutePath = userPath .. txtpath .. ".txt"
 
     local file = io.open(fileAbsolutePath, "r") or io.open(userPath .. defaultFile, "r")
