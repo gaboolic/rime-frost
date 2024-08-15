@@ -137,18 +137,7 @@ preset_color_schemes:
     hilited_candidate_back_color: 0x444444
     comment_text_color: 0x808080
 
-  solarized_rock:
-    name: 曬經石／Solarized Rock
-    author: "Aben <tntaben@gmail.com>, based on Ethan Schoonover's Solarized color scheme"
-    back_color: 0x362b00
-    border_color: 0x362b00
-    text_color: 0x8236d3
-    hilited_text_color: 0x98a12a
-    candidate_text_color: 0x969483
-    comment_text_color: 0xc098a12a
-    hilited_candidate_text_color: 0xffffff
-    hilited_candidate_back_color: 0x8236d3
-    hilited_comment_text_color: 0x362b00
+
 
   clean_white:
     name: 简约白／Clean White
@@ -259,22 +248,6 @@ preset_color_schemes:
     hilited_comment_text_color: 0x8144C2    #Lab 50 , 65,-5
     hilited_text_color: 0x2C8BAE            #Lab 60 , 10, 65
 
-  solarized_dark:
-    name: 曬經・月／Solarized Dark
-    author: 雪齋 <lyc20041@gmail.com>
-    back_color: 0xF0352A0A                  #Lab 15 ,-12,-12
-    border_color: 0x2A1F00                  #Lab 10 ,-12,-12
-    preedit_back_color: 0xD7E8ED            #Lab 92 , 0 , 10
-    candidate_text_color: 0x7389FF          #Lab 75 , 65, 45
-    label_color: 0x478DF4                   #Lab 70 , 45, 65
-    comment_text_color: 0xC38AFF            #Lab 75 , 65,-5
-    text_color: 0x756E5D                    #Lab 45 ,-7 ,-7
-    hilited_back_color: 0xC9DADF            #Lab 87 , 0 , 10
-    hilited_candidate_back_color: 0x403516  #Lab 20 ,-12,-12
-    hilited_candidate_text_color: 0x989F52  #Lab 60 ,-35,-5
-    hilited_candidate_label_color: 0xCC8947 #Lab 55 ,-10,-45
-    hilited_comment_text_color: 0x289989    #Lab 60 ,-20, 65
-    hilited_text_color: 0xBE706D            #Lab 50 , 15,-45
 
   mac_light:
     name: Mac浅色
