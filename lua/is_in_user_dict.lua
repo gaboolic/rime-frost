@@ -23,7 +23,7 @@ function M.func(input, env)
 
         -- 整句联想，加上𑄗符号
         if cand.type == 'sentence' then
-            cand.comment = '𑄗'
+            cand.comment = '∞'
         end
         yield(cand)
     end
