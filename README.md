@@ -93,6 +93,8 @@ kenlm教程、python调用 <https://github.com/mattzheng/py-kenlm-model>
 
 薄荷拼音 <https://github.com/Mintimate/oh-my-rime>
 
+雨燕输入法 <https://github.com/gurecn/YuyanIme> 一个开箱即用的安卓输入法 内置白霜词库
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=gaboolic/rime-frost&type=Date)](https://star-history.com/#gaboolic/rime-frost&Date)
