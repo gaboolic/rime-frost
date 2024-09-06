@@ -6,28 +6,42 @@
 
 主要维护词库、词频。在雾凇词库的基础上删除了不健康词汇，删除了大量冷僻词（频率==1 且分词器分不出的词），删除/调整了诸如“的吧”、“的了”这种不是词的词。手动大量修改了字频 词频。第一步是做了减法。
 
-然后使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，以达到更好的输入效果。全拼和双拼都可以使用。
+然后使用 745396750 字的高质量语料，进行分词，重新统计字频、词频，归一化，以达到更好的输入效果。全拼和双拼都可以使用。
 
 使用方法同雾凇拼音。
 
 ### 如何安装&配置文件路径
 
-下载本仓库的压缩包Code - Download ZIP（或者下载[releases](https://github.com/gaboolic/rime-frost/releases)最新的source-code.zip），解压到如下路径即可
+#### 手动下载安装
 
-- windows：%APPDATA%\Rime
-- mac
-  - [鼠须管](https://github.com/rime/squirrel)路径为~/Library/Rime
-  - [fcitx5-mac版](https://github.com/fcitx-contrib/fcitx5-macos)路径为~/.local/share/fcitx5/rime
-- linux
-  - [fcitx5-rime](https://github.com/fcitx/fcitx5-rime)路径为~/.local/share/fcitx5/rime
-  - fcitx5 flatpak版的路径~/.var/app/org.fcitx.Fcitx5/data/fcitx5/rime
-  - [ibus-rime](https://github.com/rime/ibus-rime)路径为~/.config/ibus/rime
-- android
-  - [fcitx5-安卓版](https://github.com/fcitx5-android/fcitx5-android)路径为 /Android/data/org.fcitx.fcitx5.android/files/data/rime
-  - [同文](https://github.com/osfans/trime)路径为 /rime
-- ios [仓输入法](https://github.com/imfuxiao/Hamster) 目前已内置，也可以通过【输入方案设置 - 右上角加号 - 方案下载 - 覆盖并部署】来更新墨奇音形。
+下载本仓库的压缩包 Code - Download ZIP（或者下载[releases](https://github.com/gaboolic/rime-frost/releases)最新的 source-code.zip），解压到如下路径即可
 
-如果会使用git基本操作，可以直接用git管理配置，首次：例如mac可以打开~/Library文件夹，然后`git clone --depth 1 https://github.com/gaboolic/rime-frost Rime`  后面在Rime文件夹执行`git pull`即可
+- Windows: `%APPDATA%\Rime`
+- Mac
+  - [鼠须管](https://github.com/rime/squirrel)路径为 `~/Library/Rime`
+  - [fcitx5-Mac 版](https://github.com/fcitx-contrib/fcitx5-macos)路径为 `~/.local/share/fcitx5/rime`
+- Linux
+  - [fcitx5-rime](https://github.com/fcitx/fcitx5-rime)路径为 `~/.local/share/fcitx5/rime`
+  - fcitx5 flatpak 版的路径 `~/.var/app/org.fcitx.Fcitx5/data/fcitx5/rime`
+  - [ibus-rime](https://github.com/rime/ibus-rime)路径为 `~/.config/ibus/rime`
+- Android
+  - [fcitx5-安卓版](https://github.com/fcitx5-android/fcitx5-android)路径为 `/Android/data/org.fcitx.fcitx5.android/files/data/rime`
+  - [同文](https://github.com/osfans/trime)路径为 `/rime`
+- iOS [仓输入法](https://github.com/imfuxiao/Hamster) 目前已内置，也可以通过【输入方案设置 - 右上角加号 - 方案下载 - 覆盖并部署】来更新墨奇音形。
+
+#### 通过 Git 安装
+
+**首次安装：**
+
+- Mac: `git clone --depth 1 https://github.com/gaboolic/rime-frost ~/Library/Rime`
+- Windows: `git clone --depth 1 https://github.com/gaboolic/rime-frost "$env:APPDATA\Rime"`
+
+**后续更新：**
+
+在 Rime 文件夹执行 `git pull` 即可。
+
+- Mac: `cd ~/Library/Rime && git pull`
+- Windows: `cd "$env:APPDATA\Rime" && git pull`
 
 无智能模型时的输入效果
 ![alt text](others/img/gegegojx.png)
@@ -54,16 +68,16 @@
 
 ![alt text](others/img/衍射.png)
 
-后续todo：
+后续 todo：
 整理分词后词频比较高但词库没有的词加进去 - done
 
-写自动化脚本，把句子转成拼音，再用拼音调用rime_api生成句子，比对正确率，迭代
+写自动化脚本，把句子转成拼音，再用拼音调用 rime_api 生成句子，比对正确率，迭代
 
-加上墨奇码首末字形反查，例如amq引导符再打mu cun可以打出“村 櫉 梼 树”等字
+加上墨奇码首末字形反查，例如 amq 引导符再打 mu cun 可以打出“村 櫉 梼 树”等字
 
-加上lua引导辅助码的功能
+加上 lua 引导辅助码的功能
 
-2字词，动词+名词结构，中间加入“了” “完”，结尾加入“没”自动派生词汇。例如拔牙： 拔了牙 拔完牙 拔牙没 没拔牙 拔没拔牙。形容词中间加“不”，例如厉害：厉不厉害
+2 字词，动词+名词结构，中间加入“了” “完”，结尾加入“没”自动派生词汇。例如拔牙： 拔了牙 拔完牙 拔牙没 没拔牙 拔没拔牙。形容词中间加“不”，例如厉害：厉不厉害
 
 统计中文语料中的英文词频
 
@@ -77,11 +91,11 @@
 
 汉字转拼音(pypinyin) <https://github.com/mozillazg/python-pinyin>
 
-MNBVC超大规模中文语料集 <https://github.com/esbatmop/MNBVC> 目前已有33TB数据量
+MNBVC 超大规模中文语料集 <https://github.com/esbatmop/MNBVC> 目前已有 33TB 数据量
 
 kenlm <https://github.com/kpu/kenlm> 官网<https://kheafield.com/code/kenlm/>
 
-kenlm教程、python调用 <https://github.com/mattzheng/py-kenlm-model>
+kenlm 教程、python 调用 <https://github.com/mattzheng/py-kenlm-model>
 
 ### 友情链接
 
