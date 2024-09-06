@@ -8,7 +8,19 @@
 
 然后使用 745396750 字的高质量语料，进行分词，重新统计字频、词频，归一化，以达到更好的输入效果。全拼和双拼都可以使用。
 
-使用方法同雾凇拼音。
+### 使用方法
+
+使用方法基本同雾凇拼音，微调了一些触发指令，加入了lua辅助码的支持。辅助码是可选项，按下`开启，不影响正常打字。
+
+- 符号 /fh 更多符号详见`https://github.com/gaboolic/rime-frost/blob/master/symbols_v.yaml`
+- 带调韵母 /a /e /u 等
+- 日期与时间 rq sj xq dt ts
+- 开启辅助码 ` [墨奇辅助码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming)
+- 部件拆字反查 uU
+- unicode字符 U
+- 数字金额大写 R
+- 农历 N
+- 计算器 V
 
 ### 如何安装&配置文件路径
 
@@ -33,8 +45,9 @@
 
 **首次安装：**
 
-- Mac: `git clone --depth 1 https://github.com/gaboolic/rime-frost ~/Library/Rime`
-- Windows: `git clone --depth 1 https://github.com/gaboolic/rime-frost "$env:APPDATA\Rime"`
+根据用户使用的系统、安装的软件不同，先cd到对应的配置文件的父级目录(例如Windows为`%APPDATA%`、mac鼠须管为`~/Library/`)，然后执行以下命令：
+
+`git clone --depth 1 https://github.com/gaboolic/rime-frost Rime`
 
 **后续更新：**
 
@@ -42,8 +55,17 @@
 
 - Mac: `cd ~/Library/Rime && git pull`
 - Windows: `cd "$env:APPDATA\Rime" && git pull`
+- 其他系统以此类推
 
-无智能模型时的输入效果
+#### 通过 东风破 安装
+
+选择配方（others/recipes/*.recipe.yaml）来进行安装或更新：
+
+- ℞ 安装或更新全部文件 执行bash rime-install gaboolic/rime-frost:others/recipes/full
+- ℞ 安装或更新所有的词库文件 执行bash rime-install gaboolic/rime-shuangpin-fuzhuma:recipes/all_dicts
+
+### 无智能模型时的输入效果
+
 ![alt text](others/img/gegegojx.png)
 
 ![alt text](others/img/mggjdgg.png)
@@ -68,7 +90,8 @@
 
 ![alt text](others/img/衍射.png)
 
-后续 todo：
+### 后续 todo
+
 整理分词后词频比较高但词库没有的词加进去 - done
 
 写自动化脚本，把句子转成拼音，再用拼音调用 rime_api 生成句子，比对正确率，迭代
@@ -78,6 +101,8 @@
 加上 lua 引导辅助码的功能
 
 2 字词，动词+名词结构，中间加入“了” “完”，结尾加入“没”自动派生词汇。例如拔牙： 拔了牙 拔完牙 拔牙没 没拔牙 拔没拔牙。形容词中间加“不”，例如厉害：厉不厉害
+
+类似第四 四列 = 第四列这种词加上去
 
 统计中文语料中的英文词频
 
@@ -109,6 +134,6 @@ kenlm 教程、python 调用 <https://github.com/mattzheng/py-kenlm-model>
 
 雨燕输入法 <https://github.com/gurecn/YuyanIme> 一个开箱即用的安卓输入法 内置白霜词库
 
-## Star History
+### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=gaboolic/rime-frost&type=Date)](https://star-history.com/#gaboolic/rime-frost&Date)
