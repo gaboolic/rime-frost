@@ -21,16 +21,15 @@ for file in file_list:
             pinyin = params[1]
 
             freq = params[2]
-            if '41448' in file_name:
-                freq = '0'
+            # if '41448' in file_name:
+            #     freq = '0'
 
             if word in word_map:
                 #print(line)
                 word_map[word].append(pinyin+"-"+freq)
             else:
-                if '8105' in file_name:
-                    word_map[word] = []
-                    word_map[word].append(pinyin+"-"+freq)
+                word_map[word] = []
+                word_map[word].append(pinyin+"-"+freq)
 print(len(word_map))
 # 遍历word_map 找到超过2个读音的词
 # Iterate over word_map
@@ -65,7 +64,8 @@ for word, pronunciations in word_map.items():
         pinyin_ratio += params[0]
         pinyin_ratio += str(ratio)
         pinyin_ratio += ";"
-
+    if total_freq == 1:
+        continue
 
     write_file.write(f"{word}	{pinyin_ratio}\n")
 
