@@ -1094,7 +1094,7 @@ use_preset_vocabulary: false
 光电地震计	guang dian di zhen ji	0
 光化学氧化剂	guang hua xue yang hua ji	0
 光弹性实验	guang tan xing shi yan	0
-光学图象处理	guang xue tu xiang chu li	0
+光学图像处理	guang xue tu xiang chu li	0
 硅孔雀石	gui kong que shi	1
 硅铝层	gui lv ceng	0
 硅铝矿物	gui lv kuang wu	2
@@ -1965,8 +1965,8 @@ use_preset_vocabulary: false
 舒善河组	shu shan he zu	0
 竖向地震荷载	shu xiang di zhen he zai	0
 数字地震图	shu zi di zhen tu	0
-数字图象处理	shu zi tu xiang chu li	4
-数字图象镶嵌	shu zi tu xiang xiang qian	0
+数字图像处理	shu zi tu xiang chu li	4
+数字图像镶嵌	shu zi tu xiang xiang qian	0
 数字相关法	shu zi xiang guan fa	0
 衰落区	shuai luo qu	0
 双摆地震仪	shuang bai di zhen yi	0
@@ -2074,13 +2074,13 @@ use_preset_vocabulary: false
 土壤组合	tu rang zu he	0
 土蠕	tu ru	0
 土体蠕动	tu ti ru dong	0
-图象重叠	tu xiang chong die	0
-图象复合	tu xiang fu he	0
-图象几何测定	tu xiang ji he ce ding	0
-图象模拟	tu xiang mo ni	0
-图象数据磁带	tu xiang shu ju ci dai	0
-图象数字化	tu xiang shu zi hua	0
-图象投影变换	tu xiang tou ying bian huan	0
+图像重叠	tu xiang chong die	0
+图像复合	tu xiang fu he	0
+图像几何测定	tu xiang ji he ce ding	0
+图像模拟	tu xiang mo ni	0
+图像数据磁带	tu xiang shu ju ci dai	0
+图像数字化	tu xiang shu zi hua	0
+图像投影变换	tu xiang tou ying bian huan	0
 推覆体	tui fu ti	1
 退水曲线	tui shui qu xian	0
 托尔期	tuo er qi	0

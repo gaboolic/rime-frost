@@ -12218,7 +12218,7 @@ use_preset_vocabulary: false
 闭凸包	bi tu bao	0
 闭图定理	bi tu ding li	0
 闭凸函数	bi tu han shu	0
-闭图象定理	bi tu xiang ding li	0
+闭图像定理	bi tu xiang ding li	0
 闭微分	bi wei fen	0
 闭系统	bi xi tong	0
 闭线性廖	bi xian xing liao	0
@@ -21284,9 +21284,9 @@ use_preset_vocabulary: false
 凸体	tu ti	6
 图同胚	tu tong pei	0
 图同态	tu tong tai	0
-图象编码	tu xiang bian ma	0
-图象模型	tu xiang mo xing	2
-图象压缩	tu xiang ya suo	0
+图像编码	tu xiang bian ma	0
+图像模型	tu xiang mo xing	2
+图像压缩	tu xiang ya suo	0
 凸性	tu xing	68
 凸性模	tu xing mo	0
 凸性系数	tu xing xi shu	0
@@ -24912,13 +24912,13 @@ use_preset_vocabulary: false
 左最小公倍数	zuo zui xiao gong bei shu	0
 不等式的解集	bu deng shi de jie ji	4
 等可能事件的概率	deng ke neng shi jian de gai lv	0
-函数的图象	han shu de tu xiang	5
+函数的图像	han shu de tu xiang	5
 建立空间直角坐标系	jian li kong jian zhi jiao zuo biao xi	3
 棱柱的侧面展开图	leng zhu de ce mian zhan kai tu	0
 平面的法向量	ping mian de fa xiang liang	6
 实数的取值范围	shi shu de qu zhi fan wei	0
 同角三角函数的基本关系式	tong jiao san jiao han shu de ji ben guan xi shi	1
-图象关于原点对称	tu xiang guan yu yuan dian dui chen	0
+图像关于原点对称	tu xiang guan yu yuan dian dui chen	0
 直线与平面所成的角	zhi xian yu ping mian suo cheng de jiao	1
 阿苯哒唑	a ben da zuo	0
 阿比松脂	a bi song zhi	0
