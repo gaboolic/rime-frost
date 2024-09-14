@@ -62,7 +62,6 @@
 选择配方（others/recipes/*.recipe.yaml）来进行安装或更新：
 
 - ℞ 安装或更新全部文件 执行bash rime-install gaboolic/rime-frost:others/recipes/full
-- ℞ 安装或更新所有的词库文件 执行bash rime-install gaboolic/rime-shuangpin-fuzhuma:recipes/all_dicts
 
 ### 无智能模型时的输入效果
 
