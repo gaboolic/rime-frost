@@ -12,6 +12,7 @@ install_files: >-
   opencc/*.*
   rime.lua
   lua/*.*
+  lua/aux_code/*.*
   lua/cold_word_drop/*.*
   default.yaml
   squirrel.yaml
