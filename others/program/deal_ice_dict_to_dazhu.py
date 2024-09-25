@@ -3,11 +3,9 @@ import re
 import string
 import json
 
-read_file = open(os.path.join('cn_dicts_dazhu', "zhihu_deal_sort_merge.txt"), 'r')
-write_file = open(os.path.join('cn_dicts_dazhu', "知频.txt"), 'w')
+read_file = open(os.path.join('others', "知频.txt"), 'r',encoding="utf-8")
+write_file = open(os.path.join('cn_dicts_dazhu', "知频.txt"), 'w',encoding="utf-8")
 
-read_file = open(os.path.join('cn_dicts_dazhu', "wiki_deal_sort_merge.txt"), 'r')
-write_file = open(os.path.join('cn_dicts_dazhu', "维基频-dazhu.txt"), 'w')
 # 逐行读取文件内容
 for line in read_file:
     line = line.strip()
