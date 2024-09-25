@@ -1,26 +1,25 @@
 # 白霜拼音
-
-原始配置和词库由[雾凇拼音](https://github.com/iDvel/rime-ice)的 [af2480b](https://github.com/iDvel/rime-ice/commit/af2480ba1b147a6a54c0c21e2997ef451c34e036) commit 修改而来。
+原始配置和词库由 [雾凇拼音](https://github.com/iDvel/rime-ice) 的 [af2480b](https://github.com/iDvel/rime-ice/commit/af2480ba1b147a6a54c0c21e2997ef451c34e036) commit 修改而来。
 
 雾凇词库里的词比较全但也不是非常全，主要的问题是字频和词频不太对，废词有点多，于是重新制作。
 
-主要维护词库、词频。在雾凇词库的基础上删除了不健康词汇，删除了大量冷僻词（频率==1 且分词器分不出的词），删除/调整了诸如“的吧”、“的了”这种不是词的词。手动大量修改了字频 词频。第一步是做了减法。
+主要维护词库、词频。在雾凇词库的基础上删除了不健康词汇，删除了大量冷僻词（频率==1 且分词器分不出的词），删除/调整了诸如“的吧”、“的了”这种不是词的词。手动大量修改了字频、词频。第一步是做了减法。
 
 然后使用 745396750 字的高质量语料，进行分词，重新统计字频、词频，归一化，以达到更好的输入效果。全拼和双拼都可以使用。
 
 ### 使用方法
 
-使用方法基本同雾凇拼音，微调了一些触发指令，加入了lua辅助码的支持。辅助码是可选项，按下`开启，不影响正常打字。
+使用方法基本同雾凇拼音，微调了一些触发指令，加入了lua辅助码的支持。辅助码是可选项，按下`开启`，不影响正常打字。
 
-- 符号 /fh 更多符号详见`https://github.com/gaboolic/rime-frost/blob/master/symbols_v.yaml`
-- 带调韵母 /a /e /u 等
-- 日期与时间 rq sj xq dt ts
-- 开启辅助码 ` [墨奇辅助码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming)
-- 部件拆字反查 uU
-- unicode字符 U
-- 数字金额大写 R
-- 农历 N
-- 计算器 V
+- 符号 `/fh` 更多符号详见 [symbols_v.yaml](https://github.com/gaboolic/rime-frost/blob/master/symbols_v.yaml)
+- 带调韵母 `/a` `/e` `/u` 等
+- 日期与时间 `rq` `sj` `xq` `dt` `ts`
+- 开启辅助码 [墨奇辅助码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming)
+- 部件拆字反查 `uU`
+- unicode字符 `U`
+- 数字金额大写 `R`
+- 农历 `N`
+- 计算器 `V`
 
 ### 如何安装&配置文件路径
 
@@ -28,66 +27,89 @@
 
 下载本仓库的压缩包 Code - Download ZIP（或者下载[releases](https://github.com/gaboolic/rime-frost/releases)最新的 source-code.zip），解压到如下路径即可
 
-- Windows: `%APPDATA%\Rime`
-- Mac
-  - [鼠须管](https://github.com/rime/squirrel)路径为 `~/Library/Rime`
-  - [fcitx5-Mac 版](https://github.com/fcitx-contrib/fcitx5-macos)路径为 `~/.local/share/fcitx5/rime`
-- Linux
-  - [fcitx5-rime](https://github.com/fcitx/fcitx5-rime)路径为 `~/.local/share/fcitx5/rime`
+- **Windows**: `%APPDATA%\Rime`
+- **Mac**
+  - [鼠须管](https://github.com/rime/squirrel) 路径为 `~/Library/Rime`
+  - [fcitx5-Mac 版](https://github.com/fcitx-contrib/fcitx5-macos) 路径为 `~/.local/share/fcitx5/rime`
+- **Linux**
+  - [fcitx5-rime](https://github.com/fcitx/fcitx5-rime) 路径为 `~/.local/share/fcitx5/rime`
   - fcitx5 flatpak 版的路径 `~/.var/app/org.fcitx.Fcitx5/data/fcitx5/rime`
-  - [ibus-rime](https://github.com/rime/ibus-rime)路径为 `~/.config/ibus/rime`
-- Android
-  - [fcitx5-安卓版](https://github.com/fcitx5-android/fcitx5-android)路径为 `/Android/data/org.fcitx.fcitx5.android/files/data/rime`
-  - [同文](https://github.com/osfans/trime)路径为 `/rime`
-- iOS [仓输入法](https://github.com/imfuxiao/Hamster) 目前已内置，也可以通过【输入方案设置 - 右上角加号 - 方案下载 - 覆盖并部署】来更新墨奇音形。
+  - [ibus-rime](https://github.com/rime/ibus-rime) 路径为 `~/.config/ibus/rime`
+- **Android**
+  - [fcitx5-安卓版](https://github.com/fcitx5-android/fcitx5-android) 路径为 `/Android/data/org.fcitx.fcitx5.android/files/data/rime`
+  - [同文](https://github.com/osfans/trime) 路径为 `/rime`
+- **iOS** [仓输入法](https://github.com/imfuxiao/Hamster) 目前已内置，也可以通过【输入方案设置 - 右上角加号 - 方案下载 - 覆盖并部署】来更新墨奇音形。
 
 #### 通过 Git 安装
 
 **首次安装：**
 
-根据用户使用的系统、安装的软件不同，先cd到对应的配置文件的父级目录(例如Windows为`%APPDATA%`、mac鼠须管为`~/Library/`)，然后执行以下命令：
+根据用户使用的系统、安装的软件不同，先 `cd` 到对应的配置文件的父级目录，然后执行以下命令：
 
-`git clone --depth 1 https://github.com/gaboolic/rime-frost Rime`
+```sh
+# Windows
+cd %APPDATA%
+git clone --depth 1 https://github.com/gaboolic/rime-frost Rime
+```
+
+```sh
+# Mac OS
+cd ~/Library/
+git clone --depth 1 https://github.com/gaboolic/rime-frost Rime
+```
+
+**⚠️注意：安装完之后最好重启，才能使输入法正常工作。**
+
 
 **后续更新：**
 
 在 Rime 文件夹执行 `git pull` 即可。
 
-- Mac: `cd ~/Library/Rime && git pull`
-- Windows: `cd "$env:APPDATA\Rime" && git pull`
-- 其他系统以此类推
+```sh
+# Windows
+cd "$env:APPDATA\Rime" && git pull
+```
+
+```sh
+# Mac OS
+cd ~/Library/Rime && git pull
+```
+
+其他系统以此类推
 
 #### 通过 东风破 安装
 
 选择配方（others/recipes/*.recipe.yaml）来进行安装或更新：
 
-- ℞ 安装或更新全部文件 执行bash rime-install gaboolic/rime-frost:others/recipes/full
+- ℞ 安装或更新全部文件 执行 `bash rime-install gaboolic/rime-frost:others/recipes/full`
 
 ### 无智能模型时的输入效果
 
-![alt text](others/img/gegegojx.png)
+![无智能模型时的输入效果](others/img/gegegojx.png)
 
-![alt text](others/img/mggjdgg.png)
+### 有智能模型时的输入效果
 
-![alt text](others/img/ddmdd.png)
+![有智能模型时的输入效果1](others/img/mggjdgg.png)
 
-![alt text](others/img/tushuguancangshu.png)
+![有智能模型时的输入效果2](others/img/ddmdd.png)
 
-![alt text](others/img/znjldkd.png)
+![有智能模型时的输入效果3](others/img/tushuguancangshu.png)
 
-![alt text](others/img/kudsvqw.png)
+![有智能模型时的输入效果4](others/img/znjldkd.png)
 
-![alt text](others/img/cqlbtdmdfu.png)
+![有智能模型时的输入效果5](others/img/kudsvqw.png)
 
-![alt text](others/img/djbwv.png)
+![有智能模型时的输入效果6](others/img/cqlbtdmdfu.png)
 
-![alt text](others/img/刚交的朋友.png)
+![有智能模型时的输入效果7](others/img/djbwv.png)
 
-![alt text](others/img/刚交的好朋友.png)
+![刚交的朋友](others/img/刚交的朋友.png)
 
-![alt text](others/img/刚交的好朋友2.png)
+![刚交的好朋友](others/img/刚交的好朋友.png)
 
-![alt text](others/img/衍射.png)
+![刚交的好朋友2](others/img/刚交的好朋友2.png)
+
+![衍射](others/img/衍射.png)
 
 ### To-Do
 
@@ -106,29 +128,21 @@
 
 ### 鸣谢
 
-雾凇词库 <https://github.com/iDvel/rime-ice> 白霜词库的初始词库、绝大部分配置来自雾凇词库
-
-结巴中文分词 <https://github.com/fxsjy/jieba>
-
-汉字转拼音(pypinyin) <https://github.com/mozillazg/python-pinyin>
-
-MNBVC 超大规模中文语料集 <https://github.com/esbatmop/MNBVC> 目前已有 33TB 数据量
-
-kenlm <https://github.com/kpu/kenlm> 官网<https://kheafield.com/code/kenlm/>
-
-kenlm 教程、python 调用 <https://github.com/mattzheng/py-kenlm-model>
+- [雾凇词库](https://github.com/iDvel/rime-ice): 白霜词库的初始词库、绝大部分配置来自雾凇词库
+- [结巴中文分词](https://github.com/fxsjy/jieba)
+- [汉字转拼音(pypinyin)](https://github.com/mozillazg/python-pinyin)
+- [MNBVC 超大规模中文语料集](https://github.com/esbatmop/MNBVC): 目前已有 33TB 数据量
+- [kenlm](https://github.com/kpu/kenlm): [官网](https://kheafield.com/code/kenlm/)
+- [kenlm 教程、python 调用](https://github.com/mattzheng/py-kenlm-model)
 
 ### 友情链接
 
 使用白霜词库的方案
 
-墨奇音形 <https://github.com/gaboolic/rime-shuangpin-fuzhuma>
-
-墨奇五笔整句 <https://github.com/gaboolic/rime-wubi-sentence>
-
-薄荷拼音 <https://github.com/Mintimate/oh-my-rime>
-
-雨燕输入法 <https://github.com/gurecn/YuyanIme> 一个开箱即用的安卓输入法 内置白霜词库
+- [墨奇音形](https://github.com/gaboolic/rime-shuangpin-fuzhuma)
+- [墨奇五笔整句](https://github.com/gaboolic/rime-wubi-sentence)
+- [薄荷拼音](https://github.com/Mintimate/oh-my-rime)
+- [雨燕输入法](https://github.com/gurecn/YuyanIme): 一个开箱即用的安卓输入法，内置白霜词库
 
 ### Star History
 
