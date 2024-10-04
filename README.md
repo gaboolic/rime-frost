@@ -34,6 +34,7 @@
 - **Linux**
   - [fcitx5-rime](https://github.com/fcitx/fcitx5-rime) 路径为 `~/.local/share/fcitx5/rime`
   - fcitx5 flatpak 版的路径 `~/.var/app/org.fcitx.Fcitx5/data/fcitx5/rime`
+
   - [ibus-rime](https://github.com/rime/ibus-rime) 路径为 `~/.config/ibus/rime`
 - **Android**
   - [fcitx5-安卓版](https://github.com/fcitx5-android/fcitx5-android) 路径为 `/Android/data/org.fcitx.fcitx5.android/files/data/rime`
@@ -114,6 +115,7 @@ cd ~/Library/Rime && git pull
 ### To-Do
 
 - [x] 整理分词后词频比较高但词库没有的词加进去
+- [ ] 错字错音提醒lua
 - [ ] 写自动化脚本，把句子转成拼音，再用拼音调用 rime_api 生成句子，比对正确率，迭代
 - [ ] 加上墨奇码首末字形反查，例如 amq 引导符再打 mu cun 可以打出“村 櫉 梼 树”等字
 - [x] 加上 lua 引导辅助码的功能
