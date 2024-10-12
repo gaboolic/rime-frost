@@ -122,7 +122,7 @@ kenlm 教程、python 调用 <https://github.com/mattzheng/py-kenlm-model>
 
 吉祥物(于2024-10-12捡来)：
 
-![白猫](others/img/white-cat.jpg)
+<img src="others/img/white-cat.jpg" width=30%>
 
 ### 友情链接
 
