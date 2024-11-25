@@ -20,12 +20,12 @@ install_files: >-
   rime_frost.schema.yaml
   rime_frost.dict.yaml
   t9.schema.yaml
-  double_pinyin.schema.yaml
-  double_pinyin_abc.schema.yaml
-  double_pinyin_mspy.schema.yaml
-  double_pinyin_sogou.schema.yaml
-  double_pinyin_flypy.schema.yaml
-  double_pinyin_ziguang.schema.yaml
+  rime_frost_double_pinyin.schema.yaml
+  rime_frost_double_pinyin_abc.schema.yaml
+  rime_frost_double_pinyin_mspy.schema.yaml
+  rime_frost_double_pinyin_sogou.schema.yaml
+  rime_frost_double_pinyin_flypy.schema.yaml
+  rime_frost_double_pinyin_ziguang.schema.yaml
   symbols_v.yaml
   radical_pinyin.schema.yaml
   radical_pinyin.dict.yaml

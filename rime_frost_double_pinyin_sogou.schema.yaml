@@ -15,13 +15,13 @@
 
 # 方案说明
 schema:
-  schema_id: double_pinyin_ziguang
-  name: 紫光双拼
+  schema_id: rime_frost_double_pinyin_sogou
+  name: 搜狗双拼
   version: "1"
   author:
     - Dvel
   description: |
-    雾凇拼音 - 紫光双拼
+    雾凇拼音 - 搜狗双拼
     https://github.com/iDvel/rime-ice
   dependencies:
     - melt_eng        # 英文输入，作为次翻译器挂载到拼音方案
@@ -74,8 +74,8 @@ engine:
     - lua_translator@*date_translator    # 时间、日期、星期
     - lua_translator@*lunar              # 农历
     - table_translator@custom_phrase    # 自定义短语 custom_phrase_double.txt
-    - table_translator@melt_eng         # 英文输入
     - table_translator@cn_en            # 中英混合词汇
+    - table_translator@melt_eng         # 英文输入
     - table_translator@radical_lookup   # 部件拆字反查
     - lua_translator@*unicode            # Unicode
     - lua_translator@*number_translator  # 数字、金额大写
@@ -159,7 +159,7 @@ pin_cand_filter:
 # 主翻译器，拼音
 translator:
   dictionary: rime_frost          # 挂载词库 rime_frost.dict.yaml
-  prism: double_pinyin_ziguang  # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
+  prism: rime_frost_double_pinyin_sogou    # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   spelling_hints: 8             # corrector.lua ：为了让错音错字提示的 Lua 同时适配全拼双拼，将拼音显示在 comment 中
   always_show_comments: true    # corrector.lua ：Rime 默认在 preedit 等于 comment 时取消显示 comment，这里强制一直显示，供 corrector.lua 做判断用。
   initial_quality: 1.2          # 拼音的权重应该比英文大
@@ -167,40 +167,42 @@ translator:
     - xform/^/［/
     - xform/$/］/
   preedit_format:               # preedit_format 影响到输入框的显示和“Shift+回车”上屏的字符
-    - xform/o(\w)/0$1/              # 零聲母先改爲0，以方便後面的轉換
-    - xform/([jqxy])n/$1ue/         # 提前轉換雙拼碼 n 和 g，因爲轉換後的拼音裏就快要出現這兩個字母了，那時將難以分辨出雙拼碼
-    - xform/([nl])n/$1ve/
-    - xform/([dtgkhzcsuai])n/$1ui/
-    - xform/([nljqxb])g/$1iang/
-    - xform/([gkhuai])g/$1uang/
-    - xform/(\w)w/$1en/
-    - xform/(\w)r/$1an/
-    - xform/(\w)t/$1eng/
-    - xform/([jqxylmnbp])y/$1in/
-    - xform/([zcsuaigkh])y/$1uai/
-    - xform/([dtnlgkhrzcsuai])o/$1uo/
-    - xform/(\w)q/$1ao/
-    - xform/(\w)p/$1ai/
-    - xform/(\w)s/$1ang/
-    - xform/(\w)d/$1ie/
-    - xform/(\w)f/$1ian/
-    - xform/([jqx])h/$1iong/
-    - xform/([dtnlgkhrzcsuai])h/$1ong/
-    - xform/0j/0er/
-    - xform/([dnlmjqx])j/$1iu/
-    - xform/(\w)k/$1ei/
-    - xform/(\w)l/$1uan/
-    - xform/(\w)z/$1ou/
-    - xform/([jqxl])x/$1ia/
-    - xform/([gkhuai])x/$1ua/
+    - xform/([aoe])(\w)/0$2/
+    - xform/([bpmnljqxy])n/$1in/
+    - xform/(\w)g/$1eng/
+    - xform/(\w)q/$1iu/
+    - xform/([gkhvuirzcs])w/$1ua/
+    - xform/(\w)w/$1ia/
+    - xform/([dtnlgkhjqxyvuirzcs])r/$1uan/
+    - xform/0r/er/
+    - xform/([dtgkhvuirzcs])v/$1ui/
+    - xform/(\w)v/$1ve/
+    - xform/(\w)t/$1ve/
+    - xform/([gkhvuirzcs])y/$1uai/
+    - xform/(\w)y/$1v/
+    - xform/([dtnlgkhvuirzcs])o/$1uo/
+    - xform/(\w)p/$1un/
+    - xform/([jqx])s/$1iong/
+    - xform/(\w)s/$1ong/
+    - xform/([jqxnlb])d/$1iang/
+    - xform/(\w)d/$1uang/
+    - xform/(\w)f/$1en/
+    - xform/(\w)h/$1ang/
+    - xform/(\w)j/$1an/
+    - xform/(\w)k/$1ao/
+    - xform/(\w)l/$1ai/
+    - xform/(\w)z/$1ei/
+    - xform/(\w)x/$1ie/
+    - xform/(\w)c/$1iao/
+    - xform/(\w)b/$1ou/
+    - xform/(\w)m/$1ian/
     - xform/(\w);/$1ing/
-    - xform/(\w)b/$1iao/
-    - xform/(\w)m/$1un/
-    - "xform/(^|[ '])u/$1zh/"  # 復原聲母，音節開始處的雙拼字母a改寫爲zh；其他位置的才真正是a
-    - "xform/(^|[ '])a/$1ch/"
-    - "xform/(^|[ '])i/$1sh/"
-    - xform/0(\w)/$1/          # 好了，現在可以把零聲母拿掉啦
-    - xform/([nljqxy])v/$1ü/   # 這樣纔是漢語拼音 :-)
+    - xform/0(\w)/$1/
+    - "xform/(^|[ '])v/$1zh/"
+    - "xform/(^|[ '])i/$1ch/"
+    - "xform/(^|[ '])u/$1sh/"
+    - xform/([jqxy])v/$1u/
+    - xform/([nl])v/$1ü/
     - xform/ü/v/  # ü 显示为 v
 
 
@@ -217,7 +219,7 @@ melt_eng:
 # 中英混合词汇
 cn_en:
   dictionary: ""
-  user_dict: en_dicts/cn_en_ziguang
+  user_dict: en_dicts/cn_en_sogou
   db_class: stabledb
   enable_completion: true
   enable_sentence: false
@@ -255,7 +257,7 @@ traditionalize:
 # punctuator 下面有三个子项：
 #   full_shape 全角标点映射
 #   half_shape 半角标点映射
-#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符
+#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符。
 punctuator:
   full_shape:
     __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
@@ -314,30 +316,33 @@ speller:
   algebra:
     - erase/^xx$/
     - derive/^([jqxy])u$/$1v/
-    - xform/^([aoe].*)$/Ⓞ$1/  # 添上固定的零聲母o，先標記爲大寫O
-    - xform/en$/Ⓦ/
-    - xform/eng$/Ⓣ/
-    - xform/in$|uai$/Ⓨ/
-    - xform/^zh/Ⓤ/
-    - xform/^sh/Ⓘ/
+    - derive/^([aoe].*)$/o$1/
+    - xform/^([ae])(.*)$/$1$1$2/
+    - xform/iu$/Ⓠ/
+    - xform/[iu]a$/Ⓦ/
+    - xform/er$|[uv]an$/Ⓡ/
+    - xform/[uv]e$/Ⓣ/
+    - xform/v$|uai$/Ⓨ/
+    - xform/^sh/Ⓤ/
+    - xform/^ch/Ⓘ/
+    - xform/^zh/Ⓥ/
     - xform/uo$/Ⓞ/
-    - xform/ai$/Ⓟ/
-    - xform/^ch/Ⓐ/
-    - xform/[iu]ang$/Ⓖ/
-    - xform/ang$/Ⓢ/  # ang should be placed after iang/uang
-    - xform/ie$/Ⓓ/
-    - xform/ian$/Ⓕ/
-    - xform/(.)i?ong$/$1Ⓗ/
-    - xform/er$|iu$/Ⓙ/
-    - xform/ei$/Ⓚ/
-    - xform/uan$/Ⓛ/
+    - xform/[uv]n$/Ⓟ/
+    - xform/(.)i?ong$/$1Ⓢ/
+    - xform/[iu]ang$/Ⓓ/
+    - xform/(.)en$/$1Ⓕ/
+    - xform/(.)eng$/$1Ⓖ/
+    - xform/(.)ang$/$1Ⓗ/
+    - xform/ian$/Ⓜ/
+    - xform/(.)an$/$1Ⓙ/
+    - xform/iao$/Ⓒ/
+    - xform/(.)ao$/$1Ⓚ/
+    - xform/(.)ai$/$1Ⓛ/
+    - xform/(.)ei$/$1Ⓩ/
+    - xform/ie$/Ⓧ/
+    - xform/ui$/Ⓥ/
+    - xform/(.)ou$/$1Ⓑ/
+    - xform/in$/Ⓝ/
     - xform/ing$/;/
-    - xform/ou$/Ⓩ/
-    - xform/[iu]a$/Ⓧ/
-    - xform/iao$/Ⓑ/
-    - xform/ue$|ui$|ve$/Ⓝ/
-    - xform/un$/Ⓜ/
-    - xform/ao$/Ⓠ/ # ao should be placed after iao
-    - xform/an$/Ⓡ/ # an should be placed after uan/ian
-    - xlit/ⓌⓉⓎⓊⒾⓄⓅⒶⒼⓈⒹⒻⒽⒿⓀⓁⓏⓍⒷⓃⓂⓆⓇ/wtyuiopagsdfhjklzxbnmqr/
+    - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⓂⒿⒸⓀⓁⓏⓍⓋⒷⓃ/qwrtyuiopsdfghmjcklzxvbn/
     # - abbrev/^(.).+$/$1/  # 首字母简拼，开启后会导致 3 个字母时 kj'x 变成 k'jx 的问题
