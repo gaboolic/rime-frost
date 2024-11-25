@@ -541,6 +541,7 @@ use_preset_vocabulary: true
 俄罗斯蓝猫	e luo si lan mao	2
 哈瓦那棕猫	ha wa na zong mao	0
 加拿大无毛猫	jia na da wu mao mao	1
+无毛猫	wu mao mao	1
 金吉拉	jin ji la	10
 科拉特猫	ke la te mao	0
 柯尼斯卷毛猫	ke ni si juan mao mao	0
@@ -576,3 +577,8 @@ use_preset_vocabulary: true
 英国短毛猫	ying guo duan mao mao	7
 云猫	yun mao	31
 重点色短毛猫	zhong dian se duan mao mao	0
+金渐层	jin jian ceng	1
+银渐层	yin jian ceng	1
+黑渐层	hei jian ceng	1
+白渐层	bai jian ceng	1
+虎斑猫	hu ban mao	3
