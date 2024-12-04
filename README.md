@@ -24,9 +24,9 @@
 
 ### 如何安装&配置文件路径
 
-#### 手动下载安装
+#### 配置文件路径
 
-下载本仓库的压缩包 Code - Download ZIP（或者下载[releases](https://github.com/gaboolic/rime-frost/releases)最新的 source-code.zip），解压到如下路径即可
+以下是各个不同平台的配置路径：
 
 - Windows: `%APPDATA%\Rime` （可以在右下角小狼毫输入法右键打开菜单选用户文件夹）复制完之后，去输入法设定里选择白霜拼音，然后重新部署
 - Mac
@@ -42,14 +42,22 @@
   - [雨燕](https://github.com/gurecn/YuyanIme) 已内置白霜词库词频，直接安装使用即可
 - iOS [仓输入法](https://github.com/imfuxiao/Hamster) 目前已内置，也可以通过【输入方案设置 - 右上角加号 - 方案下载 - 覆盖并部署】来更新白霜拼音。
 
+#### 手动下载安装
+
+下载本仓库的压缩包 Code - Download ZIP（或者下载[releases](https://github.com/gaboolic/rime-frost/releases)最新的 source-code.zip），解压到上一节所列出的配置路径。
 
 #### 通过 Git 安装
 
 **首次安装：**
 
-根据用户使用的系统、安装的软件不同，先cd到对应的配置文件的父级目录(例如Windows为`%APPDATA%`、mac鼠须管为`~/Library/`)，然后执行以下命令：
+根据用户使用的系统、安装的软件不同，替换如下命令中的 `<dir>` 为配置路径：
 
-`git clone --depth 1 https://github.com/gaboolic/rime-frost Rime`
+`git clone --depth 1 https://github.com/gaboolic/rime-frost <dir>`
+
+例如 Mac 鼠须管：
+
+`git clone --depth 1 https://github.com/gaboolic/rime-frost ~/Library/Rime`
+
 
 **后续更新：**
 
