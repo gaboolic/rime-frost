@@ -10,12 +10,10 @@ install_files: >-
   en_dicts/*.*
   cn_dicts_cell/*.*
   opencc/*.*
-  rime.lua
   lua/*.*
   lua/aux_code/*.*
   lua/cold_word_drop/*.*
   default.yaml
-  squirrel.yaml
   weasel.yaml
   rime_frost.schema.yaml
   rime_frost.dict.yaml
