@@ -302,7 +302,7 @@ recognizer:
 # 从 default 继承快捷键
 key_binder:
   import_preset: default  # 从 default.yaml 继承通用的
-  search: "`"             # 辅码引导符，要添加到 speller/alphabet
+  aux_code_trigger: "`"   # 辅码引导符，要添加到 speller/alphabet
   # bindings:             # 也可以再增加方案专有的
 
 
