@@ -279,6 +279,7 @@ use_preset_vocabulary: true
 中国食犬	zhong guo shi quan	0
 中国狮子犬	zhong guo shi zi quan	0
 中国无毛犬	zhong guo wu mao quan	0
+无毛犬	wu mao quan	0
 仓鼠	cang shu	679
 鹿鹿	lu lu	20
 猛虎	meng hu	527
@@ -288,6 +289,7 @@ use_preset_vocabulary: true
 白化	bai hua	226
 白化蛋白石基因	bai hua dan bai shi ji yin	0
 彩虹	cai hong	2276
+彩狸	cai li	1
 蛋白石	dan bai shi	7
 蛋白石基因	dan bai shi ji yin	0
 蛋白石肉桂基因	dan bai shi rou gui ji yin	0
