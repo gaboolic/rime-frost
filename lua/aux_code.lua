@@ -76,17 +76,19 @@ function AuxFilter.readAuxTxt(txtpath)
 
     local file = io.open(fileAbsolutePath, "r") or io.open(userPath .. defaultFile, "r")
     if not file then
-        error("Unable to open auxiliary code file.")
+        log.info("Unable to open auxiliary code file.")
         return {}
     end
 
     local auxCodes = {}
     for line in file:lines() do
-        line = line:match("[^\r\n]+") -- 去掉換行符，不然 value 是帶著 \n 的
-        local key, value = line:match("([^=]+)=(.+)") -- 分割 = 左右的變數
-        if key and value then
-            auxCodes[key] = auxCodes[key] or {}
-            table.insert(auxCodes[key], value)
+        if line ~= nil and line ~= "" then  -- 检查 line 是否为空
+            line = line:match("[^\r\n]+") -- 去掉換行符，不然 value 是帶著 \n 的
+            local key, value = line:match("([^=]+)=(.+)") -- 分割 = 左右的變數
+            if key and value then
+                auxCodes[key] = auxCodes[key] or {}
+                table.insert(auxCodes[key], value)
+            end
         end
     end
     file:close()
