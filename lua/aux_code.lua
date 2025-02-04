@@ -66,7 +66,10 @@ end
 ----------------
 function AuxFilter.readAuxTxt(txtpath)
     -- log.info("** AuxCode filter", 'read Aux code txt:', txtpath)
-
+    if AuxFilter.cache then
+        return AuxFilter.cache
+    end
+    
     local defaultFile = 'moqi_aux_code.txt'
     local userPath = rime_api.get_user_data_dir() .. "/lua/aux_code/"
     local fileAbsolutePath = userPath .. txtpath .. ".txt"
@@ -92,7 +95,8 @@ function AuxFilter.readAuxTxt(txtpath)
     --     log.info(key, table.concat(value, ','))
     -- end
 
-    return auxCodes
+    AuxFilter.cache = auxCodes
+    return AuxFilter.cache
 end
 
 -- local function getUtf8CharLength(byte)
