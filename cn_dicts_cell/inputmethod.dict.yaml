@@ -1,0 +1,117 @@
+# Rime dictionary
+# encoding: utf-8
+# 输入法相关
+#
+---
+name: inputmethod
+version: "2024-07-13"
+sort: by_weight
+...
+打词	da ci	0
+朙月拼音	ming yue pin yin	2
+墨奇音形	mo qi yin xing	0
+伽布里克	ga bu li ke	0
+墨奇音形的作者是伽布里克	mo qi yin xing de zuo zhe shi ga bu li ke	0
+爱次漏的小栏还	ai ci lou de xiao lan hai	0
+白霜词库	bai shuang ci ku	0
+白霜拼音	bai shuang pin yin	0
+白霜拼音的作者是伽布里克	bai shuang pin yin de zuo zhe shi ga bu li ke	0
+雾凇词库	wu song ci ku	0
+雾凇拼音	wu song pin yin	0
+大竹	da zhu	39
+聆竹听风	ling zhu ting feng	0
+魔然	mo ran	0
+雾凇鹤	wu song he	0
+小鹤音形	xiao he yin xing	0
+小鹤音形作者是何海峰	xiao he yin xing zuo zhe shi he hai feng	0
+哲豆音形	zhe dou yin xing	0
+鹤形	he xing	10
+雾凇自然	wu song zi ran	0
+墨奇	mo qi	0
+墨奇码	mo qi ma	0
+汉心码	han xin ma	0
+汉心码作者晡时之光	han xin ma zuo zhe bu shi zhi guang	0
+天码	tian ma	1
+天码输入法的作者是宋天	tian ma shu ru fa de zuo zhe shi song tian	0
+易学码	yi xue ma	0
+墨奇辅助码	mo qi fu zhu ma	0
+矧码	shen ma	0
+空明码	kong ming ma	0
+并击	bing ji	10
+星空键道	xing kong jian dao	0
+星猫键道	xing mao jian dao	0
+天行键	tian xing jian	0
+灵形速影	ling xing su ying	0
+飞码	fei ma	1
+字源	zi yuan	87
+虎鹤	hu he	18
+鹤虎	he hu	0
+龙码	long ma	0
+猫码	mao ma	0
+声笔	sheng bi	0
+声笔输入法	sheng bi shu ru fa	0
+声笔输入法作者戴石麟	sheng bi shu ru fa zuo zhe dai shi lin	0
+戴石麟	dai shi lin	0
+声笔飞码	sheng bi fei ma	0
+跟打器	gen da qi	0
+极速跟打器	ji su gen da qi	0
+木易跟打器	mu yi gen da qi	0
+出简让全	chu jian rang quan	0
+出简无全	chu jian wu quan	0
+无简无全	wu jian wu quan	0
+以词定字	yi ci ding zi	0
+容错码	rong cuo ma	0
+无理码	wu li ma	1
+有理码	you li ma	0
+随心码	sui xin ma	0
+标顶	biao ding	0
+顶功	ding gong	0
+前两码	qian liang ma	2
+后两码	hou liang ma	0
+首形	shou xing	0
+末形	mo xing	0
+顶屏	ding ping	0
+飞键	fei jian	0
+主翻译器	zhu fan yi qi	0
+五笔输入法作者是王永民	wu bi shu ru fa zuo zhe shi wang yong min	0
+王旁青头戋五一	wang pang qing tou jian wu yi	0
+土士二干十寸雨	tu shi er gan shi cun yu	1
+一二还有革字底	yi er hai you ge zi di	0
+大犬三羊古石厂	da quan san yang gu shi chang	2
+木丁西	mu ding xi	1
+工戈草头右框七	gong ge cao tou you kuang qi	1
+王旁青头戋五一土士二干十寸雨	wang pang qing tou jian wu yi tu shi er gan shi cun yu	0
+王旁青头戋五一土士二干十寸雨一二还有革字底大犬三羊古石厂木丁西工戈草头右框七	wang pang qing tou jian wu yi tu shi er gan shi cun yu yi er hai you ge zi di da quan san yang gu shi chang mu ding xi gong ge cao tou you kuang qi	0
+宇浩输入法	yu hao shu ru fa	1
+宇浩输入法作者是朱宇浩	yu hao shu ru fa zuo zhe shi zhu yu hao	0
+光華	guang hua	1
+星陳	xing chen	0
+卿云	qing yun	16
+识别码	shi bie ma	145
+音托	yin tuo	0
+回头码	hui tou ma	0
+音形码	yin xing ma	2
+冰雪拼音	bing xue pin yin	0
+冰雪拼音作者蓝落萧	bing xue pin yin zuo zhe lan luo xiao	0
+亾师	wang shi	0
+蔃师	qiang shi	0
+蒻师	ruo shi	0
+爱师	ai shi	0
+晡时之光	bu shi zhi guang	0
+鲸师	jing shi	0
+清凉鹤	qing liang he	0
+九重魔鹤	jiu zhong mo he	0
+鲸凉鹤	jing liang he	0
+看打	kan da	0
+跟打	gen da	45
+想打	xiang da	703
+自在飞扬	zi zai fei yang	0
+苗师	miao shi	1
+墨奇码拆	mo qi ma chai	0
+墨奇码拆字规则	mo qi ma chai zi gui ze	0
+仓输入法	cang shu ru fa	0
+混输模式	hun shu mo shi	0
+小字集	xiao zi ji	0
+大字集	da zi ji	0
+整句模式	zheng ju mo shi	0
+字词模式	zi ci mo shi	0

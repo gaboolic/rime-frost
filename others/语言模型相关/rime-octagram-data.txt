@@ -1,0 +1,42 @@
+https://github.com/lotem/rime-octagram-data
+
+hant:
+  grammar:
+    language: zh-hant-t-essay-bgw
+  translator/contextual_suggestions: true
+  translator/max_homophones: 7
+  translator/max_homographs: 7
+
+hans:
+  grammar:
+    language: zh-hans-t-essay-bgw
+  translator/contextual_suggestions: true
+  translator/max_homophones: 7
+  translator/max_homographs: 7
+
+hant_char:
+  grammar:
+    language: zh-hant-t-essay-bgc
+    collocation_max_length: 2
+    collocation_min_length: 2
+  translator/contextual_suggestions: true
+  translator/max_homophones: 7
+  translator/max_homographs: 7
+
+hans_char:
+  grammar:
+    language: zh-hans-t-essay-bgc
+    collocation_max_length: 2
+    collocation_min_length: 2
+  translator/contextual_suggestions: true
+  translator/max_homophones: 7
+  translator/max_homographs: 7
+
+
+
+https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
+collocation_max_length: 最大搭配長度（整句輸入可忽畧此項）
+collocation_min_length: 最小搭配長度（整句輸入可忽畧此項）
+contextual_suggestions: 是否使用語言模型優化輸出結果〔需配合grammar使用〕
+max_homophones: 最大同音簇長度〔需配合grammar使用〕
+max_homographs: 最大同形簇長度〔需配合grammar使用〕

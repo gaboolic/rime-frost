@@ -1,0 +1,167 @@
+# Rime dictionary
+# encoding: utf-8
+# 象棋
+#
+---
+name: chess
+version: "2024-07-13"
+sort: by_weight
+...
+#象棋
+王天一	wang tian yi	183
+捉双	zhuo shuang	19
+大子	da zi	133
+出动大子	chu dong da zi	5
+子力	zi li	383
+棋理	qi li	99
+串打	chuan da	5
+炮碾丹砂	pao nian dan sha	5
+兑车	dui che	12
+抽将	chou jiang	0
+抽车	chou che	7
+抽马	chou ma	1
+抽炮	chou pao	0
+将军抽车	jiang jun chou che	3
+将军抽马	jiang jun chou ma	0
+将军抽炮	jiang jun chou pao	0
+白脸将	bai lian jiang	11
+对面笑	dui mian xiao	3
+千里照面	qian li zhao mian	0
+双车挫	shuang che cuo	4
+双車挫	shuang che cuo	0
+重炮	chong pao	211
+重炮杀	chong pao sha	7
+夹车炮	jia che pao	8
+闷宫	men gong	20
+闷杀	men sha	44
+铁门栓	tie men shuan	15
+天地炮	tian di pao	10
+空头炮	kong tou pao	8
+挂角	gua jiao	57
+八角马	ba jiao ma	8
+侧面虎	ce mian hu	5
+拔簧马	ba huang ma	5
+双马饮泉	shuang ma yin quan	7
+车马冷着	che ma leng zhao	3
+双照将	shuang zhao jiang	1
+三进兵	san jin bing	3
+凤凰三点头	feng huang san dian tou	0
+太监追黄帝	tai jian zhui huang di	0
+送佛归殿	song fu gui dian	3
+双车协士	shuang che xie shi	0
+双车夺士	shuang che duo shi	0
+双车夺炮	shuang che duo pao	0
+将不死	jiang bu si	0
+步步带将	bu bu dai jiang	0
+三车闹士	san che nao shi	4
+平顶冠	ping ding guan	1
+臣压君	chen ya jun	3
+借车使炮	jie che shi pao	1
+借车使马	jie che shi ma	1
+借炮使马	jie pao shi ma	1
+一子多动	yi zi duo dong	6
+马炮轻发	ma pao qing fa	0
+车留险地	che liu xian di	0
+马跳窝心	ma tiao wo xin	0
+有象无飞	you xiang wu fei	1
+炮镇五子	pao zhen wu zi	0
+无根车炮	wu gen che pao	0
+马看炮	ma kan pao	0
+牛头滚	niu tou gun	2
+兵五进一	bing wu jin yi	4
+兵三进一	bing san jin yi	6
+兵七进一	bing qi jin yi	7
+帅五进一	shuai wu jin yi	10
+将五进一	jiang wu jin yi	1
+急进中兵	ji jin zhong bing	12
+急冲中兵	ji chong zhong bing	0
+冲中兵	chong zhong bing	1
+冲卒	chong zu	1
+三七线	san qi xian	1
+宫顶线	gong ding xian	5
+卒林线	zu lin xian	3
+橘中秘	ju zhong mi	16
+梅花谱	mei hua pu	3
+朱晋桢	zhu jin zhen	0
+梦入神机	meng ru shen ji	22
+金鹏十八变	jin peng shi ba bian	1
+适情雅趣	shi qing ya qu	16
+徐芝	xu zhi	2
+陈学礼	chen xue li	0
+过河车	guo he che	12
+巡河线	xun he xian	8
+巡河车	xun he che	12
+飞象	fei xiang	93
+飞相	fei xiang	15
+敢死车	gan si che	0
+敢死炮	gan si pao	3
+瞎眼狗	xia yan gou	2
+雷公炮	lei gong pao	9
+虎眼	hu yan	15
+虎眼炮	hu yan pao	0
+城墙炮	cheng qiang pao	0
+顺炮	shun pao	40
+列炮	lie pao	17
+列手炮	lie shou pao	1
+大列手炮	da lie shou pao	0
+弃子攻杀	qi zi gong sha	6
+弃车保帅	qi che bao shuai	34
+弃帅保车	qi shuai bao che	2
+直车对横车	zhi che dui heng che	0
+窝心炮	wo xin pao	2
+铁滑车	tie hua che	13
+五六炮	wu liu pao	3
+五七炮	wu qi pao	3
+老兵搜山	lao bing sou shan	2
+绊马脚	ban ma jiao	0
+绊马腿	ban ma tui	3
+别马腿	bie ma tui	4
+无理手	wu li shou	5
+古棋谱	gu qi pu	1
+古谱	gu pu	34
+#国际象棋
+王车易位	wang che yi wei	80
+无子可动	wu zi ke dong	20
+吃过路兵	chi guo lu bing	20
+兵升变	bing sheng bian	12
+升变	sheng bian	80
+白先黑后	bai xian hei hou	0
+摸子走子	mo zi zou zi	1
+行棋	xing qi	139
+#五子棋
+做棋	zuo qi	28
+连冲四	lian chong si	1
+连冲三	lian chong san	0
+二十六种开局	er shi liu zhong kai ju	6
+长连禁手	zhang lian jin shou	6
+三三禁	san san jin	0
+三三禁手	san san jin shou	9
+三手交换	san shou jiao huan	35
+五手两打	wu shou liang da	35
+直指开局	zhi zhi kai ju	12
+溪月	xi yue	17
+疏星	shu xing	24
+雨月	yu yue	0
+松月	song yue	19
+丘月	qiu yue	3
+游星	you xing	75
+斜指开局	xie zhi kai ju	12
+斜指	xie zhi	14
+长星	zhang xing	21
+峡月	xia yue	7
+云月	yun yue	31
+浦月	pu yue	53
+岚月	lan yue	10
+斜月	xie yue	0
+名月	ming yue	1
+冲四	chong si	34
+活三	huo san	68
+眠三	mian san	18
+跳二	tiao er	0
+抓禁手	zhua jin shou	9
+#围棋
+中国围棋协会	zhong guo wei qi xie hui	4
+愚形	yu xing	5
+禁着点	jin zhao dian	3
+高目	gao mu	12
+提劫	ti jie	11

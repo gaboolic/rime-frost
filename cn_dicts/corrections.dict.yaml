@@ -1,0 +1,24 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# https://github.com/gaboolic/rime-frost
+#正确的字词 错误的音 正确的音
+#正确的字词 错误的音 错误的字
+# ------- 错字或错音 -------
+---
+name: corrections
+version: "2024-08-29"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - comment
+...
+##### 错音
+纨绔子弟	zhi kua zi di	0	纨(wan)绔(ku)子弟
+馄饨	hun dun	0	馄(hun)饨(tun)
+
+##### 错字
+罄竹难书	xin zhu nan shu	0	馨(罄qing)竹难书
+不胜感激	bu shen gan ji	0	不甚(胜sheng)感激
