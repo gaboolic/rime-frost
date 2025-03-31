@@ -45,7 +45,7 @@ speller:
 
 translator:
   dictionary: radical_pinyin
-  enable_user_dict: false
+  enable_user_dict: true
 
 algebra_pinyin:
   - xform/'//
