@@ -371,7 +371,7 @@ punctuator:
 radical_lookup:
   tag: radical_lookup
   dictionary: radical_pinyin
-  enable_user_dict: true
+  enable_user_dict: false
   prefix: "uU"  # 反查前缀（反查时前缀会消失影响打英文所以设定为两个字母，或可改成一个非字母符号），与 recognizer/patterns/radical_lookup 匹配
   tips: "  〔拆字〕"
   comment_format:
