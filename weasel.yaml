@@ -43,12 +43,12 @@ global_ascii: false                        # 切换为 ascii 模式时，是否�
 # 字体；候选项、候选窗口的行为、布局及样式
 style:
   color_scheme: purity_of_form_custom      # 默认配色方案
-  # color_scheme_dark: nord                # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
+  # color_scheme_dark: nord          # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
 
   # 全局字体
   # 格式：字体1:起始码位:结束码位:字重:字形,字体2……，字体会依次 fallback
   # 详细设定请参考 <https://github.com/rime/weasel/wiki/字體設定>
-  font_face: "Segoe UI Emoji, Microsoft YaHei, SF Pro, Noto Color Emoji"
+  font_face: "SF Pro, Segoe UI Emoji, Microsoft YaHei, Noto Color Emoji"
   label_font_face: "Microsoft YaHei"       # 标签字体
   comment_font_face: "Microsoft YaHei"     # 注释字体
   font_point: 14                           # 全局字体字号
