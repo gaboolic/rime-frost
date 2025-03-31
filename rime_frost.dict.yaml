@@ -11,6 +11,7 @@ import_tables:
   - cn_dicts/ext      # 扩展词库
   # - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
   - cn_dicts/others   # 一些杂项
+  - cn_dicts/jinxm_it #自定义词库
 
   # 细胞词库
   - cn_dicts_cell/medication
