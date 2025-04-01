@@ -11,6 +11,8 @@ sancang.dict.yaml
 .vscode/
 dist/
 *.zip
+# 去除大模型.200M超过仓库限制了
+wanxiang-lts-zh-hans.gram
 
 build/
 sync/

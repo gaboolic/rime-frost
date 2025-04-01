@@ -310,7 +310,7 @@ translator:
 melt_eng:
   dictionary: melt_eng     # 挂载词库 melt_eng.dict.yaml
   enable_sentence: false   # 禁止造句
-  enable_user_dict: true  # 禁用用户词典
+  enable_user_dict: false  # 禁用用户词典
   initial_quality: 0.7     # 初始权重
   comment_format:          # 自定义提示码
     - xform/.*//           # 清空提示码

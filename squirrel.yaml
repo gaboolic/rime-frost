@@ -195,7 +195,7 @@ preset_color_schemes:
     candidate_text_color: 0x3c3c3c # 文字颜色
     hilited_candidate_text_color: 0xFFFFFF # 选中文字颜色
     comment_text_color: 0x999999 # 注颜色
-    hilited_comment_text_color: 0x999999 # 选中注颜色
+    hilited_comment_text_color: 0xFFFFFF # 选中注颜色
     text_color: 0x424242 # 拼音颜色 （inline_preedit: false）
     hilited_text_color: 0x999999 # 选中拼音颜色 （inline_preedit: false）
     candidate_back_color: 0xFFFFFF # 候选项底色
