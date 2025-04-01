@@ -1,0 +1,22 @@
+.git
+*.tmp
+*.temp
+*.swp
+*.lnk
+*.pst
+~*.*
+@eadir
+.SynologyWorkingDirectory
+#recycle
+desktop.ini
+.DS_Store
+Icon\r
+thumbs.db
+$Recycle.Bin
+@sharebin
+System Volume Information
+Program Files
+Program Files (x86)
+ProgramData
+#snapshot
+(?d).*
