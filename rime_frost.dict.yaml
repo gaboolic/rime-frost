@@ -8,32 +8,32 @@ import_tables:
   - cn_dicts/8105     # 字表
   # - cn_dicts/41448  # 大字表（按需启用）,实际使用字体不识别,装了没必要
   - cn_dicts/base     # 基础词库
-  - cn_dicts/ext      # 扩展词库
+  # - cn_dicts/ext      # 扩展词库
   # - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
   - cn_dicts/others   # 一些杂项
   - cn_dicts/jinxm_it #自定义词库
 
   # 细胞词库
-  - cn_dicts_cell/medication
+  # - cn_dicts_cell/medication 药物
   - cn_dicts_cell/industry_product
-  - cn_dicts_cell/exthot
-  - cn_dicts_cell/chess
-  - cn_dicts_cell/chess2
+  # - cn_dicts_cell/exthot
+  # - cn_dicts_cell/chess
+  # - cn_dicts_cell/chess2
   - cn_dicts_cell/animal
-  - cn_dicts_cell/game
-  - cn_dicts_cell/idiom
+  # - cn_dicts_cell/game
+  # - cn_dicts_cell/idiom
   - cn_dicts_cell/sport
   - cn_dicts_cell/media
   - cn_dicts_cell/shulihua
-  - cn_dicts_cell/food
+  # - cn_dicts_cell/food
   - cn_dicts_cell/inputmethod
   - cn_dicts_cell/history
   - cn_dicts_cell/place
   - cn_dicts_cell/geography
-  - cn_dicts_cell/name2
-  - cn_dicts_cell/literature
+  # - cn_dicts_cell/name2
+  # - cn_dicts_cell/literature
   - cn_dicts_cell/music
-  - cn_dicts_cell/computer
+  # - cn_dicts_cell/computer
   - cn_dicts_cell/composite
   - cn_dicts_cell/name
 ...

@@ -43,9 +43,9 @@ app_options:
     ascii_punct: true
   com.eusoft.eudic:
     ascii_mode: true
-  com.electron.triliumnext-notes: #默认中文输入模式 + 强制英文符号
-    ascii_mode: false
-    ascii_punct: true
+  # com.electron.triliumnext-notes: #默认中文输入模式 + 强制英文符号
+  #   ascii_mode: false
+  #   ascii_punct: true
 
   # com.apple.Spotlight:
   #   ascii_mode: true    # 开启默认英文
