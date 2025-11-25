@@ -26901,6 +26901,7 @@ sort: by_weight
 小米手环	xiao mi shou huan	200
 小米有品	xiao mi you pin	155
 小米椒	xiao mi jiao	157
+小米蕉	xiao mi jiao	100
 小米生态链	xiao mi sheng tai lian	134
 小米盒子	xiao mi he zi	724
 小米路由器	xiao mi lu you qi	108
@@ -27726,7 +27727,6 @@ sort: by_weight
 思想政治理论	si xiang zheng zhi li lun	621
 思源黑体	si yuan hei ti	286
 思维定势	si wei ding shi	221
-思维定式	si wei ding shi	237
 思维惯性	si wei guan xing	175
 思维误区	si wei wu qu	142
 思考的能力	si kao de neng li	210
@@ -43487,3 +43487,756 @@ sort: by_weight
 茶马古道上	cha ma gu dao shang	0
 茶马司	cha ma si	0
 茶马贸易	cha ma mao yi	0
+同一专业	tong yi zhuan ye	0
+同一世界	tong yi shi jie	0
+同一个妈	tong yi ge ma	0
+同一个家	tong yi ge jia	0
+同一个故事	tong yi ge gu shi	0
+同一个星球	tong yi ge xing qiu	0
+同一个月亮	tong yi ge yue liang	0
+同一个梦	tong yi ge meng	0
+同一个答案	tong yi ge da an	0
+同一个网段	tong yi ge wang duan	0
+同一个舞台	tong yi ge wu tai	0
+同一主体	tong yi zhu ti	0
+同一主题	tong yi zhu ti	0
+同一事实	tong yi shi shi	0
+同一产品	tong yi chan pin	0
+同一代	tong yi dai	0
+同一件	tong yi jian	0
+同一件衣服	tong yi jian yi fu	0
+同一价位	tong yi jia wei	0
+同一价格	tong yi jia ge	0
+同一伙人	tong yi huo ren	0
+同一位	tong yi wei	0
+同一位置	tong yi wei zhi	0
+同一体	tong yi ti	0
+同一作品	tong yi zuo pin	0
+同一作者	tong yi zuo zhe	0
+同一债务	tong yi zhai wu	0
+同一公司	tong yi gong si	0
+同一内容	tong yi nei rong	0
+同一办理	tong yi ban li	0
+同一区域	tong yi qu yu	0
+同一医院	tong yi yi yuan	0
+同一单位	tong yi dan wei	0
+同一厂家	tong yi chang jia	0
+同一句话	tong yi ju hua	0
+同一只	tong yi zhi	0
+同一台	tong yi tai	0
+同一合同	tong yi he tong	0
+同一周期	tong yi zhou qi	0
+同一品牌	tong yi pin pai	0
+同一品种	tong yi pin zhong	0
+同一商品	tong yi shang pin	0
+同一商标	tong yi shang biao	0
+同一回事	tong yi hui shi	0
+同一场所	tong yi chang suo	0
+同一场景	tong yi chang jing	0
+同一型号	tong yi xing hao	0
+同一城市	tong yi cheng shi	0
+同一堂课	tong yi tang ke	0
+同一天内	tong yi tian nei	0
+同一天出生	tong yi tian chu sheng	0
+同一天生日	tong yi tian sheng ri	0
+同一套	tong yi tao	0
+同一实际控制人	tong yi shi ji kong zhi ren	0
+同一客户	tong yi ke hu	0
+同一家庭	tong yi jia ting	0
+同一对象	tong yi dui xiang	0
+同一小区	tong yi xiao qu	0
+同一层	tong yi ceng	0
+同一屋檐下	tong yi wu yan xia	0
+同一屋檐下第一季	tong yi wu yan xia di yi ji	0
+同一岗位	tong yi gang wei	0
+同一市场	tong yi shi chang	0
+同一帧	tong yi zhen	0
+同一平台	tong yi ping tai	0
+同一平面	tong yi ping mian	0
+同一平面内	tong yi ping mian nei	0
+同一座城市	tong yi zuo cheng shi	0
+同一建筑物	tong yi jian zhu wu	0
+同一张	tong yi zhang	0
+同一张床	tong yi zhang chuang	0
+同一张照片	tong yi zhang zhao pian	0
+同一张脸	tong yi zhang lian	0
+同一战壕	tong yi zhan hao	0
+同一战线	tong yi zhan xian	0
+同一户籍	tong yi hu ji	0
+同一房间	tong yi fang jian	0
+同一所高中	tong yi suo gao zhong	0
+同一把	tong yi ba	0
+同一控制	tong yi kong zhi	0
+同一支	tong yi zhi	0
+同一方	tong yi fang	0
+同一方向	tong yi fang xiang	0
+同一日	tong yi ri	0
+同一时代	tong yi shi dai	0
+同一时段	tong yi shi duan	0
+同一时空	tong yi shi kong	0
+同一时间内	tong yi shi jian nei	0
+同一时间段	tong yi shi jian duan	0
+同一服务	tong yi fu wu	0
+同一条河流	tong yi tiao he liu	0
+同一条线	tong yi tiao xian	0
+同一条船	tong yi tiao chuan	0
+同一条街	tong yi tiao jie	0
+同一条起跑线	tong yi tiao qi pao xian	0
+同一条路	tong yi tiao lu	0
+同一标准	tong yi biao zhun	0
+同一栋楼	tong yi dong lou	0
+同一样东西	tong yi yang dong xi	0
+同一根	tong yi gen	0
+同一案件	tong yi an jian	0
+同一档	tong yi dang	0
+同一档次	tong yi dang ci	0
+同一棵树	tong yi ke shu	0
+同一楼层	tong yi lou ceng	0
+同一次	tong yi ci	0
+同一款	tong yi kuan	0
+同一款产品	tong yi kuan chan pin	0
+同一款式	tong yi kuan shi	0
+同一款游戏	tong yi kuan you xi	0
+同一款车	tong yi kuan che	0
+同一款车型	tong yi kuan che xing	0
+同一水平	tong yi shui ping	0
+同一水平线	tong yi shui ping xian	0
+同一水平面	tong yi shui ping mian	0
+同一法人	tong yi fa ren	0
+同一点	tong yi dian	0
+同一片天空	tong yi pian tian kong	0
+同一片天空下	tong yi pian tian kong xia	0
+同一片海里	tong yi pian hai li	0
+同一片蓝天	tong yi pian lan tian	0
+同一片蓝天下	tong yi pian lan tian xia	0
+同一物体	tong yi wu ti	0
+同一物种	tong yi wu zhong	0
+同一生产线	tong yi sheng chan xian	0
+同一用人单位	tong yi yong ren dan wei	0
+同一用户	tong yi yong hu	0
+同一电脑	tong yi dian nao	0
+同一目标	tong yi mu biao	0
+同一种东西	tong yi zhong dong xi	0
+同一种人	tong yi zhong ren	0
+同一种商品	tong yi zhong shang pin	0
+同一种生物	tong yi zhong sheng wu	0
+同一种病	tong yi zhong bing	0
+同一种语言	tong yi zhong yu yan	0
+同一种食材	tong yi zhong shi cai	0
+同一立场	tong yi li chang	0
+同一类	tong yi lei	0
+同一类别	tong yi lei bie	0
+同一类型	tong yi lei xing	0
+同一级别	tong yi ji bie	0
+同一网段	tong yi wang duan	0
+同一网络	tong yi wang luo	0
+同一群人	tong yi qun ren	0
+同一航班	tong yi hang ban	0
+同一艘船	tong yi sou chuan	0
+同一规格	tong yi gui ge	0
+同一设备	tong yi she bei	0
+同一账户	tong yi zhang hu	0
+同一起	tong yi qi	0
+同一起点	tong yi qi dian	0
+同一路	tong yi lu	0
+同一身份证	tong yi shen fen zheng	0
+同一车次	tong yi che ci	0
+同一轴线	tong yi zhou xian	0
+同一辆车	tong yi liang che	0
+同一辈	tong yi bei	0
+同一边	tong yi bian	0
+同一部	tong yi bu	0
+同一部位	tong yi bu wei	0
+同一部剧	tong yi bu ju	0
+同一部电影	tong yi bu dian ying	0
+同一间房	tong yi jian fang	0
+同一间教室	tong yi jian jiao shi	0
+同一阵线	tong yi zhen xian	0
+同一阵营	tong yi zhen ying	0
+同一阶层	tong yi jie ceng	0
+同一项目	tong yi xiang mu	0
+同一频道	tong yi pin dao	0
+同一题材	tong yi ti cai	0
+同一首	tong yi shou	0
+铁子们	tie zi men	0
+铁定会	tie ding hui	0
+铁定的事实	tie ding de shi shi	0
+铁家伙	tie jia huo	0
+铁家军	tie jia jun	0
+铁尔罕	tie er han	0
+铁尾矿	tie wei kuang	0
+铁屑压块机	tie xie ya kuai ji	0
+铁岭开原	tie ling kai yuan	0
+铁岭新城	tie ling xin cheng	0
+铁帽子	tie mao zi	0
+铁幕演说	tie mu yan shuo	0
+铁建设	tie jian she	0
+铁打不动	tie da bu dong	0
+铁打主力	tie da zhu li	0
+铁托盘	tie tuo pan	0
+铁护栏	tie hu lan	0
+铁拳出击	tie quan chu ji	0
+铁拳无敌	tie quan wu di	0
+铁拳男人	tie quan nan ren	0
+铁掌帮	tie zhang bang	0
+铁支架	tie zhi jia	0
+铁杆兄弟	tie gan xiong di	0
+铁杆国际	tie gan guo ji	0
+铁杆庄稼	tie gan zhuang jia	0
+铁杆支持者	tie gan zhi chi zhe	0
+铁杆朋友	tie gan peng you	0
+铁杆汉奸	tie gan han jian	0
+铁杆球迷	tie gan qiu mi	30
+铁杆盟友	tie gan meng you	0
+铁杆粉	tie gan fen	0
+铁杆粉丝们	tie gan fen si men	0
+铁板炒饭	tie ban chao fan	0
+铁板烧烤	tie ban shao kao	0
+铁板烧设备	tie ban shao she bei	0
+铁板神数	tie ban shen shu	0
+铁板神算	tie ban shen suan	0
+铁板豆腐	tie ban dou fu	0
+铁板饭	tie ban fan	0
+铁板鸭肠	tie ban ya chang	0
+铁柱子	tie zhu zi	0
+铁核桃	tie he tao	0
+铁桦树	tie hua shu	0
+铁桶包装	tie tong bao zhuang	0
+铁桶般	tie tong ban	0
+铁梨木	tie li mu	0
+铁梨花	tie li hua	0
+铁椅子	tie yi zi	0
+铁榔头	tie lang tou	0
+铁氟龙喷涂	tie fu long pen tu	0
+铁氟龙管	tie fu long guan	0
+铁氟龙胶带	tie fu long jiao dai	0
+铁氧体材料	tie yang ti cai liao	0
+铁氧体磁芯	tie yang ti ci xin	0
+铁氧体磁铁	tie yang ti ci tie	0
+铁水包	tie shui bao	0
+铁水罐	tie shui guan	0
+铁汉也有柔情	tie han ye you rou qing	0
+铁汉柔情	tie han rou qing	0
+铁流滚滚	tie liu gun gun	0
+铁海联运	tie hai lian yun	0
+铁爪雀鹀属	tie zhao que wu shu	0
+铁爪鹀	tie zhao wu	0
+铁爪鹀属	tie zhao wu shu	0
+铁牛哥	tie niu ge	0
+铁牛牛肉面	tie niu niu rou mian	0
+铁狮门	tie shi men	0
+铁玲珑	tie ling long	0
+铁生锈	tie sheng xiu	0
+铁甲兵	tie jia bing	0
+铁甲军	tie jia jun	0
+铁甲小宝	tie jia xiao bao	0
+铁甲战神	tie jia zhan shen	0
+铁甲车队	tie jia che dui	0
+铁甲钢拳	tie jia gang quan	0
+铁甲雄兵	tie jia xiong bing	0
+铁甲骑兵	tie jia qi bing	0
+铁甲骑士	tie jia qi shi	0
+铁电材料	tie dian cai liao	0
+铁电池	tie dian chi	0
+铁的含量	tie de han liang	0
+铁的吸收	tie de xi shou	0
+铁的手腕	tie de shou wan	0
+铁皮保温	tie pi bao wen	0
+铁皮保温施工	tie pi bao wen shi gong	0
+铁皮围挡	tie pi wei dang	0
+铁皮屋顶	tie pi wu ding	0
+铁皮文件柜	tie pi wen jian gui	0
+铁皮桶	tie pi tong	0
+铁皮棚	tie pi peng	0
+铁皮玩具	tie pi wan ju	0
+铁皮瓦	tie pi wa	0
+铁皮盒子	tie pi he zi	0
+铁皮石斛	tie pi shi hu	0
+铁皮石斛种植	tie pi shi hu zhong zhi	0
+铁皮石斛花	tie pi shi hu hua	0
+铁皮石斛鲜条	tie pi shi hu xian tiao	0
+铁皮箱	tie pi xiang	0
+铁皮船	tie pi chuan	0
+铁皮风管	tie pi feng guan	0
+铁皮鼓	tie pi gu	0
+铁盒包装	tie he bao zhuang	0
+铁盒装	tie he zhuang	0
+铁矿价格	tie kuang jia ge	0
+铁矿山	tie kuang shan	0
+铁矿开采	tie kuang kai cai	0
+铁矿物	tie kuang wu	0
+铁矿石价格指数	tie kuang shi jia ge zhi shu	0
+铁矿石出口	tie kuang shi chu kou	0
+铁矿石市场	tie kuang shi shi chang	0
+铁矿石开采	tie kuang shi kai cai	0
+铁矿石指数	tie kuang shi zhi shu	0
+铁矿石期权	tie kuang shi qi quan	0
+铁矿石期货	tie kuang shi qi huo	0
+铁矿石涨价	tie kuang shi zhang jia	0
+铁矿石破碎机	tie kuang shi po sui ji	0
+铁矿石谈判	tie kuang shi tan pan	0
+铁矿石贸易	tie kuang shi mao yi	0
+铁矿石进口	tie kuang shi jin kou	0
+铁矿粉	tie kuang fen	0
+铁矿资源	tie kuang zi yuan	0
+铁矿项目	tie kuang xiang mu	0
+铁碳合金	tie tan he jin	0
+铁碳填料	tie tan tian liao	0
+铁磁性物质	tie ci xing wu zhi	0
+铁磁材料	tie ci cai liao	0
+铁科轨道	tie ke gui dao	0
+铁穆尔	tie mu er	0
+铁窗生涯	tie chuang sheng ya	0
+铁笊篱	tie zhao li	0
+铁笼里	tie long li	0
+铁等元素	tie deng yuan su	0
+铁等多种微量元素	tie deng duo zhong wei liang yuan su	0
+铁等微量元素	tie deng wei liang yuan su	0
+铁等物质	tie deng wu zhi	0
+铁等矿物质	tie deng kuang wu zhi	0
+铁等营养物质	tie deng ying yang wu zhi	0
+铁等金属	tie deng jin shu	0
+铁算子	tie suan zi	0
+铁管子	tie guan zi	0
+铁粉们	tie fen men	0
+铁粉儿	tie fen er	0
+铁素体不锈钢	tie su ti bu xiu gang	0
+铁红色	tie hong se	0
+铁线拳	tie xian quan	0
+铁线描	tie xian miao	0
+铁线虫	tie xian chong	0
+铁线虫入侵	tie xian chong ru qin	0
+铁罐包装	tie guan bao zhuang	0
+铁罐头	tie guan tou	0
+铁罐子	tie guan zi	0
+铁罐装	tie guan zhuang	0
+铁肩膀	tie jian bang	0
+被贱卖	bei jian mai	0
+被贴条	bei tie tiao	0
+被贴标签	bei tie biao qian	0
+被贴罚单	bei tie fa dan	0
+被贷款	bei dai kuan	0
+被资助	bei zi zhu	0
+被赌博	bei du bo	0
+被赎回	bei shu hui	0
+被赏识	bei shang shi	0
+被赐予	bei ci yu	0
+被赐死	bei ci si	0
+被赞助	bei zan zhu	0
+被赞扬	bei zan yang	0
+被赞美	bei zan mei	0
+被赞誉	bei zan yu	0
+被赞赏	bei zan shang	0
+被赠予	bei zeng yu	0
+被赠送	bei zeng song	0
+被赡养人	bei shan yang ren	0
+被赦免	bei she mian	0
+被赦免了	bei she mian le	0
+被赵薇	bei zhao wei	0
+被赶下台	bei gan xia tai	0
+被赶下飞机	bei gan xia fei ji	0
+被赶出家门	bei gan chu jia men	0
+被赶出来	bei gan chu lai	0
+被赶出门	bei gan chu men	0
+被赶超	bei gan chao	0
+被赶跑	bei gan pao	0
+被赶鸭子上架	bei gan ya zi shang jia	0
+被起名	bei qi ming	0
+被起底	bei qi di	0
+被超越	bei chao yue	0
+被超车	bei chao che	0
+被超过	bei chao guo	0
+被跟踪	bei gen zong	0
+被路人偶遇	bei lu ren ou yu	0
+被路人拍到	bei lu ren pai dao	0
+被路过	bei lu guo	0
+被路飞打败	bei lu fei da bai	0
+被跳过	bei tiao guo	0
+被踢倒	bei ti dao	0
+被踢出	bei ti chu	0
+被踢出局	bei ti chu ju	0
+被踢出群	bei ti chu qun	0
+被踢出群聊	bei ti chu qun liao	0
+被踢开	bei ti kai	0
+被踢飞	bei ti fei	0
+被踩死	bei cai si	0
+被踩踏	bei cai ta	0
+被踹飞	bei chuai fei	0
+被蹂躏	bei rou lin	0
+被蹭网	bei ceng wang	0
+被车撞伤	bei che zhuang shang	0
+被车撞到	bei che zhuang dao	0
+被车撞死	bei che zhuang si	0
+被转化	bei zhuan hua	0
+被转发	bei zhuan fa	0
+被转手	bei zhuan shou	0
+被转换	bei zhuan huan	0
+被转载	bei zhuan zai	0
+被转运	bei zhuan yun	0
+被轮奸	bei lun jian	0
+被软禁	bei ruan jin	0
+被轰炸	bei hong zha	0
+被轻视了	bei qing shi le	0
+被载入史册	bei zai ru shi ce	0
+被辅导	bei fu dao	0
+被输入	bei shu ru	0
+被输出	bei shu chu	0
+被辜负	bei gu fu	0
+被辞职了	bei ci zhi le	0
+被辞退了	bei ci tui le	0
+被辣到	bei la dao	0
+被辱骂	bei ru ma	0
+被边缘	bei bian yuan	0
+被边缘化	bei bian yuan hua	0
+被迁怒	bei qian nu	0
+被迁移	bei qian yi	0
+被过滤	bei guo lv	0
+被运营	bei yun ying	0
+被进入	bei jin ru	0
+被进球	bei jin qiu	0
+被远程	bei yuan cheng	0
+被违法	bei wei fa	0
+被违规	bei wei gui	0
+被连带	bei lian dai	0
+被连接	bei lian jie	0
+被连累	bei lian lei	0
+打不对	da bu dui	10
+答不对	da bu dui	0
+误闯天家	wu chuang tian jia	0
+鼠标一点	shu biao yi dian	0
+鼠标不动	shu biao bu dong	0
+鼠标光标	shu biao guang biao	0
+鼠标单击	shu biao dan ji	0
+鼠标双击	shu biao shuang ji	0
+鼠标右击	shu biao you ji	0
+鼠标右键点击	shu biao you jian dian ji	0
+鼠标和键盘	shu biao he jian pan	0
+鼠标失灵	shu biao shi ling	0
+鼠标套装	shu biao tao zhuang	0
+鼠标左键点击	shu biao zuo jian dian ji	0
+鼠标悬浮	shu biao xuan fu	0
+鼠标拖动	shu biao tuo dong	0
+鼠标拖拽	shu biao tuo zhuai	0
+鼠标指	shu biao zhi	0
+鼠标按键	shu biao an jian	0
+鼠标控制	shu biao kong zhi	0
+鼠标滚轮	shu biao gun lun	0
+鼠标点	shu biao dian	0
+鼠标箭头	shu biao jian tou	0
+鼠标线	shu biao xian	0
+鼠标经过	shu biao jing guo	0
+鼠标跟随	shu biao gen sui	0
+鼠标连点器	shu biao lian dian qi	0
+鼠标驱动	shu biao qu dong	0
+猫毛过敏	mao mao guo min	0
+猫洗澡	mao xi zao	0
+猫游戏	mao you xi	0
+猫游记	mao you ji	0
+猫爪杯	mao zhao bei	0
+猫爪牡蛎	mao zhao mu li	0
+猫爪鞋	mao zhao xie	0
+猫爬架	mao pa jia	0
+猫爸爸	mao ba ba	0
+猫牛式	mao niu shi	0
+猫狗双全	mao gou shuang quan	0
+猫狗日记	mao gou ri ji	0
+攀爬架	pan pa jia	0
+攀爬植物	pan pa zhi wu	0
+攀爬网	pan pa wang	0
+攀爬能力	pan pa neng li	0
+攀爬车	pan pa che	0
+第一局比赛	di yi ju bi sai	0
+第一局比赛中	di yi ju bi sai zhong	0
+第一局的比赛	di yi ju de bi sai	0
+第一层次	di yi ceng ci	0
+第一层级	di yi ceng ji	0
+第一居所	di yi ju suo	0
+第一届世界杯	di yi jie shi jie bei	0
+第一届委员会	di yi jie wei yuan hui	0
+第一届理事	di yi jie li shi	0
+第一届理事会	di yi jie li shi hui	0
+第一屏	di yi ping	0
+第一展	di yi zhan	0
+第一展厅	di yi zhan ting	0
+第一属性	di yi shu xing	0
+第一山	di yi shan	0
+第一岛链	di yi dao lian	0
+第一峡	di yi xia	0
+第一州	di yi zhou	0
+第一巡视组	di yi xun shi zu	0
+第一工业	di yi gong ye	0
+第一工业区	di yi gong ye qu	0
+第一工作	di yi gong zuo	0
+第一工作室	di yi gong zuo shi	0
+第一工厂	di yi gong chang	0
+第一工程	di yi gong cheng	0
+第一工程有限公司	di yi gong cheng you xian gong si	0
+第一工程机械网	di yi gong cheng ji xie wang	0
+第一巨星	di yi ju xing	0
+第一市	di yi shi	0
+第一市场	di yi shi chang	0
+第一帅	di yi shuai	0
+第一帅哥	di yi shuai ge	0
+第一师	di yi shi	0
+第一师医院	di yi shi yi yuan	0
+第一师团	di yi shi tuan	0
+第一师范	di yi shi fan	0
+第一师阿拉尔市	di yi shi a la er shi	0
+第一帝	di yi di	0
+第一帝国	di yi di guo	0
+第一幅图	di yi fu tu	0
+第一幅画	di yi fu hua	0
+第一平台	di yi ping tai	0
+第一幼儿园	di yi you er yuan	0
+第一序列	di yi xu lie	0
+第一店	di yi dian	0
+第一座城市	di yi zuo cheng shi	0
+第一庭	di yi ting	0
+第一庶女	di yi shu nv	0
+第一建筑	di yi jian zhu	0
+第一张个人专辑	di yi zhang ge ren zhuan ji	0
+第一张信用卡	di yi zhang xin yong ka	0
+第一张卡	di yi zhang ka	0
+第一张图中	di yi zhang tu zhong	0
+第一张图片	di yi zhang tu pian	0
+第一张图片中	di yi zhang tu pian zhong	0
+第一张照片	di yi zhang zhao pian	0
+第一张照片中	di yi zhang zhao pian zhong	0
+第一张牌	di yi zhang pai	0
+第一张黑洞照片	di yi zhang hei dong zhao pian	0
+第一强	di yi qiang	0
+第一强国	di yi qiang guo	0
+第一强者	di yi qiang zhe	0
+第一归正会	di yi gui zheng hui	0
+第一当之无愧	di yi dang zhi wu kui	0
+第一彩	di yi cai	0
+第一影院	di yi ying yuan	0
+第一循环	di yi xun huan	0
+第一心	di yi xin	0
+第一志愿报考	di yi zhi yuan bao kao	0
+第一志愿报考专业	di yi zhi yuan bao kao zhuan ye	0
+第一快	di yi kuai	0
+第一念	di yi nian	0
+第一念头	di yi nian tou	0
+第一性原理计算	di yi xing yuan li ji suan	0
+第一想法	di yi xiang fa	0
+第一感	di yi gan	0
+第一感受	di yi gan shou	0
+第一戒	di yi jie	0
+第一或第二	di yi huo di er	0
+第一战力	di yi zhan li	0
+第一战区	di yi zhan qu	0
+第一战场	di yi zhan chang	0
+第一战士	di yi zhan shi	0
+第一战将	di yi zhan jiang	0
+第一战略	di yi zhan lve	0
+第一战神	di yi zhan shen	0
+第一战队	di yi zhan dui	0
+第一所大学	di yi suo da xue	0
+第一手信息	di yi shou xin xi	0
+第一手数据	di yi shou shu ju	0
+第一手机	di yi shou ji	0
+第一手机界研究院	di yi shou ji jie yan jiu yuan	0
+第一手消息	di yi shou xiao xi	0
+第一手游	di yi shou you	0
+第一手游网	di yi shou you wang	0
+第一手牌	di yi shou pai	0
+第一手资讯	di yi shou zi xun	0
+第一才女	di yi cai nv	0
+第一才子	di yi cai zi	0
+第一打	di yi da	0
+第一打野	di yi da ye	0
+第一扣	di yi kou	0
+第一批产品	di yi pi chan pin	0
+第一批人	di yi pi ren	0
+第一批吃螃蟹	di yi pi chi pang xie	0
+第一批名单	di yi pi ming dan	0
+第一批学生	di yi pi xue sheng	0
+第一批客人	di yi pi ke ren	0
+第一批录取	di yi pi lu qu	0
+第一批支援武汉	di yi pi zhi yuan wu han	0
+第一批本科	di yi pi ben ke	0
+第一批次	di yi pi ci	0
+第一批次录取	di yi pi ci lu qu	0
+第一批游客	di yi pi you ke	0
+第一批用户	di yi pi yong hu	0
+第一批罕见病目录	di yi pi han jian bing mu lu	0
+第一批试点	di yi pi shi dian	0
+第一批货	di yi pi huo	0
+第一技能	di yi ji neng	0
+第一把武器	di yi ba wu qi	0
+第一把火	di yi ba huo	0
+第一折	di yi zhe	0
+第一报道	di yi bao dao	0
+第一拍	di yi pai	0
+第一拖拉机股份	di yi tuo la ji gu fen	0
+第一控卫	di yi kong wei	0
+第一推动力	di yi tui dong li	0
+第一推荐	di yi tui jian	0
+第一支撑	di yi zhi cheng	0
+第一支撑位	di yi zhi cheng wei	0
+第一支柱	di yi zhi zhu	0
+第一支烟	di yi zhi yan	0
+第一支舞	di yi zhi wu	0
+第一支部	di yi zhi bu	0
+第一支队	di yi zhi dui	0
+第一改装网	di yi gai zhuang wang	0
+第一攻击	di yi gong ji	0
+第一放映室	di yi fang ying shi	0
+第一政委	di yi zheng wei	0
+第一教学楼	di yi jiao xue lou	0
+第一教育	di yi jiao yu	0
+第一数据	di yi shu ju	0
+第一新闻	di yi xin wen	0
+第一新闻网	di yi xin wen wang	0
+第一新闻记者	di yi xin wen ji zhe	0
+第一方案	di yi fang an	0
+第一方阵	di yi fang zhen	0
+第一方面	di yi fang mian	0
+第一方面军	di yi fang mian jun	0
+第一旅	di yi lv	0
+第一旅游网	di yi lv you wang	0
+第一无	di yi wu	0
+第一无二	di yi wu er	0
+第一早	di yi zao	0
+第一时	di yi shi	0
+第一时刻	di yi shi ke	0
+第一时尚	di yi shi shang	0
+第一宗门	di yi zong men	0
+第一宝	di yi bao	0
+第一宝座	di yi bao zuo	0
+第一实力	di yi shi li	0
+第一实至名归	di yi shi zhi ming gui	0
+第一实验	di yi shi yan	0
+第一实验小学	di yi shi yan xiao xue	0
+第一宠	di yi chong	0
+第一审人民法院	di yi shen ren min fa yuan	0
+第一审判庭	di yi shen pan ting	0
+第一宫	di yi gong	0
+第一家公司	di yi jia gong si	0
+第一家分店	di yi jia fen dian	0
+第一家庭	di yi jia ting	0
+第一家族	di yi jia zu	0
+第一富豪	di yi fu hao	0
+第一寺	di yi si	0
+第一导演	di yi dao yan	0
+第一导航	di yi dao hang	0
+第一封信	di yi feng xin	0
+第一封情书	di yi feng qing shu	0
+第一射手	di yi she shou	0
+第一小前锋	di yi xiao qian feng	0
+第一小局	di yi xiao ju	0
+第一小时	di yi xiao shi	0
+第一小生	di yi xiao sheng	0
+第一小组	di yi xiao zu	0
+第一小队	di yi xiao dui	0
+第一少	di yi shao	0
+第一局中	di yi ju zhong	0
+武穆遗书	wu mu yi shu	0
+猫砂盆	mao sha pen	0
+猫粮狗粮	mao liang gou liang	0
+猫罐头	mao guan tou	0
+猫老师	mao lao shi	0
+猫老板	mao lao ban	0
+猫脸老太太	mao lian lao tai tai	0
+猫腻多	mao ni duo	0
+猫贩子	mao fan zi	0
+猫过敏	mao guo min	0
+猫里奥	mao li ao	0
+猫零食	mao ling shi	0
+猫项圈	mao xiang quan	0
+猫鼻子	mao bi zi	0
+猫鼻支	mao bi zhi	0
+循环之后	xun huan zhi hou	0
+循环产业	xun huan chan ye	0
+循环产业园	xun huan chan ye yuan	0
+循环产业链	xun huan chan ye lian	0
+循环任务	xun huan ren wu	0
+循环依赖	xun huan yi lai	0
+循环信贷	xun huan xin dai	0
+循环充电	xun huan chong dian	0
+循环养殖	xun huan yang zhi	0
+循环再利用	xun huan zai li yong	0
+循环再用	xun huan zai yong	0
+循环再造	xun huan zai zao	0
+循环农业	xun huan nong ye	0
+循环冷却器	xun huan leng que qi	0
+循环冷却水	xun huan leng que shui	0
+循环利用技术	xun huan li yong ji shu	0
+循环功能	xun huan gong neng	0
+循环加热	xun huan jia re	0
+循环包装	xun huan bao zhuang	0
+循环化	xun huan hua	0
+循环化改造	xun huan hua gai zao	0
+循环发展	xun huan fa zhan	0
+循环变化	xun huan bian hua	0
+循环听	xun huan ting	0
+循环回收	xun huan hui shou	0
+循环回路	xun huan hui lu	0
+循环处理	xun huan chu li	0
+循环寿命	xun huan shou ming	0
+循环性能	xun huan xing neng	0
+循环技术	xun huan ji shu	0
+循环操作	xun huan cao zuo	0
+循环数	xun huan shu	0
+循环方式	xun huan fang shi	0
+循环时间	xun huan shi jian	0
+循环机	xun huan ji	0
+循环机制	xun huan ji zhi	0
+循环条件	xun huan tiao jian	0
+循环水养殖	xun huan shui yang zhi	0
+循环水处理	xun huan shui chu li	0
+循环水多用真空泵	xun huan shui duo yong zhen kong beng	0
+循环水式真空泵	xun huan shui shi zhen kong beng	0
+循环水池	xun huan shui chi	0
+循环水真空泵	xun huan shui zhen kong beng	0
+循环水管道	xun huan shui guan dao	0
+循环水箱	xun huan shui xiang	0
+循环水量	xun huan shui liang	0
+循环水阻垢剂	xun huan shui zu gou ji	0
+循环油	xun huan you	0
+循环流动	xun huan liu dong	0
+循环流化床	xun huan liu hua chuang	0
+循环流化床锅炉	xun huan liu hua chuang guo lu	0
+循环流量	xun huan liu liang	0
+循环消费	xun huan xiao fei	0
+循环液	xun huan ye	0
+循环清洗	xun huan qing xi	0
+循环渐进	xun huan jian jin	0
+循环滚动	xun huan gun dong	0
+循环状态	xun huan zhuang tai	0
+循环生产	xun huan sheng chan	0
+循环生态	xun huan sheng tai	0
+循环用水	xun huan yong shui	0
+循环畅通	xun huan chang tong	0
+循环程序	xun huan cheng xu	0
+循环稳定性	xun huan wen ding xing	0
+循环空气	xun huan kong qi	0
+循环管	xun huan guan	0
+循环管路	xun huan guan lu	0
+循环管道	xun huan guan dao	0
+循环箱	xun huan xiang	0
+循环线	xun huan xian	0
+循环经济	xun huan jing ji	0
+循环肿瘤细胞	xun huan zhong liu xi bao	0
+循环能力	xun huan neng li	0
+循环血液	xun huan xue ye	0
+循环血量	xun huan xue liang	0
+循环装置	xun huan zhuang zhi	0
+循环训练	xun huan xun lian	0
+循环设备	xun huan she bei	0
+循环设计	xun huan she ji	0
+循环证明	xun huan zheng ming	0
+循环贷	xun huan dai	0
+循环贷款	xun huan dai kuan	0
+循环起来	xun huan qi lai	0
+循环过滤	xun huan guo lv	0
+循环运动	xun huan yun dong	0
+循环遍历	xun huan bian li	0
+循环量	xun huan liang	0
+循环链	xun huan lian	0
+循环问题	xun huan wen ti	0
+循环风	xun huan feng	0
+循环风扇	xun huan feng shan	0
+循环风机	xun huan feng ji	0
+循环风量	xun huan feng liang	0
