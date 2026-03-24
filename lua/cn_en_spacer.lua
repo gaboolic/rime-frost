@@ -21,10 +21,11 @@ end
 
 local function cn_en_spacer(input, env)
     for cand in input:iter() do
+        local finalCand = cand  -- 创建新变量
         if is_mixed_cn_en_num(cand.text) then
-            cand = cand:to_shadow_candidate(cand.type, add_spaces(cand.text), cand.comment)
+            finalCand = cand:to_shadow_candidate(cand.type, add_spaces(cand.text), cand.comment)
         end
-        yield(cand)
+        yield(finalCand)
     end
 end
 

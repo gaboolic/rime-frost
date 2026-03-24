@@ -15,14 +15,16 @@ end
 -- 获取指定字符在文本中的位置
 local function get_pos( text, char )
     local pos = {}
-    if text:find( char ) then
-        local tmp = text
-        for i = 1, utf8.len( tmp ) do
-            local first_char = tmp:sub( 1, utf8.offset( tmp, 2 ) - 1 )
-            if first_char == char then pos[i] = true end
-            tmp = tmp:gsub( '^' .. first_char, '' )
-            i = i + 1
+    if not text:find(char, 1, true) then return pos end
+
+    local i = 1
+    -- utf8.codes 会遍历每一个字符的字节偏移量和码位
+    for _, code in utf8.codes(text) do
+        -- 将当前码位转回字符进行比较
+        if utf8.char(code) == char then
+            pos[i] = true
         end
+        i = i + 1 -- 这里 i 是普通的局部变量，可以自增
     end
     return pos
 end
