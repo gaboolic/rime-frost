@@ -3,7 +3,7 @@
 
 
 # 要比共享目录的同名文件的 config_version 大才可以生效
-config_version: '2024-07-12'
+config_version: '0.50'
 
 
 # 方案列表
