@@ -132,6 +132,8 @@ kenlm 教程、python 调用 <https://github.com/mattzheng/py-kenlm-model>
 
 使用白霜词库的方案
 
+墨奇输入法windows版 <https://github.com/gaboolic/moqi-im-windows>
+
 墨奇音形 <https://github.com/gaboolic/rime-shuangpin-fuzhuma>
 
 墨奇五笔整句 <https://github.com/gaboolic/rime-wubi-sentence>
