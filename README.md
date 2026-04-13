@@ -11,6 +11,7 @@
 ### 使用方法
 
 使用方法基本同雾凇拼音，微调了一些触发指令，加入了lua辅助码的支持。辅助码是可选项，按下`开启，不影响正常打字。
+默认方案是全拼，可以切换输入方案，也支持自然码双拼、小鹤双拼、微软双拼、搜狗双拼等双拼方案。
 
 - 符号 /fh 更多符号详见`https://github.com/gaboolic/rime-frost/blob/master/symbols_v.yaml`
 - 带调韵母 /a /e /u 等
@@ -28,7 +29,9 @@
 
 下载本仓库的压缩包 Code - Download ZIP（或者下载[releases](https://github.com/gaboolic/rime-frost/releases)最新的 source-code.zip），解压到如下路径即可
 
-- Windows: `%APPDATA%\Rime` （可以在右下角小狼毫输入法右键打开菜单选用户文件夹）复制完之后，去输入法设定里选择白霜拼音，然后重新部署
+- Windows: 
+  - 小狼毫：%APPDATA%\Roming\Rime （可以在右下角小狼毫输入法右键打开菜单选用户文件夹）复制完之后，去输入法设定里选择白霜拼音，然后重新部署
+  - 安装[墨奇输入法](https://github.com/gaboolic/moqi-im-windows)的自带方案。Rime配置文件夹在：%APPDATA%\Roming\Moqi\Rime （可以在右下角输入法右键打开菜单选用户文件夹）
 - Mac
   - [鼠须管](https://github.com/rime/squirrel)路径为 `~/Library/Rime`
   - [fcitx5-Mac 版](https://github.com/fcitx-contrib/fcitx5-macos)路径为 `~/.local/share/fcitx5/rime`
