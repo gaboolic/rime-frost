@@ -44,6 +44,9 @@ switches:
   - name: emoji
     states: [ 💀, 😄 ]
 
+  - name: chinese_english
+    states: [ 翻译关, 翻译开 ]
+
   - name: mars
     reset: 0
     states: [ 地, 煋 ] #火星文

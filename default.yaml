@@ -36,6 +36,7 @@ switcher:
     - ascii_mode
     - full_shape
     - traditionalization
+    - chinese_english
     - emoji
     - chaifen
     - aux_code
