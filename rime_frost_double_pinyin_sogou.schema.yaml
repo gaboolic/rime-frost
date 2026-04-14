@@ -39,10 +39,10 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: ascii_punct  # 中英标点
-    states: [ 中文标点, 英文标点 ]
+    states: [ 。，, ．， ]
 
   - name: emoji
-    states: [ emoji打开, emoji关闭 ]
+    states: [ 💀, 😄 ]
 
   - name: mars
     reset: 0
@@ -245,6 +245,31 @@ custom_phrase:
   initial_quality: 99      # custom_phrase 的权重应该比 pinyin 和 melt_eng 大
 
 
+# 显示墨奇码拆分
+chaifen:
+  option_name: chaifen
+  opencc_config: moqi_chaifen.json
+  tips: char
+  show_in_comment: true
+  comment_format:
+    - "xform/	/ /"
+
+chaifen_all:
+  option_name: chaifen_all
+  opencc_config: moqi_chaifen_all.json
+  tips: char
+  show_in_comment: true
+  comment_format:
+    - "xform/	/ /"
+
+#中文转英文
+chinese_english:
+  option_name: chinese_english
+  opencc_config: chinese_english.json
+  tips: char
+  comment_format:
+    - "xform/-/ /"
+
 # Emoji
 emoji:
   option_name: emoji
@@ -258,6 +283,11 @@ traditionalize:
   opencc_config: s2t.json  # s2t.json | s2hk.json | s2tw.json | s2twp.json
   tips: none               # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
   tags: [ abc, number, gregorian_to_lunar ]  # 限制在对应 tag，不对其他如反查的内容做简繁转换
+
+# 火星文切换
+mars:
+  opencc_config: martian.json 
+  option_name: mars
 
 
 # 标点符号
