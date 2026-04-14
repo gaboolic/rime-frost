@@ -49,7 +49,10 @@ switches:
     states: [ 地, 煋 ] #火星文
 
   - name: chaifen
-    states: [ 辅码不提示, 辅助码提示 ]
+    states: [ 拆分不提示, 拆分提示 ]
+
+  - name: aux_code
+    states: [ 辅码开, 辅码关 ]
 
 
 # 输入引擎
@@ -91,13 +94,13 @@ engine:
     - lua_filter@*autocap_filter                     # 英文自动大写
     - lua_filter@*pin_cand_filter                    # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
     - lua_filter@*reduce_english_filter              # 降低部分英语单词在候选项的位置
+    - lua_filter@*aux_code                 # 墨奇辅助码
     - simplifier@emoji                              # Emoji
     - simplifier@chaifen
     - simplifier@chaifen_all
     - simplifier@chinese_english
     - simplifier@traditionalize                     # 简繁切换
     - simplifier@mars                               #火星文
-    - lua_filter@*aux_code                 # 墨奇辅助码
     - uniquifier                                    # 去重
 
 

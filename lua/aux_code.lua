@@ -4,6 +4,25 @@ local AuxFilter = {}
 -- local log = require 'log'
 -- log.outfile = "aux_code.log"
 
+local function aux_code_enabled(env)
+    -- Rime 的开关第一项状态对应 false。当前 states 为 [辅码开, 辅码关]，
+    -- 所以这里需要取反，才能让显示状态和实际行为一致。
+    return not env.engine.context:get_option("aux_code")
+end
+
+local function chaifen_notice_enabled(env)
+    local context = env.engine.context
+    return context:get_option("chaifen") or context:get_option("chaifen_all")
+end
+
+local function should_show_aux_notice(env, inputCode)
+    if env.show_aux_notice then
+        return true
+    end
+
+    return string.find(inputCode, env.trigger_key) and not chaifen_notice_enabled(env)
+end
+
 function AuxFilter.init(env)
     -- log.info("** AuxCode filter", env.name_space)
 
@@ -14,18 +33,17 @@ function AuxFilter.init(env)
 
     -- 設定預設觸發鍵為分號，並從配置中讀取自訂的觸發鍵
     env.trigger_key = config:get_string("key_binder/aux_code_trigger") or "`"
-    -- 设定是否显示辅助码，默认为显示
-    env.show_aux_notice = config:get_string("key_binder/show_aux_notice") or 'true'
-    if env.show_aux_notice == "false" then
-        env.show_aux_notice = false
-    else
-        env.show_aux_notice = true
-    end
+    -- 是否在候选 comment 中显示辅助码，默认关闭
+    env.show_aux_notice = config:get_string("key_binder/show_aux_notice") == "true"
 
     ----------------------------
     -- 持續選詞上屏，保持輔助碼分隔符存在 --
     ----------------------------
     env.notifier = engine.context.select_notifier:connect(function(ctx)
+        if not aux_code_enabled(env) then
+            return
+        end
+
         -- 含有輔助碼分隔符才處理
         if not string.find(ctx.input, env.trigger_key) then
             return
@@ -194,6 +212,14 @@ end
 function AuxFilter.func(input, env)
     local context = env.engine.context
     local inputCode = context.input
+    local show_aux_notice = should_show_aux_notice(env, inputCode)
+
+    if not aux_code_enabled(env) then
+        for cand in input:iter() do
+            yield(cand)
+        end
+        return
+    end
 
     -- 分割部分正式開始
     local auxStr = ''
@@ -231,7 +257,7 @@ function AuxFilter.func(input, env)
             -- end
 
             -- 給待選項加上輔助碼提示
-            if env.show_aux_notice and auxCodes and #auxCodes > 0 then
+            if show_aux_notice and auxCodes and #auxCodes > 0 then
                 local codeComment = table.concat(auxCodes, ',')
                 -- 處理 simplifier
                 if cand:get_dynamic_type() == "Shadow" then
