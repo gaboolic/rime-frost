@@ -35,17 +35,22 @@ schema:
 switches:
   - name: ascii_mode
     states: [ 中文, 英文 ]
-  - name: ascii_punct  # 中英标点
-    states: [ 中文标点, 英文标点 ]
   - name: traditionalization
     states: [ 简体, 繁体 ]
-  - name: emoji
-    states: [ emoji打开, emoji关闭 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: search_single_char  # search.lua 的功能开关，辅码查词时是否单字优先
-    abbrev: [词, 单]
-    states: [辅码词, 辅码单]
+  - name: ascii_punct  # 中英标点
+    states: [ 中文标点, 英文标点 ]
+
+  - name: emoji
+    states: [ emoji打开, emoji关闭 ]
+
+  - name: mars
+    reset: 0
+    states: [ 地, 煋 ] #火星文
+
+  - name: chaifen
+    states: [ 辅码不提示, 辅助码提示 ]
 
 
 # 输入引擎
@@ -88,7 +93,11 @@ engine:
     - lua_filter@*pin_cand_filter                    # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
     - lua_filter@*reduce_english_filter              # 降低部分英语单词在候选项的位置
     - simplifier@emoji                              # Emoji
+    - simplifier@chaifen
+    - simplifier@chaifen_all
+    - simplifier@chinese_english
     - simplifier@traditionalize                     # 简繁切换
+    - simplifier@mars                               #火星文
     - lua_filter@*aux_code                 # 墨奇辅助码
     - uniquifier                                    # 去重
 
