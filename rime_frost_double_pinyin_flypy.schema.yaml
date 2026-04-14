@@ -5,8 +5,7 @@
 # 双拼键位映射复制自 https://github.com/rime/rime-double-pinyin
 # 双拼之间主要就是 speller/algebra 和 translator/preedit_format 这里有区别。
 #
-# 全拼的自定义文本和双拼有些冲突，改成了 custom_phrase_double ，需要创建 custom_phrase_double.txt 文件。
-#
+
 # 目前配置中有个别功能仍然是全拼拼写，不能自动适配，所以需要手动修改一下：
 # - 英文中部分符号的派生规则：在英文方案文件 melt_eng.schema.yaml > speller > algebra 修改为对应的双拼拼写运算
 # - 部件拆字的拼写规则：在部件拆字方案 radical_pinyin.schema.yaml > speller > algebra 修改为对应的双拼拼写运算
@@ -77,7 +76,7 @@ engine:
     - script_translator
     - lua_translator@*date_translator    # 时间、日期、星期
     - lua_translator@*lunar              # 农历
-    - table_translator@custom_phrase    # 自定义短语 custom_phrase_double.txt
+    - table_translator@custom_phrase    # 自定义短语 custom_phrase.txt
     - table_translator@melt_eng         # 英文输入
     - table_translator@cn_en            # 中英混合词汇
     - table_translator@radical_lookup   # 部件拆字反查
@@ -235,7 +234,7 @@ cn_en:
 # 自定义短语
 custom_phrase:
   dictionary: ""
-  user_dict: custom_phrase_double  # 需要手动创建 custom_phrase_double.txt 文件
+  user_dict: custom_phrase  # 需要手动创建 custom_phrase.txt 文件
   db_class: stabledb
   enable_completion: false # 补全提示
   enable_sentence: false   # 禁止造句
