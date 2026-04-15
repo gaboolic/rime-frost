@@ -447,7 +447,8 @@ recognizer:
 key_binder:
   import_preset: default  # 从 default.yaml 继承通用的
   aux_code_trigger: "`"   # 辅码引导符，要添加到 speller/alphabet
-  # bindings:             # 也可以再增加方案专有的快捷键
+  bindings:
+    - { when: has_menu, accept: semicolon, send: 2 }
 
 
 # 拼写设定
