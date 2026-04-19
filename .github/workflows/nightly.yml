@@ -1,0 +1,54 @@
+name: nightly
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nightly-release
+  cancel-in-progress: true
+
+jobs:
+  build-nightly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Generate frost_dict_for_fcitx5.txt from YAML
+        run: python others/program/release/generate_dict_for_fcitx5.py
+
+      - name: Generate rime zip
+        run: python others/program/release/generate_rime_all_schema_zip.py
+
+      - name: Update nightly tag
+        run: |
+          git tag -fa nightly -m "Nightly build"
+          git push origin refs/tags/nightly --force
+
+      - name: Publish nightly release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: nightly
+          name: Nightly
+          prerelease: true
+          make_latest: false
+          generate_release_notes: false
+          body: |
+            Automated nightly build from `${{ github.sha }}` on `${{ github.ref_name }}`.
+          files: |
+            frost_dict_for_fcitx5.txt
+            rime-frost-schemas.zip
