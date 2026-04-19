@@ -36,7 +36,7 @@ jobs:
 
       - name: Update nightly tag
         run: |
-          git tag -fa nightly -m "Nightly build"
+          git tag -f nightly
           git push origin refs/tags/nightly --force
 
       - name: Publish nightly release
