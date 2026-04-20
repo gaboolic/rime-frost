@@ -98,6 +98,23 @@
 
 可以运行 <https://github.com/gaboolic/rime-schema-compare> 来对比各个拼音方案
 
+[查看最新评测结果](report/latest.md)
+
+###  语言模型
+
+语言模型说明见 [rime-octagram-data.txt](others/语言模型相关/rime-octagram-data.txt)
+修改rime_frost.custom.yaml，添加：
+```
+patch:
+  grammar:
+    language: wanxiang-lts-zh-hans
+    collocation_max_length: 5
+    collocation_min_length: 2
+  translator/contextual_suggestions: true
+  translator/max_homophones: 4
+  translator/max_homographs: 2
+```
+
 ### 鸣谢
 
 雾凇词库 <https://github.com/iDvel/rime-ice> 白霜词库的初始词库、绝大部分配置来自雾凇词库
