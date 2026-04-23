@@ -108,7 +108,7 @@
 
 可以运行 <https://github.com/gaboolic/rime-schema-compare> 来对比各个拼音方案
 
-[查看最新评测结果](report/latest.md)
+[查看最新评测结果](https://github.com/gaboolic/rime-schema-compare/blob/main/report/latest.md)
 
 ###  语言模型
 
