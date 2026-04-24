@@ -31,3 +31,4 @@ rime_deployer
 rime_patch
 
 *.zip
+rime_frost_kenlm.schema.yaml
