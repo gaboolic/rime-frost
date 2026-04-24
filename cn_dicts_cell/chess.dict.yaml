@@ -8,9 +8,9 @@ version: "2024-07-13"
 sort: by_weight
 ...
 #象棋
-王天一	wang tian yi	183
+王天一	wang tian yi	162
 捉双	zhuo shuang	19
-大子	da zi	133
+大子	da zi	97
 出动大子	chu dong da zi	5
 子力	zi li	383
 棋理	qi li	99
@@ -33,7 +33,7 @@ sort: by_weight
 重炮杀	chong pao sha	7
 夹车炮	jia che pao	8
 闷宫	men gong	20
-闷杀	men sha	44
+闷杀	men sha	34
 铁门栓	tie men shuan	15
 天地炮	tian di pao	10
 空头炮	kong tou pao	8
@@ -91,7 +91,7 @@ sort: by_weight
 过河车	guo he che	12
 巡河线	xun he xian	8
 巡河车	xun he che	12
-飞象	fei xiang	93
+飞象	fei xiang	91
 飞相	fei xiang	15
 敢死车	gan si che	0
 敢死炮	gan si pao	3
@@ -120,7 +120,7 @@ sort: by_weight
 古棋谱	gu qi pu	1
 古谱	gu pu	34
 #国际象棋
-王车易位	wang che yi wei	80
+王车易位	wang che yi wei	67
 无子可动	wu zi ke dong	20
 吃过路兵	chi guo lu bing	20
 兵升变	bing sheng bian	12
@@ -149,7 +149,7 @@ sort: by_weight
 斜指	xie zhi	14
 长星	zhang xing	21
 峡月	xia yue	7
-云月	yun yue	31
+云月	yun yue	33
 浦月	pu yue	53
 岚月	lan yue	10
 斜月	xie yue	0

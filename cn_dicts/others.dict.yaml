@@ -24,31 +24,31 @@ sort: by_weight
 阿房宫赋	e fang gong fu	44
 阿房宫赋	a fang gong fu	44
 # 「伯伯」方言
-伯伯	bo bo	541
-伯伯	bai bai	541
+伯伯	bo bo	464
+伯伯	bai bai	464
 # 「斜」的古音
-远上寒山石径斜	yuan shang han shan shi jing xie	38
-远上寒山石径斜	yuan shang han shan shi jing xia	38
+远上寒山石径斜	yuan shang han shan shi jing xie	23
+远上寒山石径斜	yuan shang han shan shi jing xia	23
 # 「骑」目前统读 qi
-坐骑	zuo qi	1019
-坐骑	zuo ji	1019
-铁骑	tie qi	383
-铁骑	tie ji	383
-一骑绝尘	yi qi jue chen	684
-一骑绝尘	yi ji jue chen	684
+坐骑	zuo qi	942
+坐骑	zuo ji	942
+铁骑	tie qi	288
+铁骑	tie ji	288
+一骑绝尘	yi qi jue chen	654
+一骑绝尘	yi ji jue chen	654
 一骑当千	yi qi dang qian	53
 一骑当千	yi ji dang qian	53
 一骑红尘妃子笑	yi qi hong chen fei zi xiao	37
 一骑红尘妃子笑	yi ji hong chen fei zi xiao	37
 走单骑	zou dan qi	0
 走单骑	zou dan ji	0
-千里走单骑	qian li zou dan qi	100
-千里走单骑	qian li zou dan ji	100
+千里走单骑	qian li zou dan qi	95
+千里走单骑	qian li zou dan ji	95
 # 「街」的粤语和东北话读音及常见的两种写法
 仆街	pu jie	37
 仆街	pu gai	37
-扑街	pu jie	1315
-扑街	pu gai	1315
+扑街	pu jie	1190
+扑街	pu gai	1190
 扑街仔	pu jie zai	20
 扑街仔	pu gai zai	20
 仆街仔	pu jie zai	0
@@ -56,73 +56,73 @@ sort: by_weight
 街溜子	jie liu zi	70
 街溜子	gai liu zi	70
 # 「錤」这个字念 ji，但是台湾媒体都会念成 qi，他的英文名 Ming-Chi Kuo 也是接近 qi
-郭明錤	guo ming ji	38
-郭明錤	guo ming qi	38
+郭明錤	guo ming ji	31
+郭明錤	guo ming qi	31
 # 「镐 gao hao」的发音，多为韩国人名，不知道 🤷‍♂️，词库里为 gao，这里额外加上 hao 音
-李昌镐	li chang hao	242
+李昌镐	li chang hao	237
 曹世镐	cao shi hao	0
 张镐哲	zhang gao zhe	0
-姜成镐	jiang cheng hao	0
+姜成镐	jiang cheng hao	5
 姜镐童	jiang hao tong	0
-张镐濂	zhang hao lian	0
+张镐濂	zhang hao lian	7
 李敏镐	li min hao	28
 李陈镐	li chen hao	2
-赵亮镐	zhao liang hao	0
+赵亮镐	zhao liang hao	5
 郑俊镐	zheng jun hao	1
 ##### 错音错字提示。与 corrector.lua 配合，上面的是正确的，下面是错误的
 ### 错音
-馄饨	hun tun	898
-馄饨	hun dun	898
-主角	zhu jue	24115
-主角	zhu jiao	24115
-角色	jue se	20102
-角色	jiao se	20102
-比萨	bi sa	197
-比萨	pi sa	197
+馄饨	hun tun	705
+馄饨	hun dun	705
+主角	zhu jue	23437
+主角	zhu jiao	23437
+角色	jue se	31957
+角色	jiao se	31957
+比萨	bi sa	167
+比萨	pi sa	167
 比萨饼	bi sa bing	23
 比萨饼	pi sa bing	23
 吃比萨	chi bi sa	5
 吃比萨	chi pi sa	5
-说服	shuo fu	5642
-说服	shui fu	5642
-道行	dao heng	270
-道行	dao hang	270
-模样	mu yang	5185
-模样	mo yang	5185
-有模有样	you mu you yang	279
-有模有样	you mo you yang	279
-一模一样	yi mu yi yang	5083
-一模一样	yi mo yi yang	5083
+说服	shuo fu	5083
+说服	shui fu	5083
+道行	dao heng	271
+道行	dao hang	271
+模样	mu yang	5178
+模样	mo yang	5178
+有模有样	you mu you yang	277
+有模有样	you mo you yang	277
+一模一样	yi mu yi yang	5052
+一模一样	yi mo yi yang	5052
 装模作样	zhuang mu zuo yang	485
 装模作样	zhuang mo zuo yang	485
 人模狗样	ren mu gou yang	146
 人模狗样	ren mo gou yang	146
-模板	mu ban	14674
-模板	mo ban	14674
+模板	mu ban	14552
+模板	mo ban	14552
 阿弥陀佛	e mi tuo fo	371
 阿弥陀佛	a mi tuo fo	371
 南无阿弥陀佛	na mo e mi tuo fo	42
 南无阿弥陀佛	na mo a mi tuo fo	42
 南无阿弥陀佛	nan wu e mi tuo fo	42
 南无阿弥陀佛	nan wu a mi tuo fo	42
-给予	ji yu	11349
-给予	gei yu	11349
-槟榔	bing lang	633
-槟榔	bin lang	633
-张柏芝	zhang bo zhi	748
-张柏芝	zhang bai zhi	748
-藤蔓	teng wan	320
-藤蔓	teng man	320
+给予	ji yu	11253
+给予	gei yu	11253
+槟榔	bing lang	492
+槟榔	bin lang	492
+张柏芝	zhang bo zhi	680
+张柏芝	zhang bai zhi	680
+藤蔓	teng wan	321
+藤蔓	teng man	321
 弄堂	long tang	126
 弄堂	nong tang	126
-心宽体胖	xin kuan ti pan	39
-心宽体胖	xin kuan ti pang	39
+心宽体胖	xin kuan ti pan	36
+心宽体胖	xin kuan ti pang	36
 埋怨	man yuan	1138
 埋怨	mai yuan	1138
 虚与委蛇	xu yu wei yi	93
 虚与委蛇	xu yu wei she	93
-木讷	mu ne	471
-木讷	mu na	471
+木讷	mu ne	428
+木讷	mu na	428
 独乐乐	du yue le	13
 独乐乐	du le le	13
 众乐乐	zhong yue le	20
@@ -131,82 +131,82 @@ sort: by_weight
 荨麻	xun ma	71
 荨麻疹	xun ma zhen	198
 荨麻疹	qian ma zhen	198
-模具	mu ju	1935
-模具	mo ju	1935
+模具	mu ju	1931
+模具	mo ju	1931
 草薙	cao ti	88
 草薙	cao zhi	88
-草薙京	cao ti jing	144
-草薙京	cao zhi jing	144
+草薙京	cao ti jing	134
+草薙京	cao zhi jing	134
 草薙剑	cao ti jian	17
 草薙剑	cao zhi jian	17
-贾平凹	jia ping wa	247
-贾平凹	jia ping ao	247
-雪佛兰	xue fu lan	365
-雪佛兰	xue fo lan	365
-强劲	qiang jing	1505
-强劲	qiang jin	1505
+贾平凹	jia ping wa	238
+贾平凹	jia ping ao	238
+雪佛兰	xue fu lan	351
+雪佛兰	xue fo lan	351
+强劲	qiang jing	1503
+强劲	qiang jin	1503
 胴体	dong ti	80
 胴体	tong ti	80
 力能扛鼎	li neng gang ding	26
 力能扛鼎	li neng kang ding	26
-鸭绿江	ya lu jiang	152
-鸭绿江	ya lv jiang	152
-大腹便便	da fu pian pian	147
-大腹便便	da fu bian bian	147
-卡脖子	qia bo zi	308
-卡脖子	ka bo zi	308
-吱声	zi sheng	217
-吱声	zhi sheng	217
-掺和	chan huo	438
-掺和	chan he	438
-掺和	can huo	438
-掺和	can he	438
-称职	chen zhi	90
-称职	cheng zhi	90
-螺蛳粉	luo si fen	645
-螺蛳粉	luo shi fen	645
-调换	diao huan	616
-调换	tiao huan	616
-太行山	tai hang shan	390
-太行山	tai xing shan	390
-歇斯底里	xie si di li	883
-歇斯底里	jie si di li	883
-暖和	nuan huo	743
-暖和	nuan he	743
-模棱两可	mo leng liang ke	848
-模棱两可	mo ling liang ke	848
-鄱阳湖	po yang hu	1336
-鄱阳湖	pan yang hu	1336
-脖颈	bo geng	483
-脖颈	bo jing	483
-脖颈儿	bo geng er	1
-脖颈儿	bo jing er	1
+鸭绿江	ya lu jiang	153
+鸭绿江	ya lv jiang	153
+大腹便便	da fu pian pian	144
+大腹便便	da fu bian bian	144
+卡脖子	qia bo zi	298
+卡脖子	ka bo zi	298
+吱声	zi sheng	144
+吱声	zhi sheng	144
+掺和	chan huo	446
+掺和	chan he	446
+掺和	can huo	446
+掺和	can he	446
+称职	chen zhi	86
+称职	cheng zhi	86
+螺蛳粉	luo si fen	525
+螺蛳粉	luo shi fen	525
+调换	diao huan	591
+调换	tiao huan	591
+太行山	tai hang shan	389
+太行山	tai xing shan	389
+歇斯底里	xie si di li	878
+歇斯底里	jie si di li	878
+暖和	nuan huo	704
+暖和	nuan he	704
+模棱两可	mo leng liang ke	844
+模棱两可	mo ling liang ke	844
+鄱阳湖	po yang hu	1054
+鄱阳湖	pan yang hu	1054
+脖颈	bo geng	480
+脖颈	bo jing	480
+脖颈儿	bo geng er	0
+脖颈儿	bo jing er	0
 结扎	jie za	126
 结扎	jie zha	126
-海参崴	hai shen wai	304
-海参崴	hai shen wei	304
+海参崴	hai shen wai	289
+海参崴	hai shen wei	289
 厚朴	hou po	52
 厚朴	hou pu	52
 大宛马	da yuan ma	9
 大宛马	da wan ma	9
-龇牙	zi ya	62
-龇牙	ci ya	62
+龇牙	zi ya	60
+龇牙	ci ya	60
 龇着牙	zi zhe ya	14
 龇着牙	ci zhe ya	14
 龇牙咧嘴	zi ya lie zui	166
 龇牙咧嘴	ci ya lie zui	166
-头皮屑	tou pi xie	525
-头皮屑	tou pi xue	525
-六安	lu an	110
-六安	liu an	110
-六安县	lu an xian	3
-六安县	liu an xian	3
+头皮屑	tou pi xie	461
+头皮屑	tou pi xue	461
+六安	lu an	109
+六安	liu an	109
+六安县	lu an xian	4
+六安县	liu an xian	4
 六安市	lu an shi	23
 六安市	liu an shi	23
 六合区	lu he qu	3
 六合区	liu he qu	3
-安徽六安	an hui lu an	16
-安徽六安	an hui liu an	16
+安徽六安	an hui lu an	10
+安徽六安	an hui liu an	10
 安徽六安市	an hui lu an shi	3
 安徽六安市	an hui liu an shi	3
 安徽省六安市	an hui sheng lu an shi	8
@@ -217,33 +217,33 @@ sort: by_weight
 南京六合区	nan jing liu he qu	1
 南京市六合区	nan jing shi lu he qu	2
 南京市六合区	nan jing shi liu he qu	2
-偌大	ruo da	680
-偌大	nuo da	680
+偌大	ruo da	642
+偌大	nuo da	642
 饮鸩止渴	yin zhen zhi ke	336
 饮鸩止渴	yin jiu zhi ke	336
 饮鸩解渴	yin zhen jie ke	0
 饮鸩解渴	yin jiu jie ke	0
 ### 错字
-曾经	ceng jing	39759
-曾今	ceng jin	105
-按捺	an na	127
-按耐	an nai	8
-按捺不住	an na bu zhu	345
-按耐不住	an nai bu zhu	0
+曾经	ceng jing	39126
+曾今	ceng jin	200
+按捺	an na	75
+按耐	an nai	13
+按捺不住	an na bu zhu	296
+按耐不住	an nai bu zhu	204
 别价	bie jie	1
 别介	bie jie	31
 甭价	beng jie	0
 甭介	beng jie	0
 血脉贲张	xue mai ben zhang	49
-血脉偾张	xue mai fen zhang	0
-血脉喷张	xue mai pen zhang	0
-契诃夫	qi he fu	437
-契科夫	qi ke fu	0
-凑合	cou he	1809
-凑活	cou huo	246
+血脉偾张	xue mai fen zhang	36
+血脉喷张	xue mai pen zhang	86
+契诃夫	qi he fu	416
+契科夫	qi ke fu	65
+凑合	cou he	1524
+凑活	cou huo	314
 巨惠	ju hui	0
-钜惠	ju hui	0
-摩羯座	mo jie zuo	107
+钜惠	ju hui	15
+摩羯座	mo jie zuo	101
 魔蝎座	mo xie zuo	0
 ##### 叠字
 # 数据来源： https://zh.wikipedia.org/zh-cn/%E4%BA%8C%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8F%A0%E5%AD%97
@@ -256,7 +256,7 @@ sort: by_weight
 两个口	liang ge kou	0
 两个田	liang ge tian	0
 两个九	liang ge jiu	0
-两个人	liang ge ren	18484
+两个人	liang ge ren	17213
 两个飞	liang ge fei	0
 两个戈	liang ge ge	0
 两个厶	liang ge si	0
@@ -270,7 +270,7 @@ sort: by_weight
 两个臣	liang ge chen	0
 两个巾	liang ge jin	0
 两个左	liang ge zuo	0
-两个母	liang ge mu	0
+两个母	liang ge mu	1
 两个来	liang ge lai	0
 两个凡	liang ge fan	0
 两个夕	liang ge xi	0
@@ -283,18 +283,18 @@ sort: by_weight
 两个曰	liang ge yue	0
 两个尸	liang ge shi	0
 两个户	liang ge hu	0
-两个大	liang ge da	541
-两个八	liang ge ba	12
+两个大	liang ge da	522
+两个八	liang ge ba	11
 两个而	liang ge er	0
 两个羊	liang ge yang	0
-两个吉	liang ge ji	0
+两个吉	liang ge ji	1
 两个马	liang ge ma	0
 两个卅	liang ge sa	0
 两个巛	liang ge chuan	0
 两个止	liang ge zhi	0
 两个比	liang ge bi	0
 两个言	liang ge yan	0
-两个申	liang ge shen	0
+两个申	liang ge shen	1
 两个牛	liang ge niu	0
 两个余	liang ge yu	0
 两个束	liang ge shu	0
@@ -306,30 +306,30 @@ sort: by_weight
 两个風	liang ge feng	0
 两个石	liang ge shi	0
 两个日	liang ge ri	0
-两个月	liang ge yue	7342
-两个目	liang ge mu	0
+两个月	liang ge yue	6262
+两个目	liang ge mu	3
 两个白	liang ge bai	0
 两个百	liang ge bai	0
-两个耳	liang ge er	0
+两个耳	liang ge er	1
 两个屮	liang ge che	0
 两个屮	liang ge cao	0
 两个廿	liang ge nian	0
 两个卄	liang ge nian	0
-两个虫	liang ge chong	0
-两个虎	liang ge hu	0
-两个龍	liang ge long	0
+两个虫	liang ge chong	2
+两个虎	liang ge hu	1
+两个龍	liang ge long	1
 两个馬	liang ge ma	0
-两个犬	liang ge quan	0
+两个犬	liang ge quan	1
 两个入	liang ge ru	0
 两个习	liang ge xi	0
 两个卪	liang ge jie	0
 两个㔾	liang ge jie	0
 两个几	liang ge ji	0
 两个乙	liang ge yi	0
-两个夫	liang ge fu	0
+两个夫	liang ge fu	1
 两个禾	liang ge he	0
 两个干	liang ge gan	0
-两个井	liang ge jing	0
+两个井	liang ge jing	1
 两个斤	liang ge jin	0
 两个片	liang ge pian	0
 两个牙	liang ge ya	0
@@ -341,7 +341,7 @@ sort: by_weight
 两个毛	liang ge mao	0
 两个王	liang ge wang	0
 两个男	liang ge nan	0
-两个支	liang ge zhi	0
+两个支	liang ge zhi	1
 两个隻	liang ge zhi	0
 两个古	liang ge gu	0
 两个舌	liang ge she	0
@@ -350,9 +350,9 @@ sort: by_weight
 两个桼	liang ge qi	0
 两个旡	liang ge ji	0
 两个歹	liang ge dai	0
-两个匕	liang ge bi	0
+两个匕	liang ge bi	1
 两个幺	liang ge yao	0
-两个玄	liang ge xuan	0
+两个玄	liang ge xuan	1
 两个心	liang ge xin	0
 两个力	liang ge li	0
 两个欠	liang ge qian	0
@@ -363,19 +363,19 @@ sort: by_weight
 两个音	liang ge yin	0
 两个竟	liang ge jing	0
 两个竞	liang ge jing	0
-两个兄	liang ge xiong	0
+两个兄	liang ge xiong	1
 两个見	liang ge jian	0
 两个貝	liang ge bei	0
 两个辛	liang ge xin	0
-两个瓜	liang ge gua	0
+两个瓜	liang ge gua	10
 两个呆	liang ge dai	0
-两个果	liang ge guo	0
+两个果	liang ge guo	2
 两个鸟	liang ge niao	0
-两个巢	liang ge chao	0
+两个巢	liang ge chao	1
 两个禺	liang ge yu	0
 两个巿	liang ge fu	0
 两个句	liang ge ju	0
-两个奇	liang ge qi	0
+两个奇	liang ge qi	1
 两个真	liang ge zhen	0
 两个尹	liang ge yin	0
 两个昔	liang ge xi	0
@@ -406,7 +406,7 @@ sort: by_weight
 两个喜	liang ge xi	0
 两个走	liang ge zou	0
 两个昌	liang ge chang	0
-两个串	liang ge chuan	0
+两个串	liang ge chuan	3
 两个米	liang ge mi	0
 两个隶	liang ge li	0
 两个不	liang ge bu	0
@@ -416,10 +416,10 @@ sort: by_weight
 两个天	liang ge tian	0
 # 三叠字
 三个生	san ge sheng	0
-三个秦	san ge qin	0
+三个秦	san ge qin	4
 三个若	san ge ruo	0
 三个雲	san ge yun	0
-三个人	san ge ren	4260
+三个人	san ge ren	4186
 三个刀	san ge dao	0
 三个十	san ge shi	1
 三个力	san ge li	0
@@ -429,7 +429,7 @@ sort: by_weight
 三个又	san ge you	0
 三个口	san ge kou	5
 三个七	san ge qi	0
-三个吉	san ge ji	0
+三个吉	san ge ji	1
 三个土	san ge tu	0
 三个士	san ge shi	0
 三个女	san ge nv	0
@@ -438,7 +438,7 @@ sort: by_weight
 三个心	san ge xin	0
 三个手	san ge shou	0
 三个日	san ge ri	0
-三个木	san ge mu	0
+三个木	san ge mu	1
 三个止	san ge zhi	0
 三个毛	san ge mao	0
 三个水	san ge shui	0
@@ -449,9 +449,9 @@ sort: by_weight
 三个田	san ge tian	0
 三个白	san ge bai	0
 三个目	san ge mu	0
-三个直	san ge zhi	0
-三个石	san ge shi	0
-三个羊	san ge yang	0
+三个直	san ge zhi	1
+三个石	san ge shi	1
+三个羊	san ge yang	1
 三个耳	san ge er	0
 三个舌	san ge she	0
 三个屮	san ge che	0
@@ -462,14 +462,14 @@ sort: by_weight
 三个車	san ge che	0
 三个金	san ge jin	0
 三个隹	san ge zhui	0
-三个雷	san ge lei	0
+三个雷	san ge lei	4
 三个風	san ge feng	0
 三个飛	san ge fei	0
 三个香	san ge xiang	0
 三个马	san ge ma	0
 三个魚	san ge yu	0
 三个鹿	san ge lu	0
-三个龍	san ge long	0
+三个龍	san ge long	2
 三个个	san ge ge	0
 三个丶	san ge zhu	0
 三个丶	san ge dian	0
@@ -493,38 +493,38 @@ sort: by_weight
 三个天	san ge tian	0
 三个太	san ge tai	0
 三个𦉼	san ge ku	0
-三个宝	san ge bao	0
+三个宝	san ge bao	1
 三个宜	san ge yi	0
 三个客	san ge ke	0
 三个寒	san ge han	0
 三个少	san ge shao	0
-三个山	san ge shan	0
+三个山	san ge shan	2
 三个市	san ge shi	3
 三个文	san ge wen	0
 三个斗	san ge dou	0
 三个朿	san ge ci	0
 三个束	san ge shu	0
 三个林	san ge lin	0
-三个果	san ge guo	0
+三个果	san ge guo	2
 三个欠	san ge qian	0
 三个𣥚	san ge zou	0
-三个爪	san ge zhao	0
+三个爪	san ge zhao	7
 三个妥	san ge tuo	0
 三个用	san ge yong	0
 三个甲	san ge jia	0
 三个百	san ge bai	0
-三个盖	san ge gai	0
+三个盖	san ge gai	2
 三个県	san ge xian	0
-三个空	san ge kong	0
+三个空	san ge kong	4
 三个亇	san ge ge	0
 三个竹	san ge zhu	0
 三个罒	san ge mu	0
 三个羗	san ge qiang	0
 三个老	san ge lao	0
-三个月	san ge yue	9003
+三个月	san ge yue	7873
 三个至	san ge zhi	0
 三个興	san ge xing	0
-三个足	san ge zu	0
+三个足	san ge zu	4
 三个㖖	san ge nie	0
 三个門	san ge men	0
 三个面	san ge mian	0
@@ -543,7 +543,7 @@ sort: by_weight
 三个申	san ge shen	0
 三个𡿨	san ge quan	0
 三个去	san ge qu	0
-三个弓	san ge gong	0
+三个弓	san ge gong	1
 三个䖝	san ge chong	0
 三个丿	san ge pie	0
 三个户	san ge hu	0
@@ -552,13 +552,13 @@ sort: by_weight
 三个米	san ge mi	0
 # 四叠字
 四个乂	si ge yi	0
-四个人	si ge ren	2268
+四个人	si ge ren	2232
 四个厶	si ge si	0
 四个厶	si ge mou	0
 四个又	si ge you	0
 四个匕	si ge bi	0
 四个工	si ge gong	0
-四个口	si ge kou	0
+四个口	si ge kou	2
 四个天	si ge tian	0
 四个小	si ge xiao	0
 四个屮	si ge che	0
@@ -566,13 +566,13 @@ sort: by_weight
 四个火	si ge huo	0
 四个牛	si ge niu	0
 四个魚	si ge yu	0
-四个月	si ge yue	1860
+四个月	si ge yue	1502
 四个日	si ge ri	0
 四个林	si ge lin	0
 四个水	si ge shui	0
 四个石	si ge shi	0
-四个田	si ge tian	0
-四个甲	si ge jia	0
+四个田	si ge tian	1
+四个甲	si ge jia	1
 四个且	si ge qie	0
 四个囚	si ge qiu	0
 四个困	si ge kun	0
@@ -580,7 +580,7 @@ sort: by_weight
 四个老	si ge lao	0
 四个朿	si ge ci	0
 四个先	si ge xian	0
-四个金	si ge jin	0
+四个金	si ge jin	2
 四个泉	si ge quan	0
 四个言	si ge yan	0
 四个門	si ge men	0
@@ -588,8 +588,8 @@ sort: by_weight
 四个春	si ge chun	0
 四个車	si ge che	0
 四个風	si ge feng	0
-四个雷	si ge lei	0
+四个雷	si ge lei	12
 四个雲	si ge yun	0
 四个興	si ge xing	0
-四个龍	si ge long	0
+四个龍	si ge long	1
 四个土	si ge tu	0

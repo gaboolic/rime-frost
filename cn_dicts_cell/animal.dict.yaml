@@ -57,7 +57,7 @@ use_preset_vocabulary: true
 查理士王猎犬	cha li shi wang lie quan	0
 查理士王犬	cha li shi wang quan	0
 查理士王小猎犬	cha li shi wang xiao lie quan	2
-柴犬	chai quan	103
+柴犬	chai quan	84
 长毛猎犬	chang mao lie quan	0
 长毛牧羊犬	chang mao mu yang quan	0
 长须牧羊犬	chang xu mu yang quan	0
@@ -94,7 +94,7 @@ use_preset_vocabulary: true
 贵妇犬	gui fu quan	2
 哈巴狗	ha ba gou	49
 哈巴犬	ha ba quan	0
-哈士奇	ha shi qi	289
+哈士奇	ha shi qi	281
 荷兰毛狮犬	he lan mao shi quan	0
 蝴蝶犬	hu die quan	1
 狐狸犬	hu li quan	0
@@ -131,15 +131,15 @@ use_preset_vocabulary: true
 腊肠犬	la chang quan	5
 拉萨狗	la sa gou	0
 拉萨犬	la sa quan	0
-莱卡	lai ka	375
-狼犬	lang quan	19
+莱卡	lai ka	345
+狼犬	lang quan	10
 老式英国牧羊犬	lao shi ying guo mu yang quan	0
 猎狐犬	lie hu quan	4
 猎麋	lie mi	0
 猎枪犬	lie qiang quan	0
-猎犬	lie quan	218
+猎犬	lie quan	208
 猎雉犬	lie zhi quan	0
-灵缇	ling ti	7
+灵缇	ling ti	6
 路路	lu lu	55
 洛德瓦拉笃宾犬	luo de wa la du bin quan	0
 罗得西亚背脊犬	luo de xi ya bei ji quan	0
@@ -174,7 +174,7 @@ use_preset_vocabulary: true
 魔天仙	mo tian xian	0
 牧场长毛猎犬	mu chang chang mao lie quan	0
 牡丹犬	mu dan quan	0
-牧羊犬	mu yang quan	93
+牧羊犬	mu yang quan	91
 南非獒犬	nan fei ao quan	0
 纽芬兰犬	niu fen lan quan	1
 牛头㹴	niu tou geng	0
@@ -187,7 +187,7 @@ use_preset_vocabulary: true
 骑士查理王猎犬	qi shi cha li wang lie quan	0
 枪猎犬	qiang lie quan	0
 秦得圣赫伯特犬	qin de sheng he bo te quan	0
-秋田犬	qiu tian quan	80
+秋田犬	qiu tian quan	57
 拳师犬	quan shi quan	2
 确架獚	que jia huang	1
 日本狐狸犬	ri ben hu li quan	0
@@ -245,7 +245,7 @@ use_preset_vocabulary: true
 西里汉㹴	xi li han geng	0
 西摩犬	xi mo quan	0
 西帕凯犬	xi pa kai quan	0
-西施	xi shi	581
+西施	xi shi	537
 西施犬	xi shi quan	0
 西藏㹴	xi zang geng	0
 小丹犬	xiao dan quan	0
@@ -279,23 +279,23 @@ use_preset_vocabulary: true
 中国食犬	zhong guo shi quan	0
 中国狮子犬	zhong guo shi zi quan	0
 中国无毛犬	zhong guo wu mao quan	0
-无毛犬	wu mao quan	0
-仓鼠	cang shu	679
+无毛犬	wu mao quan	2
+仓鼠	cang shu	638
 鹿鹿	lu lu	20
-猛虎	meng hu	527
+猛虎	meng hu	364
 狮狮	shi shi	2
-兔兔	tu tu	425
+兔兔	tu tu	286
 白红眼	bai hong yan	0
-白化	bai hua	226
+白化	bai hua	181
 白化蛋白石基因	bai hua dan bai shi ji yin	0
-彩虹	cai hong	2276
-彩狸	cai li	1
+彩虹	cai hong	1705
+彩狸	cai li	0
 蛋白石	dan bai shi	7
 蛋白石基因	dan bai shi ji yin	0
 蛋白石肉桂基因	dan bai shi rou gui ji yin	0
 淡雅彩虹	dan ya cai hong	0
 非黄脸蓝系	fei huang lian lan xi	0
-冠羽	guan yu	12
+冠羽	guan yu	9
 华乐	hua le	12
 华乐蛋白石基因	hua le dan bai shi ji yin	0
 华乐基因	hua le ji yin	0
@@ -305,17 +305,17 @@ use_preset_vocabulary: true
 灰翅蛋白石基因	hui chi dan bai shi ji yin	0
 灰翅基因	hui chi ji yin	0
 灰翅肉桂基因	hui chi rou gui ji yin	0
-肉桂	rou gui	513
+肉桂	rou gui	486
 肉桂蛋白石基因	rou gui dan bai shi ji yin	0
 肉桂隐派基因	rou gui yin pai ji yin	0
 天空蓝灰翅	tian kong lan hui chi	0
 显派	xian pai	2
 隐派	yin pai	4
 隐派基因	yin pai ji yin	0
-鱼鳞	yu lin	234
+鱼鳞	yu lin	188
 原始蓝	yuan shi lan	0
 原始绿	yuan shi lv	0
-珍珠	zhen zhu	1780
+珍珠	zhen zhu	1409
 边境牧羊犬	bian jing mu yang quan	0
 凯利蓝梗	kai li lan geng	0
 可蒙犬	ke meng quan	0
@@ -326,7 +326,7 @@ use_preset_vocabulary: true
 西伯利亚哈士奇	xi bo li ya ha shi qi	1
 雪纳瑞	xue na rui	10
 英国古代牧羊犬	ying guo gu dai mu yang quan	0
-藏獒	zang ao	220
+藏獒	zang ao	209
 暗脉菜粉蝶	an mai cai fen die	0
 巴黎翠凤蝶	ba li cui feng die	0
 白带凤蝶	bai dai feng die	0
@@ -515,7 +515,7 @@ use_preset_vocabulary: true
 棕脉粉蝶	zong mai fen die	0
 阿拉斯加马拉密犬	a la si jia ma la mi quan	0
 阿拉斯加马拉缪特犬	a la si jia ma la miu te quan	0
-大型犬	da xing quan	94
+大型犬	da xing quan	61
 短毛阿拉斯加	duan mao a la si jia	0
 短毛阿拉斯加雪橇犬	duan mao a la si jia xue qiao quan	0
 短毛标准阿拉斯加	duan mao biao zhun a la si jia	0
@@ -533,22 +533,22 @@ use_preset_vocabulary: true
 奥西猫	ao xi mao	0
 巴厘猫	ba li mao	0
 伯曼猫	bo man mao	0
-波斯猫	bo si mao	63
+波斯猫	bo si mao	60
 布偶猫	bu ou mao	29
-田园猫	tian yuan mao	0
-德文卷毛猫	de wen juan mao mao	42
+田园猫	tian yuan mao	14
+德文卷毛猫	de wen juan mao mao	28
 电烫卷猫	dian tang juan mao	0
 东方短毛猫	dong fang duan mao mao	0
 东奇尼猫	dong qi ni mao	0
 俄罗斯蓝猫	e luo si lan mao	2
 哈瓦那棕猫	ha wa na zong mao	0
 加拿大无毛猫	jia na da wu mao mao	1
-无毛猫	wu mao mao	1
+无毛猫	wu mao mao	13
 金吉拉	jin ji la	10
 科拉特猫	ke la te mao	0
 柯尼斯卷毛猫	ke ni si juan mao mao	0
 褴褛猫	lan lv mao	1
-狸猫	li mao	156
+狸猫	li mao	145
 狸花猫	li hua mao	30
 曼岛无尾猫	man dao wu wei mao	0
 美国短毛猫	mei guo duan mao mao	3
@@ -557,10 +557,10 @@ use_preset_vocabulary: true
 美国硬毛猫	mei guo ying mao mao	0
 孟买猫	meng mai mao	2
 缅甸猫	mian dian mao	0
-缅因猫	mian yin mao	22
+缅因猫	mian yin mao	18
 挪威森林猫	nuo wei sen lin mao	1
 日本短尾猫	ri ben duan wei mao	0
-三花猫	san hua mao	13
+三花猫	san hua mao	9
 山东狮子猫	shan dong shi zi mao	0
 狮子猫	shi zi mao	3
 四川简州猫	si chuan jian zhou mao	0
@@ -569,18 +569,18 @@ use_preset_vocabulary: true
 索马里猫	suo ma li mao	0
 土耳其安哥拉猫	tu er qi an ge la mao	1
 土耳其梵猫	tu er qi fan mao	0
-西伯利亚猫	xi bo li ya mao	6
+西伯利亚猫	xi bo li ya mao	5
 喜马拉雅猫	xi ma la ya mao	3
 夏特尔猫	xia te er mao	0
 暹罗猫	xian luo mao	24
 新加坡猫	xin jia po mao	0
 玄猫	xuan mao	2
-异国短毛猫	yi guo duan mao mao	10
+异国短毛猫	yi guo duan mao mao	5
 英国短毛猫	ying guo duan mao mao	7
 云猫	yun mao	31
 重点色短毛猫	zhong dian se duan mao mao	0
-金渐层	jin jian ceng	1
-银渐层	yin jian ceng	1
-黑渐层	hei jian ceng	1
-白渐层	bai jian ceng	1
-虎斑猫	hu ban mao	3
+金渐层	jin jian ceng	3
+银渐层	yin jian ceng	12
+黑渐层	hei jian ceng	0
+白渐层	bai jian ceng	0
+虎斑猫	hu ban mao	5
