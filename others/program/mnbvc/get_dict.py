@@ -1,7 +1,10 @@
+import argparse
+import gzip
+import json
 import os
 import re
-import json
 import time
+from pathlib import Path
 
 # mnbvc liwu_253874_com.jsonl
 # file_name = os.path.join(os.path.expanduser("~/Downloads"),'undl_01.jsonl') # 通用平行
@@ -9,9 +12,9 @@ import time
 # file_name = os.path.join(os.path.expanduser("~/Downloads"),'46.jsonl') #维基
 # file_name = os.path.join(os.path.expanduser("~/Downloads"),'oscar_202201.part_0075.jsonl') # 通用文本
 
-# mnbvc 0.jsonl父级文件路径
-# 知乎 https://huggingface.co/datasets/liwu/MNBVC/tree/main/qa/20230196/zhihu
-MNBVC_PATH = "~/mnbvc"
+PROJECT_ROOT = Path(__file__).resolve().parents[4]
+DEFAULT_MNBVC_PATH = PROJECT_ROOT / "yuliao"
+DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parents[3] / "cn_dicts_dazhu"
 
 
 def scan_file(path):
@@ -24,7 +27,14 @@ def scan_file(path):
     for root, dirs, files in os.walk(path):
         for file in files:
             file_list.append(os.path.join(root, file))
-    return file_list
+    deduped_files = {}
+    for file_name in sorted(file_list):
+        if file_name.endswith(".jsonl.gz"):
+            key = file_name[:-3]
+            deduped_files[key] = file_name
+        elif file_name.endswith(".jsonl"):
+            deduped_files.setdefault(file_name, file_name)
+    return sorted(deduped_files.values())
 
 
 def check_dir_exist(file_name):
@@ -37,6 +47,12 @@ def check_dir_exist(file_name):
         os.mkdir(file_name)
 
 
+def open_corpus_file(file_name):
+    if file_name.endswith(".gz"):
+        return gzip.open(file_name, "rt", encoding="utf-8")
+    return open(file_name, "r", encoding="utf-8")
+
+
 def print_log(msg):
     """
     打印日志
@@ -47,28 +63,27 @@ def print_log(msg):
                                               msg=msg))
 
 
-def mnbvc_zhihu(file_name):
+def mnbvc_zhihu(file_name, output_dir):
     """
     处理mnbvc知乎数据，用于后续拆词和统计词频
     :param total_count:
     :return:
     """
     total_count_mark = 0
-    check_dir_exist('cn_dicts_dazhu')
+    check_dir_exist(output_dir)
     match = re.search(r'(\d+)', file_name)  # 查找所有的数字序列
     if not match:
         return
     number = int(match.group(1))  # 获取第一个匹配组，并转换为整数            print_log("Read File: {}".format(file_name))
-    write_file_name = os.path.join('cn_dicts_dazhu', "zhihu_deal{}.txt".format(number))
-    with open(file_name, 'r') as file, open(write_file_name, 'w') as write_file:
-        # 读取整个文件内容，减少IO读写
-        lines = file.readlines()
-        line_count = len(lines)
-
-        for line in lines:
+    write_file_name = os.path.join(output_dir, "zhihu_deal{}.txt".format(number))
+    with open_corpus_file(file_name) as file, open(write_file_name, 'w', encoding='utf-8') as write_file:
+        line_count = 0
+        print_log("Read File: {}".format(file_name))
+        for line in file:
             line = line.strip()
             if len(line) == 0:
                 continue
+            line_count += 1
 
             try:
                 data = json.loads(line)
@@ -77,19 +92,36 @@ def mnbvc_zhihu(file_name):
                 print_log(line)
                 continue
 
-            q_content = data['问']
-            a_content = data['答']
-            q_length = len(q_content)
-            a_length = len(a_content)
-            write_file.write(q_content + "\n" + a_content + "\n")
-            total_count_mark += q_length + a_length
+            a_content = data.get('答', '').strip()
+            if not a_content:
+                continue
+            write_file.write(a_content + "\n")
+            total_count_mark += len(a_content)
 
         print_log(f"line_count {line_count}")
     return total_count_mark
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Extract answer-only Zhihu corpus text from MNBVC JSONL files.")
+    parser.add_argument(
+        "--input-dir",
+        default=str(DEFAULT_MNBVC_PATH),
+        help="Directory containing .jsonl or .jsonl.gz files. Defaults to the repository yuliao folder.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        default=str(DEFAULT_OUTPUT_DIR),
+        help="Directory for zhihu_deal*.txt outputs. Defaults to rime-frost/cn_dicts_dazhu.",
+    )
+    return parser.parse_args()
+
+
 if __name__ == '__main__':
-    for file_name in scan_file(os.path.expanduser(MNBVC_PATH)):
-        if file_name.endswith('.jsonl'):
-            total_count = mnbvc_zhihu(file_name)
+    args = parse_args()
+    input_dir = os.path.expanduser(args.input_dir)
+    output_dir = os.path.expanduser(args.output_dir)
+    for file_name in scan_file(input_dir):
+        if file_name.endswith(('.jsonl', '.jsonl.gz')):
+            total_count = mnbvc_zhihu(file_name, output_dir)
             print_log(f"total_count {total_count}\n")
