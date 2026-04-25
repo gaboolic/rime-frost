@@ -121,6 +121,7 @@ patch:
     non_collocation_penalty: -4
     collocation_max_length: 5
     collocation_min_length: 2
+    collocation_penalty: -14
   translator/contextual_suggestions: true
   translator/max_homophones: 4
   translator/max_homographs: 2
