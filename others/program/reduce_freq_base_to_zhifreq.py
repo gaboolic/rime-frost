@@ -16,6 +16,9 @@ with open(os.path.join('others', '降频词.txt'), 'r', encoding='utf-8') as dic
         if line.startswith("#"):
             continue
         need_to_reduce_freq_word_map[line] = ''
+        params = line.split()
+        if len(params) > 1:
+            need_to_reduce_freq_word_map[params[0] + '\t' + ' '.join(params[1:])] = ''
 
 need_to_add_freq_word_map = {}
 with open(os.path.join('others', '增频词.txt'), 'r', encoding='utf-8') as dict_file:
@@ -75,7 +78,7 @@ for file_name in cn_dicts_common_list:
     # File paths
     yaml_file_path = os.path.join('cn_dicts', file_name)
 
-    write_file = open(os.path.join('cn_dicts_dazhu', file_name), 'w')
+    write_file = open(os.path.join('cn_dicts_dazhu', file_name), 'w', newline='\n')
     with open(yaml_file_path, 'r', encoding='utf-8') as dict_file:
         for line in dict_file:
             line = line.strip()

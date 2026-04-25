@@ -32,8 +32,8 @@ sort: by_weight
 # 「骑」目前统读 qi
 坐骑	zuo qi	942
 坐骑	zuo ji	942
-铁骑	tie qi	288
-铁骑	tie ji	288
+铁骑	tie qi	287
+铁骑	tie ji	287
 一骑绝尘	yi qi jue chen	654
 一骑绝尘	yi ji jue chen	654
 一骑当千	yi qi dang qian	53
@@ -47,8 +47,8 @@ sort: by_weight
 # 「街」的粤语和东北话读音及常见的两种写法
 仆街	pu jie	37
 仆街	pu gai	37
-扑街	pu jie	1190
-扑街	pu gai	1190
+扑街	pu jie	1188
+扑街	pu gai	1188
 扑街仔	pu jie zai	20
 扑街仔	pu gai zai	20
 仆街仔	pu jie zai	0
@@ -71,24 +71,24 @@ sort: by_weight
 郑俊镐	zheng jun hao	1
 ##### 错音错字提示。与 corrector.lua 配合，上面的是正确的，下面是错误的
 ### 错音
-馄饨	hun tun	705
-馄饨	hun dun	705
-主角	zhu jue	23437
-主角	zhu jiao	23437
-角色	jue se	31957
-角色	jiao se	31957
+馄饨	hun tun	699
+馄饨	hun dun	699
+主角	zhu jue	23463
+主角	zhu jiao	23463
+角色	jue se	32334
+角色	jiao se	32334
 比萨	bi sa	167
 比萨	pi sa	167
 比萨饼	bi sa bing	23
 比萨饼	pi sa bing	23
 吃比萨	chi bi sa	5
 吃比萨	chi pi sa	5
-说服	shuo fu	5083
-说服	shui fu	5083
-道行	dao heng	271
-道行	dao hang	271
-模样	mu yang	5178
-模样	mo yang	5178
+说服	shuo fu	5096
+说服	shui fu	5096
+道行	dao heng	275
+道行	dao hang	275
+模样	mu yang	5184
+模样	mo yang	5184
 有模有样	you mu you yang	277
 有模有样	you mo you yang	277
 一模一样	yi mu yi yang	5052
@@ -97,32 +97,32 @@ sort: by_weight
 装模作样	zhuang mo zuo yang	485
 人模狗样	ren mu gou yang	146
 人模狗样	ren mo gou yang	146
-模板	mu ban	14552
-模板	mo ban	14552
+模板	mu ban	14543
+模板	mo ban	14543
 阿弥陀佛	e mi tuo fo	371
 阿弥陀佛	a mi tuo fo	371
 南无阿弥陀佛	na mo e mi tuo fo	42
 南无阿弥陀佛	na mo a mi tuo fo	42
 南无阿弥陀佛	nan wu e mi tuo fo	42
 南无阿弥陀佛	nan wu a mi tuo fo	42
-给予	ji yu	11253
-给予	gei yu	11253
-槟榔	bing lang	492
-槟榔	bin lang	492
+给予	ji yu	11261
+给予	gei yu	11261
+槟榔	bing lang	475
+槟榔	bin lang	475
 张柏芝	zhang bo zhi	680
 张柏芝	zhang bai zhi	680
-藤蔓	teng wan	321
-藤蔓	teng man	321
+藤蔓	teng wan	322
+藤蔓	teng man	322
 弄堂	long tang	126
 弄堂	nong tang	126
 心宽体胖	xin kuan ti pan	36
 心宽体胖	xin kuan ti pang	36
-埋怨	man yuan	1138
-埋怨	mai yuan	1138
+埋怨	man yuan	1139
+埋怨	mai yuan	1139
 虚与委蛇	xu yu wei yi	93
 虚与委蛇	xu yu wei she	93
-木讷	mu ne	428
-木讷	mu na	428
+木讷	mu ne	425
+木讷	mu na	425
 独乐乐	du yue le	13
 独乐乐	du le le	13
 众乐乐	zhong yue le	20
@@ -131,8 +131,8 @@ sort: by_weight
 荨麻	xun ma	71
 荨麻疹	xun ma zhen	198
 荨麻疹	qian ma zhen	198
-模具	mu ju	1931
-模具	mo ju	1931
+模具	mu ju	1935
+模具	mo ju	1935
 草薙	cao ti	88
 草薙	cao zhi	88
 草薙京	cao ti jing	134
@@ -141,8 +141,8 @@ sort: by_weight
 草薙剑	cao zhi jian	17
 贾平凹	jia ping wa	238
 贾平凹	jia ping ao	238
-雪佛兰	xue fu lan	351
-雪佛兰	xue fo lan	351
+雪佛兰	xue fu lan	352
+雪佛兰	xue fo lan	352
 强劲	qiang jing	1503
 强劲	qiang jin	1503
 胴体	dong ti	80
@@ -155,26 +155,26 @@ sort: by_weight
 大腹便便	da fu bian bian	144
 卡脖子	qia bo zi	298
 卡脖子	ka bo zi	298
-吱声	zi sheng	144
-吱声	zhi sheng	144
+吱声	zi sheng	116
+吱声	zhi sheng	116
 掺和	chan huo	446
 掺和	chan he	446
 掺和	can huo	446
 掺和	can he	446
 称职	chen zhi	86
 称职	cheng zhi	86
-螺蛳粉	luo si fen	525
-螺蛳粉	luo shi fen	525
+螺蛳粉	luo si fen	493
+螺蛳粉	luo shi fen	493
 调换	diao huan	591
 调换	tiao huan	591
 太行山	tai hang shan	389
 太行山	tai xing shan	389
 歇斯底里	xie si di li	878
 歇斯底里	jie si di li	878
-暖和	nuan huo	704
-暖和	nuan he	704
-模棱两可	mo leng liang ke	844
-模棱两可	mo ling liang ke	844
+暖和	nuan huo	685
+暖和	nuan he	685
+模棱两可	mo leng liang ke	847
+模棱两可	mo ling liang ke	847
 鄱阳湖	po yang hu	1054
 鄱阳湖	pan yang hu	1054
 脖颈	bo geng	480
@@ -195,14 +195,14 @@ sort: by_weight
 龇着牙	ci zhe ya	14
 龇牙咧嘴	zi ya lie zui	166
 龇牙咧嘴	ci ya lie zui	166
-头皮屑	tou pi xie	461
-头皮屑	tou pi xue	461
-六安	lu an	109
-六安	liu an	109
+头皮屑	tou pi xie	460
+头皮屑	tou pi xue	460
+六安	lu an	107
+六安	liu an	107
 六安县	lu an xian	4
 六安县	liu an xian	4
-六安市	lu an shi	23
-六安市	liu an shi	23
+六安市	lu an shi	25
+六安市	liu an shi	25
 六合区	lu he qu	3
 六合区	liu he qu	3
 安徽六安	an hui lu an	10
@@ -217,19 +217,19 @@ sort: by_weight
 南京六合区	nan jing liu he qu	1
 南京市六合区	nan jing shi lu he qu	2
 南京市六合区	nan jing shi liu he qu	2
-偌大	ruo da	642
-偌大	nuo da	642
+偌大	ruo da	640
+偌大	nuo da	640
 饮鸩止渴	yin zhen zhi ke	336
 饮鸩止渴	yin jiu zhi ke	336
 饮鸩解渴	yin zhen jie ke	0
 饮鸩解渴	yin jiu jie ke	0
 ### 错字
-曾经	ceng jing	39126
+曾经	ceng jing	39213
 曾今	ceng jin	200
 按捺	an na	75
-按耐	an nai	13
-按捺不住	an na bu zhu	296
-按耐不住	an nai bu zhu	204
+按耐	an nai	14
+按捺不住	an na bu zhu	295
+按耐不住	an nai bu zhu	206
 别价	bie jie	1
 别介	bie jie	31
 甭价	beng jie	0
@@ -239,7 +239,7 @@ sort: by_weight
 血脉喷张	xue mai pen zhang	86
 契诃夫	qi he fu	416
 契科夫	qi ke fu	65
-凑合	cou he	1524
+凑合	cou he	1456
 凑活	cou huo	314
 巨惠	ju hui	0
 钜惠	ju hui	15
@@ -256,7 +256,7 @@ sort: by_weight
 两个口	liang ge kou	0
 两个田	liang ge tian	0
 两个九	liang ge jiu	0
-两个人	liang ge ren	17213
+两个人	liang ge ren	16618
 两个飞	liang ge fei	0
 两个戈	liang ge ge	0
 两个厶	liang ge si	0
@@ -282,11 +282,11 @@ sort: by_weight
 两个乂	liang ge yi	0
 两个曰	liang ge yue	0
 两个尸	liang ge shi	0
-两个户	liang ge hu	0
-两个大	liang ge da	522
+两个户	liang ge hu	2
+两个大	liang ge da	477
 两个八	liang ge ba	11
 两个而	liang ge er	0
-两个羊	liang ge yang	0
+两个羊	liang ge yang	1
 两个吉	liang ge ji	1
 两个马	liang ge ma	0
 两个卅	liang ge sa	0
@@ -306,7 +306,7 @@ sort: by_weight
 两个風	liang ge feng	0
 两个石	liang ge shi	0
 两个日	liang ge ri	0
-两个月	liang ge yue	6262
+两个月	liang ge yue	6011
 两个目	liang ge mu	3
 两个白	liang ge bai	0
 两个百	liang ge bai	0
@@ -367,7 +367,7 @@ sort: by_weight
 两个見	liang ge jian	0
 两个貝	liang ge bei	0
 两个辛	liang ge xin	0
-两个瓜	liang ge gua	10
+两个瓜	liang ge gua	11
 两个呆	liang ge dai	0
 两个果	liang ge guo	2
 两个鸟	liang ge niao	0
@@ -419,7 +419,7 @@ sort: by_weight
 三个秦	san ge qin	4
 三个若	san ge ruo	0
 三个雲	san ge yun	0
-三个人	san ge ren	4186
+三个人	san ge ren	4171
 三个刀	san ge dao	0
 三个十	san ge shi	1
 三个力	san ge li	0
@@ -515,13 +515,13 @@ sort: by_weight
 三个百	san ge bai	0
 三个盖	san ge gai	2
 三个県	san ge xian	0
-三个空	san ge kong	4
+三个空	san ge kong	5
 三个亇	san ge ge	0
 三个竹	san ge zhu	0
 三个罒	san ge mu	0
 三个羗	san ge qiang	0
 三个老	san ge lao	0
-三个月	san ge yue	7873
+三个月	san ge yue	7732
 三个至	san ge zhi	0
 三个興	san ge xing	0
 三个足	san ge zu	4
@@ -552,7 +552,7 @@ sort: by_weight
 三个米	san ge mi	0
 # 四叠字
 四个乂	si ge yi	0
-四个人	si ge ren	2232
+四个人	si ge ren	2230
 四个厶	si ge si	0
 四个厶	si ge mou	0
 四个又	si ge you	0
@@ -566,7 +566,7 @@ sort: by_weight
 四个火	si ge huo	0
 四个牛	si ge niu	0
 四个魚	si ge yu	0
-四个月	si ge yue	1502
+四个月	si ge yue	1469
 四个日	si ge ri	0
 四个林	si ge lin	0
 四个水	si ge shui	0
@@ -588,7 +588,7 @@ sort: by_weight
 四个春	si ge chun	0
 四个車	si ge che	0
 四个風	si ge feng	0
-四个雷	si ge lei	12
+四个雷	si ge lei	13
 四个雲	si ge yun	0
 四个興	si ge xing	0
 四个龍	si ge long	1

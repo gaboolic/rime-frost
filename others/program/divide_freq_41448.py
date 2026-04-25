@@ -37,7 +37,7 @@ def divide_file_freq(file_path: Path, divisor: int, dry_run: bool) -> int:
             changed_count += 1
 
     if changed_count and not dry_run:
-        file_path.write_text("".join(new_lines), encoding="utf-8")
+        file_path.write_text("".join(new_lines), encoding="utf-8", newline="\n")
 
     return changed_count
 
