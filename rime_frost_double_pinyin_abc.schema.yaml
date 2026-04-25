@@ -107,7 +107,8 @@ engine:
     - uniquifier                                    # 去重
 
 grammar:
-  no_grammar_penalty: -4
+  language: zh-moqi.gram  # 这个很小几乎不起作用但是不能不配置，为了让non_collocation_penalty生效
+  non_collocation_penalty: -4
 
 # Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字
 date_translator:
@@ -173,6 +174,7 @@ pin_cand_filter:
 
 # 主翻译器，拼音
 translator:
+  grammar_penalty: -4
   dictionary: rime_frost          # 挂载词库 rime_frost.dict.yaml
   prism: rime_frost_double_pinyin_abc      # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   spelling_hints: 8             # corrector.lua ：为了让错音错字提示的 Lua 同时适配全拼双拼，将拼音显示在 comment 中

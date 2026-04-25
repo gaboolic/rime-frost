@@ -101,7 +101,8 @@ engine:
     - uniquifier                                    # 去重
 
 grammar:
-  no_grammar_penalty: -4
+  language: zh-moqi.gram  # 这个很小几乎不起作用但是不能不配置，为了让non_collocation_penalty生效（只要有值就行 不过模型不存在日志里会报错）
+  non_collocation_penalty: -4           # 重要！！！！  这个值非常重要，是整句时的组词惩罚，默认值-12惩罚太大了，不适合白霜词库
 
 # Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字
 date_translator:
@@ -309,6 +310,7 @@ pin_cand_filter:
 
 # 主翻译器，拼音
 translator:
+  grammar_penalty: -4
   dictionary: rime_frost        # 挂载词库 rime_frost.dict.yaml
   spelling_hints: 8           # corrector.lua ：为了让错音错字提示的 Lua 同时适配全拼双拼，将拼音显示在 comment 中
   always_show_comments: true  # corrector.lua ：Rime 默认在 preedit 等于 comment 时取消显示 comment，这里强制一直显示，供 corrector.lua 做判断用。

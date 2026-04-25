@@ -118,6 +118,7 @@
 patch:
   grammar:
     language: wanxiang-lts-zh-hans
+    non_collocation_penalty: -4
     collocation_max_length: 5
     collocation_min_length: 2
   translator/contextual_suggestions: true
