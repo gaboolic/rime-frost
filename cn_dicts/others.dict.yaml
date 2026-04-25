@@ -73,18 +73,18 @@ sort: by_weight
 ### 错音
 馄饨	hun tun	699
 馄饨	hun dun	699
-主角	zhu jue	23463
-主角	zhu jiao	23463
-角色	jue se	32334
-角色	jiao se	32334
+主角	zhu jue	23466
+主角	zhu jiao	23466
+角色	jue se	32374
+角色	jiao se	32374
 比萨	bi sa	167
 比萨	pi sa	167
 比萨饼	bi sa bing	23
 比萨饼	pi sa bing	23
 吃比萨	chi bi sa	5
 吃比萨	chi pi sa	5
-说服	shuo fu	5096
-说服	shui fu	5096
+说服	shuo fu	5104
+说服	shui fu	5104
 道行	dao heng	275
 道行	dao hang	275
 模样	mu yang	5184
@@ -97,8 +97,8 @@ sort: by_weight
 装模作样	zhuang mo zuo yang	485
 人模狗样	ren mu gou yang	146
 人模狗样	ren mo gou yang	146
-模板	mu ban	14543
-模板	mo ban	14543
+模板	mu ban	14547
+模板	mo ban	14547
 阿弥陀佛	e mi tuo fo	371
 阿弥陀佛	a mi tuo fo	371
 南无阿弥陀佛	na mo e mi tuo fo	42
@@ -143,8 +143,8 @@ sort: by_weight
 贾平凹	jia ping ao	238
 雪佛兰	xue fu lan	352
 雪佛兰	xue fo lan	352
-强劲	qiang jing	1503
-强劲	qiang jin	1503
+强劲	qiang jing	1505
+强劲	qiang jin	1505
 胴体	dong ti	80
 胴体	tong ti	80
 力能扛鼎	li neng gang ding	26
@@ -197,8 +197,8 @@ sort: by_weight
 龇牙咧嘴	ci ya lie zui	166
 头皮屑	tou pi xie	460
 头皮屑	tou pi xue	460
-六安	lu an	107
-六安	liu an	107
+六安	lu an	108
+六安	liu an	108
 六安县	lu an xian	4
 六安县	liu an xian	4
 六安市	lu an shi	25
@@ -224,7 +224,7 @@ sort: by_weight
 饮鸩解渴	yin zhen jie ke	0
 饮鸩解渴	yin jiu jie ke	0
 ### 错字
-曾经	ceng jing	39213
+曾经	ceng jing	39203
 曾今	ceng jin	200
 按捺	an na	75
 按耐	an nai	14
@@ -256,7 +256,7 @@ sort: by_weight
 两个口	liang ge kou	0
 两个田	liang ge tian	0
 两个九	liang ge jiu	0
-两个人	liang ge ren	16618
+两个人	liang ge ren	16592
 两个飞	liang ge fei	0
 两个戈	liang ge ge	0
 两个厶	liang ge si	0
@@ -277,13 +277,13 @@ sort: by_weight
 两个彐	liang ge ji	0
 两个𢎘	liang ge han	0
 两个魚	liang ge yu	0
-两个明	liang ge ming	0
+两个明	liang ge ming	1
 两个朿	liang ge ci	0
 两个乂	liang ge yi	0
 两个曰	liang ge yue	0
 两个尸	liang ge shi	0
 两个户	liang ge hu	2
-两个大	liang ge da	477
+两个大	liang ge da	464
 两个八	liang ge ba	11
 两个而	liang ge er	0
 两个羊	liang ge yang	1
@@ -306,7 +306,7 @@ sort: by_weight
 两个風	liang ge feng	0
 两个石	liang ge shi	0
 两个日	liang ge ri	0
-两个月	liang ge yue	6011
+两个月	liang ge yue	6003
 两个目	liang ge mu	3
 两个白	liang ge bai	0
 两个百	liang ge bai	0
@@ -521,7 +521,7 @@ sort: by_weight
 三个罒	san ge mu	0
 三个羗	san ge qiang	0
 三个老	san ge lao	0
-三个月	san ge yue	7732
+三个月	san ge yue	7715
 三个至	san ge zhi	0
 三个興	san ge xing	0
 三个足	san ge zu	4
@@ -566,7 +566,7 @@ sort: by_weight
 四个火	si ge huo	0
 四个牛	si ge niu	0
 四个魚	si ge yu	0
-四个月	si ge yue	1469
+四个月	si ge yue	1470
 四个日	si ge ri	0
 四个林	si ge lin	0
 四个水	si ge shui	0
