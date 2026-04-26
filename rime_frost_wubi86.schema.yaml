@@ -79,6 +79,7 @@ engine:
   filters:
     - lua_filter@*autocap_filter                     # 英文自动大写
     - lua_filter@*v_filter                           # v 模式 symbols 优先
+    - reverse_lookup_filter@pinyin_reverse_lookup    # zz 拼音反查显示五笔编码
     # - lua_filter@*long_word_filter                   # 长词优先（顺序要求：长词优先 > Emoji）
     - lua_filter@*reduce_english_filter              # 降低部分英语单词在候选项的位置
     - simplifier@emoji                              # Emoji
@@ -169,17 +170,24 @@ custom_phrase:
   initial_quality: 99
 
 
-# zz 临时拼音
+# z 临时拼音
 pinyin_lookup:
   tag: pinyin_lookup
   dictionary: rime_frost
   enable_user_dict: false
   enable_completion: true
-  prefix: "zz"
+  prefix: "z"
   suffix: "'"
   tips: "  〔拼音〕"
   comment_format:
     - erase/^.*$//
+
+
+# z 拼音反查滤镜：在拼音反查候选旁显示五笔编码
+pinyin_reverse_lookup:
+  tags: [ pinyin_lookup ]
+  overwrite_comment: true
+  dictionary: rime_frost_wubi86
 
 
 # 显示墨奇码拆分
