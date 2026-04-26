@@ -12,14 +12,9 @@ schema:
   description: |
     墨奇辅助码·顶屏版·小鹤双拼，为了4码自动上屏 只收录了8000字 https://github.com/gaboolic/rime-shuangpin-fuzhuma/wiki/%E5%A2%A8%E5%A5%87%E7%A0%81%E6%8B%86%E5%88%86%E8%A7%84%E5%88%99
   dependencies:
-    - reverse_moqima
-    - radical_flypy
     - cangjie5
     - stroke
-    - zrlf
-    - emoji
-    - easy_en
-    - jp_sela
+    - radical_pinyin  # 部件拆字反查
 
 switches:
     - name: ascii_mode
@@ -42,8 +37,6 @@ engine:
     processors:
       - ascii_composer
       - recognizer
-      - lua_processor@*sbxlm.popping
-      - lua_processor@*sbxlm.key_binder # 绑定按键
       - key_binder
       - speller
       - punctuator
@@ -54,11 +47,9 @@ engine:
       - ascii_segmentor
       - matcher
       - abc_segmentor
+      - affix_segmentor@radical_lookup  # 部件拆字自定义 tag
       - punct_segmentor
-      - affix_segmentor@emojis
       - affix_segmentor@verbatim ## not as the last of this list
-      - affix_segmentor@easy_en_simp
-      - affix_segmentor@jp_sela
       - fallback_segmentor
     translators:
       - punct_translator
@@ -70,28 +61,19 @@ engine:
       - table_translator@custom_phrase_super_2jian
       - table_translator@custom_phrase_super_3jian
       - table_translator@custom_phrase_super_3jian_no_conflict
-      - table_translator@big_char
-      - reverse_lookup_translator
-      - reverse_lookup_translator@reverse_moqima
-      - reverse_lookup_translator@radical_flypy
+      - table_translator@radical_lookup   # 部件拆字反查
       - reverse_lookup_translator@reverse_stroke
-      - reverse_lookup_translator@reverse_zrlf
       - reverse_lookup_translator@reverse_cj
       - table_translator
       - lua_translator@*date_translator    # 时间、日期、星期
       - lua_translator@*lunar              # 农历
-      - table_translator@emojis ## 添加注释后：停用ae模式emoji输入
-      - table_translator@easy_en_simp ## 添加注释后：停用单词输入
-      - table_translator@jp_sela ## 添加注释后：停用日语输入
       - lua_translator@*unicode            # Unicode
       - lua_translator@*number_translator  # 数字、金额大写
       - lua_translator@*calculator    # 计算器
     filters:
       # tab置顶词回显在第一个comment中
-      - lua_filter@*stick 
       - lua_filter@*long_word_filter                   # 长词优先（顺序要求：长词优先 > Emoji）
       - simplifier@emoji                              # Emoji
-      # - lua_filter@*reduce_emoji_filter   # 按需启用，作用是降低Emoji在候选项中的位置排序(顺序要求：Emoji > 降低排序)
       - simplifier@chaifen
       - simplifier@chaifen_all
       - simplifier@chinese_english
@@ -106,6 +88,15 @@ custom_phrase:
   enable_completion: false
   enable_sentence: false
   initial_quality: 100000
+
+# 3码出简让全
+custom_phrase_3_code:
+  dictionary: ""
+  user_dict: custom_phrase/custom_phrase_cjrq_for_xh
+  db_class: stabledb
+  enable_sentence: false
+  enable_completion: false
+  initial_quality: 100001
 
 # 无冲突的3简
 custom_phrase_super_3jian_no_conflict:
@@ -171,36 +162,6 @@ custom_phrase_super_3jian:
   enable_completion: false
   initial_quality: -1 #本表词和系统词重码居后
 
-reverse_moqima:
-  tag: reverse_moqima
-  dictionary: reverse_moqima
-  enable_completion: true
-  prefix: "amq"
-  suffix: "'"
-  tips: 〔墨奇反查〕
-  preedit_format:
-    # - xlit/hspnz/一丨丿丶乙/
-
-radical_flypy:
-  tag: radical_flypy
-  dictionary: radical_flypy # https://github.com/mirtlecn/rime-radical-pinyin
-  enable_completion: true
-  prefix: "az"
-  suffix: "'"
-  tips: 〔部件组字〕
-  preedit_format:
-    # - xlit/hspnz/一丨丿丶乙/
-
-reverse_zrlf:
-  tag: reverse_zrlf
-  dictionary: zrlf
-  enable_completion: true
-  prefix: "alf"
-  suffix: "'"
-  tips: 〔自然兩分〕
-  preedit_format:
-    # - xlit/hspnz/一丨丿丶乙/
-
 reverse_cj:
   tag: reverse_cj
   dictionary: cangjie5
@@ -222,11 +183,15 @@ reverse_stroke:
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
 
-reverse_lookup:
-  tags: [ reverse_moqima,radical_flypy,reverse_stroke,reverse_zrlf,reverse_cj]
-  overwrite_comment: true
-  # 可以改为全拼+音调+释义的码表
-  dictionary: moqi_wan.extended # 提示码词表
+# 部件拆字反查
+radical_lookup:
+  tag: radical_lookup
+  dictionary: radical_pinyin
+  enable_user_dict: false
+  prefix: "uU"
+  tips: "  〔拆字〕"
+  comment_format:
+    - erase/^.*$//
 
 # 显示墨奇码拆分
 chaifen:
@@ -257,7 +222,7 @@ chinese_english:
 emoji:
   option_name: emoji
   opencc_config: emoji.json
-  inherit_comment: false  # 在 corrector.lua 及反查中，emoji 返回空注释
+  inherit_comment: false
 
 # 简繁切换
 traditionalize:
@@ -290,53 +255,14 @@ recognizer:
     uppercase: "^[A-Z].*$"
     punct: '^/([0-9]|10|[A-z]+)$'
     ## 拆字、笔画、仓颉:
-    reverse_moqima: "^amq[A-Za-z]*$" # "[[]b[a-z]*'?$"
-    radical_flypy: "^az[a-z]*'?$" # "[[]b[a-z]*'?$"
+    radical_lookup: "^uU[a-z]+$"
     reverse_stroke: "^ab[A-Za-z]*$"
     reverse_cj: "^arj[A-Za-z]*$"
-    reverse_zrlf: "^alf[A-Za-z]*$"
-    #造词
-    add_user_dict: "^ac[A-Za-z]*$"
 
-    emojis: "^ae[a-z]*'?$" # "^ae.*$"
-    easy_en_simp: "^aw[a-z]*"
-    jp_sela: "^aj[a-z]*"
     card_number: "^C[0-9]+"              # 脚本将自动获取第 2 个字符 C 作为触发前缀
     unicode: "^U[a-f0-9]+"              # 脚本将自动获取第 2 个字符 U 作为触发前缀，响应 lua_translator@unicode，输出 Unicode 字符
     number: "^R[0-9]+[.]?[0-9]*"        # 脚本将自动获取第 2 个字符 R 作为触发前缀，响应 lua_translator@number_translator，数字金额大写
     gregorian_to_lunar: "^N[0-9]{1,8}"  # 脚本将自动获取第 2 个字符 N 作为触发前缀，响应 lua_translator@lunar，公历转农历，输入 N20240115 得到「二〇二三年腊月初五」
-
-emojis:
-  tag: emojis
-  dictionary: emoji
-  enable_completion: true
-  prefix: "ae"
-  #suffix: "'"
-  tips: " Emoji"
-
-easy_en_simp:
-  tag: easy_en_simp
-  dictionary: easy_en
-  enable_completion: true
-  enable_sentence: false
-  prefix: "aw"
-  # suffix: "'"
-  tips: "英文单词（可去元音）"
-  spelling_hints: 9
-  comment_format:
-    - xform/^.+$//
-
-jp_sela:
-  tag: jp_sela
-  dictionary: jp_sela
-  enable_completion: true
-  enable_sentence: false
-  prefix: "aj"
-  # suffix: "'"
-  tips: "日语"
-  spelling_hints: 9
-  comment_format:
-    - xform/^.+$//
 
 # 计算器触发关键字
 calculator:

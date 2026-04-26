@@ -15,6 +15,7 @@ schema:
   dependencies:
     - melt_eng        # 英文输入
     - radical_pinyin  # 部件拆字反查
+    - rime_frost      # 临时拼音
 
 
 # 开关
@@ -58,6 +59,7 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
+    - affix_segmentor@pinyin_lookup  # zz 临时拼音
     - affix_segmentor@radical_lookup  # 部件拆字自定义 tag
     - punct_segmentor
     - fallback_segmentor
@@ -68,6 +70,7 @@ engine:
     - lua_translator@*lunar              # 农历
     - table_translator@custom_phrase    # 自定义短语 custom_phrase.txt
     - table_translator@melt_eng         # 英文输入
+    - script_translator@pinyin_lookup   # zz 临时拼音
     - table_translator@radical_lookup   # 部件拆字反查
     - lua_translator@*unicode            # Unicode
     - lua_translator@*number_translator  # 数字、金额大写
@@ -166,6 +169,19 @@ custom_phrase:
   initial_quality: 99
 
 
+# zz 临时拼音
+pinyin_lookup:
+  tag: pinyin_lookup
+  dictionary: rime_frost
+  enable_user_dict: false
+  enable_completion: true
+  prefix: "zz"
+  suffix: "'"
+  tips: "  〔拼音〕"
+  comment_format:
+    - erase/^.*$//
+
+
 # 显示墨奇码拆分
 chaifen:
   option_name: chaifen
@@ -232,6 +248,7 @@ recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]|10|[A-Za-z]+)$"
+    pinyin_lookup: "^zz[a-z]*'?$"
     radical_lookup: "^uU[a-z]+$"
     unicode: "^U[a-f0-9]+"
     number: "^R[0-9]+[.]?[0-9]*"
