@@ -1,0 +1,22 @@
+# Rime schema
+# encoding: utf-8
+
+# T9-only Easy English schema. It reuses melt_eng.dict.yaml, but builds a
+# separate prism with numeric T9 spellings so other schemas are not affected.
+
+__include: melt_eng.schema.yaml:/
+
+schema:
+  schema_id: melt_eng_t9
+  name: Easy English Nano T9
+  version: "2026-04-26"
+
+translator:
+  dictionary: melt_eng
+  spelling_hints: 9
+
+speller:
+  algebra:
+    __include: algebra_rime_frost
+    __append:
+      - xlit/abcdefghijklmnopqrstuvwxyz/22233344455566677778889999/
