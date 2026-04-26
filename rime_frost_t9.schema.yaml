@@ -14,8 +14,8 @@ __include: rime_frost.schema.yaml:/
 
 
 schema:
-  schema_id: t9
-  name: 仓·九宫格
+  schema_id: rime_frost_t9
+  name: 九键拼音
   version: "1"
   author:
     - Dvel

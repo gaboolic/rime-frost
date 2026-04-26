@@ -14,6 +14,7 @@ schema_list:
   - schema: rime_frost_double_pinyin_mspy     # 微软双拼
   - schema: rime_frost_double_pinyin_sogou    # 搜狗双拼
   - schema: rime_frost_double_pinyin_flypy    # 小鹤双拼
+  - schema: rime_frost_t9                     # 仓·九宫格
   # - schema: rime_frost_double_pinyin_abc      # 智能 ABC 双拼
   # - schema: rime_frost_double_pinyin_ziguang  # 紫光双拼
 
