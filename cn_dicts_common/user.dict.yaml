@@ -1,0 +1,402 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# 用户自定义词
+#
+#
+---
+name: user
+version: "2024-02-25"
+sort: by_weight
+...
+
+大竹
+魔然
+雾凇鹤
+鹤形
+雾凇自然
+墨奇
+墨奇码
+墨奇音形
+墨奇辅助码
+矧码
+空明码
+并击
+星空键道
+星猫键道
+飞码
+声笔飞码
+跟打器
+出简让全
+出简无全
+无简无全
+㨃在一起
+㨃得
+互㨃
+㨃人
+##### 叠字
+# 数据来源： https://zh.wikipedia.org/zh-cn/%E4%BA%8C%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8F%A0%E5%AD%97
+# 二叠字
+两个火
+两个土
+两个一
+两个二
+两个山
+两个口
+两个田
+两个九
+两个人
+两个飞
+两个戈
+两个厶	ll[ad ge[rl si[[
+两个厶	ll[ad ge[rl mz[[
+两个又
+两个香
+两个面
+两个兀
+两个女
+两个𡥦	ll[ad ge[rl ni[[
+两个臣
+两个巾
+两个左
+两个母
+两个来
+两个凡
+两个夕
+两个彐	ll[ad ge[rl ji[[
+两个𢎘	ll[ad ge[rl hj[[
+两个魚	ll[ad ge[rl yu[[
+两个明
+两个朿	ll[ad ge[rl ci[[
+两个乂
+两个曰
+两个尸
+两个户
+两个大
+两个八
+两个而
+两个羊
+两个吉
+两个马
+两个卅
+两个巛	ll[ad ge[rl ir[[
+两个止
+两个比
+两个言
+两个申
+两个牛
+两个余
+两个束
+两个罒	ll[ad ge[rl mu[[
+两个㐅	ll[ad ge[rl wu[[
+两个金
+两个木
+两个水
+两个火
+两个風	ll[ad ge[rl fg[[
+两个石
+两个口
+两个日
+两个月
+两个目
+两个白
+两个百
+两个耳
+两个山
+两个屮	ll[ad ge[rl ie[[
+两个屮	ll[ad ge[rl cc[[
+两个廿
+两个卄	ll[ad ge[rl nm[[
+两个虫
+两个虎
+两个龍	ll[ad ge[rl ls[[
+两个馬	ll[ad ge[rl ma[[
+两个犬
+两个人
+两个入
+两个习
+两个卪	ll[ad ge[rl jp[[
+两个㔾	ll[ad ge[rl jp[[
+两个几
+两个乙
+两个大
+两个夫
+两个禾
+两个干
+两个井
+两个斤
+两个片
+两个牙
+两个炎
+两个弓
+两个永
+两个亦
+两个手
+两个毛
+两个王
+两个男
+两个女
+两个又
+两个支
+两个隻	ll[ad ge[rl vi[[
+两个古
+两个吉
+两个舌
+两个言
+两个户
+两个启
+两个來	ll[ad ge[rl ld[[
+两个桼	ll[ad ge[rl qi[[
+两个旡	ll[ad ge[rl ji[[
+两个夕
+两个歹
+两个匕
+两个幺
+两个玄
+两个心
+两个力
+两个欠
+两个子
+两个予
+两个享
+两个立
+两个音
+两个竟
+两个竞
+两个兄
+两个見	ll[ad ge[rl jm[[
+两个貝	ll[ad ge[rl bw[[
+两个辛
+两个瓜
+两个呆
+两个果
+两个鸟
+两个巢
+两个禺	ll[ad ge[rl yu[ld
+两个巿	ll[ad ge[rl fu[[
+两个句
+两个奇
+两个真
+两个尹
+两个昔
+两个易
+两个臣
+两个面
+两个先
+两个老
+两个示
+两个至
+两个生
+两个車	ll[ad ge[rl ie[[
+两个車	ll[ad ge[rl ju[[
+两个足
+两个區	ll[ad ge[rl qu[[
+两个香
+两个隹	ll[ad ge[rl vv[rf
+两个牟
+两个豕
+两个𠂢	ll[ad ge[rl pd[[
+两个畐	ll[ad ge[rl fu[[
+两个㣇	ll[ad ge[rl yi[[
+两个邑
+两个堯	ll[ad ge[rl yc[[
+两个秉
+两个倉	ll[ad ge[rl ch[[
+两个東	ll[ad ge[rl ds[[
+两个善
+两个僉	ll[ad ge[rl qm[[
+两个齒	ll[ad ge[rl ii[[
+两个喜
+两个走
+两个止
+两个昌
+两个串
+两个米
+两个束
+两个隶
+两个不
+两个龙
+两个乞
+两个夋	ll[ad ge[rl qy[[
+两个天
+# 三叠字
+三个生
+三个秦
+三个若
+三个雲	sj[ae ge[rl yy[[
+三个人
+三个刀
+三个十
+三个力
+三个原
+三个厶	sj[ae ge[rl si[[
+三个厶	sj[ae ge[rl mz[[
+三个又
+三个口
+三个七
+三个吉
+三个土
+三个士
+三个女
+三个子
+三个小
+三个心
+三个手
+三个日
+三个木
+三个止
+三个毛
+三个水
+三个泉
+三个火
+三个牛
+三个犬
+三个田
+三个白
+三个目
+三个直
+三个石
+三个羊
+三个耳
+三个舌
+三个屮	sj[ae ge[rl ie[[
+三个屮	sj[ae ge[rl cc[[
+三个虫
+三个言
+三个贝
+三个車	sj[ae ge[rl ie[[
+三个金
+三个隹	sj[ae ge[rl vv[rf
+三个雷
+三个風	sj[ae ge[rl fg[[
+三个飛	sj[ae ge[rl fw[[
+三个香
+三个马
+三个魚	sj[ae ge[rl yu[[
+三个鹿
+三个龍	sj[ae ge[rl ls[[
+三个个
+三个丶	sj[ae ge[rl vu[[
+三个丶	sj[ae ge[rl dm[[
+三个了
+三个介
+三个企
+三个舍
+三个圥	sj[ae ge[rl lu[[
+三个光
+三个兔
+三个全
+三个𠙽	sj[ae ge[rl kk[[
+三个𠧪	sj[ae ge[rl tn[[
+三个𠧪	sj[ae ge[rl yz[[
+三个㔾	sj[ae ge[rl jp[[
+三个厡	sj[ae ge[rl yr[[
+三个可
+三个因
+三个夏
+三个大
+三个天
+三个太
+三个𦉼	sj[ae ge[rl ku[[
+三个宝
+三个宜
+三个客
+三个寒
+三个少
+三个山
+三个市
+三个文
+三个斗
+三个朿	sj[ae ge[rl ci[[
+三个束
+三个林
+三个果
+三个欠
+三个𣥚	sj[ae ge[rl zz[[
+三个爪
+三个妥
+三个用
+三个甲
+三个百
+三个盖
+三个県	sj[ae ge[rl xm[[
+三个空
+三个亇	sj[ae ge[rl ge[[
+三个竹
+三个罒	sj[ae ge[rl mu[[
+三个羗	sj[ae ge[rl ql[[
+三个老
+三个月
+三个至
+三个興	sj[ae ge[rl xk[[
+三个足
+三个㖖	sj[ae ge[rl np[[
+三个門	sj[ae ge[rl mf[[
+三个面
+三个頁	sj[ae ge[rl ye[[
+三个鳥	sj[ae ge[rl nn[[
+三个男
+三个立
+三个九
+三个也
+三个加
+三个動	sj[ae ge[rl ds[[
+三个千
+三个方
+三个朔
+三个玉
+三个申
+三个𡿨	sj[ae ge[rl qr[[
+三个去
+三个弓
+三个䖝	sj[ae ge[rl is[[
+三个丿	sj[ae ge[rl pp[[
+三个户
+三个瓜
+三个鸟
+三个米
+# 四叠字
+四个乂	si[ke ge[rl yi[pn
+四个人
+四个厶	si[ke ge[rl si[[
+四个厶	si[ke ge[rl mz[[
+四个又
+四个匕
+四个工
+四个口
+四个天
+四个小
+四个屮	si[ke ge[rl ie[[
+四个屮	si[ke ge[rl cc[[
+四个火
+四个牛
+四个魚	si[ke ge[rl yu[[
+四个月
+四个日
+四个林
+四个水
+四个石
+四个田
+四个甲
+四个且
+四个囚
+四个困
+四个竹
+四个老
+四个朿	si[ke ge[rl ci[[
+四个先
+四个金
+四个泉
+四个言
+四个門	si[ke ge[rl mf[[
+四个果
+四个春
+四个車	si[ke ge[rl ie[[
+四个風	si[ke ge[rl fg[[
+四个雷
+四个雲	si[ke ge[rl yy[[
+四个興	si[ke ge[rl xk[[
+四个龍	si[ke ge[rl ls[[
+四个土
+
