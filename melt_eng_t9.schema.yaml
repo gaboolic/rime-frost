@@ -13,10 +13,84 @@ schema:
 
 translator:
   dictionary: melt_eng
+  prism: melt_eng_t9
   spelling_hints: 9
 
 speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA9876543210
   algebra:
-    __include: algebra_rime_frost
-    __append:
-      - xlit/abcdefghijklmnopqrstuvwxyz/22233344455566677778889999/
+    # 通用英文派生规则，展开自 melt_eng.schema.yaml:/algebra_rime_frost。
+    - derive/1([4-7|9])/$1teen/
+    - derive/11/eleven/
+    - derive/12/twelve/
+    - derive/13/thirteen/
+    - derive/15/fifteen/
+    - derive/18/eighteen/
+    - derive/0/o/
+    - derive/0/O/
+    - derive/0/zero/
+    - derive/1/one/
+    - derive/10/ten/
+    - derive/2/to/
+    - derive/2/two/
+    - derive/3/three/
+    - derive/4/for/
+    - derive/4/four/
+    - derive/5/five/
+    - derive/6/six/
+    - derive/7/seven/
+    - derive/8/eight/
+    - derive/9/nine/
+    - derive/\+/plus/
+    - derive/\./dot/
+    - derive/@/at/
+    - derive/-/hyphen/
+    - derive/#/hash/
+    - derive/#/number/
+    - derive/#/sharp/
+    - derive/♯/sharp/
+    - derive / slash
+    - derive/&/and/
+    - derive/%/percent/
+    - derive/[.]//
+    - derive/[+]//
+    - derive/[@]//
+    - derive/[-]//
+    - derive/[_]//
+    - derive/[^a-zA-Z0-9]//
+    - erase/^[^a-zA-Z0-9].+$/
+    - derive/^.+$/\L$0/
+    - derive/^.+$/\U$0/
+    - derive/^./\U$0/
+    - derive/^([a-z]{2})/\U$1/
+    - derive/^([a-z]{3})/\U$1/
+    - derive/^([a-z]{4})/\U$1/
+    - derive/^([a-z]{5})/\U$1/
+    - derive/^([a-z]{6})/\U$1/
+    - derive/^([a-z]{7})/\U$1/
+    - derive/^([a-z]{8})/\U$1/
+    - derive/^([a-z]{9})/\U$1/
+    - derive/^([a-z]{10})/\U$1/
+    - derive/(?<!\d)1([1-9])(?!\d)/shi$1/
+    - derive/([1-9])0000(?!0)/$1wan/
+    - derive/([1-9])000(?!0)/$1qian/
+    - derive/([1-9])00(?!0)/$1bai/
+    - derive/([2-9])0(?!0)/$1shi/
+    - derive/(?<!\d)([2-9])([1-9])(?!\d)/$1shi$2/
+    - derive/\./dian/
+    - derive/10/shi/
+    - derive/0/ling/
+    - derive/1/yi/
+    - derive/2/er/
+    - derive/2/liang/
+    - derive/3/san/
+    - derive/4/si/
+    - derive/5/wu/
+    - derive/6/liu/
+    - derive/7/qi/
+    - derive/8/ba/
+    - derive/9/jiu/
+    - derive/\+/jia/
+    - derive/#/jing/
+    # 九宫格数字映射。
+    - xlit/abcdefghijklmnopqrstuvwxyz/22233344455566677778889999/
