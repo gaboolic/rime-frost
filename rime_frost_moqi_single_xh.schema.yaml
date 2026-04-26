@@ -72,7 +72,7 @@ engine:
       - lua_translator@*calculator    # 计算器
     filters:
       # tab置顶词回显在第一个comment中
-      - lua_filter@*long_word_filter                   # 长词优先（顺序要求：长词优先 > Emoji）
+      # - lua_filter@*long_word_filter                   # 长词优先（顺序要求：长词优先 > Emoji）
       - simplifier@emoji                              # Emoji
       - simplifier@chaifen
       - simplifier@chaifen_all
