@@ -43,7 +43,6 @@ switcher:
     - chinese_english
     - emoji
     - chaifen
-    - aux_code
     - mars
     - ascii_punct
   fold_options: true            # 呼出时是否折叠，多方案时建议折叠 true ，一个方案建议展开 false
