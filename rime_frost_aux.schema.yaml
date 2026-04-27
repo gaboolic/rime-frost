@@ -1,0 +1,13 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: rime_frost_aux
+  name: 白霜单字辅码
+  version: "2026-04-27"
+
+translator:
+  dictionary: rime_frost_aux
+  enable_sentence: false
+  enable_completion: false
+  enable_user_dict: false
