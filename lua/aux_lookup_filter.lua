@@ -1,5 +1,9 @@
 local M = {}
 
+local function escape_pattern(s)
+    return (s:gsub("(%W)", "%%%1"))
+end
+
 local function pass_through(input)
     for cand in input:iter() do
         yield(cand)
@@ -180,6 +184,26 @@ end
 function M.init(env)
     local config = env.engine.schema.config
     env.trigger_key = config:get_string("frost_aux_filter/trigger_key") or "`"
+
+    env.notifier = env.engine.context.select_notifier:connect(function(ctx)
+        local trigger_pos = ctx.input:find(env.trigger_key, 1, true)
+        if not trigger_pos then
+            return
+        end
+
+        local trigger_pattern = escape_pattern(env.trigger_key)
+        local input_without_aux = ctx.input:match("^(.-)" .. trigger_pattern)
+        if input_without_aux and input_without_aux ~= "" then
+            ctx.input = input_without_aux
+            ctx:commit()
+        end
+    end)
+end
+
+function M.fini(env)
+    if env.notifier then
+        env.notifier:disconnect()
+    end
 end
 
 function M.func(input, env)
