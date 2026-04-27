@@ -88,6 +88,95 @@ local function candidate_matches(aux_table, text, aux)
     return false
 end
 
+local function collect_candidates(input)
+    local candidates = {}
+    for cand in input:iter() do
+        candidates[#candidates + 1] = {
+            cand = cand,
+            chars = split_chars(cand.text),
+        }
+    end
+    return candidates
+end
+
+local function find_variant_positions(candidates)
+    local positions = {}
+    local max_len = 0
+    for i = 1, #candidates do
+        if #candidates[i].chars > max_len then
+            max_len = #candidates[i].chars
+        end
+    end
+
+    for pos = 1, max_len do
+        local first = nil
+        local differs = false
+        for i = 1, #candidates do
+            local ch = candidates[i].chars[pos]
+            if ch then
+                if first == nil then
+                    first = ch
+                elseif ch ~= first then
+                    differs = true
+                    break
+                end
+            end
+        end
+        if differs then
+            positions[#positions + 1] = pos
+        end
+    end
+    return positions
+end
+
+local function find_variant_group(candidates)
+    local groups = {}
+    local order = {}
+    for i = 1, #candidates do
+        local len = #candidates[i].chars
+        if len > 0 then
+            local group = groups[len]
+            if not group then
+                group = {}
+                groups[len] = group
+                order[#order + 1] = len
+            end
+            group[#group + 1] = candidates[i]
+        end
+    end
+
+    for i = 1, #order do
+        local group = groups[order[i]]
+        if #group >= 2 then
+            local positions = find_variant_positions(group)
+            if #positions > 0 then
+                return group, positions
+            end
+        end
+    end
+    return nil, nil
+end
+
+local function candidate_matches_positions(aux_table, chars, aux, positions)
+    for i = 1, #positions do
+        local ch = chars[positions[i]]
+        if ch and char_matches_prefix(aux_table, ch, aux) then
+            return true
+        end
+    end
+    if #aux > 1 then
+        local selected = {}
+        for i = 1, #positions do
+            local ch = chars[positions[i]]
+            if ch then
+                selected[#selected + 1] = ch
+            end
+        end
+        return match_subsequence(aux_table, selected, aux)
+    end
+    return false
+end
+
 function M.init(env)
     local config = env.engine.schema.config
     env.trigger_key = config:get_string("frost_aux_filter/trigger_key") or "`"
@@ -109,9 +198,28 @@ function M.func(input, env)
     end
 
     local aux_table = load_aux_table()
-    for cand in input:iter() do
-        if candidate_matches(aux_table, cand.text, aux) then
-            yield(cand)
+    local candidates = collect_candidates(input)
+    local variant_group, variant_positions = find_variant_group(candidates)
+    local yielded = {}
+    local has_variant_match = false
+
+    if variant_group and variant_positions then
+        for i = 1, #variant_group do
+            local item = variant_group[i]
+            if candidate_matches_positions(aux_table, item.chars, aux, variant_positions) then
+                yielded[item] = true
+                has_variant_match = true
+                yield(item.cand)
+            end
+        end
+    end
+
+    for i = 1, #candidates do
+        local item = candidates[i]
+        if not yielded[item] then
+            if (not has_variant_match) and candidate_matches(aux_table, item.cand.text, aux) then
+                yield(item.cand)
+            end
         end
     end
 end
