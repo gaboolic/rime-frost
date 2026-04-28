@@ -114,6 +114,11 @@ def parse_args():
         default=str(DEFAULT_OUTPUT_DIR),
         help="Directory for zhihu_deal*.txt outputs. Defaults to rime-frost/cn_dicts_dazhu.",
     )
+    parser.add_argument(
+        "--input-files",
+        nargs="*",
+        help="Specific .jsonl or .jsonl.gz files to process. When set, --input-dir is ignored.",
+    )
     return parser.parse_args()
 
 
@@ -121,7 +126,9 @@ if __name__ == '__main__':
     args = parse_args()
     input_dir = os.path.expanduser(args.input_dir)
     output_dir = os.path.expanduser(args.output_dir)
-    for file_name in scan_file(input_dir):
+    file_names = args.input_files if args.input_files else scan_file(input_dir)
+    for file_name in file_names:
+        file_name = os.path.expanduser(file_name)
         if file_name.endswith(('.jsonl', '.jsonl.gz')):
             total_count = mnbvc_zhihu(file_name, output_dir)
             print_log(f"total_count {total_count}\n")

@@ -21,6 +21,18 @@ with open(os.path.join('others', '降频词.txt'), 'r', encoding='utf-8') as dic
             need_to_reduce_freq_word_map[params[0] + '\t' + ' '.join(params[1:])] = ''
 
 
+need_to_add_freq_word_map = {}
+with open(os.path.join('others', '增频词.txt'), 'r', encoding='utf-8') as dict_file:
+    for line in dict_file:
+        line = line.strip()
+        if line.startswith("#"):
+            continue
+        params = line.split("\t")
+        word = params[0]
+        freq = params[1]
+        need_to_add_freq_word_map[word] = int(freq)
+
+
 char_yin_freq_map = {}
 with open(os.path.join('others', '多音字.txt'), 'r', encoding='utf-8') as dict_file:
     for line in dict_file:
@@ -77,6 +89,8 @@ for file_name in cn_dicts_common_list:
                 freq = int(word_freq_map[character])
                 if character in need_to_reduce_freq_word_map or character +'\t' + encoding in need_to_reduce_freq_word_map:
                     freq = freq//10
+                if character in need_to_add_freq_word_map:
+                    freq = freq + need_to_add_freq_word_map[character]
                 
 
             if character+encoding in char_yin_freq_map:

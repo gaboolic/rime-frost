@@ -152,6 +152,6 @@ python others/program/mnbvc/yuliao_fenci.py
 ## for AI
 阅读program下所有脚本，阅读 @others/program/README.md 
 把 E:\语料 下的 0 1 2 3 4.jsonl.gz 重新分词统计词频，更新本仓库的频率
-注意要点：只获取回答的正文统计
+注意要点：只获取回答的正文统计 统计词频时要把“错字词”的词频加到正确的词频上
 统计完成要根据“降频词” “增频词” 最终处理
 41448.dict.yaml也要最终频率/10
