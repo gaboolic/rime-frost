@@ -98,7 +98,7 @@ engine:
     - uniquifier                                    # 去重
 
 grammar:
-  language: zh-moqi.gram  # 这个很小几乎不起作用但是不能不配置，为了让non_collocation_penalty生效（只要有值就行 不过模型不存在日志里会报错）
+  language: zh-moqi  # 这个很小几乎不起作用但是不能不配置，为了让non_collocation_penalty生效（只要有值就行 不过模型不存在日志里会报错）
   non_collocation_penalty: -4           # 重要！！！！  这个值非常重要，是整句时的组词惩罚，默认值-12惩罚太大了，不适合白霜词库
 
 # Lua 配置: 日期、时间、星期、ISO 8601、时间戳的触发关键字
