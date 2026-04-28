@@ -28,7 +28,7 @@
 - 符号 /fh 更多符号详见`https://github.com/gaboolic/rime-frost/blob/master/symbols_v.yaml`
 - 带调韵母 /a /e /u 等
 - 日期与时间 rq sj xq dt ts
-- 开启辅助码 ` [墨奇辅助码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming)
+- 开启句中任意辅助码 ` 使用说明：[句中任意辅助码](/lua/aux_lookup_filter.lua)  拆分说明：[墨奇辅助码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming)
 - 部件拆字反查 uU
 - unicode字符 U
 - 数字金额大写 R
