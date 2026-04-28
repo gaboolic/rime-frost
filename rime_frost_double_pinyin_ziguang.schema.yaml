@@ -173,8 +173,8 @@ pin_cand_filter:
 # 主翻译器，拼音
 translator:
   grammar_penalty: -4
-  max_homophones: 8
-  max_homographs: 8
+  max_homophones: 4
+  max_homographs: 4
   max_sentences: 3
   dictionary: rime_frost          # 挂载词库 rime_frost.dict.yaml
   prism: rime_frost_double_pinyin_ziguang  # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
