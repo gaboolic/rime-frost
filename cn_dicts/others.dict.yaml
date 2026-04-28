@@ -71,14 +71,14 @@ sort: by_weight
 郑俊镐	zheng jun hao	1
 ##### 错音错字提示。与 corrector.lua 配合，上面的是正确的，下面是错误的
 ### 错音
-馄饨	hun tun	699
-馄饨	hun dun	699
-主角	zhu jue	23466
-主角	zhu jiao	23466
-角色	jue se	32374
-角色	jiao se	32374
-比萨	bi sa	167
-比萨	pi sa	167
+馄饨	hun tun	698
+馄饨	hun dun	698
+主角	zhu jue	23465
+主角	zhu jiao	23465
+角色	jue se	32382
+角色	jiao se	32382
+比萨	bi sa	163
+比萨	pi sa	163
 比萨饼	bi sa bing	23
 比萨饼	pi sa bing	23
 吃比萨	chi bi sa	5
@@ -97,8 +97,8 @@ sort: by_weight
 装模作样	zhuang mo zuo yang	485
 人模狗样	ren mu gou yang	146
 人模狗样	ren mo gou yang	146
-模板	mu ban	14547
-模板	mo ban	14547
+模板	mu ban	16735
+模板	mo ban	16735
 阿弥陀佛	e mi tuo fo	371
 阿弥陀佛	a mi tuo fo	371
 南无阿弥陀佛	na mo e mi tuo fo	42
@@ -117,8 +117,8 @@ sort: by_weight
 弄堂	nong tang	126
 心宽体胖	xin kuan ti pan	36
 心宽体胖	xin kuan ti pang	36
-埋怨	man yuan	1139
-埋怨	mai yuan	1139
+埋怨	man yuan	1140
+埋怨	mai yuan	1140
 虚与委蛇	xu yu wei yi	93
 虚与委蛇	xu yu wei she	93
 木讷	mu ne	425
@@ -141,8 +141,8 @@ sort: by_weight
 草薙剑	cao zhi jian	17
 贾平凹	jia ping wa	238
 贾平凹	jia ping ao	238
-雪佛兰	xue fu lan	352
-雪佛兰	xue fo lan	352
+雪佛兰	xue fu lan	373
+雪佛兰	xue fo lan	373
 强劲	qiang jing	1505
 强劲	qiang jin	1505
 胴体	dong ti	80
@@ -157,16 +157,16 @@ sort: by_weight
 卡脖子	ka bo zi	298
 吱声	zi sheng	116
 吱声	zhi sheng	116
-掺和	chan huo	446
-掺和	chan he	446
-掺和	can huo	446
-掺和	can he	446
+掺和	chan huo	548
+掺和	chan he	548
+掺和	can huo	548
+掺和	can he	548
 称职	chen zhi	86
 称职	cheng zhi	86
-螺蛳粉	luo si fen	493
-螺蛳粉	luo shi fen	493
-调换	diao huan	591
-调换	tiao huan	591
+螺蛳粉	luo si fen	532
+螺蛳粉	luo shi fen	532
+调换	diao huan	592
+调换	tiao huan	592
 太行山	tai hang shan	389
 太行山	tai xing shan	389
 歇斯底里	xie si di li	878
@@ -219,13 +219,13 @@ sort: by_weight
 南京市六合区	nan jing shi liu he qu	2
 偌大	ruo da	640
 偌大	nuo da	640
-饮鸩止渴	yin zhen zhi ke	336
-饮鸩止渴	yin jiu zhi ke	336
+饮鸩止渴	yin zhen zhi ke	348
+饮鸩止渴	yin jiu zhi ke	348
 饮鸩解渴	yin zhen jie ke	0
 饮鸩解渴	yin jiu jie ke	0
 ### 错字
-曾经	ceng jing	39203
-曾今	ceng jin	200
+曾经	ceng jing	39396
+曾今	ceng jin	0
 按捺	an na	75
 按耐	an nai	14
 按捺不住	an na bu zhu	295
@@ -234,8 +234,8 @@ sort: by_weight
 别介	bie jie	31
 甭价	beng jie	0
 甭介	beng jie	0
-血脉贲张	xue mai ben zhang	49
-血脉偾张	xue mai fen zhang	36
+血脉贲张	xue mai ben zhang	0
+血脉偾张	xue mai fen zhang	85
 血脉喷张	xue mai pen zhang	86
 契诃夫	qi he fu	416
 契科夫	qi ke fu	65
@@ -256,7 +256,7 @@ sort: by_weight
 两个口	liang ge kou	0
 两个田	liang ge tian	0
 两个九	liang ge jiu	0
-两个人	liang ge ren	16592
+两个人	liang ge ren	16591
 两个飞	liang ge fei	0
 两个戈	liang ge ge	0
 两个厶	liang ge si	0
@@ -415,7 +415,7 @@ sort: by_weight
 两个夋	liang ge qun	0
 两个天	liang ge tian	0
 # 三叠字
-三个生	san ge sheng	0
+三个生	san ge sheng	3
 三个秦	san ge qin	4
 三个若	san ge ruo	0
 三个雲	san ge yun	0

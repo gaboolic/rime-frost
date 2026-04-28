@@ -86,7 +86,7 @@ use_preset_vocabulary: false
 车二退四	che er tui si	0
 车二退五	che er tui wu	0
 车二退一	che er tui yi	0
-车进	che jin	20
+车进	che jin	11
 车九进八	che jiu jin ba	0
 车九进二	che jiu jin er	1
 车九进九	che jiu jin jiu	0
@@ -1058,7 +1058,7 @@ use_preset_vocabulary: false
 馬二退一	ma er tui yi	0
 马二退一	ma er tui yi	1
 馬进	ma jin	0
-马进	ma jin	10
+马进	ma jin	9
 傌九进八	ma jiu jin ba	0
 馬九进八	ma jiu jin ba	0
 马九进八	ma jiu jin ba	0
@@ -2261,7 +2261,7 @@ use_preset_vocabulary: false
 黎德志	li de zhi	0
 李鸿嘉	li hong jia	0
 李家华	li jia hua	0
-立马车	li ma che	1
+立马车	li ma che	0
 李群	li qun	243
 李少庚	li shao geng	1
 李望祥	li wang xiang	0
@@ -2292,7 +2292,7 @@ use_preset_vocabulary: false
 逆手炮	ni shou pao	0
 藕断丝牵	ou duan si qian	0
 欧阳琦琳	ou yang qi lin	0
-排局研究	pai ju yan jiu	2
+排局研究	pai ju yan jiu	1
 盘河马探秘	pan he ma tan mi	0
 炮碾丹砂	pao nian dan sha	5
 匹马单刀	pi ma dan dao	0
@@ -2314,7 +2314,7 @@ use_preset_vocabulary: false
 弃象陷车	qi xiang xian che	0
 棋协大师	qi xie da shi	13
 启新高尔夫杯全国象棋甲级联赛	qi xin gao er fu bei quan guo xiang qi jia ji lian sai	0
-起着	qi zhao	1134
+起着	qi zhao	1132
 弃子成和	qi zi cheng he	0
 弃子解困	qi zi jie kun	0
 弃子谋子	qi zi mou zi	0
@@ -2333,7 +2333,7 @@ use_preset_vocabulary: false
 三级棋士	san ji qi shi	3
 三仙炼丹	san xian lian dan	1
 三卒	san zu	0
-杀法	sha fa	230
+杀法	sha fa	229
 杀棋	sha qi	54
 杀着	sha zhao	35
 上海金外滩	shang hai jin wai tan	0
@@ -2384,7 +2384,7 @@ use_preset_vocabulary: false
 韬略元机	tao lue yuan ji	1
 特级大师象棋实战布局	te ji da shi xiang qi shi zhan bu ju	0
 特级国际大师	te ji guo ji da shi	0
-提吃	ti chi	1
+提吃	ti chi	0
 天地炮	tian di pao	10
 铁门栓	tie men shuan	15
 贴身车	tie shen che	1
@@ -2394,7 +2394,7 @@ use_preset_vocabulary: false
 挺兵对金钩炮	ting bing dui jin gou pao	0
 挺兵对进马	ting bing dui jin ma	0
 挺兵对起马	ting bing dui qi ma	0
-停着	ting zhao	288
+停着	ting zhao	285
 挺卒	ting zu	3
 同线车	tong xian che	0
 突破战术	tu po zhan shu	0
@@ -2416,7 +2416,7 @@ use_preset_vocabulary: false
 伍霞	wu xia	0
 袭其不备	xi qi bu bei	0
 厦门港务控股	xia men gang wu kong gu	0
-先负	xian fu	1
+先负	xian fu	4
 先弃后取	xian qi hou qu	8
 仙人指路对金钩炮	xian ren zhi lu dui jin gou pao	0
 仙人指路对卒底炮	xian ren zhi lu dui zu di pao	1
@@ -2427,7 +2427,7 @@ use_preset_vocabulary: false
 象棋残局新论	xiang qi can ju xin lun	2
 象棋棋例与待判局面的裁决	xiang qi qi li yu dai pan ju mian de cai jue	0
 象棋史话	xiang qi shi hua	0
-象棋世家	xiang qi shi jia	1
+象棋世家	xiang qi shi jia	0
 象棋十诀	xiang qi shi jue	1
 象棋实战精妙杀法例	xiang qi shi zhan jing miao sha fa li	0
 象棋形势判断	xiang qi xing shi pan duan	0
@@ -2470,7 +2470,7 @@ use_preset_vocabulary: false
 以稳对稳	yi wen dui wen	0
 一着两用	yi zhao liang yong	0
 因敌变化	yin di bian hua	4
-应着	ying zhao	263
+应着	ying zhao	67
 用时制度	yong shi zhi du	2
 有根子	you gen zi	3
 宇兵	yu bing	1
@@ -2565,7 +2565,7 @@ use_preset_vocabulary: false
 摆中炮	bai zhong pao	2
 白赚一象	bai zhuan yi xiang	0
 包抄入侵	bao chao ru qin	0
-北京选手	bei jing xuan shou	0
+北京选手	bei jing xuan shou	1
 背士将	bei shi jiang	0
 本轮开始前	ben lun kai shi qian	0
 逼黑	bi hei	3
@@ -2577,7 +2577,7 @@ use_preset_vocabulary: false
 边卒	bian zu	11
 蹩马腿	bie ma tui	14
 兵八	bing ba	0
-兵二	bing er	0
+兵二	bing er	1
 兵二平四	bing er ping si	0
 兵九	bing jiu	1
 兵九进一卒	bing jiu jin yi zu	0
@@ -2587,7 +2587,7 @@ use_preset_vocabulary: false
 兵七	bing qi	0
 兵三	bing san	1
 兵三平五	bing san ping wu	0
-兵四	bing si	13
+兵四	bing si	14
 兵四进一士	bing si jin yi shi	0
 兵五	bing wu	4
 兵五进一炮	bing wu jin yi pao	0
@@ -2616,7 +2616,7 @@ use_preset_vocabulary: false
 车九进	che jiu jin	0
 车九平	che jiu ping	0
 车九退	che jiu tui	0
-车控	che kong	10
+车控	che kong	9
 车六进	che liu jin	0
 车六平	che liu ping	0
 车六退	che liu tui	0
@@ -2645,7 +2645,7 @@ use_preset_vocabulary: false
 称为铁门栓妙杀	cheng wei tie men shuan miao sha	0
 吃底象	chi di xiang	0
 吃马	chi ma	0
-吃子	chi zi	146
+吃子	chi zi	147
 冲卒	chong zu	1
 抽将	chou jiang	0
 出帅	chu shuai	2
@@ -2691,7 +2691,7 @@ use_preset_vocabulary: false
 二车	er che	3
 二打一还打	er da yi hai da	0
 而径走	er jing zou	0
-二退	er tui	29
+二退	er tui	28
 而占领叉点	er zhan ling cha dian	0
 二卒	er zu	0
 反先	fan xian	9
@@ -2764,7 +2764,7 @@ use_preset_vocabulary: false
 轰卒照将	hong zu zhao jiang	0
 后兵	hou bing	4
 后兵平	hou bing ping	0
-后马	hou ma	0
+后马	hou ma	1
 后中先	hou zhong xian	2
 后卒进一	hou zu jin yi	0
 后卒平四	hou zu ping si	0
@@ -2789,18 +2789,18 @@ use_preset_vocabulary: false
 将帅捕杀	jiang shuai bu sha	0
 交叉组成	jiao cha zu cheng	2
 交流棋艺	jiao liu qi yi	0
-进八	jin ba	18
+进八	jin ba	17
 紧凑老练	jin cou lao lian	0
 进二	jin er	1
 进九	jin jiu	3
 紧靠一直	jin kao yi zhi	0
-进六	jin liu	7
+进六	jin liu	6
 进七	jin qi	3
 进七兵	jin qi bing	1
 进三	jin san	2
 进三兵	jin san bing	1
 进四	jin si	8
-进五	jin wu	0
+进五	jin wu	7
 紧要之着	jin yao zhi zhao	0
 进一	jin yi	3
 进一马	jin yi ma	0
@@ -2836,7 +2836,7 @@ use_preset_vocabulary: false
 六士	liu shi	1
 六十回合规则	liu shi hui he gui ze	0
 路边卒	lu bian zu	0
-路车	lu che	66
+路车	lu che	65
 路河头	lu he tou	0
 路炮	lu pao	9
 掠黑	lue hei	0
@@ -2854,7 +2854,7 @@ use_preset_vocabulary: false
 马九进七车	ma jiu jin qi che	0
 马六进五车	ma liu jin wu che	0
 马每着走	ma mei zhao zou	0
-马炮	ma pao	108
+马炮	ma pao	106
 马炮兵	ma pao bing	6
 马炮双兵	ma pao shuang bing	0
 马炮双卒士象	ma pao shuang zu shi xiang	0
@@ -2886,8 +2886,8 @@ use_preset_vocabulary: false
 男子组桂冠	nan zi zu gui guan	0
 内蒙古选手	nei meng gu xuan shou	0
 逆相局	ni xiang ju	0
-年全国个人赛	nian quan guo ge ren sai	0
-排局	pai ju	112
+年全国个人赛	nian quan guo ge ren sai	1
+排局	pai ju	113
 判和	pan he	0
 盘全和	pan quan he	0
 炮八	pao ba	0
@@ -2925,7 +2925,7 @@ use_preset_vocabulary: false
 炮五进	pao wu jin	0
 炮五平	pao wu ping	0
 炮五退	pao wu tui	0
-炮一	pao yi	4
+炮一	pao yi	3
 炮一进	pao yi jin	1
 炮一平	pao yi ping	0
 炮一退	pao yi tui	0
@@ -2933,7 +2933,7 @@ use_preset_vocabulary: false
 炮卒	pao zu	1
 偏马局	pian ma ju	0
 平八	ping ba	41
-平二	ping er	1
+平二	ping er	4
 平九	ping jiu	3
 平六	ping liu	2
 平炮	ping pao	9
@@ -3155,14 +3155,14 @@ use_preset_vocabulary: false
 以下黑	yi xia hei	0
 已先占据	yi xian zhan ju	0
 一象	yi xiang	10
-一斜	yi xie	25
+一斜	yi xie	24
 意欲大胆穿心	yi yu da dan chuan xin	0
 弈至第	yi zhi di	1
 一至九	yi zhi jiu	1
 一卒	yi zu	32
 应当变着	ying dang bian zhao	0
 应当变着而不变	ying dang bian zhao er bu bian	0
-应对不佳	ying dui bu jia	0
+应对不佳	ying dui bu jia	1
 应改	ying gai	2
 应使双方	ying shi shuang fang	0
 应走着数	ying zou zhao shu	0
@@ -3191,7 +3191,7 @@ use_preset_vocabulary: false
 则帅五	ze shuai wu	0
 则相三	ze xiang san	0
 则卒	ze zu	2
-战略思维	zhan lue si wei	96
+战略思维	zhan lue si wei	94
 战术技巧	zhan shu ji qiao	0
 张学潮	zhang xue chao	1
 着法红先	zhao fa hong xian	0

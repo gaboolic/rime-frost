@@ -21,7 +21,7 @@ use_preset_vocabulary: false
 爱新觉罗载淳	ai xin jue luo zai chun	0
 爱新觉罗载湉	ai xin jue luo zai tian	0
 爱育黎拔力八达	ai yu li ba li ba da	9
-不降	bu xiang	266
+不降	bu xiang	267
 曹芳	cao fang	151
 曹奂	cao huan	51
 曹髦	cao mao	188
@@ -63,7 +63,7 @@ use_preset_vocabulary: false
 高恒	gao heng	3
 高继冲	gao ji chong	7
 高绍义	gao shao yi	19
-高演	gao yan	0
+高演	gao yan	9
 高延宗	gao yan zong	0
 高洋	gao yang	65
 高阳氏	gao yang shi	48
@@ -232,7 +232,7 @@ use_preset_vocabulary: false
 完颜晟	wan yan sheng	0
 宛颜守绪	wan yan shou xu	0
 完颜珣	wan yan xun	1
-王建	wang jian	125
+王建	wang jian	126
 王延翰	wang yan han	0
 王延钧	wang yan jun	4
 沃甲	wo jia	9
@@ -247,7 +247,7 @@ use_preset_vocabulary: false
 萧正德	xiao zheng de	0
 谢道清	xie dao qing	4
 宣仁太后高氏	xuan ren tai hou gao shi	0
-杨侗	yang dong	4
+杨侗	yang dong	5
 杨浩	yang hao	164
 阳甲	yang jia	11
 杨渭	yang wei	0
@@ -309,7 +309,7 @@ use_preset_vocabulary: false
 哀王	ai wang	69
 安定王	an ding wang	8
 白元	bai yuan	11
-保大	bao da	45
+保大	bao da	46
 鲍革	bao ge	0
 宝庆	bao qing	15
 宝义	bao yi	1
@@ -392,12 +392,12 @@ use_preset_vocabulary: false
 出帝	chu di	13
 楚简王	chu jian wang	1
 楚声王	chu sheng wang	1
-初元	chu yuan	1
-大定	da ding	86
+初元	chu yuan	4
+大定	da ding	85
 大历	da li	26
 大西	da xi	87
 悼公	dao gong	7
-道宗	dao zong	89
+道宗	dao zong	88
 德祐	de you	14
 登国	deng guo	8
 邓祁侯	deng qi hou	0
@@ -423,7 +423,7 @@ use_preset_vocabulary: false
 光初	guang chu	1
 光始	guang shi	1
 光寿	guang shou	0
-光天	guang tian	11
+光天	guang tian	13
 光熹	guang xi	4
 妫鲍	gui bao	0
 妫杵臼	gui chu jiu	0
@@ -474,7 +474,7 @@ use_preset_vocabulary: false
 忽必列	hu bi lie	4
 桓子	huan zi	4
 桓宗	huan zong	0
-黄初	huang chu	205
+黄初	huang chu	206
 皇初	huang chu	0
 皇建	huang jian	1
 皇庆	huang qing	4
@@ -660,7 +660,7 @@ use_preset_vocabulary: false
 沮渠无讳	ju qu wu hui	0
 居摄	ju she	7
 开封公	kai feng gong	0
-开平	kai ping	114
+开平	kai ping	115
 开熙	kai xi	1
 康宗	kang zong	1
 李纯祐	li chun you	0
@@ -796,7 +796,7 @@ use_preset_vocabulary: false
 上元	shang yuan	12
 绍泰	shao tai	0
 绍熙	shao xi	10
-神鼎	shen ding	5
+神鼎	shen ding	4
 昇明	sheng ming	0
 昇天	sheng tian	0
 圣宗	sheng zong	21
@@ -984,9 +984,9 @@ use_preset_vocabulary: false
 应顺	ying shun	5
 赢驷	ying si	0
 英武帝	ying wu di	0
-永初	yong chu	12
+永初	yong chu	13
 永汉	yong han	7
-永嘉	yong jia	91
+永嘉	yong jia	90
 永嘉王	yong jia wang	0
 雍熙	yong xi	48
 永熙	yong xi	11
@@ -1007,7 +1007,7 @@ use_preset_vocabulary: false
 元和	yuan he	0
 元宁宗	yuan ning zong	6
 元始	yuan shi	38
-元熙	yuan xi	10
+元熙	yuan xi	5
 元兴	yuan xing	17
 元祐	yuan you	262
 章武	zhang wu	32
@@ -1070,7 +1070,7 @@ use_preset_vocabulary: false
 伯恭	bo gong	1
 伯圭	bo gui	2
 伯海	bo hai	3
-伯和	bo he	111
+伯和	bo he	110
 伯济	bo ji	2
 伯喈	bo jie	3
 伯苗	bo miao	1
@@ -1148,7 +1148,7 @@ use_preset_vocabulary: false
 季常	ji chang	18
 季珪	ji gui	3
 季宁	ji ning	0
-季平	ji ping	5
+季平	ji ping	3
 季权	ji quan	0
 季然	ji ran	0
 季行	ji xing	2
@@ -1287,7 +1287,7 @@ use_preset_vocabulary: false
 元异	yuan yi	5
 元颖	yuan ying	5
 元则	yuan ze	8
-元直	yuan zhi	6
+元直	yuan zhi	10
 元仲	yuan zhong	8
 昭伯	zhao bo	1
 昭先	zhao xian	0
@@ -1313,14 +1313,14 @@ use_preset_vocabulary: false
 仲子	zhong zi	48
 子邦	zi bang	5
 子布	zi bu	11
-子产	zi chan	86
+子产	zi chan	85
 子敕	zi chi	0
 子初	zi chu	15
-子度	zi du	1
+子度	zi du	2
 子干	zi gan	2
 子纲	zi gang	0
 子和	zi he	0
-子衡	zi heng	127
+子衡	zi heng	128
 子璜	zi huang	0
 子建	zi jian	70
 子将	zi jiang	0
@@ -1330,13 +1330,13 @@ use_preset_vocabulary: false
 子廉	zi lian	2
 子烈	zi lie	0
 子林	zi lin	4
-子明	zi ming	35
+子明	zi ming	34
 子佩	zi pei	7
 子弃	zi qi	2
 子全	zi quan	6
 子柔	zi rou	1
 子山	zi shan	18
-子尚	zi shang	5
+子尚	zi shang	7
 子师	zi shi	1
 子叔	zi shu	3
 子台	zi tai	3
@@ -1484,7 +1484,7 @@ use_preset_vocabulary: false
 高弘节	gao hong jie	0
 高欢	gao huan	170
 高涣	gao huan	0
-高皇后	gao huang hou	0
+高皇后	gao huang hou	7
 高济	gao ji	4
 高季式	gao ji shi	0
 高湝	gao jie	0
@@ -1578,7 +1578,7 @@ use_preset_vocabulary: false
 赫连子悦	he lian zi yue	0
 贺娄乌兰	he lou wu lan	0
 河南公主	he nan gong zhu	0
-河南王	he nan wang	13
+河南王	he nan wang	12
 河南王拓跋曜	he nan wang tuo ba yao	0
 河清	he qing	38
 贺若敦	he ruo dun	1
@@ -2656,7 +2656,7 @@ use_preset_vocabulary: false
 邓廷桢	deng ting zhen	3
 第巴	di ba	6
 丁太阳	ding tai yang	1
-定远	ding yuan	158
+定远	ding yuan	148
 董额	dong e	0
 董诰	dong gao	2
 东果格格	dong guo ge ge	0
@@ -2933,7 +2933,7 @@ use_preset_vocabulary: false
 骆国忠	luo guo zhong	5
 罗绕典	luo rao dian	0
 罗桑嘉措	luo sang jia cuo	1
-罗森	luo sen	372
+罗森	luo sen	373
 罗一贵	luo yi gui	0
 罗遵殿	luo zun dian	0
 吕本元	lv ben yuan	0
@@ -3287,7 +3287,7 @@ use_preset_vocabulary: false
 张遇春	zhang yu chun	0
 张禹爵	zhang yu jue	0
 张运兰	zhang yun lan	2
-张照	zhang zhao	16
+张照	zhang zhao	14
 张镇方	zhang zhen fang	0
 张之万	zhang zhi wan	0
 赵宏恩	zhao hong en	0
@@ -3297,7 +3297,7 @@ use_preset_vocabulary: false
 赵梦麟	zhao meng lin	0
 赵世显	zhao shi xian	0
 折尔肯	zhe er ken	0
-镇远	zhen yuan	132
+镇远	zhen yuan	123
 郑敦谨	zheng dun jin	0
 郑国鸿	zheng guo hong	0
 郑蛟麟	zheng jiao lin	1
@@ -3494,11 +3494,11 @@ use_preset_vocabulary: false
 阿纳库	a na ku	0
 阿沙	a sha	5
 阿思海	a si hai	0
-阿苏	a su	50
+阿苏	a su	49
 阿燕达	a yan da	0
 爱根	ai gen	1
 艾哈纳	ai ha na	0
-爱新	ai xin	2
+爱新	ai xin	3
 爱星阿	ai xing a	1
 安巴毕西棱	an ba bi xi leng	0
 安巴额图珲	an ba e tu hun	0
@@ -3524,11 +3524,11 @@ use_preset_vocabulary: false
 巴岳特	ba yue te	0
 巴渣立	ba zha li	0
 白佳	bai jia	0
-白里	bai li	33
+白里	bai li	29
 拜色	bai se	0
 鲍白	bao bai	0
 必可塔	bi ke ta	0
-比拉	bi la	48
+比拉	bi la	42
 弼鲁	bi lu	0
 比渣穆	bi zha mu	0
 博充奥沃赫	bo chong ao wo he	0
@@ -3578,7 +3578,7 @@ use_preset_vocabulary: false
 达礼	da li	2
 达玛法	da ma fa	0
 达妈妈	da ma ma	0
-达山	da shan	24
+达山	da shan	22
 达素	da su	18
 大伊	da yi	1
 戴尔佳戴佳	dai er jia dai jia	0
@@ -3714,7 +3714,7 @@ use_preset_vocabulary: false
 谷依古	gu yi gu	0
 关尔佳	guan er jia	0
 桂车特	gui che te	0
-果比	guo bi	0
+果比	guo bi	3
 郭布罗	guo bu luo	2
 郭尔佳	guo er jia	0
 果尔勒斯	guo er le si	0
@@ -3742,7 +3742,7 @@ use_preset_vocabulary: false
 哈谭	ha tan	0
 哈席里	ha xi li	0
 哈宜呼	ha yi hu	0
-海都	hai dou	94
+海都	hai dou	92
 韩尔佳	han er jia	0
 罕吉拉锦	han ji la jin	0
 罕札博勒果	han zha bo le guo	0
@@ -3750,7 +3750,7 @@ use_preset_vocabulary: false
 郝舍里	hao she li	0
 豪嵩阿	hao song a	0
 赫臣	he chen	0
-赫都	he dou	1
+赫都	he dou	0
 和和礼	he he li	0
 何和礼额驸	he he li e fu	0
 和吉里宜尔哈	he ji li yi er ha	0
@@ -4128,13 +4128,13 @@ use_preset_vocabulary: false
 希尔根	xi er gen	0
 奚尔佳奚赫特	xi er jia xi he te	0
 西尔拉特	xi er la te	0
-喜福	xi fu	10
+喜福	xi fu	9
 希福巴克什	xi fu ba ke shen	0
 喜吉尔珲	xi ji er hun	0
 席锦泰	xi jin tai	0
 希克特	xi ke te	0
 希克特里	xi ke te li	0
-西兰	xi lan	20
+西兰	xi lan	19
 西里布	xi li bu	0
 西林觉罗	xi lin jue luo	0
 喜塔拉	xi ta la	0
@@ -4186,7 +4186,7 @@ use_preset_vocabulary: false
 伊桑阿	yi sang a	1
 宜思哈	yi si ha	0
 伊苏	yi su	200
-伊图	yi tu	5
+伊图	yi tu	6
 宜兴比	yi xing bi	0
 殷达浑	yin da hun	0
 尹德本	yin de ben	0
@@ -4428,7 +4428,7 @@ use_preset_vocabulary: false
 毕宏述	bi hong shu	0
 毕慧	bi hui	0
 毕荩臣	bi jin chen	0
-比景	bi jing	7
+比景	bi jing	5
 毕磊	bi lei	1
 毕懋康	bi mao kang	0
 毕懋良	bi mao liang	0
@@ -4439,11 +4439,11 @@ use_preset_vocabulary: false
 毕锐	bi rui	0
 碧珊	bi shan	0
 毕绍棠	bi shao tang	0
-比苏	bi su	13
+比苏	bi su	11
 鄨县	bi xian	0
 毕先奎	bi xian kui	0
 毕星海	bi xing hai	0
-比阳	bi yang	7
+比阳	bi yang	6
 毕谊	bi yi	0
 币原坦	bi yuan tan	0
 毕昭文	bi zhao wen	0
@@ -4842,7 +4842,7 @@ use_preset_vocabulary: false
 曾约农	ceng yue nong	0
 曾泽生	ceng ze sheng	12
 曾钊	ceng zhao	0
-曾铸	ceng zhu	4
+曾铸	ceng zhu	3
 曾宗	ceng zong	0
 查光熊	cha guang xiong	0
 查克建	cha ke jian	0
@@ -5274,7 +5274,7 @@ use_preset_vocabulary: false
 陈束	chen shu	3
 陈疏	chen shu	1
 陈淑琬	chen shu wan	0
-陈水	chen shui	13
+陈水	chen shui	12
 陈顺乐	chen shun le	0
 陈舜俞	chen shun yu	1
 陈舜咨	chen shun zi	0
@@ -5782,7 +5782,7 @@ use_preset_vocabulary: false
 大骊	da li	0
 大末	da mo	2
 大内令	da nei ling	0
-大农	da nong	23
+大农	da nong	22
 大农令	da nong ling	2
 大清创建者	da qing chuang jian zhe	0
 大汕	da shan	0
@@ -5830,7 +5830,7 @@ use_preset_vocabulary: false
 戴经	dai jing	0
 戴炯	dai jiong	0
 戴絅孙	dai jiong sun	0
-代郡	dai jun	99
+代郡	dai jun	97
 戴钧衡	dai jun heng	0
 戴克昌	dai ke chang	0
 戴礼	dai li	10
@@ -5908,7 +5908,7 @@ use_preset_vocabulary: false
 当利	dang li	1
 宕渠	dang qu	20
 砀县	dang xian	5
-当徐	dang xu	8
+当徐	dang xu	3
 荡阴	dang yin	19
 党瀛	dang ying	0
 道安	dao an	5
@@ -6328,7 +6328,7 @@ use_preset_vocabulary: false
 段起玲	duan qi ling	0
 段嵘	duan rong	1
 段汝霖	duan ru lin	0
-端氏	duan shi	6
+端氏	duan shi	4
 段书雁	duan shu yan	0
 端顺妃	duan shun fei	0
 段婷	duan ting	0
@@ -6356,7 +6356,7 @@ use_preset_vocabulary: false
 恩联	en lian	0
 恩嫔	en pin	0
 恩锡	en xi	0
-二世皇帝	er shi huang di	67
+二世皇帝	er shi huang di	65
 二世皇帝嬴胡亥	er shi huang di ying hu hai	0
 二祥	er xiang	1
 发电赤	fa dian chi	0
@@ -6767,7 +6767,7 @@ use_preset_vocabulary: false
 傅佥	fu qian	14
 傅潜	fu qian	3
 傅求佑	fu qiu you	0
-府人	fu ren	1
+府人	fu ren	0
 傅汝舟	fu ru zhou	0
 傅若川	fu ruo chuan	0
 傅山	fu shan	39
@@ -6862,7 +6862,7 @@ use_preset_vocabulary: false
 高道先	gao dao xian	0
 高得旸	gao de yang	0
 高帝萧道成	gao di xiao dao cheng	3
-高定	gao ding	232
+高定	gao ding	229
 高斗魁	gao dou kui	0
 高鹗	gao e	34
 高尔庚	gao er geng	0
@@ -6905,7 +6905,7 @@ use_preset_vocabulary: false
 高佩	gao pei	6
 高沛	gao pei	22
 高鹏振	gao peng zhen	0
-高平	gao ping	160
+高平	gao ping	158
 高平子	gao ping zi	0
 高启	gao qi	39
 高其佩	gao qi pei	0
@@ -6944,7 +6944,7 @@ use_preset_vocabulary: false
 高行笃	gao xing du	0
 高旭	gao xu	1
 高延第	gao yan di	1
-高阳	gao yang	186
+高阳	gao yang	184
 高一梅	gao yi mei	0
 高懿萍	gao yi ping	0
 高颍	gao ying	0
@@ -6959,7 +6959,7 @@ use_preset_vocabulary: false
 高兆	gao zhao	1
 高振霄	gao zhen xiao	0
 高征	gao zheng	1
-高志	gao zhi	15
+高志	gao zhi	11
 高之騱	gao zhi xi	0
 高翥	gao zhu	6
 高子平	gao zi ping	0
@@ -7113,7 +7113,7 @@ use_preset_vocabulary: false
 顾彩	gu cai	1
 顾曾铭	gu ceng ming	0
 顾曾唯	gu ceng wei	0
-谷昌	gu chang	4
+谷昌	gu chang	3
 顾昌朝	gu chang chao	0
 顾长任	gu chang ren	0
 顾常在	gu chang zai	0
@@ -7213,7 +7213,7 @@ use_preset_vocabulary: false
 顾起纶	gu qi lun	1
 顾起元	gu qi yuan	0
 顾樵	gu qiao	22
-谷清	gu qing	1
+谷清	gu qing	0
 顾庆恩	gu qing en	0
 顾铨	gu quan	0
 顾仁效	gu ren xiao	0
@@ -7498,7 +7498,7 @@ use_preset_vocabulary: false
 郭铣	guo xi	0
 郭希朴	guo xi pu	0
 崞县	guo xian	6
-国相	guo xiang	97
+国相	guo xiang	96
 郭小溪	guo xiao xi	0
 郭欣康	guo xin kang	0
 郭琇	guo xiu	0
@@ -7591,7 +7591,7 @@ use_preset_vocabulary: false
 韩履祥	han lv xiang	0
 韩满玲	han man ling	0
 韩懋	han mao	0
-韩猛	han meng	5
+韩猛	han meng	4
 韩梦周	han meng zhou	0
 汉明帝刘庄	han ming di liu zhuang	17
 韩佩颖	han pei ying	0
@@ -8603,7 +8603,7 @@ use_preset_vocabulary: false
 贾承恺	jia cheng kai	0
 贾充	jia chong	77
 贾岛	jia dao	77
-加德	jia de	166
+加德	jia de	161
 贾敦临	jia dun lin	0
 贾范	jia fan	1
 贾凫西	jia fu xi	0
@@ -8623,7 +8623,7 @@ use_preset_vocabulary: false
 贾妮妮	jia ni ni	0
 贾培之	jia pei zhi	0
 贾鹏雷	jia peng lei	0
-加强中央集权	jia qiang zhong yang ji quan	69
+加强中央集权	jia qiang zhong yang ji quan	68
 贾诠	jia quan	0
 贾三近	jia san jin	0
 稼生	jia sheng	3
@@ -8805,7 +8805,7 @@ use_preset_vocabulary: false
 蒋深	jiang shen	1
 姜晟	jiang sheng	0
 江胜	jiang sheng	0
-江声	jiang sheng	12
+江声	jiang sheng	13
 蒋升瀛	jiang sheng ying	0
 蒋示吉	jiang shi ji	0
 江士先	jiang shi xian	0
@@ -9347,7 +9347,7 @@ use_preset_vocabulary: false
 赖来	lai lai	0
 来敏	lai min	9
 赖名汤	lai ming tang	0
-赖先	lai xian	0
+赖先	lai xian	2
 赖歇瑙	lai xie nao	5
 来行学	lai xing xue	0
 来学棠	lai xue tang	0
@@ -9389,7 +9389,7 @@ use_preset_vocabulary: false
 劳之辨	lao zhi bian	0
 乐安国	le an guo	0
 乐綝	le chen	0
-乐纯	le chun	20
+乐纯	le chun	13
 勒方錡	le fang qi	0
 乐涫	le guan	0
 勒贵人	le gui ren	0
@@ -9453,7 +9453,7 @@ use_preset_vocabulary: false
 李材	li cai	1
 李彩升	li cai sheng	0
 李曾蔚	li ceng wei	0
-李常	li chang	13
+李常	li chang	12
 李昌	li chang	25
 李长科	li chang ke	0
 李长倩	li chang qian	0
@@ -9782,7 +9782,7 @@ use_preset_vocabulary: false
 李宪乔	li xian qiao	0
 李显卿	li xian qing	0
 李详	li xiang	0
-李相	li xiang	12
+李相	li xiang	10
 李祥凤	li xiang feng	0
 李翔鸿	li xiang hong	0
 李象鹍	li xiang kun	0
@@ -9853,7 +9853,7 @@ use_preset_vocabulary: false
 李遹	li yu	0
 李昱	li yu	3
 李渔	li yu	60
-李玉	li yu	81
+李玉	li yu	80
 李禹东	li yu dong	0
 李雨霏	li yu fei	0
 李毓芬	li yu fen	0
@@ -10088,7 +10088,7 @@ use_preset_vocabulary: false
 廖祖笙	liao zu sheng	0
 列口	lie kou	0
 列卿	lie qing	3
-列人	lie ren	1
+列人	lie ren	2
 埒县	lie xian	0
 烈宗刘聪	lie zong liu cong	0
 烈宗慕容实	lie zong mu rong shi	0
@@ -11378,7 +11378,7 @@ use_preset_vocabulary: false
 孟复	meng fu	0
 孟公威	meng gong wei	7
 蒙古和朝鲜	meng gu he chao xian	2
-蒙古军	meng gu jun	265
+蒙古军	meng gu jun	266
 孟光炯	meng guang jiong	0
 孟化鲤	meng hua li	0
 孟京涛	meng jing tao	0
@@ -11397,7 +11397,7 @@ use_preset_vocabulary: false
 蒙藏院	meng zang yuan	1
 孟珍	meng zhen	0
 糜澳	mi ao	0
-迷当	mi dang	1
+迷当	mi dang	2
 米尔希	mi er xi	5
 糜芳	mi fang	484
 秘府郎	mi fu lang	0
@@ -11954,7 +11954,7 @@ use_preset_vocabulary: false
 齐丁公吕及	qi ding gong lv ji	0
 齐璠	qi fan	0
 綦沣	qi feng	0
-齐高帝	qi gao di	6
+齐高帝	qi gao di	7
 棋哥	qi ge	0
 齐癸公吕慈母	qi gui gong lv ci mu	0
 戚海燕	qi hai yan	0
@@ -12133,7 +12133,7 @@ use_preset_vocabulary: false
 钱善扬	qian shan yang	0
 钱士	qian shi	0
 钱式	qian shi	0
-钱时	qian shi	1
+钱时	qian shi	2
 钱栻	qian shi	0
 钱士鳌	qian shi ao	0
 钱式金	qian shi jin	0
@@ -12496,7 +12496,7 @@ use_preset_vocabulary: false
 荣之迁	rong zhi qian	0
 荣柱	rong zhu	0
 如澈	ru che	1
-如德	ru de	17
+如德	ru de	16
 茹敦和	ru dun he	0
 如贵妃	ru gui fei	0
 儒勒斯	ru le si	0
@@ -12532,7 +12532,7 @@ use_preset_vocabulary: false
 三班院	san ban yuan	0
 三曹	san cao	102
 三孤	san gu	2
-三司	san si	97
+三司	san si	94
 桑干	sang gan	20
 桑调元	sang tiao yuan	0
 桑悦	sang yue	2
@@ -12545,7 +12545,7 @@ use_preset_vocabulary: false
 沙碧红	sha bi hong	0
 沙剌班	sha la ban	0
 沙陵	sha ling	2
-沙明	sha ming	0
+沙明	sha ming	1
 沙丘马	sha qiu ma	0
 沙叔奕	sha shu yi	0
 沙书玉	sha shu yu	0
@@ -12557,7 +12557,7 @@ use_preset_vocabulary: false
 删丹	shan dan	2
 缮工监	shan gong jian	0
 杉杉元	shan shan yuan	0
-善无	shan wu	17
+善无	shan wu	16
 剡县	shan xian	2
 善住	shan zhu	0
 上艾	shang ai	0
@@ -12583,7 +12583,7 @@ use_preset_vocabulary: false
 尚书台	shang shu tai	85
 商思源	shang si yuan	0
 商言志	shang yan zhi	2
-上庸	shang yong	246
+上庸	shang yong	247
 尚棫	shang yu	0
 商纣王帝辛	shang zhou wang di xin	1
 邵昂霄	shao ang xiao	0
@@ -12731,7 +12731,7 @@ use_preset_vocabulary: false
 沈鸿源	shen hong yuan	0
 沈宏远	shen hong yuan	0
 沈弘正	shen hong zheng	0
-沈淮	shen huai	0
+沈淮	shen huai	1
 沈潢	shen huang	0
 沈惠	shen hui	2
 沈慧芬	shen hui fen	0
@@ -12978,7 +12978,7 @@ use_preset_vocabulary: false
 盛惇大	sheng dun da	0
 盛枫	sheng feng	0
 生管会	sheng guan hui	0
-胜黄	sheng huang	1
+胜黄	sheng huang	0
 盛汇潢	sheng hui huang	0
 盛健一	sheng jian yi	0
 盛敬	sheng jing	0
@@ -13189,7 +13189,7 @@ use_preset_vocabulary: false
 庶三品	shu san pin	0
 舒时浩	shu shi hao	0
 疏受	shu shou	0
-蜀书	shu shu	95
+蜀书	shu shu	94
 庶四品	shu si pin	0
 庶五品	shu wu pin	0
 舒希忠	shu xi zhong	0
@@ -13636,7 +13636,7 @@ use_preset_vocabulary: false
 太社局	tai she ju	0
 台省	tai sheng	11
 太史亨	tai shi heng	1
-太史监	tai shi jian	6
+太史监	tai shi jian	8
 太史寮	tai shi liao	0
 太熙	tai xi	0
 台县	tai xian	2
@@ -14901,7 +14901,7 @@ use_preset_vocabulary: false
 卫出公姬辄	wei chu gong ji zhe	1
 卫戴公姬申	wei dai gong ji shen	0
 卫悼公姬黔	wei dao gong ji qian	0
-为帝	wei di	278
+为帝	wei di	272
 威帝慕容冲	wei di mu rong chong	0
 卫定公姬臧	wei ding gong ji zang	0
 魏定一	wei ding yi	0
@@ -14928,7 +14928,7 @@ use_preset_vocabulary: false
 魏晋锡	wei jin xi	0
 卫泾	wei jing	0
 卫敬公姬弗	wei jing gong ji fu	0
-魏郡	wei jun	31
+魏郡	wei jun	25
 魏浚	wei jun	2
 卫凯	wei kai	0
 卫康侯姬康	wei kang hou ji kang	0
@@ -15272,7 +15272,7 @@ use_preset_vocabulary: false
 舞涓	wu juan	0
 吴郡	wu jun	106
 吴钧	wu jun	4
-吴军	wu jun	737
+吴军	wu jun	714
 吴浚	wu jun	1
 吴君懋	wu jun mao	0
 吴俊卿	wu jun qing	0
@@ -15350,7 +15350,7 @@ use_preset_vocabulary: false
 吴若准	wu ruo zhun	0
 吴三锡	wu san xi	0
 吴沙	wu sha	0
-吴山	wu shan	35
+吴山	wu shan	34
 吴山涛	wu shan tao	0
 吴山秀	wu shan xiu	0
 吴韶	wu shao	0
@@ -15616,8 +15616,8 @@ use_preset_vocabulary: false
 熙宗完颜亶	xi zong wan yan dan	0
 夏必达	xia bi da	0
 下辨	xia bian	8
-下博	xia bo	0
-下蔡	xia cai	7
+下博	xia bo	2
+下蔡	xia cai	6
 夏大霖	xia da lin	0
 夏大贞	xia da zhen	0
 下大夫	xia dai fu	21
@@ -15779,7 +15779,7 @@ use_preset_vocabulary: false
 萧培元	xiao pei yuan	0
 萧品清	xiao pin qing	0
 萧全夫	xiao quan fu	0
-校人	xiao ren	9
+校人	xiao ren	7
 萧三	xiao san	1
 萧三发	xiao san fa	0
 肖山令	xiao shan ling	0
@@ -15814,7 +15814,7 @@ use_preset_vocabulary: false
 萧智汉	xiao zhi han	0
 萧厔泉	xiao zhi quan	0
 崤之战	xiao zhi zhan	14
-小主	xiao zhu	230
+小主	xiao zhu	229
 孝庄大玉儿	xiao zhuang da yu er	0
 谢安	xie an	125
 谢北亭	xie bei ting	0
@@ -15844,7 +15844,7 @@ use_preset_vocabulary: false
 谢怀柔	xie huai rou	0
 谢皎	xie jiao	0
 谢阶树	xie jie shu	0
-谢缙	xie jin	2
+谢缙	xie jin	102
 谢旌	xie jing	8
 谢景章	xie jing zhang	0
 谢俊民	xie jun min	0
@@ -16405,7 +16405,7 @@ use_preset_vocabulary: false
 宣华华	xuan hua hua	0
 旋锟	xuan kun	0
 选容	xuan rong	0
-选侍	xuan shi	7
+选侍	xuan shi	6
 泫氏	xuan shi	8
 宣嗣宗	xuan si zong	0
 选仪	xuan yi	0
@@ -16900,7 +16900,7 @@ use_preset_vocabulary: false
 姚汝颂	yao ru song	0
 姚汝循	yao ru xun	0
 姚三聘	yao san pin	0
-姚氏	yao shi	28
+姚氏	yao shi	27
 姚世铼	yao shi lai	0
 尧世美	yao shi mei	0
 姚世钰	yao shi yu	0
@@ -17012,7 +17012,7 @@ use_preset_vocabulary: false
 叶天赐	ye tian ci	0
 叶廷琯	ye ting guan	0
 叶廷甲	ye ting jia	0
-野王	ye wang	132
+野王	ye wang	131
 叶维庚	ye wei geng	1
 叶为铭	ye wei ming	0
 叶文龄	ye wen ling	0
@@ -17057,12 +17057,12 @@ use_preset_vocabulary: false
 奕绘	yi hui	2
 易嘉	yi jia	16
 易简	yi jian	37
-宜臼	yi jiu	18
+宜臼	yi jiu	16
 弋居	yi ju	1
 易军	yi jun	6
 易君左	yi jun zuo	0
 仪克中	yi ke zhong	0
-一理	yi li	52
+一理	yi li	51
 伊利克	yi li ke	0
 宜梁	yi liang	0
 宜禄	yi lu	4
@@ -17904,7 +17904,7 @@ use_preset_vocabulary: false
 张浩宇	zhang hao yu	0
 张颌	zhang he	44
 张鹤佺	zhang he quan	0
-张恒	zhang heng	204
+张恒	zhang heng	203
 张横	zhang heng	26
 章横塘	zhang heng tang	0
 张谹	zhang hong	0
@@ -17991,7 +17991,7 @@ use_preset_vocabulary: false
 张久可	zhang jiu ke	1
 张九一	zhang jiu yi	0
 张九征	zhang jiu zheng	0
-张举	zhang ju	13
+张举	zhang ju	15
 张鋆	zhang jun	0
 张均	zhang jun	9
 张峻	zhang jun	2
@@ -18095,7 +18095,7 @@ use_preset_vocabulary: false
 张秋人	zhang qiu ren	0
 张确	zhang que	0
 张让	zhang rang	96
-张任	zhang ren	118
+张任	zhang ren	117
 张壬	zhang ren	0
 张仁亶	zhang ren dan	10
 张仁济	zhang ren ji	0
@@ -18686,7 +18686,7 @@ use_preset_vocabulary: false
 赭白	zhe bai	0
 哲妃	zhe fei	0
 柘县	zhe xian	0
-真定	zhen ding	61
+真定	zhen ding	56
 甄核司	zhen he si	0
 真靖	zhen jing	0
 桢林	zhen lin	0
@@ -18835,7 +18835,7 @@ use_preset_vocabulary: false
 郑心水	zheng xin shui	0
 郑性	zheng xing	0
 政幸	zheng xing	1
-正性	zheng xing	71
+正性	zheng xing	73
 郑须德	zheng xu de	0
 郑玄	zheng xuan	107
 郑言坤	zheng yan kun	0
@@ -18920,7 +18920,7 @@ use_preset_vocabulary: false
 钟礼	zhong li	0
 钟理和	zhong li he	0
 钟亮采	zhong liang cai	0
-中陵	zhong ling	0
+中陵	zhong ling	1
 中溜	zhong liu	0
 中卢	zhong lu	1
 钟宁	zhong ning	0
@@ -18949,7 +18949,7 @@ use_preset_vocabulary: false
 钟肇封	zhong zhao feng	0
 钟肇立	zhong zhao li	0
 钟震	zhong zhen	0
-钟志	zhong zhi	4
+钟志	zhong zhi	5
 中宗李寿	zhong zong li shou	0
 中宗刘晟	zhong zong liu sheng	0
 中宗慕容盛	zhong zong mu rong sheng	0
@@ -19087,7 +19087,7 @@ use_preset_vocabulary: false
 周荃	zhou quan	0
 周悫	zhou que	3
 周让之	zhou rang zhi	0
-周人	zhou ren	471
+周人	zhou ren	464
 周日校	zhou ri xiao	0
 周如璧	zhou ru bi	0
 周汝登	zhou ru deng	0
@@ -19913,7 +19913,7 @@ use_preset_vocabulary: false
 逸飘	yi piao	0
 银騔	yin ge	0
 玉花骢	yu hua cong	1
-鱼目	yu mu	13
+鱼目	yu mu	12
 元佑三马	yuan you san ma	0
 周穆王八骏	zhou mu wang ba jun	0
 追电	zhui dian	2
@@ -19924,7 +19924,7 @@ use_preset_vocabulary: false
 暴王	bao wang	866
 项籍	xiang ji	300
 朱标	zhu biao	288
-卫霍	wei huo	365
+卫霍	wei huo	366
 怯薛	qie xue	165
 怯薛军	qie xue jun	12
 徐阶	xu jie	200
@@ -19936,29 +19936,29 @@ use_preset_vocabulary: false
 相权	xiang quan	135
 东皇	dong huang	134
 稼轩	jia xuan	173
-雍凉	yong liang	159
+雍凉	yong liang	153
 秦楚	qin chu	133
 灭秦	mie qin	173
 范睢	fan sui	123
-秦赵	qin zhao	189
+秦赵	qin zhao	191
 帝尧	di yao	149
 秦地	qin di	117
 陈涉	chen she	116
-代汉	dai han	107
+代汉	dai han	108
 季布	ji bu	115
 伯颜	bo yan	105
-戎狄	rong di	177
-元清	yuan qing	132
+戎狄	rong di	179
+元清	yuan qing	130
 阿瞒	a man	109
 昭公	zhao gong	129
 关陇	guan long	94
 快雪时晴帖	kuai xue shi qing tie	44
 快雪时晴	kuai xue shi qing	11
-蒙元	meng yuan	377
-汉初	han chu	331
-两宋	liang song	242
+蒙元	meng yuan	388
+汉初	han chu	397
+两宋	liang song	267
 魏玛	wei ma	333
 昭帝	zhao di	342
-普军	pu jun	411
-奥军	ao jun	299
-反秦	fan qin	307
+普军	pu jun	456
+奥军	ao jun	346
+反秦	fan qin	340

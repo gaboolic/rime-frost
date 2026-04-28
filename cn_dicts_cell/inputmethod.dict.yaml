@@ -104,8 +104,8 @@ sort: by_weight
 九重魔鹤	jiu zhong mo he	0
 鲸凉鹤	jing liang he	0
 看打	kan da	0
-跟打	gen da	42
-想打	xiang da	603
+跟打	gen da	39
+想打	xiang da	565
 自在飞扬	zi zai fei yang	0
 苗师	miao shi	1
 墨奇码拆	mo qi ma chai	0
@@ -120,11 +120,11 @@ sort: by_weight
 方案集	fang an ji	0
 成对符号	cheng dui fu hao	0
 五选	wu xuan	0
-预编辑	yu bian ji	0
+预编辑	yu bian ji	1
 行内编辑	hang nei bian ji	0
 行内预编辑	hang nei yu bian ji	0
 分号键	fen hao jian	1
-词元	ci yuan	1
-频控	pin kong	8
-词云	ci yun	1
-词图	ci tu	10
+词元	ci yuan	0
+频控	pin kong	9
+词云	ci yun	133
+词图	ci tu	14

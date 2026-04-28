@@ -3505,7 +3505,7 @@ sort: by_weight
 鉏	chu	1
 觸	chu	1
 齣	chu	1
-礎	chu	0
+礎	chu	1
 儲	chu	0
 廚	chu	0
 芻	chu	0
@@ -6969,7 +6969,7 @@ sort: by_weight
 𩰟	fen	0
 𩸂	fen	0
 𩿈	fen	0
-風	feng	20
+風	feng	21
 峯	feng	9
 豐	feng	2
 鳯	feng	1
@@ -13534,7 +13534,7 @@ sort: by_weight
 𪈴	jue	0
 𪖜	jue	0
 𪚅	jue	0
-軍	jun	34
+軍	jun	35
 濬	jun	0
 儁	jun	8
 麕	jun	0
@@ -26978,7 +26978,7 @@ sort: by_weight
 𪎨	tou	0
 圖	tu	22
 図	tu	8
-塗	tu	1
+塗	tu	2
 兎	tu	1
 禿	tu	0
 啚	tu	0
@@ -27730,7 +27730,7 @@ sort: by_weight
 𩖩	wang	0
 𩵭	wang	0
 𪁘	wang	0
-為	wei	324
+為	wei	323
 爲	wei	198
 遗	wei	0
 囗	wei	0
@@ -31933,7 +31933,7 @@ sort: by_weight
 邪	ye	0
 頁	ye	24
 葉	ye	11
-業	ye	9
+業	ye	10
 吔	ye	7
 嘢	ye	5
 鵺	ye	4
@@ -33560,7 +33560,7 @@ sort: by_weight
 谷	yu	0
 與	yu	263
 邪	yu	0
-馀	yu	81
+馀	yu	65
 語	yu	39
 菀	yu	0
 込	yu	6
@@ -34071,7 +34071,7 @@ sort: by_weight
 悁	yuan	0
 寃	yuan	0
 囦	yuan	0
-淵	yuan	0
+淵	yuan	1
 逺	yuan	0
 鵷	yuan	0
 鳶	yuan	0
@@ -36905,7 +36905,7 @@ sort: by_weight
 𩬳	zhui	0
 𪋇	zhui	0
 淳	zhun	0
-準	zhun	4
+準	zhun	3
 凖	zhun	1
 埻	zhun	0
 圫	zhun	0
