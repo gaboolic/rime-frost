@@ -28,7 +28,8 @@
 - 符号 /fh 更多符号详见`https://github.com/gaboolic/rime-frost/blob/master/symbols_v.yaml`
 - 带调韵母 /a /e /u 等
 - 日期与时间 rq sj xq dt ts
-- 开启句中任意辅助码 ` 使用说明：[句中任意辅助码](/lua/aux_lookup_filter.lua)  拆分说明：[墨奇辅助码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming)
+- 开启句中任意辅助码 ` 使用说明：[句中任意辅助码](/lua/aux_lookup_filter.lua)  拆分说明：[墨奇辅助码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming) 
+![alt text](others/img/input-liuxingyusamantianji.gif)
 - 部件拆字反查 uU
 - unicode字符 U
 - 数字金额大写 R
@@ -93,21 +94,18 @@
 
 ![alt text](others/img/tushuguancangshu.png)
 
-![alt text](others/img/znjldkd.png)
-
 ![alt text](others/img/kudsvqw.png)
 
 ![alt text](others/img/cqlbtdmdfu.png)
 
 ![alt text](others/img/djbwv.png)
 
-![alt text](others/img/刚交的朋友.png)
-
-![alt text](others/img/刚交的好朋友.png)
-
 ![alt text](others/img/刚交的好朋友2.png)
 
 ![alt text](others/img/衍射.png)
+
+### 多整句、句中任意辅助码
+![alt text](others/img/input-liuxingyusamantianji.gif)
 
 ### 不同方案整句效果对比
 
