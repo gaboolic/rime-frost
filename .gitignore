@@ -18,6 +18,7 @@ sync/
 installation.yaml
 user.yaml
 *.custom.yaml
+*.custom.dict.yaml
 !others/**/*.custom.yaml
 
 others/script/scel2txt/out/*
