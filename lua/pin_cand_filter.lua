@@ -151,6 +151,11 @@ function M.init(env)
 end
 
 function M.func(input, env)
+    if not env.engine.context:get_option("pin_cand") then
+        for cand in input:iter() do yield(cand) end
+        return
+    end
+
     -- 当前输入框的 preedit，未经过方案 translator/preedit_format 转换
     -- 输入 nihaoshij 则为 nihaoshij，选择了「你好」后变成 你好shij
     local full_preedit = env.engine.context:get_preedit().text
