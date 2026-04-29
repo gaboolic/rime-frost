@@ -6,6 +6,11 @@ function M.init(env)
   local config = env.engine.schema.config
   env.name_space = env.name_space:gsub('^*', '')
   M.prefix = config:get_string(env.name_space .. '/trigger') or 'V'
+  M.prefixes = { M.prefix }
+  local lowerPrefix = M.prefix:lower()
+  if lowerPrefix ~= M.prefix then
+    table.insert(M.prefixes, lowerPrefix)
+  end
 end
 
 local function startsWith(str, start)
@@ -221,9 +226,16 @@ end
 
 -- 简单计算器
 function M.func(input, seg, env)
-  if not startsWith(input, M.prefix) then return end
+  local prefix = nil
+  for _, candidatePrefix in ipairs(M.prefixes) do
+    if startsWith(input, candidatePrefix) then
+      prefix = candidatePrefix
+      break
+    end
+  end
+  if not prefix then return end
   -- 提取算式
-  local express = truncateFromStart(input, M.prefix)
+  local express = truncateFromStart(input, prefix)
   -- 算式长度 < 2 直接终止(没有计算意义)
   if (string.len(express) < 2) then return end
   -- pcall()的原因需要控制一下 . 符号的位置

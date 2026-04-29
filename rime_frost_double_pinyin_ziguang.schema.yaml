@@ -15,12 +15,13 @@
 # 方案说明
 schema:
   schema_id: rime_frost_double_pinyin_ziguang
-  name: 紫光双拼
+  name: 白霜紫光双拼
   version: "1"
   author:
     - Dvel
+    - gaboolic
   description: |
-    雾凇拼音 - 紫光双拼
+    白霜拼音 - 紫光双拼
     https://github.com/iDvel/rime-ice
   dependencies:
     - melt_eng        # 英文输入，作为次翻译器挂载到拼音方案
