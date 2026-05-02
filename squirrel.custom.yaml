@@ -1,0 +1,82 @@
+# Reference: https://github.com/Lucius-Wang/rime-config/blob/master/squirrel.custom.yaml
+
+patch:
+  # 通知栏显示方式以及 ascii_mode 应用，与外观无关
+  show_notifications_via_notification_center: true
+
+  # 以下软件默认英文模式
+  # osascript -e 'id of app "<AppName>"'
+  app_options/+:
+    com.apple.Terminal:
+      ascii_mode: true
+    com.apple.Spotlight:
+      ascii_mode: true
+    com.microsoft.VSCode:
+      ascii_mode: true
+    com.github.GitHubClient:
+      ascii_mode: true
+    com.docker.docker:
+      ascii_mode: true
+    com.raycast.macos:
+      ascii_mode: true
+    com.mitchellh.ghostty:
+      ascii_mode: true
+    net.kovidgoyal.kitty:
+      ascii_mode: true
+
+  style:
+    color_scheme: mac
+    color_scheme_dark: mac_dark
+
+  preset_color_schemes:
+    mac:
+      author: "lamb"
+      name: "lamb"
+      back_color: 0xffffff              #设置输入条的背景色，色值是按照BGR的形式16进制填写
+      corner_radius: 5                  #设置输入条的圆角效果
+      border_height: 4                  #设置输入条上下宽度
+      dborder_width: 4                  #设置输入条左右宽度
+      border_color: 0x9f62e8            #输入条边框颜色，似乎在横向模式下不起作用
+      border_color_width: 0             #输入条边框宽度
+      candidate_format: "%c %@  "       #设置每个候选词之间的间隔距离，%c代表备选的数字，%@代表候选字，可以通过输入空格的形式来调整每个候选字之间的间隔距离
+      candidate_text_color: 0x333333    #候选字颜色
+      font_face: PingFangSC             #字体
+      font_point: 16                    #字体大小
+      text_color: 0x333333              #普通候选字的颜色，非第一候选字
+      hilited_candidate_label_color: 0xffffff   #第一候选字标签颜色，也就是数字1
+      hilited_text_color: 0xffffff              #第一候选字颜色
+      hilited_candidate_back_color: 0xD05B21    #第一候选字高亮颜色（背景色）
+      hilited_corner_radius: 5                  #第一候选字高亮颜色的圆角，当不设置时就是一整块的颜色，设置了圆角之后就带有圆角效果了
+      horizontal: true                          #设置水平还是竖直模式（1.0.0之前生效）
+      candidate_list_layout: linear             #linear-候选词水平排列/stacked-垂直排列（1.0.0之后生效）
+      text_orientation: horizontal              #设置每个词的文字排列方向 horizontal-水平/vertical-垂直（1.0.0之后生效）
+      inline_preedit: true              #设置是否双行显示
+      label_color: 0x888888             #普通标签的颜色(非第一候选字)，也就是候选字数字
+      label_font_point: 12              #普通标签的字体大小
+    mac_dark:
+      author: "Binwalker"
+      name: "Mac Dark"
+      back_color: 0x222222              #设置输入条的背景色，色值是按照BGR的形式16进制填写
+      corner_radius: 5                  #设置输入条的圆角效果
+      border_height: 4                  #设置输入条上下宽度
+      dborder_width: 4                  #设置输入条左右宽度
+      border_color: 0x9f62e8            #输入条边框颜色，似乎在横向模式下不起作用
+      border_color_width: 0             #输入条边框宽度
+      candidate_format: "%c %@  "       #设置每个候选词之间的间隔距离，%c代表备选的数字，%@代表候选字，可以通过输入空格的形式来调整每个候选字之间的间隔距离
+      candidate_text_color: 0xd8e3e6    #候选字颜色
+      font_face: PingFangSC             #字体
+      font_point: 16                    #字体大小
+      text_color: 0x92f6da              #普通候选字的颜色，非第一候选字
+      hilited_back_color: 0x222222      #第一候选字高亮颜色（背景色）
+      hilited_candidate_label_color: 0xffffff   #第一候选字标签颜色，也就是数字1
+      hilited_text_color: 0xffcf9a              #第一候选字颜色
+      hilited_candidate_back_color: 0x10000000  #第一候选字高亮颜色（背景色）
+      hilited_candidate_text_color: 0x92f6da    #第一候选字高亮颜色（文字颜色）
+      hilited_corner_radius: 5                  #第一候选字高亮颜色的圆角，当不设置时就是一整块的颜色，设置了圆角之后就带有圆角效果了
+      horizontal: true                          #设置水平还是竖直模式（1.0.0之前生效）
+      candidate_list_layout: linear             #linear-候选词水平排列/stacked-垂直排列（1.0.0之后生效）
+      text_orientation: horizontal              #设置每个词的文字排列方向 horizontal-水平/vertical-垂直（1.0.0之后生效）
+      inline_preedit: true              #设置是否双行显示
+      label_color: 0x888888             #普通标签的颜色(非第一候选字)，也就是候选字数字
+      label_font_point: 12              #普通标签的字体大小
+      comment_text_color: 0x606cff      #注释文字颜色
