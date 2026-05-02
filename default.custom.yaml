@@ -1,6 +1,6 @@
 patch:
   # 候选词列表数量
-  menu/page_size: 7
+  menu/page_size: 9
   key_binder/bindings/+:
     # 翻页 , .
     - { when: has_menu, accept: comma, send: Page_Up }
