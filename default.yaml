@@ -189,8 +189,8 @@ key_binder:
     - { when: composing, accept: Alt+Right, send: Shift+Right }
 
     # 翻页 - =
-    - { when: has_menu, accept: minus, send: Page_Up }
-    - { when: has_menu, accept: equal, send: Page_Down }
+    # - { when: has_menu, accept: minus, send: Page_Up }
+    # - { when: has_menu, accept: equal, send: Page_Down }
 
     # 翻页 , .
     # - { when: paging, accept: comma, send: Page_Up }

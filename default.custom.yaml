@@ -1,0 +1,10 @@
+patch:
+  # 候选词列表数量
+  menu/page_size: 7
+  key_binder/bindings/+:
+    # 翻页 , .
+    - { when: has_menu, accept: comma, send: Page_Up }
+    - { when: has_menu, accept: period, send: Page_Down }
+    # 切换全半角
+    - { when: always, toggle: full_shape, accept: Control+Shift+5 }
+    - { when: always, toggle: full_shape, accept: Control+Shift+percent }
