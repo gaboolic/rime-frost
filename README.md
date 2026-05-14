@@ -175,6 +175,12 @@ kenlm 教程、python 调用 <https://github.com/mattzheng/py-kenlm-model>
 
 雨燕输入法 <https://github.com/gurecn/YuyanIme> 一个开箱即用的安卓输入法
 
+### 赞助
+
+如果觉得项目不错，可以支持一下。[赞助](https://www.chunqiujinjing.com/donate/)
+
+<img src="./others/img/zanshangma.jpg" alt="微信赞赏码" width=300 />
+
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=gaboolic/rime-frost&type=Date)](https://star-history.com/#gaboolic/rime-frost&Date)
