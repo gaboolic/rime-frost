@@ -3,6 +3,11 @@
 #
 # GB18030-2022 汉字字表 (去掉 8105 和 41448 中已有的字)
 #
+# 数据来源：
+# - rime-moran: https://github.com/rimeinn/rime-moran
+# - Unihan: https://www.unicode.org/Public/UNIDATA/Unihan.zip
+# - pypinyin
+# - 虚拟读音 ziang (无读音字)
 ---
 name: GB18030-2022
 version: "2026-06-05"
