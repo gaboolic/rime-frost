@@ -153,7 +153,7 @@ iPhone 17	iPhone	4
 iPhone 17 Plus	iPhone	3
 iPhone 17 Pro	iPhone	2
 iPhone 17 Pro Max	iPhone	1
-iPhone Air iPhone 1
+iPhone Air	iPhone	1
 
 Mac OS X	MacOSX	999
 Mac OS X Cheetah	MacOSX	1
@@ -180,7 +180,7 @@ macOS Big Sur	macOS	5
 macOS Monterey	macOS	6
 macOS Ventura	macOS	7
 macOS Sonoma	macOS	8
-macOS Tahoe  macOS 9
+macOS Tahoe	macOS	9
 
 Windows	Windows	999
 Windows 95	Windows	1
@@ -561,7 +561,7 @@ SQLite	SQLite
 Sourcetree	Sourcetree
 Spiritfarer	Spiritfarer
 TCP/IP	TCP/IP
-Turso  Turso
+Turso	Turso
 Twitter	Twitter
 V2EX	V2EX
 VSCode	VSCode
@@ -747,7 +747,7 @@ Mac App Store	MacAppStore
 Mac Rumors	MacRumors
 MacAppDeals	MacAppDeals
 MacBook	MacBook
-MacBook Neo MacBook Neo
+MacBook Neo	MacBookNeo
 MacBook Air	MacBookAir
 MacBook Pro	MacBookPro
 Mac Pro	MacPro
