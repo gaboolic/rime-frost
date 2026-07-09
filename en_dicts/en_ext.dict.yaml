@@ -2246,3 +2246,50 @@ pi agent	piagent
 piagent	piagent
 OpenClaw	OpenClaw
 Hermes	Hermes
+
+# AI / 科技公司
+xAI	xAI
+Grok	Grok
+Cohere	Cohere
+Hugging Face	HuggingFace
+HuggingFace	HuggingFace
+Stability AI	StabilityAI
+StabilityAI	StabilityAI
+Runway	Runway
+Grammarly	Grammarly
+Figma	Figma
+Canva	Canva
+Perplexity AI	PerplexityAI
+PerplexityAI	PerplexityAI
+Databricks	Databricks
+Snowflake	Snowflake
+Palantir	Palantir
+
+# 中国科技公司
+Baidu	Baidu
+ByteDance	ByteDance
+Huawei	Huawei
+Xiaomi	Xiaomi
+iFLYTEK	iFLYTEK
+Baichuan	Baichuan
+Moonshot	Moonshot
+Moonshot AI	MoonshotAI
+01.AI	01AI
+01AI	01AI
+StepFun	StepFun
+Stepfun	Stepfun
+SenseTime	SenseTime
+Megvii	Megvii
+ModelBest	ModelBest
+Shengshu	Shengshu
+Meituan	Meituan
+NetEase	NetEase
+Pinduoduo	Pinduoduo
+NIO	NIO
+XPeng	XPeng
+BYD	BYD
+Douyin	Douyin
+Kuaishou	Kuaishou
+DJI	DJI
+Zhihu	Zhihu
+Bilibili	Bilibili
