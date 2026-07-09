@@ -2237,3 +2237,12 @@ kubectl	kubectl
 mvn	mvn
 mvnd	mvnd
 maven	maven
+
+# AI / 工具
+DeepSeek	DeepSeek
+MiniMax	MiniMax
+OpenCode	OpenCode
+pi agent	piagent
+piagent	piagent
+OpenClaw	OpenClaw
+Hermes	Hermes
