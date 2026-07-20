@@ -1,0 +1,18 @@
+patch:
+  app_options/+:
+    cmd.exe:
+      ascii_mode: true
+    conhost.exe:
+      ascii_mode: true
+    windowsterminal.exe:
+      ascii_mode: true
+    wt.exe:
+      ascii_mode: true
+    pwsh.exe:
+      ascii_mode: true
+    powershell.exe:
+      ascii_mode: true
+    code.exe:
+      ascii_mode: true
+    githubdesktop.exe:
+      ascii_mode: true
