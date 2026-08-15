@@ -183,4 +183,4 @@ kenlm 教程、python 调用 <https://github.com/mattzheng/py-kenlm-model>
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gaboolic/rime-frost&type=Date)](https://star-history.com/#gaboolic/rime-frost&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=gaboolic/rime-frost&type=Date)](https://star-history.dera.page/#gaboolic/rime-frost&Date)
