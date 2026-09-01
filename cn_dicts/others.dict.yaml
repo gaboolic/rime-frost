@@ -593,3 +593,9 @@ sort: by_weight
 四个興	si ge xing	0
 四个龍	si ge long	1
 四个土	si ge tu	0
+# 2026-08-27 新增：热榜新词/专名/影视人名（来自 zhihu_hot_top10x10 分词缺失高频词）
+拼假	pin jia	0
+热索瓦	re suo wa	0
+凹晶溪馆	ao jing xi guan	0
+老扎	lao zha	0
+赛夫	sai fu	0
