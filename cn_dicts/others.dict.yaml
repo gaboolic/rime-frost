@@ -727,6 +727,24 @@ sort: by_weight
 # 2026-09-10 补2：方言蹲姿（用户指定）
 跍蹲	gu dun	0
 圪蹴	ge jiu	0
+# 2026-09-11 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-11 分词缺失词）
+瑞浦兰钧	rui pu lan jun	0
+徐景昌	xu jing chang	0
+苏护	su hu	0
+姜后	jiang hou	0
+根因	gen yin	0
+带元	dai yuan	0
+淮东	huai dong	0
+长债	chang zhai	0
+陆聚	lu ju	0
+弈子	yi zi	0
+贝森特	bei sen te	0
+沃什	wo shi	0
+金忠	jin zhong	0
+梅伯	mei bo	0
+武阳	wu yang	0
+殷郊	yin jiao	0
+走公账	zou gong zhang	0
 # 2026-09-12 新增：热榜新词/专名/技术术语（来自 zhihu_missing_2026-09-12 分词缺失词）
 董路	dong lu	0
 味型	wei xing	0
