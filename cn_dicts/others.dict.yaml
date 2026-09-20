@@ -881,3 +881,6 @@ sort: by_weight
 # 2026-09-19 新增：知乎热榜热词（人名/术语，来自 zhihu_missing_2026-09-19 分词缺失词）
 张子勇	zhang zi yong	0
 缩至	suo zhi	0
+# 2026-09-20 新增：知乎热榜热词（人名，来自 zhihu_missing_2026-09-20 分词缺失词）
+冯禧	feng xi	0
+谢欣	xie xin	0
