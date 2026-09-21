@@ -884,3 +884,8 @@ sort: by_weight
 # 2026-09-20 新增：知乎热榜热词（人名，来自 zhihu_missing_2026-09-20 分词缺失词）
 冯禧	feng xi	0
 谢欣	xie xin	0
+# 2026-09-21 新增：知乎热榜热词（人物名/术语/新闻与网络简称，来自 zhihu_missing_2026-09-21 分词缺失词）
+敬妃	jing fei	0
+留役	liu yi	0
+美众议院	mei zhong yi yuan	0
+自宣	zi xuan	0
