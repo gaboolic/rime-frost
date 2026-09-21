@@ -38,6 +38,7 @@ import_tables:
   - cn_dicts_cell/composite
   - cn_dicts_cell/luna
   - cn_dicts_cell/name
+  - cn_dicts_cell/literature/zhuangzi
 ...
 
 # 按需启用：
