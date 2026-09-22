@@ -28,10 +28,13 @@ for file in file_list:
 
             word_map[key] = freq/top_freq
 
-# 使用 os 模块中的 listdir 函数列出指定文件夹中的所有文件和子目录
-file_list = os.listdir("cn_dicts_cell")
-for file in file_list:
-    file_name = os.path.join('cn_dicts_cell', file)
+# 递归列出 cn_dicts_cell 下所有词库文件（含 literature/ 等子目录），跳过目录与非词库文件
+file_list = []
+for root, dirs, files in os.walk("cn_dicts_cell"):
+    for file in files:
+        if file.endswith(".dict.yaml"):
+            file_list.append(os.path.join(root, file))
+for file_name in file_list:
     with open(file_name, 'r') as file:
         # 逐行读取文件内容
         for line in file:
