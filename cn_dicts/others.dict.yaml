@@ -3188,3 +3188,9 @@ sort: by_weight
 边保	bian bao	0
 跨代	kua dai	0
 四冠	si guan	0
+# 2026-09-29 补：戟把、闹嚷、挠攘、舞见、乌角鲨（用户指定；唱见已在 cn_dicts/base.dict.yaml，注音 chang jian）
+戟把	ji ba	0
+闹嚷	nao rang	0
+挠攘	nao rang	0
+舞见	wu jian	0
+乌角鲨	wu jiao sha	0
