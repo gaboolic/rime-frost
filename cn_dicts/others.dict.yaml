@@ -3237,3 +3237,7 @@ sort: by_weight
 尾钩	wei gou	0
 去化	qu hua	0
 转盈	zhuan ying	0
+# 2026-10-01 新增：知乎热榜热词（文学人物名与媒体/网络博主名，来自 zhihu_missing_2026-10-01 分词缺失词）
+周吉婕	zhou ji jie	0
+文春	wen chun	0
+星无	xing wu	0
