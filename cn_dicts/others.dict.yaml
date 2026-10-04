@@ -3249,3 +3249,10 @@ sort: by_weight
 文内	wen nei	0
 # 2026-10-03 新增：知乎热榜热词（新闻媒体名，来自 zhihu_missing_2026-10-03 分词缺失词）
 财闻	cai wen	0
+# 2026-10-04 新增：知乎热榜热词（机构名与新闻用语/历史与学术术语/人物名，来自 zhihu_missing_2026-10-04 分词缺失词）
+尚思	shang si	0
+全法	quan fa	0
+官帑	guan tang	0
+幻刃	huan ren	0
+正刊	zheng kan	0
+陈佳	chen jia	0
