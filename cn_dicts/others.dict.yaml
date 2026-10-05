@@ -3256,3 +3256,7 @@ sort: by_weight
 幻刃	huan ren	0
 正刊	zheng kan	0
 陈佳	chen jia	0
+# 2026-10-05 新增：知乎热榜热词（地名/人物名/经济与航运用语，来自 zhihu_missing_2026-10-05 分词缺失词）
+库皮扬斯克	ku pi yang si ke	0
+沈伯洋	shen bo yang	0
+油运	you yun	0
