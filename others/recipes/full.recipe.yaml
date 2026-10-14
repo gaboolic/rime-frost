@@ -30,3 +30,4 @@ install_files: >-
   melt_eng_t9.schema.yaml
   melt_eng.dict.yaml
   custom_phrase.txt
+  zh-moqi.gram
