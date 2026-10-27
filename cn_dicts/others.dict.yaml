@@ -4095,3 +4095,6 @@ sort: by_weight
 庭后	ting hou	0
 州级	zhou ji	0
 蚌住	bang zhu	0
+# 2026-10-27 新增：知乎热榜热词（人物名/常用词，来自 zhihu_missing_2026-10-27 分词缺失词）
+刘忍	liu ren	0
+独撑	du cheng	0
