@@ -4098,3 +4098,10 @@ sort: by_weight
 # 2026-10-27 新增：知乎热榜热词（人物名/常用词，来自 zhihu_missing_2026-10-27 分词缺失词）
 刘忍	liu ren	0
 独撑	du cheng	0
+# 2026-10-28 新增：知乎热榜热词（人物名/外交用语/科技热词，来自 zhihu_missing_2026-10-28 分词缺失词）
+吴正结	wu zheng jie	0
+严柳晴	yan liu qing	0
+钟淑如	zhong shu ru	0
+以媒	yi mei	0
+欧方	ou fang	0
+玄戒	xuan jie	0
