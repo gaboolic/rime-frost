@@ -247,7 +247,8 @@ function M.func(input, seg, env)
   local code = replaceToFactorial(express)
 
   local success, result = pcall(load("return " .. code, "calculate", "t", calcPlugin))
-  if success then
+  if success and result ~= nil then
+    result = tostring(result)
     yield(Candidate(input, seg.start, seg._end, result, ""))
     yield(Candidate(input, seg.start, seg._end, express .. "=" .. result, ""))
   else
