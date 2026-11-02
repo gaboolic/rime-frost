@@ -4120,3 +4120,6 @@ sort: by_weight
 秦攀	qin pan	0
 # 2026-11-01 新增：知乎热榜热词（文学表达「叠响」，来自 zhihu_missing_2026-11-01 分词缺失词）
 叠响	die xiang	0
+# 2026-11-02 新增：知乎热榜热词（常用词「同乘」「评教」，来自 zhihu_missing_2026-11-02 分词缺失词）
+同乘	tong cheng	0
+评教	ping jiao	0
