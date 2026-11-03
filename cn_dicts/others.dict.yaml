@@ -4123,3 +4123,9 @@ sort: by_weight
 # 2026-11-02 新增：知乎热榜热词（常用词「同乘」「评教」，来自 zhihu_missing_2026-11-02 分词缺失词）
 同乘	tong cheng	0
 评教	ping jiao	0
+# 2026-11-03 新增：知乎热榜热词（人物名「侯卓成」「杨汝晴」「周沁瑶」，品牌名「鸿蒙智行」，常用词「开谈」，来自 zhihu_missing_2026-11-03 分词缺失词）
+侯卓成	hou zhuo cheng	0
+杨汝晴	yang ru qing	0
+周沁瑶	zhou qin yao	0
+鸿蒙智行	hong meng zhi xing	0
+开谈	kai tan	0
