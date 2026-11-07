@@ -4136,3 +4136,5 @@ sort: by_weight
 多省	duo sheng	0
 疑因	yi yin	0
 预载	yu zai	0
+# 2026-11-07 新增：知乎热榜热词（美国众议员名「亚萨明」，来自 zhihu_missing_2026-11-07 分词缺失词；「宮本茂」为「宫本茂」繁体异体，已在 base.dict.yaml，不重复收录）
+亚萨明	ya sa ming	0
