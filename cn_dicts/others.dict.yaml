@@ -4462,3 +4462,36 @@ sort: by_weight
 储才计划	chu cai ji hua	0
 尸群	shi qun	0
 单格漫画	dan ge man hua	0
+# 2026-11-19 新增：知乎热榜热词（生物/羽绒服/水浒与佛学/网络用语/人物，来自 zhihu_missing_2026-11-19 分词缺失词）
+# 生物
+壶菌	hu jun	0
+蛙壶菌	wa hu jun	0
+原牛	yuan niu	0
+加湾鼠海豚	jia wan shu hai tun	0
+黄胸鹀	huang xiong wu	0
+# 羽绒服
+充绒	chong rong	0
+坦博尔	tan bo er	0
+# 水浒与佛学
+提辖	ti xia	0
+鲁提辖	lu ti xia	0
+颂子	song zi	0
+金绳	jin sheng	0
+玉锁	yu suo	0
+金绳玉锁	jin sheng yu suo	0
+物执	wu zhi	0
+名执	ming zhi	0
+法执	fa zhi	0
+# 网络用语/常用语
+纯卷	chun juan	0
+自醒	zi xing	0
+严抓	yan zhua	0
+生柴	sheng chai	0
+礼规	li gui	0
+成名立万	cheng ming li wan	0
+选边	xuan bian	0
+选边站	xuan bian zhan	0
+非常设	fei chang she	0
+平独镇露	ping du zhen lu	0
+# 人物
+祝炜	zhu wei	0
