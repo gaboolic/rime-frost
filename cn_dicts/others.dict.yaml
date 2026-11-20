@@ -4499,3 +4499,47 @@ sort: by_weight
 日的一声	ri de yi sheng	0
 打成糊糊	da cheng hu hu	0
 日的一声打成糊糊	ri de yi sheng da cheng hu hu	0
+# 2026-11-20 新增：知乎热榜热词（中国古代数学与数字起源/采暖/美股与电竞/人物/常用词，来自 zhihu_missing_2026-11-20 分词缺失词）
+# 中国古代数学与数字起源
+古算	gu suan	0
+中算	zhong suan	0
+进位制	jin wei zhi	0
+位值制	wei zhi zhi	0
+十进位值制	shi jin wei zhi zhi	0
+合文	he wen	0
+小盂鼎	xiao yu ding	0
+商鞅量	shang yang liang	0
+商鞅量铭	shang yang liang ming	0
+居延新简	ju yan xin jian	0
+夏侯阳算经	xia hou yang suan jing	0
+刘徽注	liu hui zhu	0
+数符	shu fu	0
+数形	shu xing	0
+土盘	tu pan	0
+牙尺	ya chi	0
+骨尺	gu chi	0
+册次	ce ci	0
+柳湾	liu wan	0
+柳湾遗址	liu wan yi zhi	0
+周初	zhou chu	0
+西传	xi chuan	0
+# 人物
+傅仁昀	fu ren yun	0
+关肇直	guan zhao zhi	0
+王大令	wang da ling	0
+姚顺雨	yao shun yu	0
+韩援	han yuan	0
+# 采暖与热泵
+热惰性	re duo xing	0
+回油	hui you	0
+水机	shui ji	0
+# 美股与游戏
+牛末熊初	niu mo xiong chu	0
+带崩	dai beng	0
+蹲行	dun xing	0
+# 常用词
+今者	jin zhe	0
+余寒	yu han	0
+相叠	xiang die	0
+一冬	yi dong	0
+老书	lao shu	0
