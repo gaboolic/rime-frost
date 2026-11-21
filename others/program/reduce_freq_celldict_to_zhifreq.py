@@ -20,6 +20,21 @@ with open(os.path.join('others', '降频词.txt'), 'r', encoding='utf-8') as dic
         if len(params) > 1:
             need_to_reduce_freq_word_map[params[0] + '\t' + ' '.join(params[1:])] = ''
 
+# name.dict.yaml 中的二字词也整体降频（与降频词一样 freq // 10）
+with open(os.path.join('cn_dicts_cell', 'name.dict.yaml'), 'r', encoding='utf-8') as dict_file:
+    for line in dict_file:
+        line = line.strip()
+        if not '\t' in line or line.startswith("#"):
+            continue
+        params = line.split('\t')
+        if len(params) < 2:
+            continue
+        character = params[0]
+        if len(character) != 2:
+            continue
+        need_to_reduce_freq_word_map[character] = ''
+        need_to_reduce_freq_word_map[character + '\t' + params[1]] = ''
+
 
 need_to_add_freq_word_map = {}
 with open(os.path.join('others', '增频词.txt'), 'r', encoding='utf-8') as dict_file:
