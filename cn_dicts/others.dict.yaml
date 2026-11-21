@@ -4543,3 +4543,24 @@ sort: by_weight
 相叠	xiang die	0
 一冬	yi dong	0
 老书	lao shu	0
+# 2026-11-21 新增：知乎热榜热词（时政与金融/气候与海洋/肠道与微生物/影视与人物/地名，来自 zhihu_missing_2026-11-21 分词缺失词）
+# 时政与金融
+印太	yin tai	0
+卡量	ka liang	0
+单客	dan ke	0
+摊回	tan hui	0
+# 气候与海洋
+距平	ju ping	0
+暖水	nuan shui	0
+菲东	fei dong	0
+# 肠道与微生物
+古菌	gu jun	0
+肠腔	chang qiang	0
+护肠	hu chang	0
+掺毒	chan du	0
+# 影视与人物
+成毅	cheng yi	0
+吴定缘	wu ding yuan	0
+苏荆溪	su jing xi	0
+# 地名
+尾道	wei dao	0
