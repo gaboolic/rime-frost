@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: frost_stroke
+  schema_id: rime_frost_stroke_t9
   name: 九宫格笔画
   version: "1.0"
   description: |
@@ -43,7 +43,7 @@ menu:
 
 translator:
   dictionary: stroke
-  prism: frost_stroke
+  prism: rime_frost_stroke_t9
   enable_completion: true
   enable_sentence: false
   enable_user_dict: false

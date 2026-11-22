@@ -15,7 +15,7 @@ schema_list:
   - schema: rime_frost_double_pinyin_sogou    # 搜狗双拼
   - schema: rime_frost_double_pinyin_flypy    # 小鹤双拼
   - schema: rime_frost_t9                     # 仓·九键拼音
-  - schema: frost_stroke                     # 九宫格笔画
+  - schema: rime_frost_stroke_t9             # 九宫格笔画
   # - schema: rime_frost_double_pinyin_abc      # 智能 ABC 双拼
   # - schema: rime_frost_double_pinyin_ziguang  # 紫光双拼
 

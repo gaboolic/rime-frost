@@ -18,7 +18,6 @@ install_files: >-
   rime_frost.dict.yaml
   rime_frost_*.schema.yaml
   rime_frost_*.dict.yaml
-  frost_stroke.schema.yaml
   stroke.dict.yaml
   essay.txt
   symbols_v.yaml

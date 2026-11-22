@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   RIME_STRUCT(RimeTraits, traits);
   traits.shared_data_dir = argv[1];
   traits.user_data_dir = argv[2];
-  traits.app_name = "rime.frost_stroke_smoke_test";
+  traits.app_name = "rime.rime_frost_stroke_t9_smoke_test";
   traits.min_log_level = 2;
   RimeSetup(&traits);
   RimeInitialize(&traits);
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
   require(RimeGetSchemaList(&schemas), "could not load deployed schema list");
   bool has_stroke = false;
   for (size_t i = 0; i < schemas.size; ++i) {
-    if (std::strcmp(schemas.list[i].schema_id, "frost_stroke") == 0) {
+    if (std::strcmp(schemas.list[i].schema_id, "rime_frost_stroke_t9") == 0) {
       has_stroke = true;
     }
   }
@@ -72,7 +72,8 @@ int main(int argc, char** argv) {
 
   auto session = RimeCreateSession();
   require(session, "could not start Rime session");
-  require(RimeSelectSchema(session, "frost_stroke"), "could not load stroke schema");
+  require(RimeSelectSchema(session, "rime_frost_stroke_t9"),
+          "could not load stroke schema");
   require(!RimeProcessKey(session, 'a', 0), "non-stroke letter was consumed");
 
   input(session, "szhs");

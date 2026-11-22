@@ -39,9 +39,9 @@
 
 ### 九宫格笔画
 
-重新部署后，在方案选单中选择 **九宫格笔画**（`frost_stroke`）。按笔顺输入单字：横/提 `h`、竖 `s`、撇 `p`、点/捺 `n`、折 `z`。例如 `szhs` → 中，`nhpn` → 文。可以只输前几笔再选字，不支持通配键或整句组词。九宫格布局由输入法前端提供，Rime 方案只处理这五个按键。
+重新部署后，在方案选单中选择 **九宫格笔画**（`rime_frost_stroke_t9`）。按笔顺输入单字：横/提 `h`、竖 `s`、撇 `p`、点/捺 `n`、折 `z`。例如 `szhs` → 中，`nhpn` → 文。可以只输前几笔再选字，不支持通配键或整句组词。九宫格布局由输入法前端提供，Rime 方案只处理这五个按键。
 
-**Android 打包：** 将 `frost_stroke.schema.yaml` 和已有的 `stroke.dict.yaml`、`essay.txt` 放到应用的 Rime 共享数据目录根部；后两者如已随白霜打包，无需复制。方案从 `default.yaml` 读取标点，不依赖反查方案、Lua 或 OpenCC。若应用维护自己的 `schema_list`（包括 `default.custom.yaml` 中覆盖的列表），请追加 `- schema: frost_stroke`，保留原有方案，再部署以生成词典和方案索引。前端应发送小写 ASCII 按键，而不是按键上显示的笔画字符。
+**Android 打包：** 将 `rime_frost_stroke_t9.schema.yaml` 和已有的 `stroke.dict.yaml`、`essay.txt` 放到应用的 Rime 共享数据目录根部；后两者如已随白霜打包，无需复制。方案从 `default.yaml` 读取标点，不依赖反查方案、Lua 或 OpenCC。若应用维护自己的 `schema_list`（包括 `default.custom.yaml` 中覆盖的列表），请追加 `- schema: rime_frost_stroke_t9`，保留原有方案，再部署以生成词典和方案索引。前端应发送小写 ASCII 按键，而不是按键上显示的笔画字符。
 
 笔画码表沿用仓库原有数据，来源和整理者见 [`stroke.dict.yaml`](stroke.dict.yaml) 文件头；[Rime 五笔画上游](https://github.com/rime/rime-stroke) 采用 LGPL-3.0。重新分发时保留码表的来源声明及适用的许可证。
 
