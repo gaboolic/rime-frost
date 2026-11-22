@@ -17,7 +17,7 @@ io.open = function(path, mode)
 end
 
 yield = coroutine.yield
-local function run(texts, suffix)
+local function run(texts, suffix, char_aux)
     local consumed = 0
     local started = false
     local input = { iter = function()
@@ -27,11 +27,12 @@ local function run(texts, suffix)
             local i = last and last.index + 1 or 1
             if texts[i] then
                 consumed = consumed + 1
-                return { index = i, text = texts[i] }
+                return { index = i, text = texts[i], type = 'phrase' }
             end
         end, nil, nil
     end }
-    local env = { trigger_key = '`', engine = { context = { input = 'x' .. suffix } } }
+    local context = { input = 'x' .. suffix, get_property = function() return char_aux or '' end }
+    local env = { trigger_key = '`', engine = { context = context } }
     local co = coroutine.create(function() filter.func(input, env) end)
     return function()
         local ok, cand = coroutine.resume(co)
@@ -77,4 +78,8 @@ assert(collect(run({ '甲丙', '乙丁', '晚丙', '敏', '乙丙' }, '`rb')) ==
 assert(collect(run({ '', '甲', '乙' }, '`r')) == '乙')
 assert(collect(run({ '甲', '丙' }, '`r')) == '')
 assert(collect(run({ '甲', '晚' }, '`xy')) == '晚')
+-- 逐字模式仅输出命中的单字，不改变现有候选对象及迭代顺序。
+assert(collect(run({ '甲乙', '甲', '乙', '晚' }, '', 'r')) == '乙|晚')
+assert(collect(run({ '甲乙', '甲', '乙' }, '', '!')) == '甲乙|甲|乙')
+assert(collect(run({ '乙', '晚' }, '', 'zz')) == '')
 print('aux_lookup_filter: OK')

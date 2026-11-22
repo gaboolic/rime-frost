@@ -31,11 +31,21 @@
 - 日期与时间 rq sj xq dt ts
 - 开启句中任意辅助码 ` 使用说明：[句中任意辅助码](/lua/aux_lookup_filter.lua)  拆分说明：[墨奇辅助码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming)
   ![alt text](others/img/input-liuxingyusamantianji.gif)
+- **逐字辅筛**：先打完整拼音，再按两次反引号。比如输入 ``` liyi``w ```，选「立」后不立即上屏；直接按 `c` 再选「艺」，最后一起上屏「立艺」。每字可加一到两位辅码，退格先删辅码，再退出逐字模式。单反引号的整句辅筛不变。
 - 部件拆字反查 uU
 - unicode字符 U
 - 数字金额大写 R
 - 农历 N
 - 计算器 V
+
+如需改逐字引导键，在对应方案的 `*.custom.yaml` 中加入以下补丁（已有 `patch:` 时合并到里面）：
+
+```yaml
+patch:
+  "frost_aux_filter/char_trigger": "`~"
+```
+
+重新部署后用反引号加波浪号进入逐字模式。首键须是能进入当前组字缓冲的标点（默认可用反引号）。设为 `""` 可禁用逐字模式，不影响单反引号。
 
 ### 九宫格笔画
 
