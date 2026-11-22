@@ -4567,3 +4567,31 @@ sort: by_weight
 # 2026-11-21 补充：口语与数码用语
 充会电	chong hui dian	0
 软解	ruan jie	0
+# 2026-11-22 新增：知乎热榜热词（影视与人物/饮食品牌/常用与网络用语，来自 zhihu_missing_2026-11-22 分词缺失词）
+# 影视与人物
+卞赫俊	bian he jun	0
+京烁	jing shuo	0
+周晟安	zhou sheng an	0
+宋知节	song zhi jie	0
+徐牧	xu mu	0
+时穗	shi sui	0
+智允	zhi yun	0
+白清枚	bai qing mei	0
+钱小卉	qian xiao hui	0
+陈默	chen mo	0
+棍夫	gun fu	0
+# 人物
+宋欣桥	song xin qiao	0
+邝兆雷	kuang zhao lei	0
+# 饮食与品牌
+冰煮鲜羊	bing zhu xian yang	0
+天边羊多	tian bian yang duo	0
+# 常用与网络用语
+阴界	yin jie	0
+冲稀	chong xi	0
+刀乐	dao le	0
+垂肩	chui jian	0
+拼式	pin shi	0
+水盐平衡	shui yan ping heng	0
+犯蠢	fan chun	0
+错选	cuo xuan	0
