@@ -21,7 +21,10 @@ install_files: >-
   symbols_v.yaml
   radical_pinyin.schema.yaml
   radical_pinyin.dict.yaml
+  radical_pinyin_algebra.yaml
   melt_eng.schema.yaml
+  melt_eng_algebra.yaml
+  melt_eng_algebra_common.yaml
   melt_eng_t9.schema.yaml
   melt_eng.dict.yaml
   custom_phrase.txt
