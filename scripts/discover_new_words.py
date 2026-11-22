@@ -135,25 +135,59 @@ def load_surnames():
     return surnames
 
 
+def iter_dict_file(file):
+    """逐行读出词库里的词, 跳过注释和 YAML 头。"""
+    for line in open(file, encoding="utf-8", errors="ignore"):
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#") or stripped in ("---", "..."):
+            continue
+        head = stripped.split("\t")[0].split(" ")[0]
+        if ":" in head:
+            continue
+        if "\t" in stripped:
+            word = stripped.split("\t")[0].strip()
+        else:
+            parts = stripped.split()
+            if len(parts) < 2:
+                continue
+            word = parts[0]
+        if word:
+            yield word
+
+
 def load_dict_words(path):
     words = set()
-    if path.exists():
-        for line in open(path, encoding="utf-8", errors="ignore"):
-            if not line.strip() or line.startswith("#"):
-                continue
-            words.add(line.split()[0])
-        return words
-
-    # 没有 custom_fenci_dict 时, 直接扫描词库文件
+    # 总是扫描实际词库文件, 避免 custom_fenci_dict.txt 过期导致已收录词被当成新词
     for pattern in ("cn_dicts/*.dict.yaml", "cn_dicts_cell/*.dict.yaml"):
         for file in ROOT.glob(pattern):
-            for line in open(file, encoding="utf-8", errors="ignore"):
-                line = line.strip()
-                if not line or line.startswith("#") or line in ("---", "...") or ":" in line.split("\t")[0]:
-                    continue
-                if "\t" in line:
-                    words.add(line.split("\t")[0])
+            words.update(iter_dict_file(file))
+    if path.exists():
+        for line in open(path, encoding="utf-8", errors="ignore"):
+            stripped = line.strip()
+            if not stripped or stripped.startswith("#"):
+                continue
+            words.add(stripped.split()[0])
     return words
+
+
+def affix_counts(dict_words, candidates):
+    """统计候选作为更长词库词的前缀/后缀出现次数, 用于识别黏着片段。
+
+    例如「河流域」是「黄河流域」「长江流域」…的后缀, 本身不是独立词。
+    """
+    wanted = set(candidates)
+    prefix = Counter()
+    suffix = Counter()
+    for word in dict_words:
+        n = len(word)
+        for k in range(2, min(4, n - 1) + 1):
+            head = word[:k]
+            if head in wanted:
+                prefix[head] += 1
+            tail = word[-k:]
+            if tail in wanted:
+                suffix[tail] += 1
+    return prefix, suffix
 
 
 # ---------------------------------------------------------------- 统计
@@ -354,7 +388,7 @@ def append_to_dict(target, rows, source):
     entries = []
     for row in rows:
         word, _, _, _, _, _, _, pinyin, flags = row
-        if word in existing or "name?" in flags or "place?" in flags or "polyphone?" in flags or "pos=" in flags or "fragment?" in flags or "truncated?" in flags:
+        if word in existing or "name?" in flags or "place?" in flags or "polyphone?" in flags or "pos=" in flags or "fragment?" in flags or "truncated?" in flags or "affix?" in flags:
             continue
         entries.append((word, pinyin))
     if not entries:
@@ -456,6 +490,9 @@ def main():
         token_counts = count_tokens(norm_path, wanted)
         print(f"其中 jieba 作为独立词切出的候选: {len(token_counts)}")
 
+    prefix_counts, suffix_counts = affix_counts(dict_words, wanted)
+    print(f"作为更长词库词前缀/后缀的候选: {len(set(prefix_counts) | set(suffix_counts))}")
+
     by_len = {2: set(), 3: set(), 4: set()}
     for gram, _, _ in raw:
         by_len[len(gram)].add(gram)
@@ -506,6 +543,9 @@ def main():
         truncated = ext_ratio >= 0.9
         if truncated:
             flags.append("truncated?")
+        affix = max(prefix_counts.get(gram, 0), suffix_counts.get(gram, 0)) >= 3
+        if affix:
+            flags.append("affix?")
         if token_ratio is not None and token_ratio < 0.05:
             flags.append("oov?")
 
@@ -513,6 +553,8 @@ def main():
         if fragment:
             penalty += 3.0
         if truncated:
+            penalty += 3.0
+        if affix:
             penalty += 3.0
         if token_ratio is not None and token_ratio < 0.05:
             penalty += 1.0
@@ -535,6 +577,7 @@ def main():
             and "name?" not in row[8] and "place?" not in row[8]
             and "pos=" not in row[8] and "fragment?" not in row[8]
             and "truncated?" not in row[8]
+            and "affix?" not in row[8]
             and (row[5] is None or row[5] >= 0.2)
             and (args.allow_polyphone or "polyphone?" not in row[8])]
     if args.skip_token_check:
