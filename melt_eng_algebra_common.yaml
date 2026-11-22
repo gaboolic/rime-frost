@@ -1,0 +1,64 @@
+# encoding: utf-8
+
+# 通用的派生规则
+algebra_common:
+  # 数字派生
+  - derive/1([4-7|9])/$1teen/
+  - derive/11/eleven/
+  - derive/12/twelve/
+  - derive/13/thirteen/
+  - derive/15/fifteen/
+  - derive/18/eighteen/
+  - derive/0/o/ # 如 1000 -> oneOOO
+  - derive/0/O/
+  - derive/0/zero/
+  - derive/1/one/
+  - derive/10/ten/
+  - derive/2/to/
+  - derive/2/two/
+  - derive/3/three/
+  - derive/4/for/
+  - derive/4/four/
+  - derive/5/five/
+  - derive/6/six/
+  - derive/7/seven/
+  - derive/8/eight/
+  - derive/9/nine/
+  # 符号派生
+  - derive/\+/plus/
+  - derive/\./dot/
+  - derive/@/at/
+  - derive/-/hyphen/
+  - derive/#/hash/
+  - derive/#/number/
+  - derive/#/sharp/
+  - derive/♯/sharp/
+  - derive / slash
+  - derive/&/and/
+  - derive/%/percent/
+  # 派生无单个特殊字符的拼写
+  - derive/[.]//
+  - derive/[+]//
+  - derive/[@]//
+  - derive/[-]//
+  - derive/[_]//
+  # 派生无任何非字母数字字符的拼写
+  - derive/[^a-zA-Z0-9]//
+  # 禁用非英文、数字开头的编码
+  - erase/^[^a-zA-Z0-9].+$/
+  # 全小写
+  - derive/^.+$/\L$0/
+  # 全大写
+  - derive/^.+$/\U$0/
+  # 首字母大写
+  - derive/^./\U$0/
+  # 前 2~10 个字母大写
+  - derive/^([a-z]{2})/\U$1/
+  - derive/^([a-z]{3})/\U$1/
+  - derive/^([a-z]{4})/\U$1/
+  - derive/^([a-z]{5})/\U$1/
+  - derive/^([a-z]{6})/\U$1/
+  - derive/^([a-z]{7})/\U$1/
+  - derive/^([a-z]{8})/\U$1/
+  - derive/^([a-z]{9})/\U$1/
+  - derive/^([a-z]{10})/\U$1/

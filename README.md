@@ -84,6 +84,8 @@
 
 - ℞ 安装或更新全部文件 执行 `bash rime-install gaboolic/rime-frost:others/recipes/full`
 
+如果旧的双拼补丁在 `melt_eng.custom.yaml` 或 `radical_pinyin.custom.yaml` 中引用各自的 `*.schema.yaml:/algebra_…`，更新后可分别将引用改为 `melt_eng_algebra:/algebra_…` 和 `radical_pinyin_algebra:/algebra_…`，保留原来的规则名，再重新部署。
+
 ### 无智能模型时的输入效果
 
 ![alt text](others/img/gegegojx.png)

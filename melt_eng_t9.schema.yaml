@@ -19,7 +19,7 @@ translator:
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA9876543210
   algebra:
-    # 通用英文派生规则，展开自 melt_eng.schema.yaml:/algebra_rime_frost。
+    # 通用英文派生规则，展开自 melt_eng_algebra:/algebra_rime_frost。
     - derive/1([4-7|9])/$1teen/
     - derive/11/eleven/
     - derive/12/twelve/
