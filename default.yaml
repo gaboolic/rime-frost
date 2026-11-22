@@ -236,7 +236,7 @@ key_binder:
     # - { when: always, accept: Control+period, toggle: ascii_punct }
     # - { when: always, accept: Control+slash, toggle: traditionalization }
 
-    # 将小键盘 0~9 . 映射到主键盘，数字金额大写的 Lua 如 R1234.5678 可使用小键盘输入
+    # 将小键盘数字、小数点和四则运算符映射到主键盘，方便输入金额和计算器算式
     - {accept: KP_0, send: 0, when: composing}
     - {accept: KP_1, send: 1, when: composing}
     - {accept: KP_2, send: 2, when: composing}
@@ -248,6 +248,10 @@ key_binder:
     - {accept: KP_8, send: 8, when: composing}
     - {accept: KP_9, send: 9, when: composing}
     - {accept: KP_Decimal, send: period, when: composing}
+    - {accept: KP_Add, send: plus, when: composing}
+    - {accept: KP_Subtract, send: minus, when: composing}
+    - {accept: KP_Multiply, send: asterisk, when: composing}
+    - {accept: KP_Divide, send: slash, when: composing}
 
 
 # 按键速查
