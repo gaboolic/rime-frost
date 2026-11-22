@@ -102,11 +102,14 @@ local function load_aux_table()
         local ch, code = line:match("^([^=]+)=(.+)$")
         if ch and code and code ~= "" then
             local codes = aux_table[ch]
+            -- 大多数汉字只有一码，不为每个字分配一个单元素表。
             if not codes then
-                codes = {}
-                aux_table[ch] = codes
+                aux_table[ch] = code
+            elseif type(codes) == "string" then
+                aux_table[ch] = { codes, code }
+            else
+                codes[#codes + 1] = code
             end
-            codes[#codes + 1] = code
         end
     end
     file:close()
@@ -131,6 +134,9 @@ local function char_matches_prefix(aux_table, ch, aux)
     local codes = aux_table[ch]
     if not codes then
         return false
+    end
+    if type(codes) == "string" then
+        return codes:sub(1, #aux) == aux
     end
     for _, code in ipairs(codes) do
         if code:sub(1, #aux) == aux then
@@ -164,12 +170,7 @@ end
 -- 它会扫描候选里的所有字：
 --   - 一码辅码：命中任意一个辅助码以该键开头的字；
 --   - 两码辅码：可以命中某个字的完整辅码，也可以跨字按顺序匹配。
-local function candidate_matches(aux_table, text, aux)
-    if text == "" or aux == "" then
-        return false
-    end
-
-    local chars = split_chars(text)
+local function candidate_matches(aux_table, chars, aux)
     for i = 1, #chars do
         if char_matches_prefix(aux_table, chars[i], aux) then
             return true
@@ -180,19 +181,6 @@ local function candidate_matches(aux_table, text, aux)
         return match_subsequence(aux_table, chars, aux)
     end
     return false
-end
-
--- 一次性消费候选流，并同时保存每个候选拆好的字数组。
--- Rime filter 的输入流不能倒回，所以后续多轮匹配都基于这个列表进行。
-local function collect_candidates(input)
-    local candidates = {}
-    for cand in input:iter() do
-        candidates[#candidates + 1] = {
-            cand = cand,
-            chars = split_chars(cand.text),
-        }
-    end
-    return candidates
 end
 
 -- 找出一组候选中发生差异的位置。
@@ -327,30 +315,73 @@ function M.func(input, env)
     end
 
     local aux_table = load_aux_table()
-    local candidates = collect_candidates(input)
-    local variant_group, variant_positions = find_variant_group(candidates)
-    local yielded = {}
-    local has_variant_match = false
+    local next_candidate, state, cursor = input:iter()
+    local candidates = {}
+    local first_chars, width, remaining
+    local differs = {}
+    for cand in next_candidate, state, cursor do
+        cursor = cand
+        local chars = split_chars(cand.text)
+        candidates[#candidates + 1] = { cand = cand, chars = chars }
+        if not first_chars and #chars > 0 then
+            first_chars, width, remaining = chars, #chars, #chars
+        elseif #chars == width then
+            for pos = 1, width do
+                if not differs[pos] and chars[pos] ~= first_chars[pos] then
+                    differs[pos] = true
+                    remaining = remaining - 1
+                end
+            end
+            if remaining == 0 then
+                -- 最早出现的非空长度组已经确定胜出，所有位置也都已产生差异。
+                -- 后续候选无法改变优先组或差异位置；沿用当前迭代器，按需筛选后页。
+                local fallback = {}
+                local function visit(candidate, candidate_chars)
+                    local same_width = #candidate_chars == width
+                    if (same_width or fallback) and candidate_matches(aux_table, candidate_chars, aux) then
+                        if same_width then
+                            fallback = nil
+                            yield(candidate)
+                        else
+                            fallback[#fallback + 1] = candidate
+                        end
+                    end
+                end
+                for _, item in ipairs(candidates) do
+                    visit(item.cand, item.chars)
+                end
+                candidates = nil
+                for next_cand in next_candidate, state, cursor do
+                    local text = next_cand.text
+                    if fallback or utf8.len(text) == width then
+                        visit(next_cand, split_chars(text))
+                    end
+                end
+                -- 整组始终未命中才使用兜底；精确命中时不追加其他长度组。
+                if fallback then
+                    for _, candidate in ipairs(fallback) do
+                        yield(candidate)
+                    end
+                end
+                return
+            end
+        end
+    end
 
-    -- 第一轮：如果可比较候选只在特定位置不同，就只按这些位置筛选。
-    -- 这一步用于提高整句纠错的精度。
-    if variant_group and variant_positions then
-        for i = 1, #variant_group do
-            local item = variant_group[i]
+    -- 第一组仍可能包含不变的位置，或不是最终胜出的组：保留原来的全局判定。
+    local variant_group, variant_positions = find_variant_group(candidates)
+    local has_variant_match = false
+    if variant_group then
+        for _, item in ipairs(variant_group) do
             if candidate_matches_positions(aux_table, item.chars, aux, variant_positions) then
-                yielded[item] = true
                 has_variant_match = true
                 yield(item.cand)
             end
         end
     end
-
-    -- 第二轮：如果没有差异位置命中，则退回到候选任意字匹配。
-    -- 如果已经有精确的差异位置命中，就不再追加无关的模糊命中结果。
-    for i = 1, #candidates do
-        local item = candidates[i]
-        if not yielded[item] then
-            if (not has_variant_match) and candidate_matches(aux_table, item.cand.text, aux) then
+    if not has_variant_match then
+        for _, item in ipairs(candidates) do
+            if candidate_matches(aux_table, item.chars, aux) then
                 yield(item.cand)
             end
         end
