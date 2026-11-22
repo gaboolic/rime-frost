@@ -4,12 +4,12 @@ local M = {}
 
 function M.init(env)
   local config = env.engine.schema.config
-  env.name_space = env.name_space:gsub('^*', '')
-  M.prefix = config:get_string(env.name_space .. '/trigger') or 'V'
-  M.prefixes = { M.prefix }
-  local lowerPrefix = M.prefix:lower()
-  if lowerPrefix ~= M.prefix then
-    table.insert(M.prefixes, lowerPrefix)
+  local namespace = env.name_space:gsub('^%*', '')
+  local prefix = config:get_string(namespace .. '/trigger') or 'V'
+  env.prefixes = { prefix }
+  local lowerPrefix = prefix:lower()
+  if lowerPrefix ~= prefix then
+    table.insert(env.prefixes, lowerPrefix)
   end
 end
 
@@ -226,8 +226,10 @@ end
 
 -- 简单计算器
 function M.func(input, seg, env)
+  -- 以方案的识别规则为准，避免把双拼的 v 声母当成计算器前缀。
+  if not seg:has_tag('calculator') then return end
   local prefix = nil
-  for _, candidatePrefix in ipairs(M.prefixes) do
+  for _, candidatePrefix in ipairs(env.prefixes) do
     if startsWith(input, candidatePrefix) then
       prefix = candidatePrefix
       break
