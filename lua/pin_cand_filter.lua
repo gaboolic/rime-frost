@@ -214,8 +214,11 @@ function M.func(input, env)
             -- 要置顶的放到 pined 中，其余的放到 others
             local idx = find_index(texts, cand.text)
             if idx ~= 0 then
+                -- 自定义短语和词库可能给出同一个字，不能把重复候选当成另一个置顶目标。
+                if pined[idx] == "" then
+                    pined_count = pined_count + 1
+                end
                 pined[idx] = cand
-                pined_count = pined_count + 1
             else
                 table.insert(others, cand)
             end
