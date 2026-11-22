@@ -64,6 +64,81 @@
 
 local M = {}
 
+-- 空串表示未启用，"!" 表示逐字模式正等待辅码。辅码不写进 ctx.input，
+-- 因此原生部分候选可以只消耗自己的音节，Rime 也能按纯音码学习整词。
+local char_aux_property = "frost_char_aux"
+local waiting = "!"
+local char_processor = {}
+M.char_processor = char_processor
+
+function char_processor.init(env)
+    local config = env.engine.schema.config
+    local trigger = config:get_string("frost_aux_filter/char_trigger") or "``"
+    -- 双键引导的第一键必须是可进入组字缓冲的标点，如默认的反引号。
+    if #trigger == 2 and trigger:match("^%p%p$") then
+        env.lead, env.tail = trigger:sub(1, 1), trigger:byte(2)
+    end
+    local ctx = env.engine.context
+    env.char_select = ctx.select_notifier:connect(function(context)
+        local aux = context:get_property(char_aux_property)
+        if aux ~= "" and aux ~= waiting then
+            context:set_property(char_aux_property, waiting)
+        end
+    end, 0) -- 在引擎生成下一段候选前，清掉已选单字的辅码。
+    local function reset(context)
+        if context:get_property(char_aux_property) ~= "" then
+            context:set_property(char_aux_property, "")
+        end
+    end
+    env.char_commit = ctx.commit_notifier:connect(reset)
+    env.char_update = ctx.update_notifier:connect(function(context)
+        if context.input == "" then reset(context) end
+    end)
+end
+
+function char_processor.func(key, env)
+    -- 允许 Shift 打出标点；逐字辅码本身也统一按小写处理。
+    if not env.tail or (key.modifier ~= 0 and key.modifier ~= 1) then return 2 end
+    local ctx = env.engine.context
+    local code = key.keycode
+    local aux = ctx:get_property(char_aux_property)
+    if aux == "" then
+        if code == env.tail and not ctx:get_option("ascii_mode") and ctx.caret_pos == #ctx.input
+            and ctx.input:sub(-1) == env.lead and ctx.input:sub(1, -2):match("^[a-zA-Z';]+$") then
+            ctx:set_property(char_aux_property, waiting)
+            ctx:pop_input(1)
+            return 1
+        end
+        return 2
+    end
+    if ctx:get_option("ascii_mode") or code == 0xff1b then -- Escape 交还给 Rime。
+        ctx:set_property(char_aux_property, "")
+        ctx:refresh_non_confirmed_composition()
+        return 2
+    end
+    if code == 0xff08 then -- BackSpace：先删辅码，再退出逐字模式。
+        local remaining = aux == waiting and "" or (#aux == 1 and waiting or aux:sub(1, -2))
+        ctx:set_property(char_aux_property, remaining)
+        ctx:refresh_non_confirmed_composition()
+        return 1
+    end
+    if (code >= 97 and code <= 122) or (code >= 65 and code <= 90) then
+        if aux == waiting then aux = "" end
+        if #aux < 2 then
+            ctx:set_property(char_aux_property, aux .. string.char(code):lower())
+            ctx:refresh_non_confirmed_composition()
+        end
+        return 1
+    end
+    return 2
+end
+
+function char_processor.fini(env)
+    env.char_select:disconnect()
+    env.char_commit:disconnect()
+    env.char_update:disconnect()
+end
+
 local function escape_pattern(s)
     return (s:gsub("(%W)", "%%%1"))
 end
@@ -296,8 +371,28 @@ function M.fini(env)
     end
 end
 
+function M.tags_match(seg, env)
+    local aux = env.engine.context:get_property(char_aux_property)
+    if aux == "" then return true end
+    if not seg:has_tag("abc") then return false end
+    seg.prompt = aux == waiting and " 〔逐字〕" or " 〔逐字 " .. aux .. "〕"
+    return true
+end
+
 function M.func(input, env)
-    local input_code = env.engine.context.input
+    local context = env.engine.context
+    local char_aux = context:get_property(char_aux_property)
+    if char_aux ~= "" and char_aux ~= waiting then
+        local aux_table = load_aux_table()
+        for cand in input:iter() do
+            if (cand.type == "phrase" or cand.type == "user_phrase") and utf8.len(cand.text) == 1
+                and char_matches_prefix(aux_table, cand.text, char_aux) then
+                yield(cand)
+            end
+        end
+        return
+    end
+    local input_code = context.input
 
     -- 普通输入的快速路径。这里仍然有 Lua filter 的透传成本，
     -- 但不会加载辅码表，也不会扫描候选文本。
