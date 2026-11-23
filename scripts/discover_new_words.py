@@ -68,16 +68,30 @@ def extract_text(obj, field):
     if isinstance(obj, str):
         return obj
     if isinstance(obj, dict):
-        for key in (field,) + TEXT_FIELDS:
+        # --field 支持逗号分隔多个字段 (如 MNBVC 的 "问,答")
+        if field:
+            parts = [
+                obj[key]
+                for key in (k.strip() for k in field.split(","))
+                if key and isinstance(obj.get(key), str) and obj.get(key)
+            ]
+            if parts:
+                return "\n".join(parts)
+        for key in TEXT_FIELDS:
             value = obj.get(key)
             if isinstance(value, str):
                 return value
     return ""
 
 
+def is_jsonl(path):
+    name = path.name.lower()
+    return name.endswith((".jsonl", ".json", ".jsonl.gz", ".json.gz"))
+
+
 def iter_texts(path, field):
     with open_text(path) as f:
-        if path.suffix.lower() in (".jsonl", ".json"):
+        if is_jsonl(path):
             for line in f:
                 line = line.strip()
                 if not line:

@@ -40,7 +40,7 @@ python3 scripts/discover_new_words.py \
 
 说明：
 
-- 语料支持 `.txt`、`.jsonl`、`.jsonl.gz`；JSONL 默认取 `text` 字段，可用 `--field` 指定。
+- 语料支持 `.txt`、`.jsonl`、`.jsonl.gz`；JSONL 默认取 `text` 字段，可用 `--field` 指定，多个字段用逗号分隔（如 MNBVC 的 `--field 问,答`）。
 - 745M 字约需 **20~40 分钟**、**数 GB 内存**（15GB 内存的机器够用）。
 - 内存紧张时：`--max-n 3`（默认）只保留 2/3-gram 表，4 字词的熵用流式扫描，省内存。
 - 想再省时间可加 `--skip-token-check`（跳过 jieba 分词校验，约省半小时；此时不会自动入库，只输出待审核表）。
