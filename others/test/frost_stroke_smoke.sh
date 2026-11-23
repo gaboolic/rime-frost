@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
-# Requires a C++ compiler and librime development headers/library.
+# Requires a C++ compiler and librime with Component.Translator-capable librime-lua.
 set -euo pipefail
 
 root=$(cd -- "$(dirname -- "$0")/../.." && pwd)
 scratch=$(mktemp -d /tmp/frost-stroke-smoke.XXXXXX)
 trap 'if [[ "$scratch" == /tmp/frost-stroke-smoke.* ]]; then rm -rf -- "$scratch"; fi' EXIT
-mkdir -p "$scratch/shared" "$scratch/user"
+mkdir -p "$scratch/shared/lua" "$scratch/user"
+cp "$root/lua/moqi_stroke.lua" "$scratch/shared/lua/"
 
 # Supply only the shared data needed by this test, as on a minimal frontend.
 cp "$root"/{default.yaml,rime_frost_stroke_t9.schema.yaml,stroke.dict.yaml,essay.txt} "$scratch/shared/"
