@@ -4,10 +4,11 @@
 schema:
   schema_id: rime_frost_stroke_t9
   name: 九宫格笔画
-  version: "1.0"
+  version: "1.1"
   description: |
-    按笔顺输入单字：h 横（含提）、s 竖、p 撇、n 点/捺、z 折。
-    支持前缀联想，不使用通配键。
+    按笔顺输入：h 横（含提）、s 竖、p 撇、n 点/捺、z 折。
+    支持前缀联想，每字可用一个 x 匹配任意一笔。
+    分词键确认当前候选并开始下一字，不上屏，不插入标点。
 
 switches:
   - name: ascii_mode
@@ -20,6 +21,7 @@ switches:
 
 engine:
   processors:
+    - lua_processor@*moqi_stroke*processor
     - ascii_composer
     - speller
     - punctuator
@@ -34,9 +36,10 @@ engine:
   translators:
     - punct_translator
     - table_translator
+    - lua_translator@*moqi_stroke*translator
 
 speller:
-  alphabet: hspnz
+  alphabet: hspnzx
 
 menu:
   page_size: 9
