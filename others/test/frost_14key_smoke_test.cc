@@ -117,6 +117,35 @@ int main(int argc, char** argv) {
   api->free_commit(&commit);
   expect_input(session, "");
 
+  struct DoublePinyinCase {
+    const char* schema;
+    const char* second_syllable;
+  };
+  const DoublePinyinCase double_pinyin[] = {
+      {"rime_frost_double_pinyin_14key", "gj"},       // ni hk -> bu gj
+      {"rime_frost_double_pinyin_flypy_14key", "gc"}, // ni hc -> bu gc
+  };
+  for (const auto& test : double_pinyin) {
+    require(api->select_schema(session, test.schema), std::string("could not select ") + test.schema);
+    input(session, "bu");
+    candidate_index(session, "你", "ni");
+    candidate_index(session, "比", "bi");
+    input(session, test.second_syllable);
+    candidate_index(session, "你好", "ni hao");
+    require(api->process_key(session, 0xff08, 0), "double pinyin backspace was not handled");
+    expect_input(session, "bug");
+    api->clear_composition(session);
+    input(session, "bu'");
+    require(!api->get_commit(session, &commit), "double pinyin separator committed too early");
+    input(session, test.second_syllable);
+    require(api->select_candidate(session, candidate_index(session, "你好", "ni hao")),
+            "double pinyin phrase selection failed");
+    require(api->get_commit(session, &commit), "double pinyin phrase did not commit");
+    require(commit.text && std::string(commit.text) == "你好", "wrong double pinyin phrase");
+    api->free_commit(&commit);
+    expect_input(session, "");
+  }
+
   api->destroy_session(session);
   api->finalize();
   std::cout << "Fourteen-key smoke test passed\n";

@@ -60,7 +60,11 @@ patch:
 
 **前端集成：** 键盘由前端绘制，直接发送表中的键码，不需要在前端枚举拼音。原始输入是键码，预编辑可能显示 Rime 自动插入的音节间隔；候选注释可用来显示该候选的实际拼音。方案不继承二十六键的英文混输、拆字反查和辅码触发器。如已自定义 `schema_list`，追加 `- schema: rime_frost_14key` 后重新部署。
 
-在 Linux 上安装 C++ 编译器和 librime 开发包后，可运行 `bash others/test/frost_14key_smoke.sh` 进行原生检查。
+### 十四键双拼
+
+自然码和小鹤双拼也可以使用上表的键位。重新部署后，分别选择 **白霜自然码双拼·十四键**（`rime_frost_double_pinyin_14key`）或 **白霜小鹤双拼·十四键**（`rime_frost_double_pinyin_flypy_14key`）。每个音节仍用两键；例如「你好」在自然码下按 `BN UI GH JK`，在小鹤下按 `BN UI GH CV`。两个方案分别复用原双拼拼写规则与白霜词库，保留候选的实际拼音注释和单引号分词，与原二十六键方案并存。
+
+在 Linux 上安装 C++ 编译器和 librime 开发包后，可运行 `bash others/test/frost_14key_smoke.sh` 检查十四键全拼和两种双拼。
 
 ### 九宫格笔画
 

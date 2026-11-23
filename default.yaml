@@ -16,6 +16,8 @@ schema_list:
   - schema: rime_frost_double_pinyin_flypy    # 小鹤双拼
   - schema: rime_frost_t9                     # 仓·九键拼音
   - schema: rime_frost_14key                  # 白霜十四键全拼
+  - schema: rime_frost_double_pinyin_14key    # 自然码双拼十四键
+  - schema: rime_frost_double_pinyin_flypy_14key # 小鹤双拼十四键
   - schema: rime_frost_stroke_t9             # 九宫格笔画
   # - schema: rime_frost_double_pinyin_abc      # 智能 ABC 双拼
   # - schema: rime_frost_double_pinyin_ziguang  # 紫光双拼

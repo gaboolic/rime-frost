@@ -1,0 +1,34 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: rime_frost_double_pinyin_14key
+  name: 白霜自然码双拼·十四键
+  version: "1.0.0"
+  description: 自然码双拼十四键（QW ER TY UI OP / AS DF GH JK L / ZX CV BN M）
+
+switches:
+  __include: rime_frost_14key.schema:/switches
+engine:
+  __include: rime_frost_14key.schema:/engine
+key_binder:
+  __include: rime_frost_14key.schema:/key_binder
+punctuator:
+  __include: rime_frost_14key.schema:/punctuator
+traditionalize:
+  __include: rime_frost_14key.schema:/traditionalize
+grammar:
+  __include: rime_frost_14key.schema:/grammar
+translator:
+  __include: rime_frost_14key.schema:/translator
+  prism: rime_frost_double_pinyin_14key
+
+speller:
+  alphabet: qetuoadgjlzcbm
+  initials: qetuoadgjlzcbm
+  delimiter: " '"
+  algebra:
+    __include: rime_frost_double_pinyin.schema:/speller/algebra
+    __append:
+      # 先生成双拼编码，再折叠到十四键。
+      - xlit/qwertyuiopasdfghjklzxcvbnm/qqeettuuooaaddggjjlzzccbbm/
