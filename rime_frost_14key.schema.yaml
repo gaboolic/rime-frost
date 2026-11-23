@@ -1,0 +1,73 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: rime_frost_14key
+  name: 白霜十四键
+  version: "1.0.0"
+  description: |
+    白霜十四键全拼（QW ER TY UI OP / AS DF GH JK L / ZX CV BN M）
+
+switches:
+  - name: ascii_mode
+    states: [ 中文, 英文 ]
+  - name: traditionalization
+    states: [ 简体, 繁体 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+
+# 仅用 Rime 原生拼音组件。不要继承全拼中的英文、反查（u 前缀）或其他字母触发器。
+engine:
+  processors:
+    - ascii_composer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - simplifier@traditionalize
+    - uniquifier
+
+key_binder:
+  import_preset: default
+
+punctuator:
+  full_shape:
+    __include: default:/punctuator/full_shape
+    "'/=": null    # 留给分词，不作为引号上屏
+  half_shape:
+    __include: default:/punctuator/half_shape
+    "'/=": null
+
+traditionalize:
+  __include: rime_frost.schema:/traditionalize
+
+grammar:
+  __include: rime_frost.schema:/grammar
+
+translator:
+  __include: rime_frost.schema:/translator
+  prism: rime_frost_14key   # 不覆盖同词库的全拼 prism
+  spelling_hints: 100
+  comment_format: []       # 保留候选的实际拼音，供前端显示或区分同码拼音
+  preedit_format: []       # 预编辑保留十四键编码，不假定一个键对应一个拼音字母
+
+speller:
+  alphabet: qetuoadgjlzcbm
+  initials: qetuoadgjlzcbm
+  delimiter: " '"         # 空格用于显示音节间隔；ASCII 单引号可手动分词
+  algebra:
+    __include: rime_frost.schema:/speller/algebra
+    __append:
+      # 全拼的简拼、兼容拼写等规则先运行，然后每个字母只映射到一个键码。
+      - xlit/qwertyuiopasdfghjklzxcvbnm/qqeettuuooaaddggjjlzzccbbm/
