@@ -104,7 +104,11 @@ def iter_texts(path, field):
                 if text:
                     yield text
         else:
-            yield f.read()
+            # 纯文本也按行流式读取, 避免大文件一次性读进内存
+            for line in f:
+                line = line.strip()
+                if line:
+                    yield line
 
 
 def normalize_corpus(paths, out_path, field, max_chars):
