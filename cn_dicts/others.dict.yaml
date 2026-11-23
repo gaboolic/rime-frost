@@ -4614,3 +4614,29 @@ sort: by_weight
 青训班	qing xun ban	0
 双曲拱	shuang qu gong	0
 窗户税	chuang hu shui	0
+
+# 2026-11-23 新增：知乎热榜热词（游泳与运动/科技与人物/地名/常用与网络用语，来自 zhihu_missing_2026-11-23 分词缺失词）
+# 游泳与运动
+池壁	chi bi	0
+仰漂	yang piao	0
+助浮	zhu fu	0
+泳手	yong shou	0
+浮物	fu wu	0
+乒丝	ping si	0
+竞体	jing ti	0
+# 科技与人物
+跳数	tiao shu	0
+防割	fang ge	0
+副绳	fu sheng	0
+验错	yan cuo	0
+博二	bo er	0
+庞众望	pang zhong wang	0
+王波	wang bo	0
+林小枫	lin xiao feng	0
+凝动	ning dong	0
+# 地名
+青岗岭	qing gang ling	0
+洒渔镇	sa yu zhen	0
+鸡翼角	ji yi jiao	0
+# 常用与网络用语
+真料	zhen liao	0
