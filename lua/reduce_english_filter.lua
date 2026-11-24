@@ -97,11 +97,13 @@ function M.func(input, env)
                 table.insert(pending_cands, cand)
             end
             if index >= M.idx + #pending_cands - 1 then
-                for _, cand in ipairs(pending_cands) do
-                    yield(cand)
-                end
                 break
             end
+        end
+        -- 输出被降低的英文候选。必须放在 input:iter() 循环之外：
+        -- 若中文候选不足就退出循环，原先写在循环内的输出会导致英文候选被全部吞掉。
+        for _, cand in ipairs(pending_cands) do
+            yield(cand)
         end
     end
 

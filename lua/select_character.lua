@@ -19,13 +19,14 @@ function select.func(key, env)
 
     if
         not key:release()
-        and (context:is_composing() or context:has_menu())
+        -- 仅要求存在候选菜单：URL 识别态下 is_composing() 也为 true，
+        -- 若不过滤会吞掉 IPv6 地址中的 '[' 并上屏单个字母。
+        and context:has_menu()
         and (env.first_key or env.last_key)
     then
-        local text = context.input
-        if context:get_selected_candidate() then
-            text = context:get_selected_candidate().text
-        end
+        local selected_candidate = context:get_selected_candidate()
+        if not selected_candidate then return 2 end
+        local text = selected_candidate.text
         if utf8.len(text) > 1 then
             if (key:repr() == env.first_key) then
                 engine:commit_text(text:sub(1, utf8.offset(text, 2) - 1))
