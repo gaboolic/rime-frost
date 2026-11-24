@@ -5013,3 +5013,64 @@ sort: by_weight
 漆水	qi shui	0
 瑰夏	gui xia	0
 哼鸣	heng ming	0
+
+# 2026-11-24 新增：MNBVC 知乎语料专业术语长尾（3 字词，共 52 词）
+# 科技与数码
+集烟腔	ji yan qiang	0
+叠瓦式	die wa shi	0
+全嵌式	quan qian shi	0
+双风叶	shuang feng ye	0
+缓震囊	huan zhen nang	0
+缓震胶	huan zhen jiao	0
+测控网	ce kong wang	0
+硅氧键	gui yang jian	0
+单翼机	dan yi ji	0
+半加器	ban jia qi	0
+# 医学与生物
+增敏剂	zeng min ji	0
+# 学术与教育
+长英质	chang ying zhi	0
+直翅类	zhi chi lei	0
+侵填体	qin tian ti	0
+异养型	yi yang xing	0
+带绦虫	dai tao chong	0
+金腰燕	jin yao yan	0
+喷发物	pen fa wu	0
+法罗语	fa luo yu	0
+壮侗语	zhuang dong yu	0
+令制国	ling zhi guo	0
+六花阵	liu hua zhen	0
+均输法	jun shu fa	0
+斡罗思	wo luo si	0
+兀鲁斯	wu lu si	0
+水达达	shui da da	0
+盐运司	yan yun si	0
+大司乐	da si yue	0
+路德教	lu de jiao	0
+提坦神	ti tan shen	0
+新阴流	xin yin liu	0
+全共斗	quan gong dou	0
+# 金融与保险
+差离值	cha li zhi	0
+值博率	zhi bo lv	0
+# 游戏与动漫
+绯想天	fei xiang tian	0
+拔刀斋	ba dao zhai	0
+猎命师	lie ming shi	0
+歼星炮	jian xing pao	0
+超曲速	chao qu su	0
+# 社会与机构
+公参民	gong can min	0
+渔业部	yu ye bu	0
+拆车匠	chai che jiang	0
+# 生活与网络
+残糖量	can tang liang	0
+低粘度	di nian du	0
+长尖领	chang jian ling	0
+信销票	xin xiao piao	0
+寄物柜	ji wu gui	0
+老球痞	lao qiu pi	0
+男唱见	nan chang jian	0
+铸剑坊	zhu jian fang	0
+减时线	jian shi xian	0
+增时线	zeng shi xian	0
