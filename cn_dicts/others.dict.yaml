@@ -4718,3 +4718,28 @@ sort: by_weight
 胖友	pang you	0
 麻溜地	ma liu de	0
 刊文	kan wen	0
+
+# 2026-11-24 新增：知乎热榜热词（时政与人物/科技与交通/金融/体育/影视/地名/社会与教育/常用与网络用语，来自 zhihu_missing_2026-11-24 分词缺失词）
+# 时政与人物
+麻某	ma mou	0
+闻会军	wen hui jun	0
+# 科技与交通
+供风	gong feng	0
+# 金融
+收高	shou gao	0
+# 体育
+罗威	luo wei	0
+万项	wan xiang	0
+克林根	ke lin gen	0
+通卡拉	tong ka la	0
+保三争二	bao san zheng er	0
+# 影视
+纳摩	na mo	0
+# 地名
+古墟	gu xu	0
+藏寨	zang zhai	0
+# 社会与教育
+托班	tuo ban	0
+# 常用与网络用语
+候着	hou zhe	0
+吉列豆蒸	ji lie dou zheng	0
