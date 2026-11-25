@@ -183,7 +183,99 @@ git branch -D dict-YYYY-MM-DD[-后缀]
 6. `git diff --stat` 只包含本次要改的文件。
 7. 抽查 10~20 个词的拼音，特别是多音字（铝 `lv`、熵 `shang`、氘 `dao`、氚 `chuan`、塞族 `sai zu`、西什库 `xi shi ku`）。
 
-## 8. 数据与注意事项
+## 8. 定时任务：知乎热词缺词补录
+
+固定流程，按顺序执行，不要跳步。
+
+### 8.1 同步 develop
+
+```bash
+git checkout develop
+git fetch origin master
+git merge origin/master --no-edit
+```
+
+`develop` 可能领先 `origin/develop`，**不要 push develop**。
+
+### 8.2 生成缺词表
+
+```bash
+python3 scripts/generate_missing_words.py --limit 30
+```
+
+脚本依次执行：下载当日知乎热榜 → jieba 分词 → 与 `cn_dicts_dazhu/custom_fenci_dict.txt` 比对 → 写出缺词表。
+
+产物：
+
+- `data/corpus/zhihu_hotlist_{YYYY-MM-DD}.txt`：热榜原文
+- `/tmp/zhihu_hotlist_fenci.txt`：分词结果
+- `data/corpus/zhihu_missing_{YYYY-MM-DD}.txt`：缺词表，**前两行是 `#` 注释，其余为 `词<TAB>频次`**
+
+说明：
+
+- 缺词表同时包含**需要加的热词**和**分词碎片**，必须逐条判断。
+- 热榜下载依赖 Playwright；已有热榜时可加 `--skip-hot` 复用。
+- 自定义分词词库不存在时，脚本会自动调用 `others/program/mnbvc/generate_custom_fenci_dict.py` 生成。
+- `data/` 已 gitignore，热榜和缺词表不用提交。
+
+### 8.3 逐条分析缺词表
+
+读取 `data/corpus/zhihu_missing_{YYYY-MM-DD}.txt`，**按行逐条**处理：
+
+1. 跳过 `#` 开头行。
+2. 丢弃分词碎片：单字、跨词组合、虚词拼接、明显不是词的榜单短语。
+3. 需要加的热词/术语/专名，按第 2 节分流：
+   - 独立热词、术语 → `cn_dicts/others.dict.yaml`
+   - 人名 → `cn_dicts_cell/name.dict.yaml`
+   - 地名/机构 → `cn_dicts_cell/place.dict.yaml`
+   - 跨词短语 → `cn_dicts_cell/composite.dict.yaml`
+   - 错写变体 → `others/错字词.txt`
+4. 写入格式：`词<TAB>拼音<TAB>0`，频率固定写 `0`。
+5. 入库前查重（`cn_dicts` 和 `cn_dicts_cell` 都要查），拼音音节数必须等于字数。
+
+### 8.4 提交到当日词库分支
+
+词库分支必须**基于最新 master**，且**只包含词库变更**：
+
+```bash
+git fetch origin master
+git checkout -b dict-{YYYY-MM-DD} origin/master
+
+# 只暂存本次改动的词库文件，禁止 git add -A
+git add cn_dicts/others.dict.yaml
+# 以及本次改到的 cn_dicts_cell/*.dict.yaml、others/错字词.txt
+
+git commit -m "dict(others): {YYYY-MM-DD} 新增知乎热词（N 词）"
+git push -u origin dict-{YYYY-MM-DD}
+```
+
+注意：
+
+- 工作区里 develop 的其他未提交改动（例如 `scripts/download_zhihu_hotlist.py`）不要带进词库分支。
+- 如果切分支会把非词库改动一起带过去，先 `git stash push <非词库文件>`，切分支后再恢复。
+- 分支基点是 `origin/master`，不能基于 `develop`；如果远端已有同名 `dict-{YYYY-MM-DD}`，改用 `dict-{YYYY-MM-DD}-b` 并说明。
+
+### 8.5 提 PR 并合并
+
+```bash
+gh pr create --repo gaboolic/rime-frost --base master \
+  --head dict-{YYYY-MM-DD} \
+  --title "dict(others): {YYYY-MM-DD} 新增知乎热词（N 词）" \
+  --body "..."
+
+gh pr merge <PR号> --repo gaboolic/rime-frost --merge
+```
+
+### 8.6 收尾
+
+```bash
+git checkout develop
+git merge origin/master --no-edit
+```
+
+如果 develop 工作区还保留着本次词库改动，先丢弃或 stash，避免与合并冲突；改动已经通过 PR 进入 master，不会丢失。
+
+## 9. 数据与注意事项
 
 - MNBVC 原始 `.jsonl.gz` 保留在 `data/corpus_mnbvc/zhihu/`，不要删除。
 - `data/`、`data/candidates/` 已 gitignore，候选表不用提交。
