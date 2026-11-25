@@ -5107,7 +5107,7 @@ sort: by_weight
 # 2026-11-25 补充热词
 高市	gao shi	0
 
-# 2026-11-25 新增：MNBVC 知乎语料四字词（223 词，3 个人名移至 name.dict.yaml）
+# 2026-11-25 新增：MNBVC 知乎语料四字词（219 词，3 个人名移至 name.dict.yaml，4 个地名移至 place.dict.yaml）
 # 科技与数码
 翼尖小翼	yi jian xiao yi	0
 碳板跑鞋	tan ban pao xie	0
@@ -5186,7 +5186,6 @@ sort: by_weight
 复旦经院	fu dan jing yuan	0
 协和北医	xie he bei yi	0
 首都经贸	shou du jing mao	0
-宾州州立	bin zhou zhou li	0
 剑桥学派	jian qiao xue pai	0
 官话方言	guan hua fang yan	0
 南通方言	nan tong fang yan	0
@@ -5236,11 +5235,8 @@ sort: by_weight
 启灵元神	qi ling yuan shen	0
 奈拉齐姆	nai la qi mu	0
 伊甸碎片	yi dian sui pian	0
-洛斯里克	luo si li ke	0
-马卡斯城	ma ka si cheng	0
 风暴斗篷	feng bao dou peng	0
 精灵三戒	jing ling san jie	0
-迷雾山脉	mi wu shan mai	0
 辛达精灵	xin da jing ling	0
 护送魔戒	hu song mo jie	0
 御林铁卫	yu lin tie wei	0
