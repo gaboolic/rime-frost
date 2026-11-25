@@ -5107,7 +5107,7 @@ sort: by_weight
 # 2026-11-25 补充热词
 高市	gao shi	0
 
-# 2026-11-25 新增：MNBVC 知乎语料四字词（226 词）
+# 2026-11-25 新增：MNBVC 知乎语料四字词（223 词，3 个人名移至 name.dict.yaml）
 # 科技与数码
 翼尖小翼	yi jian xiao yi	0
 碳板跑鞋	tan ban pao xie	0
@@ -5233,7 +5233,6 @@ sort: by_weight
 怨恨之鬼	yuan hen zhi gui	0
 亚顿之矛	ya dun zhi mao	0
 虚空大君	xu kong da jun	0
-圣灵谱尼	sheng ling pu ni	0
 启灵元神	qi ling yuan shen	0
 奈拉齐姆	nai la qi mu	0
 伊甸碎片	yi dian sui pian	0
@@ -5251,12 +5250,10 @@ sort: by_weight
 超兽战队	chao shou zhan dui	0
 恰图兰卡	qia tu lan ka	0
 火红叶绿	huo hong ye lv	0
-樱木流川	ying mu liu chuan	0
 湘北五虎	xiang bei wu hu	0
 双手大剑	shuang shou da jian	0
 希卡之石	xi ka zhi shi	0
 泰坦之灵	tai tan zhi ling	0
-瀚宇星皇	han yu xing huang	0
 荒野女巫	huang ye nv wu	0
 荒地魔女	huang di mo nv	0
 免罪体质	mian zui ti zhi	0
